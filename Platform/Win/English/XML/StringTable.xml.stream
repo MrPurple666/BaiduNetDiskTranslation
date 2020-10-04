@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- baseid = 1024-->
 <!-- ZloiSupport translation, based translation John Wayne -->
-<!-- Update 04-September-2020 -->
+<!-- Update 04-OKTOBER-2020 -->
 <StringTable language="2052">
   <String id="IDS_STANDARDWIN_CLOSE" value="Close" />
   <String id="IDS_STANDARDWIN_MAX" value="Maximise" />
@@ -191,9 +191,9 @@
   <String id="IDS_SHARE_BTN_CANCEL" value="Cancel" />
   <String id="IDS_SHARE_PUBLIC_LINK_EXPIRE_LIMIT" value="Valid:" />
   <String id="IDS_SHARE_PUBLIC_LINK_EXPIRE_NONE" value="Unlimited" />
-  <String id="IDS_SHARE_PUBLIC_LINK_EXPIRE_7DAYS" value="7天" />
-  <String id="IDS_SHARE_PUBLIC_LINK_EXPIRE_1DAYS" value="1天" />
-  <String id="IDS_SHARE_PUBLIC_LINK_DAYS_EXPIRE" value="Link%dDays expired" />
+  <String id="IDS_SHARE_PUBLIC_LINK_EXPIRE_7DAYS" value="7 day" />
+  <String id="IDS_SHARE_PUBLIC_LINK_EXPIRE_1DAYS" value="1 day" />
+  <String id="IDS_SHARE_PUBLIC_LINK_DAYS_EXPIRE" value="Link %d Days expired" />
   
   <String id="IDS_SHARE_LINK_TYPE_SYSTEM_GENERATED_PWD" value="The system randomly generates an extraction code" />
   <String id="IDS_SHARE_LINK_TYPE_SYSTEM_GENERATED_PWD_DECS" value="Generate a new extraction code randomly every time" />
@@ -291,7 +291,7 @@
   <String id="IDS_TIP_DOWNLOADCOMPLETE" value="Completed" />
   <String id="IDS_TIP_FILE_CANNOT_DOWNLOAD" value="File has been deleted and can not re-download" />
   <String id="IDS_TIP_ADDING_NEW_TASK" value="Adding new task" />
-  <String id="IDS_TIP_MEMBER_PRIVILEGE" value="Pro member, you can upload large files ~Maximum 20GB" />
+  <String id="IDS_TIP_MEMBER_PRIVILEGE" value="Distinguished Super VIP, you can upload large files~" />
   <String id="IDS_TIP_P2P_DOWNLOAD_TASK" value="P2P is being used to accelerate downloads. Improved download speed will also enhance share speed for other users" />
   <String id="IDS_TIP_NO_LOW_SPEED_TIP_AGAIN" value="Do not prompt again" />
   <String id="IDS_TIP_CANCEL_UPLOAD" value="Delete upload" />
@@ -1302,5 +1302,10 @@
   <String id="IDS_REMOTE_DOWNLOAD_NOTIFY_START_VIEW_DETAIL" value="View progress>" />
   <String id="IDS_REMOTE_DOWNLOAD_NOTIFY_SUCCEED_VIEW_DETAIL" value="View now>" />
 
+  <String id="IDS_OFFLINEDOWNLOADTASK_CONTENT_VIOLATION" value="The offline file contains the content of the illegal file and cannot be downloaded" />
+
+  <!--membership level-->
+  <String id="IDS_SHARE_LINK_COPY_VIP_LEVEL_TIP" value="--From Baidu Netdisk Super MemberV%dShare of" />
+  <String id="IDS_TIP_SVIP_MEMBER_UPLOAD_PRIVILEGE" value="HonorableV%dSuper member, you can upload large files~（Maximum %s）" />
 
 </StringTable>
