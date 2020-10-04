@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- baseid = 1024-->
+  <!-- baseid = 1024-->
+  <!-- 7.0.5.9 -->
 <StringTable language="2052">
   <String id="IDS_STANDARDWIN_CLOSE" value="Закрыть" />
   <String id="IDS_STANDARDWIN_MAX" value="Развернуть" />
@@ -290,7 +291,7 @@
   <String id="IDS_TIP_DOWNLOADCOMPLETE" value="Завершенный" />
   <String id="IDS_TIP_FILE_CANNOT_DOWNLOAD" value="Файл был удален и не может быть повторно загружен" />
   <String id="IDS_TIP_ADDING_NEW_TASK" value="Добавление нового задания" />
-  <String id="IDS_TIP_MEMBER_PRIVILEGE" value="Про участники, могут загружать большие файлы максимум 20 ГБ" />
+  <String id="IDS_TIP_MEMBER_PRIVILEGE" value="Уважаемый Super VIP, вы можете загружать большие файлы~" />
   <String id="IDS_TIP_P2P_DOWNLOAD_TASK" value="P2P используется для ускорения загрузки. Улучшенная скорость загрузки также увеличит скорость обмена для других пользователей." />
   <String id="IDS_TIP_NO_LOW_SPEED_TIP_AGAIN" value="Не нпоминать снова" />
   <String id="IDS_TIP_CANCEL_UPLOAD" value="Удалить загрузку" />
@@ -1300,5 +1301,10 @@
   <String id="IDS_REMOTE_DOWNLOAD_NOTIFY_START_VIEW_DETAIL" value="Проверить прогресс>" />
   <String id="IDS_REMOTE_DOWNLOAD_NOTIFY_SUCCEED_VIEW_DETAIL" value="Попробовать сейчас>" />
 
+  <String id="IDS_OFFLINEDOWNLOADTASK_CONTENT_VIOLATION" value="Файл содержит запрещенный контент и не может быть загружен" />
+
+  <!--Уровень членства-->
+  <String id="IDS_SHARE_LINK_COPY_VIP_LEVEL_TIP" value="--От суперпользователя Baidu Net Disk V%d Поделиться" />
+  <String id="IDS_TIP_SVIP_MEMBER_UPLOAD_PRIVILEGE" value="Уважаемый Super VIP V%d, вы можете загружать большие файлы ~（Максимум %s）" />
 
 </StringTable>

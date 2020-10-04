@@ -365,6 +365,7 @@
 <resid type="IMGX" name="IDP_IMG_FILETYPE_MIDDLE_PAGES" file="image\FileType\Middle\PagesType.png"/>
 <resid type="IMGX" name="IDP_IMG_FILETYPE_MIDDLE_EPUB" file="image\FileType\Middle\EpubType.png"/>
 <resid type="IMGX" name="IDP_IMG_FILETYPE_MIDDLE_GENERAL" file="image\FileType\Middle\GeneralType.png"/>
+<resid type="IMGX" name="IDP_IMG_FILETYPE_MIDDLE_PAND" file="image\FileType\Middle\PandType.png"/>
 
 <resid type="IMGX" name="IDP_IMG_FILETYPE_SMALL_VIDEO" file="image\FileType\Small\VideoType.png" />
 <resid type="IMGX" name="IDP_IMG_FILETYPE_SMALL_AUDIO" file="image\FileType\Small\MusicType.png" />
@@ -390,6 +391,7 @@
 <resid type="IMGX" name="IDP_IMG_FILETYPE_SMALL_PAGES" file="image\FileType\Small\PagesType.png"/>
 <resid type="IMGX" name="IDP_IMG_FILETYPE_SMALL_EPUB" file="image\FileType\Small\EpubType.png"/>
 <resid type="IMGX" name="IDP_IMG_FILETYPE_SMALL_GENERAL" file="image\FileType\Small\GeneralType.png"/>
+<resid type="IMGX" name="IDP_IMG_FILETYPE_SMALL_PAND" file="image\FileType\Small\PandType.png"/>
 
 <resid type="IMGX" name="IDP_IMG_FILETYPE_BIG_VIDEO" file="image\FileType\Big\VideoType.png" />
 <resid type="IMGX" name="IDP_IMG_FILETYPE_BIG_AUDIO" file="image\FileType\Big\MusicType.png" />
@@ -414,6 +416,8 @@
 <resid type="IMGX" name="IDP_IMG_FILETYPE_BIG_PAGES" file="image\FileType\Big\PagesType.png" />
 <resid type="IMGX" name="IDP_IMG_FILETYPE_BIG_EPUB" file="image\FileType\Big\EpubType.png"/>
 <resid type="IMGX" name="IDP_IMG_FILETYPE_BIG_GENERAL" file="image\FileType\Big\GeneralType.png"/>
+<resid type="IMGX" name="IDP_IMG_FILETYPE_BIG_PAND" file="image\FileType\Big\PandType.png"/>
+
 
 <!--文件类型资源-->
 <resid type="IMGX" name="IDP_FILECATEGORY_ALL" file="image\FileCategory\all.png"/>
@@ -702,6 +706,7 @@
 <resid type="IMGX" name="IDP_MAINPANEL_TOOLBAR_DOWNLOAD" file="image\MainPanel\NetdiskPanel\Toolbar\download.png"/>
 <resid type="IMGX" name="IDP_MAINPANEL_TOOLBAR_CREATESHARE" file="image\MainPanel\NetdiskPanel\Toolbar\createshare.png"/>
 <resid type="IMGX" name="IDP_MAINPANEL_TOOLBAR_DELETE" file="image\MainPanel\NetdiskPanel\Toolbar\delete.png"/>
+<resid type="IMGX" name="IDP_MAINPANEL_TOOLBAR_CREATEONLINEDOC" file="image\MainPanel\NetdiskPanel\Toolbar\create_online_doc.png"/>
 <resid type="IMGX" name="IDP_MAINPANEL_TOOLBAR_CREATEDIR" file="image\MainPanel\NetdiskPanel\Toolbar\createdir.png"/>
 <resid type="IMGX" name="IDP_MAINPANEL_TOOLBAR_PDFTOWORD" file="image\MainPanel\NetdiskPanel\Toolbar\pdftoword.png"/>
 <resid type="IMGX" name="IDP_MAINPANEL_TOOLBAR_MOBILEVIEW" file="image\MainPanel\NetdiskPanel\Toolbar\mobileview.png"/>
@@ -921,4 +926,39 @@
 <resid type="IMGX" name="IDP_LOGINDEVICESTATUS_DLG_HEAD_FRAME" file="image\LoginDeviceStatusDlg\head_frame.png"/>
 <resid type="IMGX" name="IDP_LOGINDEVICESTATUS_DLG_ARROW_BTN" file="image\LoginDeviceStatusDlg\arrow_btn.png"/>
 <resid type="IMGX" name="IDP_LOGINDEVICESTATUS_DLG_RETURN_BTN" file="image\LoginDeviceStatusDlg\return_btn.png"/>
+<!--会员等级-->
+<resid type="IMGX" name="IDP_MEMBER_SMALL_ICON_SVIP_LEVEL_1"  file="image\MemberLevelIcon\small_icon_svip1.png"/>
+<resid type="IMGX" name="IDP_MEMBER_SMALL_ICON_SVIP_LEVEL_2"  file="image\MemberLevelIcon\small_icon_svip2.png"/>
+<resid type="IMGX" name="IDP_MEMBER_SMALL_ICON_SVIP_LEVEL_3"  file="image\MemberLevelIcon\small_icon_svip3.png"/>
+<resid type="IMGX" name="IDP_MEMBER_SMALL_ICON_SVIP_LEVEL_4"  file="image\MemberLevelIcon\small_icon_svip4.png"/>
+<resid type="IMGX" name="IDP_MEMBER_SMALL_ICON_SVIP_LEVEL_5"  file="image\MemberLevelIcon\small_icon_svip5.png"/>
+<resid type="IMGX" name="IDP_MEMBER_SMALL_ICON_SVIP_LEVEL_6"  file="image\MemberLevelIcon\small_icon_svip6.png"/>
+<resid type="IMGX" name="IDP_MEMBER_SMALL_ICON_SVIP_LEVEL_7"  file="image\MemberLevelIcon\small_icon_svip7.png"/>
+<resid type="IMGX" name="IDP_MEMBER_SMALL_ICON_SVIP_LEVEL_8"  file="image\MemberLevelIcon\small_icon_svip8.png"/>
 
+<resid type="IMGX" name="IDP_MEMBER_SMALL_ICON_SVIP_LEVEL_1_GRAY" file="image\MemberLevelIcon\small_icon_svip1_gray.png"/>
+<resid type="IMGX" name="IDP_MEMBER_SMALL_ICON_SVIP_LEVEL_2_GRAY" file="image\MemberLevelIcon\small_icon_svip2_gray.png"/>
+<resid type="IMGX" name="IDP_MEMBER_SMALL_ICON_SVIP_LEVEL_3_GRAY" file="image\MemberLevelIcon\small_icon_svip3_gray.png"/>
+<resid type="IMGX" name="IDP_MEMBER_SMALL_ICON_SVIP_LEVEL_4_GRAY" file="image\MemberLevelIcon\small_icon_svip4_gray.png"/>
+<resid type="IMGX" name="IDP_MEMBER_SMALL_ICON_SVIP_LEVEL_5_GRAY" file="image\MemberLevelIcon\small_icon_svip5_gray.png"/>
+<resid type="IMGX" name="IDP_MEMBER_SMALL_ICON_SVIP_LEVEL_6_GRAY" file="image\MemberLevelIcon\small_icon_svip6_gray.png"/>
+<resid type="IMGX" name="IDP_MEMBER_SMALL_ICON_SVIP_LEVEL_7_GRAY" file="image\MemberLevelIcon\small_icon_svip7_gray.png"/>
+<resid type="IMGX" name="IDP_MEMBER_SMALL_ICON_SVIP_LEVEL_8_GRAY" file="image\MemberLevelIcon\small_icon_svip8_gray.png"/>
+
+<resid type="IMGX" name="IDP_MEMBER_SMALL_ICON_VIP_LEVEL_1"   file="image\MemberLevelIcon\small_icon_vip1.png"/>
+<resid type="IMGX" name="IDP_MEMBER_SMALL_ICON_VIP_LEVEL_2"   file="image\MemberLevelIcon\small_icon_vip2.png"/>
+<resid type="IMGX" name="IDP_MEMBER_SMALL_ICON_VIP_LEVEL_3"   file="image\MemberLevelIcon\small_icon_vip3.png"/>
+<resid type="IMGX" name="IDP_MEMBER_SMALL_ICON_VIP_LEVEL_4"   file="image\MemberLevelIcon\small_icon_vip4.png"/>
+<resid type="IMGX" name="IDP_MEMBER_SMALL_ICON_VIP_LEVEL_5"   file="image\MemberLevelIcon\small_icon_vip5.png"/>
+<resid type="IMGX" name="IDP_MEMBER_SMALL_ICON_VIP_LEVEL_6"   file="image\MemberLevelIcon\small_icon_vip6.png"/>
+<resid type="IMGX" name="IDP_MEMBER_SMALL_ICON_VIP_LEVEL_7"   file="image\MemberLevelIcon\small_icon_vip7.png"/>
+<resid type="IMGX" name="IDP_MEMBER_SMALL_ICON_VIP_LEVEL_8"   file="image\MemberLevelIcon\small_icon_vip8.png"/>
+
+<resid type="IMGX" name="IDP_MEMBER_SMALL_ICON_VIP_LEVEL_1_GRAY" file="image\MemberLevelIcon\small_icon_vip1_gray.png"/>
+<resid type="IMGX" name="IDP_MEMBER_SMALL_ICON_VIP_LEVEL_2_GRAY" file="image\MemberLevelIcon\small_icon_vip2_gray.png"/>
+<resid type="IMGX" name="IDP_MEMBER_SMALL_ICON_VIP_LEVEL_3_GRAY" file="image\MemberLevelIcon\small_icon_vip3_gray.png"/>
+<resid type="IMGX" name="IDP_MEMBER_SMALL_ICON_VIP_LEVEL_4_GRAY" file="image\MemberLevelIcon\small_icon_vip4_gray.png"/>
+<resid type="IMGX" name="IDP_MEMBER_SMALL_ICON_VIP_LEVEL_5_GRAY" file="image\MemberLevelIcon\small_icon_vip5_gray.png"/>
+<resid type="IMGX" name="IDP_MEMBER_SMALL_ICON_VIP_LEVEL_6_GRAY" file="image\MemberLevelIcon\small_icon_vip6_gray.png"/>
+<resid type="IMGX" name="IDP_MEMBER_SMALL_ICON_VIP_LEVEL_7_GRAY" file="image\MemberLevelIcon\small_icon_vip7_gray.png"/>
+<resid type="IMGX" name="IDP_MEMBER_SMALL_ICON_VIP_LEVEL_8_GRAY" file="image\MemberLevelIcon\small_icon_vip8_gray.png"/>

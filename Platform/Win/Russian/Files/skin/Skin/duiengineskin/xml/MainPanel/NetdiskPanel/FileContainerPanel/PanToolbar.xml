@@ -5,6 +5,7 @@
   <imgbtn name="btn_createshare" class="toolbarbtn" icoskin="mainpanel_toolbar_createshare" icoxoffset="10" icoyoffset="5" txtxoffset="18" pos="[5,4,@105,@32" cursor="arrow">%str2152%</imgbtn>
   <imgbtn name="btn_delete" class="toolbarbtn" icoskin="mainpanel_toolbar_delete" icoxoffset="10" icoyoffset="5" txtxoffset="18" pos="[5,4,@85,@32" cursor="arrow">%str2153%</imgbtn>
   <imgbtn name="btn_createdir" class="toolbarbtn" icoskin="mainpanel_toolbar_createdir" icoxoffset="10" icoyoffset="5" txtxoffset="18" pos="[5,4,@105,@32" cursor="arrow">%str2154%</imgbtn>
+  <imgbtn name="btn_createonlinedoc" class="toolbarbtn" icoskin="mainpanel_createonlinedoc" icoxoffset="2" icoyoffset="5" txtxoffset="16" pos="245,4,@100,@32" cursor="arrow" show="0">%str2187%</imgbtn>
   <imgbtn name="btn_pdftoword" class="toolbarbtn" icoskin="mainpanel_toolbar_pdftoword" icoxoffset="10" icoyoffset="5" txtxoffset="18" pos="325,4,@105,@32" cursor="arrow" show="0">%str2181%</imgbtn>
   <imgbtn name="btn_mobileview" class="toolbarbtn" icoskin="mainpanel_toolbar_mobileview" icoxoffset="10" icoyoffset="5" txtxoffset="18" pos="500,4,@150,@32" cursor="arrow" show="0">%str2186%</imgbtn>
   <dropbutton name="btn_offlinedownload" class="toolbarbtn" icoskin="mainpanel_toolbar_offlinedownload" drop-skin="mainpanel_toolbar_drop_arrow" icoxoffset="10" icoyoffset="5" txtxoffset="8" pos="500,4,@150,@32" cursor="arrow">%str2155%</dropbutton>
