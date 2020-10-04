@@ -6,7 +6,7 @@
 	    <dlg name="dlg_top" pos="15,0,-15,@92">
 		  <dlg name="dlg_user" pos="0,22,-0,@20">
 			<link name="link_username" crtext="333333" font="0200:微软雅黑" crhover="696969" hoverfont="0200:微软雅黑" align="left" cursor="hand" dotted="1"/>
-		    <imgbtn name="btn_crown" pos="[5,|-9,@18,@18" skin="titlepanel_translucent" icoskin="titlepanel_vipclose" cursor="hand"/>
+		    <imgbtn name="btn_crown" pos="[5,|-9,@38,@18" skin="titlepanel_translucent" icoskin="titlepanel_vipclose" cursor="hand"/>
 		  </dlg>
 		  <progress name="quota_progress" pos="0,[12,-0,@5" bgskin="usercard_progress_gray" posskin="usercard_progress_green" min="0" max="100" value="0"/>
 		  <text name="txt_quota" pos="0,[8,-0,@16" crtext="333333" align="left">0G/0G</text>

@@ -32,14 +32,14 @@
   <img name="mall_img_new" pos="605,20,@29,@13" skin="titlepanel_newfunction" show="0"/>
   
   <!--用户头像-->
-  <img name="img_userhead" pos="-350,|-15,@30,@30" skin="titlepanel_default_head">
+  <img name="img_userhead" pos="-370,|-15,@30,@30" skin="titlepanel_default_head">
 	<img name="img_userhead_frame" pos="0,0,-0,-0" skin="titlepanel_headframe"/>
   </img>
 
   <!--用户昵称-->
-  <text name="txt_nickname" pos="-320,|-8" crtext="333333" font="0000:微软雅黑" align="left" cursor="arrow" maxwidth="200" dotted="1"></text>
+  <text name="txt_nickname" pos="-340,|-8" crtext="333333" font="0000:微软雅黑" align="left" cursor="arrow" maxwidth="200" dotted="1"></text>
   <!--会员身份标识-->
-  <imgbtn name="btn_crown" pos="-265,|-9,@18,@18" skin="titlepanel_translucent" icoskin="titlepanel_vipclose" cursor="hand"/>
+  <imgbtn name="btn_crown" pos="-285,|-9,@38,@18" skin="titlepanel_translucent" icoskin="titlepanel_vipclose" cursor="hand"/>
   <!--会员身份到期常驻提示面板-->
   <dlg name="dlg_resident_expire" show="0">
 	 <link name="txt_resident_expire" class="cls_titlepanel_resident_txt"></link>

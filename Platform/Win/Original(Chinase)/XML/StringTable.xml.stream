@@ -200,6 +200,7 @@
   <String id="IDS_SHARE_LINK_TYPE_USER_DEFINED_PWD_DECS" value="支持4位字母或数字" />
   <String id="IDS_SHARE_LINK_TYPE_PRIVATE_WITH_NO_PWD_WARNNING" value="无需提取码即可查看，公司文件和私密文件建议勿选此项" />
   <String id="IDS_SHARE_LINK_TYPE_USER_DEFINED_PWD_PLEASE_INPUT" value="仅可输入4位字母或数字" />
+  
   <!-- 批量创建链接-->
   <String id="IDS_SHARE_LINK_ACCESS_NUMBER" value="访问人数:" />
   <String id="IDS_SHARE_LINK_ACCESS_NO_LIMIT" value="不限" />
@@ -287,7 +288,7 @@
   <String id="IDS_TIP_DOWNLOADCOMPLETE" value="下载完成" />
   <String id="IDS_TIP_FILE_CANNOT_DOWNLOAD" value="文件已被删除，无法重新下载" />
   <String id="IDS_TIP_ADDING_NEW_TASK" value="正在加入传输列表" />
-  <String id="IDS_TIP_MEMBER_PRIVILEGE" value="尊贵的超级会员，您可以上传超大文件哦~（最大20G）" />
+  <String id="IDS_TIP_MEMBER_PRIVILEGE" value="尊贵的超级会员，您可以上传超大文件哦~" />
   <String id="IDS_TIP_P2P_DOWNLOAD_TASK" value="正在使用P2P加速下载，提升下载速度的同时也会将已下载的分享文件作为热点贡献给其他用户，提升整个网络的速度" />
   <String id="IDS_TIP_NO_LOW_SPEED_TIP_AGAIN" value="不再提示" />
   <String id="IDS_TIP_CANCEL_UPLOAD" value="取消上传" />
@@ -1296,5 +1297,11 @@
   <String id="IDS_REMOTE_DOWNLOAD_STATIC_SUCCESS_OTHER_INTRODUCTION" value="已成功收到其他端传送的文件" />
   <String id="IDS_REMOTE_DOWNLOAD_NOTIFY_START_VIEW_DETAIL" value="查看进度>" />
   <String id="IDS_REMOTE_DOWNLOAD_NOTIFY_SUCCEED_VIEW_DETAIL" value="立即查看>" />
+
+  <String id="IDS_OFFLINEDOWNLOADTASK_CONTENT_VIOLATION" value="离线文件含有违规文件内容无法下载" />
+
+  <!--会员等级-->
+  <String id="IDS_SHARE_LINK_COPY_VIP_LEVEL_TIP" value="--来自百度网盘超级会员V%d的分享" />
+  <String id="IDS_TIP_SVIP_MEMBER_UPLOAD_PRIVILEGE" value="尊贵的V%d超级会员，您可以上传超大文件哦~（最大%s）" />
 
 </StringTable>

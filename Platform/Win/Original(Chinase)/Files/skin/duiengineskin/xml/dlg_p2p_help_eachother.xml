@@ -25,6 +25,7 @@
       <dlg pos="0,-90,-0,-0">	 
         <check name="have_read_protocol_checkbox" pos="142,-74" skin="btncheckbox" class="vcentertext">%str3421%</check>
         <link name="help_eachother_protocol_link" pos="[2,-74,-0,@16" align="left" class="cls_btn_weblink" dotted="1">%str3422%</link>
+        <link name="none_open_guide_link" pos="431,-35" align="left" class="cls_p2p_help_eachother_link" show="0">%str3433%</link>
         <imgbtn name="open_help_eachother_btn" pos="146,-48,@214,@30" align="center"  cursor="arrow" crtext="FFFFFF" font="0000:微软雅黑" skin="p2p_help_eachother_green_btn">%str3423%</imgbtn>
      </dlg>
     </dlg>
