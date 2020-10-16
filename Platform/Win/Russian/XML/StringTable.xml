@@ -503,7 +503,7 @@
   <String id="IDS_STATIC_SYSTEMMSG" value="Системные сообщения" />
   <String id="IDS_STATIC_FRIENDMSG" value="Сообщения друзей" />
   <String id="IDS_STATIC_C2CMSG" value="Пользовательские сообщения" />
-  <String id="IDS_STATIC_PORTABLE_DEV_BACK_MSG" value="После подключения устройства, начните резервное копирование" />
+  <String id="IDS_STATIC_PORTABLE_DEV_BACK_MSG" value="Подключения устройства" />
 
   <String id="IDS_STATIC_UPDATE_NOW" value="Обновить" />
   <String id="IDS_STATIC_SETTING_COCURRENTTASK" value="Параллельные задачи:" />
@@ -721,7 +721,7 @@
   <String id="IDS_COMMON_INSTALL" value="Устанавливать" />
   <String id="IDS_COMMON_CANCEL" value="Отмена" />
   <String id="IDS_COMMON_AUTOUPDATE" value="Авто обновления" />
-  <String id="IDS_COMMON_DETAIL" value="Подробнее" />>
+  <String id="IDS_COMMON_DETAIL" value="Подробнее" />
 
   <String id="IDS_TRAYICON_TIP_LOGINING" value="Происходит вход в систему" />
   <String id="IDS_TRAYICON_TIP_UNLOGIN" value="Выйти из" />
@@ -729,8 +729,8 @@
   <String id="IDS_TRAYICON_TIP_LOCKED" value="Baidu NetDisk заблокирован" />
   <String id="IDS_TRAYICON_TIP_OFFLINELOCKED" value="Baidu NetDisk заблокирован" />
   <String id="IDS_TRAYICON_TIP_OFFLINE" value="Ошибка подключения к сети" />
-  <String id="IDS_TRAYICON_TIP_UPLOADING" value="%.1f%% Uploading" />
-  <String id="IDS_TRAYICON_TIP_DOWNLOADING" value="%.1f%% Downloading" />
+  <String id="IDS_TRAYICON_TIP_UPLOADING" value="Выгружено: %.1f%% " />
+  <String id="IDS_TRAYICON_TIP_DOWNLOADING" value="Загружено : %.1f%% " />
   <String id="IDS_TRAYICON_TIP_TRANSERROR" value="Ошибка передачи" />
 
   <String id="IDS_NO_PROMPT" value="Подсказки" />
