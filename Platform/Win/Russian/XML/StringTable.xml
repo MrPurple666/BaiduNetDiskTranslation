@@ -282,18 +282,18 @@
   <String id="IDS_TRANPANEL_TIP_DELETEALLUPTASK" value="Удалить все задачи загрузки?" />
   <String id="IDS_TRANPANEL_TIP_DELETEALLDOWNTASK" value="Удалить все задачи загрузки?" />
   <String id="IDS_TRANPANEL_TIP_DELETEALLHISTASK" value="Удалить всю историю загрузок и вызагрузок?" />
-  <String id="IDS_TRANPANEL_TIP_SVIPGUIDE" value="Откройте Супер Членство и наслаждайтесь Extreme Download" />
+  <String id="IDS_TRANPANEL_TIP_SVIPGUIDE" value="Подключите VIP доступ и скачивайте на максимальной скорости" />
   <String id="IDS_TIP_FILE_NOTEXIST" value="Файл не существует !" />
   <String id="IDS_TIP_FILE_CANNOTOPEN" value="Не поддерживает открытие этого типа файла!" />
   <String id="IDS_TIP_FOLDER_NOTEXIST" value="Папка не существует!" />
   <String id="IDS_TIP_RAPIDUPLOAD" value="Быстрая загрузка" />
-  <String id="IDS_TIP_UPLOADCOMPLETE" value="полный" />
-  <String id="IDS_TIP_DOWNLOADCOMPLETE" value="Завершенный" />
+  <String id="IDS_TIP_UPLOADCOMPLETE" value="Выгрузка завершена!" />
+  <String id="IDS_TIP_DOWNLOADCOMPLETE" value="Загрузка завершена!" />
   <String id="IDS_TIP_FILE_CANNOT_DOWNLOAD" value="Файл был удален и не может быть повторно загружен" />
   <String id="IDS_TIP_ADDING_NEW_TASK" value="Добавление нового задания" />
   <String id="IDS_TIP_MEMBER_PRIVILEGE" value="Уважаемый Super VIP, вы можете загружать большие файлы~" />
   <String id="IDS_TIP_P2P_DOWNLOAD_TASK" value="P2P используется для ускорения загрузки. Улучшенная скорость загрузки также увеличит скорость обмена для других пользователей." />
-  <String id="IDS_TIP_NO_LOW_SPEED_TIP_AGAIN" value="Не нпоминать снова" />
+  <String id="IDS_TIP_NO_LOW_SPEED_TIP_AGAIN" value="Не напоминать снова" />
   <String id="IDS_TIP_CANCEL_UPLOAD" value="Удалить загрузку" />
   <String id="IDS_TIP_CANCEL_DOWNLOAD" value="Удалить файл" />
   <String id="IDS_TIP_EXPAND_AUTOBACKUPITEM" value="Развернуть список автоматического резерв. копир" />
@@ -856,8 +856,8 @@
   <String id="IDS_SPEEDUPTICKET_BUY_SUCCESS_TIP" value="Успешно куплено！" />
   <String id="IDS_SPEEDUPTICKET_EXPIRED_TIP" value="Здравствуйте, срок действия этого продукта истек" />
   <String id="IDS_SPEEDUPTICKET_EXPIRE_MSGBOX_TITLE_TIP" value="Срок быстрой загрузки купона истек" />
-  <String id="IDS_SPEEDUPTICKET_EXPIRE_MSGBOX_CONTENT_TIP" value="Откройте Супер VIP, чтобы качать быстро и без каких-либо забот" />
-  <String id="IDS_SPEEDUPTICKET_EXPIRE_MSGBOX_BTN_TIP" value="Откройте Супер VIP" />
+  <String id="IDS_SPEEDUPTICKET_EXPIRE_MSGBOX_CONTENT_TIP" value="Откройте Super VIP, чтобы качать быстро и без каких-либо забот" />
+  <String id="IDS_SPEEDUPTICKET_EXPIRE_MSGBOX_BTN_TIP" value="Откройте Super VIP" />
   <!--Советы по ускорению членства-->
   <String id="IDS_VIPSPEEDUP_EXPERIENCE_TIP" value="Быстрая пробная привилегия," />
   <String id="IDS_VIPSPEEDUP_DOWN_EXPERIENCING_TIP" value="Скоростная привилегия проверяется," />
@@ -1304,7 +1304,7 @@
   <String id="IDS_OFFLINEDOWNLOADTASK_CONTENT_VIOLATION" value="Файл содержит запрещенный контент и не может быть загружен" />
 
   <!--Уровень членства-->
-  <String id="IDS_SHARE_LINK_COPY_VIP_LEVEL_TIP" value="--От суперпользователя Baidu Net Disk V%d Поделиться" />
+  <String id="IDS_SHARE_LINK_COPY_VIP_LEVEL_TIP" value="--От Super VIP Baidu Net Disk V%d Поделиться" />
   <String id="IDS_TIP_SVIP_MEMBER_UPLOAD_PRIVILEGE" value="Уважаемый Super VIP V%d, вы можете загружать большие файлы ~（Максимум %s）" />
 
 </StringTable>
