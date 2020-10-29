@@ -8,6 +8,7 @@
   <imgbtn name="btn_createonlinedoc" class="toolbarbtn" icoskin="mainpanel_createonlinedoc" icoxoffset="2" icoyoffset="5" txtxoffset="16" pos="245,4,@100,@32" cursor="arrow" show="0">%str2187%</imgbtn>
   <imgbtn name="btn_pdftoword" class="toolbarbtn" icoskin="mainpanel_toolbar_pdftoword" icoxoffset="10" icoyoffset="5" txtxoffset="18" pos="350,4,@110,@32" cursor="arrow" show="0">%str2181%</imgbtn>
   <imgbtn name="btn_mobileview" class="toolbarbtn" icoskin="mainpanel_toolbar_mobileview" icoxoffset="10" icoyoffset="5" txtxoffset="18" pos="465,4,@92,@32" cursor="arrow" show="0">%str2186%</imgbtn>
+  <imgbtn name="btn_export_onlinedoc" class="toolbarbtn" icoskin="mainpanel_toolbar_export_onlinedoc" icoxoffset="10" icoyoffset="5" txtxoffset="18" pos="85,4,@75,@32" show="0" cursor="arrow">%str2363%</imgbtn>
   <dropbutton name="btn_offlinedownload" class="toolbarbtn" icoskin="mainpanel_toolbar_offlinedownload" drop-skin="mainpanel_toolbar_drop_arrow" icoxoffset="10" icoyoffset="5" txtxoffset="8" pos="465,4,@108,@32" cursor="arrow">%str2155%</dropbutton>
   <dropbutton name="btn_more" class="toolbarbtn" icoskin="mainpanel_toolbar_more" drop-skin="mainpanel_toolbar_drop_arrow" icoxoffset="10" icoyoffset="5" txtxoffset="8" pos="[5,4,@87,@32" cursor="arrow">%str2159%</dropbutton>
   

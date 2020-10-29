@@ -1,0 +1,38 @@
+<UI version="1.0">
+	<IBGRegionPanel sizeAsParent="true" name="nmPanelAdActivity" size="340,320">
+		<Children>
+			<IBGRegionPanel dock="DOCK_TOP" name="nmPanelContent" size="340,320" margin="0,0,0,0">
+				<Children>
+					<IBGGIFControl name="adActivityImg" dock="DOCK_FILL" cursorType="hand" margin="0,0,0,0" size="340, 320"/>
+					<IBGButton name="nmBtnClose" size="26,26" position="296,12" margin="0,0,0,0" toolText="$2048">
+						<Properties>
+							<normalBkg>
+								<IBGVeins file="Resource:MainFrame\TrayHint\ad_close_normal.png" changeLight="false" colorize="false"/>
+							</normalBkg>
+							<onBkg>
+								<IBGVeins file="Resource:MainFrame\TrayHint\ad_close_hover.png" changeLight="false" colorize="false"/>
+							</onBkg>
+							<downBkg>
+								<IBGVeins file="Resource:MainFrame\TrayHint\ad_close_down.png" changeLight="false" colorize="false"/>
+							</downBkg>
+						</Properties>
+					</IBGButton>
+					<IBGRegionPanel name="nmPanelAdWarn" size="31,17" position="309,303" config="TrayAdWarnPanel">
+						<Children>
+							<IBGStaticEx name="adActivityWarnTip" autoCalcWidth="true" autoCalcHeight="true" textClr="0xFFFFFF" margin="4,0,0,0" dock="DOCK_LEFT">
+								<Properties>
+									<textFont>
+										<IBGFont height="18"/>
+									</textFont>
+								</Properties>
+							</IBGStaticEx>
+						</Children>
+					</IBGRegionPanel>
+				</Children>
+			</IBGRegionPanel>
+		</Children>
+	</IBGRegionPanel>
+	<IBGRegionPanel sizeAsParent="true" name="nmPanelContainer" size="340,320" ncHitTest="1">
+		<Children></Children>
+	</IBGRegionPanel>
+</UI>

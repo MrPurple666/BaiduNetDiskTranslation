@@ -37,7 +37,16 @@
 			<imgbtn name="btn_guide_buy" pos="|-50,-36,@100,@25" class="cls_leftpanel_vip_btn"></imgbtn>
 		</dlg>
 	</dlg>
-	
+
+    <!--容量回收引导-->
+    <dlg name="dlg_capacity_recycle_guide" pos="0,-165,-0,@120" skin="leftpanel_quotaguide_bg" show="0">
+        <dlg pos="5,5,-5,-12">
+            <imgbtn name="btn_recycle_guide_close" pos="-12,6,@7,@7" skin="titlepanel_tipclose_btn" cursor="arrow"></imgbtn>
+            <text name="txt_recycle_guide_detail" pos="10,18,-10,@38" crtext="c58c55" multilines="1">%str1712%</text>
+            <imgbtn name="btn_recycle_guide__notice" pos="|-50,-36,@100,@25" skin="titlepanel_viprenew_btn" class="cls_usercard_vip_txt">%str1713%</imgbtn>
+        </dlg>
+    </dlg>
+    
 	<!--会员引导-->
 	<imgbtn name="btn_openvip" pos="0,-85,-0,@40" skin="leftpanel_openvip_btn" crtext="c58c55" cursor="hand" show="0">%str1704%</imgbtn>
 	

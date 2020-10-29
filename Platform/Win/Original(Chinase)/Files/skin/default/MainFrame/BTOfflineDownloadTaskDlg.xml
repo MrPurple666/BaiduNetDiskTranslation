@@ -112,7 +112,7 @@
 									<!-- 种子解析失败 -->
 									<IBGRegionPanel dock="DOCK_FILL" name="seedAnalysisFailedPanel" config="offlineDownloadBkgPanel" unseen="true" margin="20,0,20,0">
 										<Children>
-											<IBGStaticEx textClr="0x636363" name="analysisError" autoCalcHeight="true" autoCalcWidth="true" text="$2852" margin="176, 75, 3, 2" dock="DOCK_TOP">
+											<IBGStaticEx textClr="0x636363" name="analysisError" autoCalcHeight="true" autoCalcWidth="true" text="$2853" margin="176, 75, 3, 2" dock="DOCK_TOP">
 												<Properties>
 													<textFont>
 														<IBGFont height="20"/>

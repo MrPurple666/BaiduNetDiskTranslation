@@ -18,7 +18,7 @@
   <String id="IDS_ID_WARNING" value="警告" />
   <String id="IDS_WEB_LOADING" value="载入中..." />
   <String id="IDS_WEB_FAILED" value="由于网络原因无法载入页面，\n请刷新后重试。" />
-  <String id="IDS_WEB_REFRESH" value="刷新" />	
+  <String id="IDS_WEB_REFRESH" value="刷新" />
   <String id="IDS_GET_TEXT_HEIGHT" value="1１" />
   <String id="IDS_MSGBOX_OPEN_MAINFRAME" value="打开网盘(&amp;O)" />
   <String id="IDS_MSGBOX_VIEW_ALL" value="查看全部" />
@@ -26,7 +26,7 @@
   <String id="IDS_CRT_GRP_NO_RT_DETAIL" value="查看详情" />
   <String id="IDS_SYSMSG_TITLE" value="系统提示" />
   <String id="IDS_SONG_TYPEFACE" value="宋体" />
-  
+
   <!--主面板 -->
   <String id="IDS_TITLEBAR_MENUBTN_SETTING" value="设置" />
   <String id="IDS_TITLEBAR_BTN_USERHELP" value="帮助大全" />
@@ -47,8 +47,8 @@
   <String id="IDS_HOTRESVIEW_LOAD_FAILED" value="资源网站遇到问题，打不开了，过会儿再重试一下吧～" />
   <String id="IDS_HOTRESVIEW_TIP_NETWORK_ERROR" value="网络异常，请检查网络连接后" />
   <String id="IDS_HOTRESVIEW_TIP_RETRY" value="重试" />
-  
-  <!--主面板标题栏--> 
+
+  <!--主面板标题栏-->
   <String id="IDS_TIPTEXT_INVALID_UPLOADINGFILES" value="不支持此类型文件的上传：" />
   <String id="IDS_TIPTEXT_EXIT_WITHTASKRUNNING" value="退出后，正在传输的任务无法进行，确定退出？" />
   <String id="IDS_TIPTEXT_EXIT_WITHTASKRUNNING_GENERATING" value="退出后，正在传输的任务无法进行，排队中的任务可能会丢失，确定退出？" />
@@ -86,7 +86,7 @@
   <!--选择好友对话框-->
   <String id="IDS_FRIENDSELECTDLG_TITLE" value="选择好友" />
   <String id="IDS_FRIENDSELECTDLG_NET_ERROR_TIP" value="网络连接失败，请稍后重试" />
-  
+
   <!--我的设备列表对话框-->
   <String id="IDS_TITLE_TEXT_MYDEVICE" value="我的在线设备" />
   <String id="IDS_DEVICELISTDLG_TEXT_EMPTY" value="没有设备" />
@@ -200,7 +200,7 @@
   <String id="IDS_SHARE_LINK_TYPE_USER_DEFINED_PWD_DECS" value="支持4位字母或数字" />
   <String id="IDS_SHARE_LINK_TYPE_PRIVATE_WITH_NO_PWD_WARNNING" value="无需提取码即可查看，公司文件和私密文件建议勿选此项" />
   <String id="IDS_SHARE_LINK_TYPE_USER_DEFINED_PWD_PLEASE_INPUT" value="仅可输入4位字母或数字" />
-  
+
   <!-- 批量创建链接-->
   <String id="IDS_SHARE_LINK_ACCESS_NUMBER" value="访问人数:" />
   <String id="IDS_SHARE_LINK_ACCESS_NO_LIMIT" value="不限" />
@@ -224,7 +224,7 @@
   <String id="IDS_TRANSFER_ERR_FILE_ALREADY_EXIST" value="此文件已保存在所选目录" />
   <String id="IDS_TRANSFER_ERR_SPACE_IS_FULL" value="保存失败，网盘空间不足" />
   <String id="IDS_TRANSFER_ERR_FILE_TOO_MUCH" value="保存失败，一次下载不能超过1000个" />
-  
+
   <!-- 服务器端目录选择框-->
   <String id="IDS_SERVERFOLDER_TITLE" value="选择网盘保存路径" />
   <String id="IDS_SERVERFOLDER_LOADING" value="正在获取子目录" />
@@ -237,7 +237,7 @@
 
   <!--文件类型面板-->
   <String id="IDS_FILETYPEPANEL_ALL" value="全部文件" />
-  
+
   <!--传输面板 -->
   <String id="IDS_TRANPANEL_AUTOBACKUP_FOLDER_TEXT" value="自动备份文件夹" />
   <String id="IDS_TRANPANEL_PORTABLEDEVBACKUP_FOLDER_TEXT" value="便携式设备备份文件夹" />
@@ -256,7 +256,7 @@
   <String id="IDS_TRANPANEL_PORTABLEDEV_PAUSE" value="暂停设备备份" />
   <String id="IDS_TRANPANEL_PORTABLEDEV_START" value="开始设备备份" />
   <String id="IDS_TRANPANEL_PORTABLEDEV_DELETE" value="删除设备备份" />
-  
+
   <String id="IDS_TRANPANEL_OPENBTN" value="打开" />
   <String id="IDS_TRANPANEL_CLEARHISBTN" value="清除所有记录" />
   <String id="IDS_TRANPANEL_TOTALHISCOUNT_TIP1" value="共传输完成" />
@@ -323,7 +323,7 @@
   <String id="IDS_TRANPANEL_UPLOAD_REQUESTING_TIP" value="上传请求中..." />
   <String id="IDS_TRANPANEL_REQUESTING_TIP" value="请求中..." />
   <!--传输面板错误提示 -->
-  
+
   <!--传输错误解决方案链接-->
   <String id="IDS_RESOLUTION_LOCAL_FILE_SIZE_TOO_BIG" value="开通会员上传大文件" />
   <String id="IDS_RESOLUTION_LOCAL_FILE_SIZE_SUPER_BIG" value="开通超级会员上传大文件" />
@@ -376,7 +376,7 @@
   <String id="IDS_ERRORTIP_CLOUDTASK_PATH_INVALID" value="对方设备下载路径无效" />
   <String id="IDS_ERRORTIP_CLOUDTASK_FILE_OCCUPIED" value="推送失败，对方设备正使用文件" />
   <String id="IDS_ERRORTIP_CLOUDTASK_NO_USB_PLUGED_INBOXORTV" value="盒子/电视未外接u盘" />
-  
+
   <!--加速服务提示 -->
   <String id="IDS_ERRORTIP_EXPERIENCE_SPEEDUP_FAIL" value="领取提速体验服务失败" />
   <String id="IDS_ERRORTIP_SPEEDUPSERVICE_BINDED" value="当前宽带帐号领取过服务" />
@@ -476,7 +476,7 @@
   <String id="IDS_STATIC_TASK_COUNT_TIP"   value="（推荐智能）" />
   <String id="IDS_STATIC_ASSOCIATE_BT_TYPE"   value="启动后关联BT种子文件(.torrent文件)" />
   <String id="IDS_STATIC_CANCEL_ASSOCIATION_TIP"   value="取消关联，可能导致双击本地种子无法运行" />
-  <String id="IDS_STATIC_ADVANCE_SETTING_TIP"   value="高级设置" />
+  <String id="IDS_STATIC_ADVANCE_SETTING_TIP"   value="其他设置" />
   <String id="IDS_ADVANCESETTINGDLG_P2P_TITLE" value="激励计划：" />
   <String id="IDS_ADVANCESETTINGDLG_CHECK_P2P_OPEN" value="加入用户激励计划" />
   <String id="IDS_ADVANCESETTINGDLG_INTRODUCE_P2P_TIP" value="“用户激励计划”是百度网盘为改善用户体验而推出的一项志愿活动计划。通过P2P技术为加入计划的用户提升产品体验，此过程仅需用户贡献电脑端的部分空闲上传带宽，绝不涉及任何用户隐私，同时根据用户的活跃度和使用情况，百度网盘会奖励相应的积分，用户可以在手机端app中兑换百度网盘超级会员、特权券以及其他奖品。用户自愿选择是否加入该计划，并随时可以通过取消勾选退出计划，重启客户端后生效。退出计划将不再产生P2P上传和对应的积分奖励，重新选择开启可加入计划。" />
@@ -488,12 +488,12 @@
   <!--第三方安全提示-->
   <String id="IDS_STATIC_THIRDPARTY_SECURITY_TITLE"   value="让你的资料更安全，仅需2步，即可拥有“锁定网盘”高级功能！" />
   <String id="IDS_STATIC_THIRDPARTY_SECURITY_SAFEBOX_TITLE"   value="启用隐藏空间仅需2步：" />
-  <String id="IDS_STATIC_THIRDPARTY_SECURITY_SAFEBOX_STEP1"   value="①	使用合作帐号在网页端绑定邮箱/手机号" />
-  <String id="IDS_STATIC_THIRDPARTY_SECURITY_SAFEBOX_STEP2"   value="②	用绑定的邮箱/手机号登录网盘" />
-  <String id="IDS_STATIC_THIRDPARTY_SECURITY_STEP1"   value="①	使用合作帐号在网页端绑定邮箱/手机号" />
-  <String id="IDS_STATIC_THIRDPARTY_SECURITY_STEP2"   value="②	用绑定的邮箱/手机号登录网盘" />
+  <String id="IDS_STATIC_THIRDPARTY_SECURITY_SAFEBOX_STEP1"   value="①  使用合作帐号在网页端绑定邮箱/手机号" />
+  <String id="IDS_STATIC_THIRDPARTY_SECURITY_SAFEBOX_STEP2"   value="②  用绑定的邮箱/手机号登录网盘" />
+  <String id="IDS_STATIC_THIRDPARTY_SECURITY_STEP1"   value="①  使用合作帐号在网页端绑定邮箱/手机号" />
+  <String id="IDS_STATIC_THIRDPARTY_SECURITY_STEP2"   value="②  用绑定的邮箱/手机号登录网盘" />
   <String id="IDS_STATIC_THIRDPARTY_SECURITY_STEP3"   value="立即拥有锁定功能！" />
-  
+
 
   <!--气泡提示设置-->
   <String id="IDS_STATIC_SOUNDTIP_TITLE"    value="声音提醒：" />
@@ -537,7 +537,7 @@
 
   <String id="IDS_STATIC_PASSWORD_PROTECT"   value=" 密码保护" />
   <String id="IDS_STATIC_TRANSFER_COMPLETE_TIP"   value=" 传输完成提示" />
-  
+
   <String id="IDS_STATIC_SPACE_USED"   value="容量： 已用%s/总空间%s" />
   <String id="IDS_STATIC_CHANGE_DIR"   value="更改目录" />
   <String id="IDS_STATIC_QUIT_CURRENT_ACCOUNT"   value="你确定要退出当前账户吗？" />
@@ -591,7 +591,7 @@
   <String id="IDS_BACKUP_STATIC_TIP2" value="2.不定期更新的旅行照片"/>
   <String id="IDS_BACKUP_STATIC_TOAST_TEXT" value="操作成功"/>
   <String id="IDS_BACKUP_SAFEBOX_TIP" value="隐藏空间不支持"/>
-  
+
   <!--新用户引导窗口 -->
   <String id="IDS_USERGUIDEPAGE_TITLE_FORQA"    value="用户引导" />
   <String id="IDS_USERGUIDEPAGE_TITLE"    value="新手引导" />
@@ -599,7 +599,7 @@
   <String id="IDS_USERGUIDEPAGE_FOREWARD_STEP" value="上一步" />
   <String id="IDS_USERGUIDEPAGE_NEXT_STEP"     value="下一步" />
   <String id="IDS_USERGUIDEPAGE_FINISH"        value="完成" />
-  
+
   <!--代理设置 -->
   <String id="IDS_PROXYSETTING_TITLE" value="代理设置：" />
   <String id="IDS_PROXYSETTING_TITLE_NET_SETTING" value=" 网络设置" />
@@ -730,7 +730,7 @@
   <String id="IDS_TRAYICON_TIP_UPLOADING" value="%.1f%% 正在上传" />
   <String id="IDS_TRAYICON_TIP_DOWNLOADING" value="%.1f%% 正在下载" />
   <String id="IDS_TRAYICON_TIP_TRANSERROR" value="传输失败" />
-  
+
   <String id="IDS_NO_PROMPT" value="不再提示" />
   <String id="IDS_NO_SPACE" value="网盘空间不足！" />
   <String id="IDS_FILE_PATH_INVALID" value="文件路径非法！" />
@@ -758,7 +758,7 @@
   <String id="IDS_BUTTON_REDOWNLOAD" value="下载百度网盘" />
   <String id="IDS_BUTTON_EXIT" value="退出" />
   <String id="IDS_TIP_CAPTION" value="提示" />
- 
+
   <!-- 列表视图相关字符串资源 -->
   <String id="IDS_LISTVIEW_COLUMN_FILENAME" value="文件名" />
   <String id="IDS_LISTVIEW_COLUMN_FILESIZE" value="大小" />
@@ -813,13 +813,13 @@
   <String id="IDS_MUTLTIFOLDERDLG_CLONETOCLOUD" value="备份到网盘" />
   <String id="IDS_MUTLTIFOLDERDLG_SELECT_DIR" value="没有检测到经常使用的文件夹，请手动选择吧~" />
   <String id="IDS_MUTLTIFOLDERDLG_BAOHE_WARNNING" value="选择的目录中包含同步盘目录，继续备份网盘文件将重复，\r\n是否继续？" />
-    
+
   <!--标题栏vip提示 -->
   <String id="IDS_TITLE_VIP_CLOSE_TIP" value="升级会员" />
   <String id="IDS_TITLE_VIP_OPEN_TIP" value="已开通会员" />
   <String id="IDS_TITLE_SVIP_OPEN_TIP" value="已开通超级会员" />
   <String id="IDS_TITLE_BUY_SPACE_TIP" value="点击扩容" />
-  
+
   <!--网络加速提示 -->
   <String id="IDS_SPEEDUP_BTN_TRY" value="立即试用" />
   <String id="IDS_SPEEDUP_BTN_BUY" value="立即购买" />
@@ -927,7 +927,8 @@
   <String id="IDS_OFFLINEDOWNLOADLIST_ALREADEXIST" value="下载文件已存在" />
   <String id="IDS_OFFLINEDOWNLOADLIST_DELETED" value="任务已删除" />
   <String id="IDS_OFFLINEDOWNLOADLIST_PARTSUCCESS" value="下载部分成功" />
-  
+  <String id="IDS_OFFLINEDOWNLOADLIST_SEARCH_RESOURCE" value="寻找资源中..." />
+
   <!--新建离线下载任务错误提示-->
   <String id="IDS_OFFLINEDOWNLOADTASK_TIP_PARAM_ERROR" value="离线下载错误" />
   <String id="IDS_OFFLINEDOWNLOADTASK_TIP_RELOGIN" value="请重新登录再试" />
@@ -1117,7 +1118,7 @@
   <String id="IDS_SPEEDFEECBACKDLG_STATIC_TEXT_THANK_TIP" value="感谢您的反馈！百度网盘会尽快解决。" />
   <String id="IDS_SPEEDFEECBACKDLG_BUTTON_SUBMIT" value="提交" />
   <String id="IDS_SPEEDFEECBACKDLG_BUTTON_FINISH" value="完成" />
-  
+
   <!--速度慢提示-->
   <String id="IDS_SPEEDFEECBACKTIP_SPEEDSLOW" value="传输速度不给力？" />
   <String id="IDS_SPEEDFEECBACKTIP_FEEDBACK" value="我要反馈" />
@@ -1189,7 +1190,7 @@
   <String id="IDS_ONLINEDIT_APPLOCKED_TEXT" value="您的网盘已锁定，锁定期间无法更新上传文档，\r\n请先解锁网盘" />
   <String id="IDS_ONLINEDIT_APPLOCKED_OK" value="知道了" />
   <String id="IDS_ONLINEDIT_DOWNLOADED_AUTOOPEN" value="已经在下载中，完成后自动打开" />
-          
+
   <!--垃圾清理引导弹窗-->
   <String id="IDS_GARBAGE_FILE_CLEAN_TEXT_LINE1" value="您的网盘中存在大量重复文件" />
   <String id="IDS_GARBAGE_FILE_CLEAN_TEXT_LINE2" value="清理后可释放%s空间" />
@@ -1279,11 +1280,11 @@
    <String id="IDS_P2P_SVIP_SPEEDUP_SLOW_TIP" value="SVIP加速链接获取中..."/>
    <String id="IDS_HELP_EACHOTHER_CLOSE" value="去关闭" />
    <String id="IDS_HELP_EACHOTHER_OPEN" value="去开启" />
-  
+
    <!--新版自动备份-->
   <String id="IDS_AUTOBACKUP_GUIDE_TIP" value="无需手动上传！开启文件夹自动备份，随时随地查看电脑上常用文件。" />
   <String id="IDS_AUTOBACKUP_GUIDE_TIP_BTN" value="去看看" />
-    
+
   <!--跨端传输路径设置-->
   <String id="IDS_SETTING_STATIC_TEXT_TRANSFERDIR" value=" 文件快传位置选择：" />
   <String id="IDS_SETTING_STATIC_TEXT_TRANSFER_DEFAULTDIR" value="网盘文件快传" />
@@ -1297,6 +1298,7 @@
   <String id="IDS_REMOTE_DOWNLOAD_STATIC_SUCCESS_OTHER_INTRODUCTION" value="已成功收到其他端传送的文件" />
   <String id="IDS_REMOTE_DOWNLOAD_NOTIFY_START_VIEW_DETAIL" value="查看进度>" />
   <String id="IDS_REMOTE_DOWNLOAD_NOTIFY_SUCCEED_VIEW_DETAIL" value="立即查看>" />
+  <String id="IDS_REMOTE_DOWNLOAD_CHECK_AUTO_RECV_AND_DOWNLOAD" value="自动接收并下载快传文件" />
 
   <String id="IDS_OFFLINEDOWNLOADTASK_CONTENT_VIOLATION" value="离线文件含有违规文件内容无法下载" />
 
@@ -1304,4 +1306,27 @@
   <String id="IDS_SHARE_LINK_COPY_VIP_LEVEL_TIP" value="--来自百度网盘超级会员V%d的分享" />
   <String id="IDS_TIP_SVIP_MEMBER_UPLOAD_PRIVILEGE" value="尊贵的V%d超级会员，您可以上传超大文件哦~（最大%s）" />
 
+  <!--在线文档导出路径-->
+  <String id="IDS_EXPORT_ONLINEDOC_TASK_TITLE_TEXT" value="选择导出路径" />
+  <String id="IDS_EXPORT_ONLINEDOC_TASK_EXPORT_BUTTON" value="导出" />
+  <String id="IDS_EXPORT_ONLINEDOC_TASK_SET_DEFAULT_EXPORTDIR" value="默认此路径为导出路径" />
+  <String id="IDS_EXPORT_ONLINEDOC_TASK_STATIC_TEXT_EXPORTDIR" value="导出到" />
+  <String id="IDS_EXPORT_ONLINEDOC_TASK_EXPORT_SUCCESS_TIP" value="导出成功  " />
+  <String id="IDS_EXPORT_ONLINEDOC_TASK_EXPORT_FAILE_TIP" value="导出失败" />
+  <String id="IDS_EXPORT_ONLINEDOC_TASK_EXPORT_TRANSFORM_FAILE_TIP" value="文档转换失败" />
+
+  <!--文件导出路径-->
+  <String id="IDS_FILE_EXPORT_DIR_TIP" value="文件导出位置选择：" />
+  <String id="IDS_FILE_EXPORT_MAKE_DEFAULT_EXPORT_DIR" value="默认此路径为导出路径" />
+  <String id="IDS_SETTING_STATIC_TEXT_EXPORT_DEFAULTDIR" value="网盘导出文件" />
+
+  <!--在线文档导出托盘-->
+  <String id="IDS_EXPORTONLINEDOC_NOTIFY_SUCCEED_TITLE" value="导出成功" />
+  <String id="IDS_EXPORTONLINEDOC_NOTIFY_SUCCEED_START_TIP" value="已将" />
+  <String id="IDS_EXPORTONLINEDOC_NOTIFY_SUCCEED_END_TIP" value="导出为%s文档" />
+  <String id="IDS_EXPORTONLINEDOC_NOTIFY_SUCCEED_OPEN_DOC" value="打开文档" />
+  <String id="IDS_EXPORTONLINEDOC_NOTIFY_SUCCEED_OPEN_FOLDER" value="打开所在文件夹" />
+  <String id="IDS_EXPORTONLINEDOC_NOTIFY_FAIL_TITLE" value="导出失败" />
+  <String id="IDS_EXPORTONLINEDOC_NOTIFY_FAIL_RETRY" value="重试" />
+  <String id="IDS_EXPORTONLINEDOC_NOTIFY_FAIL_EXISTEXPORTING" value="有文件正在导出，请完成后再试" />
 </StringTable>
