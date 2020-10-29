@@ -1888,6 +1888,12 @@
 		</Property>
 	</Config>
 
+  <Config name="TrayAdWarnPanel" interface="IBGRegionPanel">
+    <Property name="bkground">
+      <IBGVeins drawStyle="DRAWMODE_33Mesh" file="Resource:\MainFrame\TrayHint\ad_warn_bkg.png" veinsRect="0, 0, 31, 17" stretchArea="15,0,31,17"/>
+    </Property>
+  </Config>
+  
   <Config name="trayGarbageCleanBtn" interface="IBGButton">
     <Property name="autoCalcWidth" value="false"/>
     <Property name="autoCalcHeight" value="false"/>

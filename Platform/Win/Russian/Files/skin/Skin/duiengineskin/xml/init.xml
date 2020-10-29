@@ -605,6 +605,7 @@
         <imgframe name="mainpanel_toolbar_sort" src="IDP_MAINPANEL_TOOLBAR_SORT" subwidth="16"/>
         <imgframe name="mainpanel_toolbar_clear" src="IDP_MAINPANEL_TOOLBAR_CLEAR" subwidth="20"/>
         <imgframe name="mainpanel_toolbar_openfolder" src="IDP_MAINPANEL_TOOLBAR_OPENFOLDER" subwidth="20"/>
+        <imgframe name="mainpanel_toolbar_export_onlinedoc" src="IDP_MAINPANEL_TOOLBAR_EXPORT_ONLINEDOC" subwidth="20"/>
         <imgframe name="safebox_quota_detail_btn" src="IDP_SAFEBOX_QUOTA_DETAIL" subwidth="10"/>
         <imgframe name="safebox_quota_buy_vip_btn" src="IDP_SAFEBOX_QUOTA_BUY_VIP" subwidth="183" left="12" right="12"/>
         <imgframe name="safebox_quota_buy_svip_btn" src="IDP_SAFEBOX_QUOTA_BUY_SVIP" subwidth="183" left="12" right="12"/>
@@ -652,6 +653,7 @@
         <imgframe name="mainpanel_listview_share" src="IDP_MAINPANEL_LISTVIEW_SHARE" subwidth="16"/>
         <imgframe name="mainpanel_listview_down" src="IDP_MAINPANEL_LISTVIEW_DOWN" subwidth="16"/>
         <imgframe name="mainpanel_listview_del" src="IDP_MAINPANEL_LISTVIEW_DELETE" subwidth="16"/>
+        <imgframe name="mainpanel_listview_export_onlinedoc" src="IDP_MAINPANEL_LISTVIEW_EXPORT_ONLINEDOC" subwidth="16"/>
         <imglst name="mainpanel_listview_trans_fail" src="IDP_MAINPANEL_LISTVIEW_TRANS_FAIL"/>
         <imglst name="mainpanel_listview_trans_pause" src="IDP_MAINPANEL_LISTVIEW_TRANS_PAUSE"/>
         <imglst name="mainpanel_listview_trans_upload" src="IDP_MAINPANEL_LISTVIEW_TRANS_UPLOAD"/>
@@ -799,6 +801,10 @@
         <imgframe name="logindevicestatus_dlg_arrow_btn" src="IDP_LOGINDEVICESTATUS_DLG_ARROW_BTN"/>
         <imgframe name="logindevicestatus_dlg_return_btn" src="IDP_LOGINDEVICESTATUS_DLG_RETURN_BTN"/>
         <imgframe name="logindevicestatus_dlg_head_frame" src="IDP_LOGINDEVICESTATUS_DLG_HEAD_FRAME"/>
+
+        <!--第三方登录-->
+        <imgframe name="login_third_party_refresh_btn" src="IDP_LOGIN_THIRD_PARTY_REFRESH_BTN" subwidth="30"/>
+
      <!--会员等级-->
         <imgframe name="member_small_icon_svip_level1" src="IDP_MEMBER_SMALL_ICON_SVIP_LEVEL_1"/>
         <imgframe name="member_small_icon_svip_level2" src="IDP_MEMBER_SMALL_ICON_SVIP_LEVEL_2"/>
@@ -835,8 +841,6 @@
         <imgframe name="member_small_icon_vip_level6_gray" src="IDP_MEMBER_SMALL_ICON_VIP_LEVEL_6_GRAY"/>
         <imgframe name="member_small_icon_vip_level7_gray" src="IDP_MEMBER_SMALL_ICON_VIP_LEVEL_7_GRAY"/>
         <imgframe name="member_small_icon_vip_level8_gray" src="IDP_MEMBER_SMALL_ICON_VIP_LEVEL_8_GRAY"/>
-
-
     </skins>
 
     <style>
@@ -1093,7 +1097,8 @@
         <class name="cls_login_device_status_dlg_middle_text" crtext="000000" font2="facename:微软雅黑;bold:0;italic:0;underline:0;adding:6"/>
         <class name="cls_login_device_status_dlg_small_text" crtext="0fabfe" font2="facename:微软雅黑;bold:1;italic:0;underline:0;adding:2"/>
         <class name="cls_login_device_status_dlg_blue_link" cursor="hand" crtext="0fabfe" crhover="0fabfe" font2="facename:微软雅黑;bold:1;italic:0;underline:1;adding:2"/>
-
+        <!--第三方账号登录-->
+        <class name="cls_login_thirdparty_txt" font="0000:微软雅黑" crtext="636363" textmode="40825"/>
     </style>
 
     <objattr>

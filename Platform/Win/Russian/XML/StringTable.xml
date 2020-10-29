@@ -281,7 +281,7 @@
   <String id="IDS_TRANPANEL_TIP_RAPIDUPLOAD" value="Быстрая загрузка" />
   <String id="IDS_TRANPANEL_TIP_DELETEALLUPTASK" value="Удалить все задачи загрузки?" />
   <String id="IDS_TRANPANEL_TIP_DELETEALLDOWNTASK" value="Удалить все задачи загрузки?" />
-  <String id="IDS_TRANPANEL_TIP_DELETEALLHISTASK" value="Удалить всю историю загрузок и вызагрузок?" />
+  <String id="IDS_TRANPANEL_TIP_DELETEALLHISTASK" value="Удалить всю историю загрузок и выгрузок?" />
   <String id="IDS_TRANPANEL_TIP_SVIPGUIDE" value="Подключите VIP доступ и скачивайте на максимальной скорости" />
   <String id="IDS_TIP_FILE_NOTEXIST" value="Файл не существует !" />
   <String id="IDS_TIP_FILE_CANNOTOPEN" value="Не поддерживает открытие этого типа файла!" />
@@ -617,7 +617,7 @@
   <String id="IDS_PROXYSETTING_STATIC_IEPROXY" value="Использовать IE прокси" />
 
   <!--Настройки удаленного нажатия-->
-  <String id="IDS_STATIC_CLOUDPUSH_TITLE" value="Настройки спящего режима" />
+  <String id="IDS_STATIC_CLOUDPUSH_TITLE" value="Спящий режим:" />
   <String id="IDS_STATIC_PUSH_ON_SLEEP" value="Передача задания, ваш компьютер не в спящем режиме" />
   <String id="IDS_STATIC_PUSH_ON_SLEEP_TIP" value="Baidu Cloud будет продолжать выполнять задание на низкой скорости во время сна." />
 
@@ -908,28 +908,29 @@
   <String id="IDS_BT_OFFLINEDOWNLOADTASK_SELECTFILETOOMUCH" value="Можно выбрать только максимум %d файлов, переданных на устройство" />
 
   <!--Просмотр автономного списка загрузки-->
-<String id="IDS_OFFLINEDOWNLOADLIST_TITLE_FORQA" value="Список задач для загрузки в автономном режиме" />
-<String id="IDS_OFFLINEDOWNLOADLIST_TITLE" value="Список задач для загрузки в автономном режиме" />
-<String id="IDS_OFFLINEDOWNLOADLIST_RUNBACK_BTNTEXT" value="Назад" />
-<String id="IDS_OFFLINEDOWNLOADLIST_TEXT_LOADING" value="Загрузка, пожалуйста подождите..." />
-<String id="IDS_OFFLINEDOWNLOADLIST_TEXT_LOADINGERROR" value="Ошибка загрузки задачи в автономном режиме, попробуйте еще раз" />
-<String id="IDS_OFFLINEDOWNLOADLIST_TEXT_EMPTY_TIP" value="Добро пожаловать в автономную загрузку, вы можете создать новую задачу следующими двумя способами" />
-<String id="IDS_OFFLINEDOWNLOADLIST_CREATE_NORMAL_TASK" value="Новая загрузка" />
-<String id="IDS_OFFLINEDOWNLOADLIST_CREATE_BT_TASK" value="Загрузка с торрента" />
-<String id="IDS_OFFLINEDOWNLOADLIST_OPEN_TASK_SAVEPATH" value="Открыть папку" />
-<String id="IDS_OFFLINEDOWNLOADLIST_CLEAR_TASK" value="Очистить задание" />
-<String id="IDS_OFFLINEDOWNLOADLIST_UPDATE_TASK" value="Обновить задачу" />
-<String id="IDS_OFFLINEDOWNLOADLIST_STOP_TASK" value="Остановить задачу" />
-<String id="IDS_OFFLINEDOWNLOADLIST_SUCCESS" value="Загруженные" />
-<String id="IDS_OFFLINEDOWNLOADLIST_FAIL" value="Не удалось" />
-<String id="IDS_OFFLINEDOWNLOADLIST_SYSBUSY" value="Система занята" />
-<String id="IDS_OFFLINEDOWNLOADLIST_NOTEXIST" value="Файл не существует" />
-<String id="IDS_OFFLINEDOWNLOADLIST_TIMEOUT" value="Тайм-аут" />
-<String id="IDS_OFFLINEDOWNLOADLIST_NOSPACE" value="Нехватка места" />
-<String id="IDS_OFFLINEDOWNLOADLIST_CANCELED" value="Задача отменена" />
-<String id="IDS_OFFLINEDOWNLOADLIST_ALREADEXIST" value="Файл уже существует" />
-<String id="IDS_OFFLINEDOWNLOADLIST_DELETED" value="Задача удалена" />
-<String id="IDS_OFFLINEDOWNLOADLIST_PARTSUCCESS" value="Скачано" />
+  <String id="IDS_OFFLINEDOWNLOADLIST_TITLE_FORQA" value="Список задач для загрузки в автономном режиме" />
+  <String id="IDS_OFFLINEDOWNLOADLIST_TITLE" value="Список задач для загрузки в автономном режиме" />
+  <String id="IDS_OFFLINEDOWNLOADLIST_RUNBACK_BTNTEXT" value="Назад" />
+  <String id="IDS_OFFLINEDOWNLOADLIST_TEXT_LOADING" value="Загрузка, пожалуйста подождите..." />
+  <String id="IDS_OFFLINEDOWNLOADLIST_TEXT_LOADINGERROR" value="Ошибка загрузки задачи в автономном режиме, попробуйте еще раз" />
+  <String id="IDS_OFFLINEDOWNLOADLIST_TEXT_EMPTY_TIP" value="Добро пожаловать в автономную загрузку, вы можете создать новую задачу следующими двумя способами" />
+  <String id="IDS_OFFLINEDOWNLOADLIST_CREATE_NORMAL_TASK" value="Новая загрузка" />
+  <String id="IDS_OFFLINEDOWNLOADLIST_CREATE_BT_TASK" value="Загрузка с торрента" />
+  <String id="IDS_OFFLINEDOWNLOADLIST_OPEN_TASK_SAVEPATH" value="Открыть папку" />
+  <String id="IDS_OFFLINEDOWNLOADLIST_CLEAR_TASK" value="Очистить задание" />
+  <String id="IDS_OFFLINEDOWNLOADLIST_UPDATE_TASK" value="Обновить задачу" />
+  <String id="IDS_OFFLINEDOWNLOADLIST_STOP_TASK" value="Остановить задачу" />
+  <String id="IDS_OFFLINEDOWNLOADLIST_SUCCESS" value="Загруженные" />
+  <String id="IDS_OFFLINEDOWNLOADLIST_FAIL" value="Не удалось" />
+  <String id="IDS_OFFLINEDOWNLOADLIST_SYSBUSY" value="Система занята" />
+  <String id="IDS_OFFLINEDOWNLOADLIST_NOTEXIST" value="Файл не существует" />
+  <String id="IDS_OFFLINEDOWNLOADLIST_TIMEOUT" value="Тайм-аут" />
+  <String id="IDS_OFFLINEDOWNLOADLIST_NOSPACE" value="Нехватка места" />
+  <String id="IDS_OFFLINEDOWNLOADLIST_CANCELED" value="Задача отменена" />
+  <String id="IDS_OFFLINEDOWNLOADLIST_ALREADEXIST" value="Файл уже существует" />
+  <String id="IDS_OFFLINEDOWNLOADLIST_DELETED" value="Задача удалена" />
+  <String id="IDS_OFFLINEDOWNLOADLIST_PARTSUCCESS" value="Скачано" />
+  <String id="IDS_OFFLINEDOWNLOADLIST_SEARCH_RESOURCE" value="Поиск ресурсов..." />
 
   <!--Новое сообщение об ошибке задачи автономной загрузки-->
   <String id="IDS_OFFLINEDOWNLOADTASK_TIP_PARAM_ERROR" value="Ошибка загрузки в автономном режиме" />
@@ -964,7 +965,7 @@
   <!--Диалог разблокировки-->
   <String id="IDS_UNLOCKDLG_LOCKED" value="Baidu NetDisk заблокирован" />
   <String id="IDS_UNLOCKDLG_UNLOCK" value="Разблокировка" />
-  <String id="IDS_UNLOCKDLG_INPUT_PASSWORD" value="Пожалуйста, введите ваш логин пароль" />
+  <String id="IDS_UNLOCKDLG_INPUT_PASSWORD" value="Пожалуйста, введите ваш пароль" />
   <String id="IDS_UNLOCKDLG_HOTKEY_TIP" value="Нажмите %s Блокировка/Разблокировка" />
   <String id="IDS_UNLOCKDLG_PASSWD_ERROR_TIP" value="Неверный пароль, пожалуйста, попробуйте еще раз" />
   <String id="IDS_UNLOCKDLG_UNLOCK_FAIL_TIP" value="Не удалось разблокировать, попробуйте позже" />
@@ -1300,11 +1301,36 @@
   <String id="IDS_REMOTE_DOWNLOAD_STATIC_SUCCESS_OTHER_INTRODUCTION" value="Файл, отправленный на другом конце, был успешно получен" />
   <String id="IDS_REMOTE_DOWNLOAD_NOTIFY_START_VIEW_DETAIL" value="Проверить прогресс>" />
   <String id="IDS_REMOTE_DOWNLOAD_NOTIFY_SUCCEED_VIEW_DETAIL" value="Попробовать сейчас>" />
+  <String id="IDS_REMOTE_DOWNLOAD_CHECK_AUTO_RECV_AND_DOWNLOAD" value="Автоматически получать и скачивать быстрый файл" />
 
   <String id="IDS_OFFLINEDOWNLOADTASK_CONTENT_VIOLATION" value="Файл содержит запрещенный контент и не может быть загружен" />
 
   <!--Уровень членства-->
   <String id="IDS_SHARE_LINK_COPY_VIP_LEVEL_TIP" value="--От Super VIP Baidu Net Disk V%d Поделиться" />
   <String id="IDS_TIP_SVIP_MEMBER_UPLOAD_PRIVILEGE" value="Уважаемый Super VIP V%d, вы можете загружать большие файлы ~（Максимум %s）" />
+
+  <!--Путь к экспорту документов онлайн-->
+  <String id="IDS_EXPORT_ONLINEDOC_TASK_TITLE_TEXT" value="Выберите путь экспорта" />
+  <String id="IDS_EXPORT_ONLINEDOC_TASK_EXPORT_BUTTON" value="Экспорт" />
+  <String id="IDS_EXPORT_ONLINEDOC_TASK_SET_DEFAULT_EXPORTDIR" value="Путь для экспорта по умолчанию" />
+  <String id="IDS_EXPORT_ONLINEDOC_TASK_STATIC_TEXT_EXPORTDIR" value="Экспортировать в" />
+  <String id="IDS_EXPORT_ONLINEDOC_TASK_EXPORT_SUCCESS_TIP" value="Успешный Экспорт  " />
+  <String id="IDS_EXPORT_ONLINEDOC_TASK_EXPORT_FAILE_TIP" value="Ошибка экспорта" />
+  <String id="IDS_EXPORT_ONLINEDOC_TASK_EXPORT_TRANSFORM_FAILE_TIP" value="Ошибка преобразования документа" />
+
+  <!--Путь экспорта файла-->
+  <String id="IDS_FILE_EXPORT_DIR_TIP" value="Путь для экспорта файла：" />
+  <String id="IDS_FILE_EXPORT_MAKE_DEFAULT_EXPORT_DIR" value="Путь для экспорта по умолчанию" />
+  <String id="IDS_SETTING_STATIC_TEXT_EXPORT_DEFAULTDIR" value="Экспортируемый файл Netdisk" />
+
+  <!--Окно для экспорта документов онлайн-->
+  <String id="IDS_EXPORTONLINEDOC_NOTIFY_SUCCEED_TITLE" value="Успешно экспортировано " />
+  <String id="IDS_EXPORTONLINEDOC_NOTIFY_SUCCEED_START_TIP" value="Начать" />
+  <String id="IDS_EXPORTONLINEDOC_NOTIFY_SUCCEED_END_TIP" value="Экспорт как %s Документация" />
+  <String id="IDS_EXPORTONLINEDOC_NOTIFY_SUCCEED_OPEN_DOC" value="Открыть документ" />
+  <String id="IDS_EXPORTONLINEDOC_NOTIFY_SUCCEED_OPEN_FOLDER" value="Откройте папку" />
+  <String id="IDS_EXPORTONLINEDOC_NOTIFY_FAIL_TITLE" value="Ошибка экспорта" />
+  <String id="IDS_EXPORTONLINEDOC_NOTIFY_FAIL_RETRY" value="Повторить" />
+  <String id="IDS_EXPORTONLINEDOC_NOTIFY_FAIL_EXISTEXPORTING" value="Некоторые файлы экспортируются, попробуйте еще раз" />
 
 </StringTable>

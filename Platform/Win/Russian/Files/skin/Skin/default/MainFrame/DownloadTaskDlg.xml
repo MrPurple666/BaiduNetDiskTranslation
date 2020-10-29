@@ -13,7 +13,7 @@
 									</bkground>
 								</Properties>
 							</IBDGuiCell>
-							<IBGStaticEx textClr="0x333333" autoCalcHeight="true" autoCalcWidth="true" text="$2106" margin="1, 10, 3, 3" dock="DOCK_LEFT"/>
+							<IBGStaticEx name="TaskTitle" textClr="0x333333" autoCalcHeight="true" autoCalcWidth="true" text="$2106" margin="1, 10, 3, 3" dock="DOCK_LEFT"/>
 						</Children>
 					</IBGRegionPanel>
 					<IBGRegionPanel size="450,60" margin="2,12,2,2" dock="DOCK_TOP">
@@ -33,7 +33,7 @@
 					</IBGRegionPanel>
 					<IBGRegionPanel size="450,29" margin="2,2,2,2" dock="DOCK_TOP">
 						<Children>
-							<IBGStaticEx textClr="0x636363" autoCalcHeight="true" autoCalcWidth="true" text="$2105" margin="16, 8, 3, 3" dock="DOCK_LEFT"/>
+							<IBGStaticEx name="TaskToDirText" textClr="0x636363" autoCalcHeight="true" autoCalcWidth="true" text="$2105" margin="16, 8, 3, 3" dock="DOCK_LEFT"/>
 							<IBGButton name="BrowseBtn" text="$2100" size="70,25" margin="4, 2, 16, 2" tabOrder="15" config="button" dock="DOCK_RIGHT"/>
 							<IBGEdit size="280, 25" margin="2, 2, 2, 2" name="PathEdit" tabOrder="12" dock="DOCK_FILL" config="edit" readOnly="true"/>
 						</Children>

@@ -22,6 +22,7 @@
               <imgbtn name="btn_share" pos="[12,|-8,@16,@16" skin="mainpanel_listview_share" cursor="arrow" tip="%str2306%" show="0"></imgbtn>
               <imgbtn name="btn_down" pos="[12,|-8,@16,@16" skin="mainpanel_listview_down" cursor="arrow" tip="%str2321%" show="0"></imgbtn>
               <imgbtn name="btn_del" pos="[12,|-8,@16,@16" skin="mainpanel_listview_del" cursor="arrow" tip="%str2325%" show="0"></imgbtn>
+            <imgbtn name="btn_export_onlinedoc" pos="-56,|-8,@16,@16" skin="mainpanel_listview_export_onlinedoc" cursor="arrow" tip="%str2363%" show="0"></imgbtn>
             </dlg>
 
             <!--修改时间列-->

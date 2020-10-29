@@ -1,5 +1,5 @@
 <UI version="1.0">
-	<IBGRegionPanel sizeAsParent="true" name="nmPanelPdfToWord" size="285,88">
+	<IBGRegionPanel sizeAsParent="true" name="nmPanelOnlinedocExport" size="285,88">
 		<Children>
 			<IBGRegionPanel dock="DOCK_TOP" margin="0,10,0,0" size="285,25">
 				<Children>
@@ -36,21 +36,21 @@
 				<Children>
 					<IBGRegionPanel dock="DOCK_TOP" margin="13,0,13,0" size="255,20">
 						<Children>
-							<IBGStaticEx name="pdfToWordTipStart" autoCalcHeight="true" autoCalcWidth="true" textClr="0x999999" endEllipsis="true" margin="0,0,0,0" dock="DOCK_LEFT">
+							<IBGStaticEx name="OnlineDocExportTipStart" autoCalcHeight="true" autoCalcWidth="true" textClr="0x999999" endEllipsis="true" margin="0,0,0,0" dock="DOCK_LEFT">
 								<Properties>
 									<textFont>
 										<IBGFont height="18"/>
 									</textFont>
 								</Properties>
 							</IBGStaticEx>
-							<IBGStaticEx name="pdfToWordTipFileName" size="100,20" textClr="0x999999" endEllipsis="true" margin="0,0,0,0" dock="DOCK_LEFT">
+							<IBGStaticEx name="OnlineDocExportTipFileName" size="100,20" textClr="0x999999" endEllipsis="true" margin="0,0,0,0" dock="DOCK_LEFT">
 								<Properties>
 									<textFont>
 										<IBGFont height="18"/>
 									</textFont>
 								</Properties>
 							</IBGStaticEx>
-							<IBGStaticEx name="pdfToWordTipEnd" autoCalcHeight="true" autoCalcWidth="true" textClr="0x999999" endEllipsis="true" margin="0,0,0,0" dock="DOCK_LEFT">
+							<IBGStaticEx name="OnlineDocExportTipEnd" autoCalcHeight="true" autoCalcWidth="true" textClr="0x999999" endEllipsis="true" margin="2,0,0,0" dock="DOCK_LEFT">
 								<Properties>
 									<textFont>
 										<IBGFont height="18"/>
@@ -61,14 +61,15 @@
 					</IBGRegionPanel>
 					<IBGRegionPanel dock="DOCK_TOP" margin="13,4,0,0" size="255,24">
 						<Children>
-							<IBGStaticEx name="pdfToWordSecondTip" autoCalcWidth="true" autoCalcHeight="true" textClr="0x999999" margin="0,0,0,4" dock="DOCK_LEFT">
+							<IBGStaticEx name="OnlineDocExportSecondTip" autoCalcWidth="true" autoCalcHeight="true" textClr="0x999999" margin="0,0,0,4" dock="DOCK_LEFT">
 								<Properties>
 									<textFont>
 										<IBGFont height="18"/>
 									</textFont>
 								</Properties>
 							</IBGStaticEx>
-							<IBGStaticEx name="viewDetail" autoCalcHeight="true" autoCalcWidth="true" margin="0, 0, 0, 4" handCursor="true" dock="DOCK_LEFT"/>
+							<IBGStaticEx name="ViewDetailLink" autoCalcHeight="true" autoCalcWidth="true" margin="0, 0, 0, 4" handCursor="true" dock="DOCK_LEFT"/>
+							<IBGStaticEx name="OpenFolderLink" autoCalcHeight="true" autoCalcWidth="true" margin="30, 0, 0, 4" handCursor="true" dock="DOCK_LEFT"/>
 						</Children>
 					</IBGRegionPanel>
 				</Children>
