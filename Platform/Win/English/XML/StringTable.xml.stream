@@ -932,7 +932,8 @@
   <String id="IDS_OFFLINEDOWNLOADLIST_ALREADEXIST" value="File already exists" />
   <String id="IDS_OFFLINEDOWNLOADLIST_DELETED" value="Task deleted" />
   <String id="IDS_OFFLINEDOWNLOADLIST_PARTSUCCESS" value="Download partially successful" />
-  
+  <String id="IDS_OFFLINEDOWNLOADLIST_SEARCH_RESOURCE" value="Looking for resources..." />
+
   <!--新建离线下载任务错误提示-->
   <String id="IDS_OFFLINEDOWNLOADTASK_TIP_PARAM_ERROR" value="Offline download error" />
   <String id="IDS_OFFLINEDOWNLOADTASK_TIP_RELOGIN" value="Please login and try again" />
@@ -1301,11 +1302,35 @@
   <String id="IDS_REMOTE_DOWNLOAD_STATIC_SUCCESS_OTHER_INTRODUCTION" value="The file sent by the other end has been successfully received" />
   <String id="IDS_REMOTE_DOWNLOAD_NOTIFY_START_VIEW_DETAIL" value="View progress>" />
   <String id="IDS_REMOTE_DOWNLOAD_NOTIFY_SUCCEED_VIEW_DETAIL" value="View now>" />
+  <String id="IDS_REMOTE_DOWNLOAD_CHECK_AUTO_RECV_AND_DOWNLOAD" value="Automatically receive and download fast file" />
 
   <String id="IDS_OFFLINEDOWNLOADTASK_CONTENT_VIOLATION" value="The offline file contains the content of the illegal file and cannot be downloaded" />
 
   <!--membership level-->
   <String id="IDS_SHARE_LINK_COPY_VIP_LEVEL_TIP" value="--From Baidu Netdisk Super MemberV%dShare of" />
   <String id="IDS_TIP_SVIP_MEMBER_UPLOAD_PRIVILEGE" value="HonorableV%dSuper member, you can upload large files~（Maximum %s）" />
+ <!--在线文档导出路径-->
+  <String id="IDS_EXPORT_ONLINEDOC_TASK_TITLE_TEXT" value="Choose export path" />
+  <String id="IDS_EXPORT_ONLINEDOC_TASK_EXPORT_BUTTON" value="Export" />
+  <String id="IDS_EXPORT_ONLINEDOC_TASK_SET_DEFAULT_EXPORTDIR" value="By default this path is the export path" />
+  <String id="IDS_EXPORT_ONLINEDOC_TASK_STATIC_TEXT_EXPORTDIR" value="Export to" />
+  <String id="IDS_EXPORT_ONLINEDOC_TASK_EXPORT_SUCCESS_TIP" value="Export successfully  " />
+  <String id="IDS_EXPORT_ONLINEDOC_TASK_EXPORT_FAILE_TIP" value="Export failed" />
+  <String id="IDS_EXPORT_ONLINEDOC_TASK_EXPORT_TRANSFORM_FAILE_TIP" value="Document conversion failed" />
+
+  <!--文件导出路径-->
+  <String id="IDS_FILE_EXPORT_DIR_TIP" value="File export location selection：" />
+  <String id="IDS_FILE_EXPORT_MAKE_DEFAULT_EXPORT_DIR" value="By default this path is the export path" />
+  <String id="IDS_SETTING_STATIC_TEXT_EXPORT_DEFAULTDIR" value="Netdisk export file" />
+
+  <!--在线文档导出托盘-->
+  <String id="IDS_EXPORTONLINEDOC_NOTIFY_SUCCEED_TITLE" value="Export successfully" />
+  <String id="IDS_EXPORTONLINEDOC_NOTIFY_SUCCEED_START_TIP" value="Has been" />
+  <String id="IDS_EXPORTONLINEDOC_NOTIFY_SUCCEED_END_TIP" value="Export as %s Documentation" />
+  <String id="IDS_EXPORTONLINEDOC_NOTIFY_SUCCEED_OPEN_DOC" value="Open document" />
+  <String id="IDS_EXPORTONLINEDOC_NOTIFY_SUCCEED_OPEN_FOLDER" value="Open the folder" />
+  <String id="IDS_EXPORTONLINEDOC_NOTIFY_FAIL_TITLE" value="Export failed" />
+  <String id="IDS_EXPORTONLINEDOC_NOTIFY_FAIL_RETRY" value="Retry" />
+  <String id="IDS_EXPORTONLINEDOC_NOTIFY_FAIL_EXISTEXPORTING" value="There are files being exported, please try again when finished" />
 
 </StringTable>

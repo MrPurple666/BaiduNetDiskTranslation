@@ -16,7 +16,7 @@
 								<Children>
 									<IBGRegionPanel size="84,34" margin="0, 0, 0, 0" dock="DOCK_LEFT">
 										<Children>
-											<IBGStaticEx name="totalProgTip" autoCalcHeight="true" autoCalcWidth="true" textClr="0x89683c" text="$2256"margin="14, 10, 0, 8" dock="DOCK_LEFT"/>
+											<IBGStaticEx name="totalProgTip" autoCalcHeight="true" autoCalcWidth="true" textClr="0x89683c" text="$2256" margin="14, 10, 0, 8" dock="DOCK_LEFT"/>
 										</Children>
 									</IBGRegionPanel>
 									<IBGButton name="delBtn" dock="DOCK_RIGHT" size="80,23" config="button" text="$2263" margin="0, 8, 20, 3"/>
@@ -64,7 +64,7 @@
 											</textFont>
 										</Properties>
 									</IBGStaticEx>
-									<IBGStaticEx autoCalcHeight="true" autoCalcWidth="true" text="$2273"textClr="0x343434" margin="0, 6, 0, 6" dock="DOCK_LEFT">
+									<IBGStaticEx autoCalcHeight="true" autoCalcWidth="true" text="$2273" textClr="0x343434" margin="0, 6, 0, 6" dock="DOCK_LEFT">
 										<Properties>
 											<textFont>
 												<IBGFont height="22"/>
@@ -112,29 +112,29 @@
 					<IBGRegionPanel name="transUpTipPanel" size="0,54" dock="DOCK_TOP" unseen="true">
 						<Children>
 							<IBGRegionPanel name="vipTipPanel" size="0,54" dock="DOCK_TOP" config="TransTipPanel" unseen="true">
-						<Children>
-							<IBGGIFControl dock="DOCK_LEFT" margin="14,4,8,4" image="Resource:MainFrame\\MainPanel\\TransPanel\\tips_smile.png" size="16, 16"></IBGGIFControl>
-							<IBGStaticEx name="tipStatic" autoCalcHeight="true" autoCalcWidth="true" textClr="0x0877d5" text="$2301" margin="0, 4, 0, 4" dock="DOCK_LEFT"/>
-							<IBGButton name="tipCloseBtn" size="10,10" margin="0,7,20,7" dock="DOCK_RIGHT">
-								<Properties>
-									<normalDraw>
-										<IBGVeins file="Resource:MainFrame\\MainPanel\\TransPanel\\tips_close_normal.png" drawStyle="DRAWMODE_NORMAL" transparent="true" colorize="false"/>
-									</normalDraw>
-									<onDraw>
-										<IBGVeins file="Resource:MainFrame\\MainPanel\\TransPanel\\tips_close_highlight.png" drawStyle="DRAWMODE_NORMAL" transparent="true" colorize="false"/>
-									</onDraw>
-									<downDraw>
-										<IBGVeins file="Resource:MainFrame\\MainPanel\\TransPanel\\tips_close_down.png" drawStyle="DRAWMODE_NORMAL" transparent="true" colorize="false"/>
-									</downDraw>
-								</Properties>
-							</IBGButton>
-						</Children>
-					</IBGRegionPanel>
-					<!-- 自动备份提示条区域（用于正在上传列表） -->
+								<Children>
+									<IBGGIFControl dock="DOCK_LEFT" margin="40,19,0,14" image="Resource:MainFrame\\MainPanel\\TransPanel\\tips_smile.png" size="16, 16"></IBGGIFControl>
+									<IBGStaticEx name="vipTipStatic" autoCalcHeight="true" autoCalcWidth="true" textClr="0x0877d5" text="$2301" margin="4, 19, 0, 4" dock="DOCK_LEFT"/>
+									<IBGButton name="vipTipCloseBtn" size="10,10" margin="0,22,20,22" dock="DOCK_RIGHT">
+										<Properties>
+											<normalDraw>
+												<IBGVeins file="Resource:MainFrame\\MainPanel\\TransPanel\\tips_close_normal.png" drawStyle="DRAWMODE_NORMAL" transparent="true" colorize="false"/>
+											</normalDraw>
+											<onDraw>
+												<IBGVeins file="Resource:MainFrame\\MainPanel\\TransPanel\\tips_close_highlight.png" drawStyle="DRAWMODE_NORMAL" transparent="true" colorize="false"/>
+											</onDraw>
+											<downDraw>
+												<IBGVeins file="Resource:MainFrame\\MainPanel\\TransPanel\\tips_close_down.png" drawStyle="DRAWMODE_NORMAL" transparent="true" colorize="false"/>
+											</downDraw>
+										</Properties>
+									</IBGButton>
+								</Children>
+							</IBGRegionPanel>
+							<!-- 自动备份提示条区域（用于正在上传列表） -->
 							<IBGRegionPanel name="autoBackupTipPanel" size="0,54" dock="DOCK_TOP" config="SpeedupTicketTipPannel" unseen="true">
 								<Children>
-									<IBGStaticEx name="autoBackupTipStatic" autoCalcHeight="true" autoCalcWidth="true" textClr="0xfeab0f" text="$3141" margin="40, 19, 0, 4" dock="DOCK_LEFT"/>
-									<IBGButton name="autoBackupTryBtn" dock="DOCK_LEFT" size="100,24" text="$3142" config="SpeedupUseBtn" margin="30, 10, 0, 10"/>
+									<IBGStaticEx name="autoBackupTipStatic" autoCalcHeight="true" autoCalcWidth="true" textClr="0xfeab0f" text="$3142" margin="40, 19, 0, 4" dock="DOCK_LEFT"/>
+									<IBGButton name="autoBackupTryBtn" dock="DOCK_LEFT" size="100,24" text="$3143" config="SpeedupUseBtn" margin="30, 10, 0, 10"/>
 									<IBGButton name="autoBackuptipCloseBtn" dock="DOCK_RIGHT" size="10,10" config="SpeedupCloseBtn" toolText="$2764" margin="0, 22, 20, 22"/>
 								</Children>
 							</IBGRegionPanel>
@@ -337,14 +337,14 @@
 			<!-- 速度反馈提示区域 -->
 			<IBGRegionPanel name="SpeedFeedbackTipPannel" unseen="true" size="190,37" dock="DOCK_NULL" config="SpeedupTipPannel">
 				<Children>
-					<IBGStaticEx autoCalcHeight="true" autoCalcWidth="true" text="$3010" dock="DOCK_LEFT" textClr="0x333333" margin="10, 10, 0, 0">
+					<IBGStaticEx autoCalcHeight="true" autoCalcWidth="true" text="$3011" dock="DOCK_LEFT" textClr="0x333333" margin="10, 10, 0, 0">
 						<Properties>
 							<textFont>
 								<IBGFont height="18"/>
 							</textFont>
 						</Properties>
 					</IBGStaticEx>
-					<IBGStaticEx name="feedbackLink" autoCalcHeight="true" autoCalcWidth="true" text="$3011" margin="5, 10, 0, 2" handCursor="true" dock="DOCK_LEFT">
+					<IBGStaticEx name="feedbackLink" autoCalcHeight="true" autoCalcWidth="true" text="$3012" margin="5, 10, 0, 2" handCursor="true" dock="DOCK_LEFT">
 						<Children>
 							<IBGLinkItem config="linkItem" positionMode="true" position="0,-1"/>
 						</Children>

@@ -514,6 +514,7 @@
   <s id="1024">Safe Box</s>
   <s id="1025">Calculation failed, server is busy</s>
   <s id="1026">File count calculation failed, server is busy</s>
+  <s id="1027">Online documentation</s>
 
   <!--文件历史版本相关提醒对话框-->
   <s id="1100">Open now</s>
@@ -805,6 +806,8 @@
   <s id="1709">Opening Super Members will enjoy super capacity + 15 privilege</s>
   <s id="1710">Capacity will be full,</s>
   <s id="1711">Capacity is full,</s>
+  <s id="1712">Because you haven't logged in for more than a year, your space has been recovered to 100G</s>
+  <s id="1713">Details</s>
 
   <!--传输列表面板-->
   <s id="1800">Downloading</s>
@@ -1029,7 +1032,7 @@
   <s id="2360">取消上传</s>
   <s id="2361">PDF转Word</s>
   <s id="2362">Mobile phone</s>
-
+  <s id="2363">Export</s>
   <!--最近使用视图-->
   <s id="2365">To clear the record</s>
   <s id="2366">Delete the file</s>
@@ -1362,6 +1365,17 @@
   <!--Fast file transfer-->
   <s id="3750">Fast file transfer</s>
 
+  <!--第三方登录-->
+  <s id="3751">Sina</s>
+  <s id="3752">Everyone</s>
+  <s id="3753">QQ</s>
+  <s id="3754">I know</s>
+  <s id="3755">Sign in with</s>
+  <s id="3756">You will access Baidu Netdisk with this account </s>
+  <s id="3757">logging in... </s>
+  <s id="3758">Network is busy, please try again later</s>
+  <s id="3759">Your %s The account has been bound to a Baidu account</s>
+
   <!--membership level-->
   <s id="3760">Honorable V%d VIP</s>
   <s id="3761">Honorable V%d Super VIP</s>
@@ -1375,4 +1389,9 @@
   <s id="3767">File appeal, submitted successfully</s>
   <s id="3768">Do not appeal normal files</s>
   <s id="3769">Recognizing...</s>
+  <!--在线文档导出-->
+  <s id="4000">Exporting...</s>
+  <s id="4001">Cancel</s>
+  <s id="4002">The export path has no write permission, please run Baidu Net Disk as an administrator</s>
+
 </string>
