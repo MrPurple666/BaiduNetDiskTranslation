@@ -19,8 +19,8 @@
 
       </dlg>
 
-      <imgbtn name="btn_ok" pos="223,274, 303, 299" width="80" height="25" animate="true" cursor="arrow"  class="button" >确定</imgbtn>
-      <imgbtn name="btn_cancel" pos="318,274, 398, 299" width="80" height="25" animate="true" cursor="arrow" class="button" >关闭</imgbtn>
+      <imgbtn name="btn_ok" pos="223,274, 303, 299" width="80" height="25" animate="true" cursor="arrow"  class="button" >OK</imgbtn>
+      <imgbtn name="btn_cancel" pos="318,274, 398, 299" width="80" height="25" animate="true" cursor="arrow" class="button" >Отмена</imgbtn>
 
 
     </dlg>

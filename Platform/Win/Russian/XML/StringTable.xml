@@ -551,7 +551,7 @@
   <String id="IDS_STATIC_CHANGE_ACCOUNT_TIP2" value="После переключения аккаунтов скорость загрузки  будут остановлены. Продолжить?" />
   <String id="IDS_SETTING_BUTTON_TEXT_BROWSE" value="Обзор" />
   <String id="IDS_SETTING_BUTTON_TEXT_OPEN" value="Открыть" />
-  <String id="IDS_SETTING_STATIC_TEXT_DOWNLOADDIR" value="Путь для загр" />
+  <String id="IDS_SETTING_STATIC_TEXT_DOWNLOADDIR" value="Путь для загрузки" />
   <String id="IDS_SETTING_STATIC_TEXT_DOWNLOADDIR_INVALID" value="Ограничения доступа к системе, пожалуйста, выберите заново" />
   <String id="IDS_SETTING_STATIC_TEXT_DOWNLOADDIR_NOTEXIST" value="Эта папка не существует" />
 
@@ -618,7 +618,7 @@
 
   <!--Настройки удаленного нажатия-->
   <String id="IDS_STATIC_CLOUDPUSH_TITLE" value="Спящий режим:" />
-  <String id="IDS_STATIC_PUSH_ON_SLEEP" value="Передача задания, ваш компьютер не в спящем режиме" />
+  <String id="IDS_STATIC_PUSH_ON_SLEEP" value="Перевести ваш компьютер не в спящий режим" />
   <String id="IDS_STATIC_PUSH_ON_SLEEP_TIP" value="Baidu Cloud будет продолжать выполнять задание на низкой скорости во время сна." />
 
 
@@ -1281,8 +1281,8 @@
    <String id="IDS_P2P_SVIP_SPEEDUP_TIP" value="SVIP ускорить %s"/>
    <String id="IDS_HELP_EACHOTHER_FUNCTION" value="Ускорение загрузки" />
    <String id="IDS_P2P_SVIP_SPEEDUP_SLOW_TIP" value="SVIP Ускорение получения ссылки..."/>
-   <String id="IDS_HELP_EACHOTHER_CLOSE" value="Подойди ближе" />
-   <String id="IDS_HELP_EACHOTHER_OPEN" value="Перейти к открытию" />
+   <String id="IDS_HELP_EACHOTHER_CLOSE" value="Отключить ускорение" />
+   <String id="IDS_HELP_EACHOTHER_OPEN" value="Включить ускорение" />
 
    <!--Новая версия автоматического резервного копирования-->
   <String id="IDS_AUTOBACKUP_GUIDE_TIP" value="Не нужно загружать вручную! Включите автоматическое резервное копирование папок, чтобы просматривать часто используемые файлы на вашем компьютере в любое время и в любом месте." />

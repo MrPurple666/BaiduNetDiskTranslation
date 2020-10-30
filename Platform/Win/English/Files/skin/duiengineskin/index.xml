@@ -102,6 +102,10 @@
 <!--文件夹自动备份-->
 <resid type="XML" name="IDR_DUI_AUTOBACKUP_DIALOG" layer="1" file="xml\AutoBackupDlg\AutoBackupDlg.xml"/>
 <resid type="XML" name="IDR_DUI_AUTOBACKUP_VIEW_PANEL" file="xml\AutoBackupDlg\AutoBackupViewPanel.xml"/>
+
+<!--第三方登录-->
+<resid type="XML" name="IDR_DUI_LOGIN_THIRD_PARTY" layer="1" file="xml\dlg_login_third_party.xml"/>
+
 <!--窗口背景资源-->
 <resid type="IMGX" name="IDP_MAIN_DLG_FRAME" file="image\common\window\windowBkg.png"  />
 <resid type="IMGX" name="IDP_MESSAGEBOX_BACKGROUND_FRAME" file="image\common\window\MsgBxBk_New.png"  />
@@ -418,7 +422,6 @@
 <resid type="IMGX" name="IDP_IMG_FILETYPE_BIG_GENERAL" file="image\FileType\Big\GeneralType.png"/>
 <resid type="IMGX" name="IDP_IMG_FILETYPE_BIG_PAND" file="image\FileType\Big\PandType.png"/>
 
-
 <!--文件类型资源-->
 <resid type="IMGX" name="IDP_FILECATEGORY_ALL" file="image\FileCategory\all.png"/>
 <resid type="IMGX" name="IDP_FILECATEGORY_APP" file="image\FileCategory\app.png"/>
@@ -722,6 +725,7 @@
 <resid type="IMGX" name="IDP_MAINPANEL_TOOLBAR_SORT" file="image\MainPanel\NetdiskPanel\Toolbar\sort.png"/>
 <resid type="IMGX" name="IDP_MAINPANEL_TOOLBAR_CLEAR" file="image\MainPanel\NetdiskPanel\Toolbar\clear.png"/>
 <resid type="IMGX" name="IDP_MAINPANEL_TOOLBAR_OPENFOLDER" file="image\MainPanel\NetdiskPanel\Toolbar\openfolder.png"/>
+<resid type="IMGX" name="IDP_MAINPANEL_TOOLBAR_EXPORT_ONLINEDOC" file="image\MainPanel\NetdiskPanel\Toolbar\export_onlinedoc_word.png"/>
 <resid type="IMGX" name="IDP_SAFEBOX_QUOTA_DETAIL" file="image\MainPanel\NetdiskPanel\Toolbar\safebox_quota_detail.png"/>
 <resid type="IMGX" name="IDP_SAFEBOX_QUOTA_BUY_VIP" file="image\MainPanel\NetdiskPanel\Toolbar\safebox_quota_buy_vip.png"/>
 <resid type="IMGX" name="IDP_SAFEBOX_QUOTA_BUY_SVIP" file="image\MainPanel\NetdiskPanel\Toolbar\safebox_quota_buy_svip.png"/>
@@ -773,6 +777,7 @@
 <resid type="IMGX" name="IDP_MAINPANEL_LISTVIEW_TRANS_PAUSE" file="image\MainPanel\NetdiskPanel\ViewContainerPanel\ListView\pause.png"/>
 <resid type="IMGX" name="IDP_MAINPANEL_LISTVIEW_TRANS_UPLOAD" file="image\MainPanel\NetdiskPanel\ViewContainerPanel\ListView\upload.png"/>
 <resid type="IMGX" name="IDP_MAINPANEL_LISTVIEW_TRANS_WAIT" file="image\MainPanel\NetdiskPanel\ViewContainerPanel\ListView\wait.png"/>
+<resid type="IMGX" name="IDP_MAINPANEL_LISTVIEW_EXPORT_ONLINEDOC" file="image\MainPanel\NetdiskPanel\ViewContainerPanel\ListView\export_onlinedoc_word.png"/>
 <resid type="IMGX" name="IDP_MAINPANEL_EMPTYVIEW_EMPTY" file="image\MainPanel\NetdiskPanel\ViewContainerPanel\EmptyView\empty.png"/>
 <resid type="IMGX" name="IDP_MAINPANEL_EMPTYVIEW_LOADING" file="image\MainPanel\NetdiskPanel\ViewContainerPanel\EmptyView\loading.png"/>
 <resid type="IMGX" name="IDP_MAINPANEL_EMPTYVIEW_ERROR" file="image\MainPanel\NetdiskPanel\ViewContainerPanel\EmptyView\error.png"/>
@@ -926,6 +931,9 @@
 <resid type="IMGX" name="IDP_LOGINDEVICESTATUS_DLG_HEAD_FRAME" file="image\LoginDeviceStatusDlg\head_frame.png"/>
 <resid type="IMGX" name="IDP_LOGINDEVICESTATUS_DLG_ARROW_BTN" file="image\LoginDeviceStatusDlg\arrow_btn.png"/>
 <resid type="IMGX" name="IDP_LOGINDEVICESTATUS_DLG_RETURN_BTN" file="image\LoginDeviceStatusDlg\return_btn.png"/>
+<!--第三方登录-->
+<resid type="IMGX" name="IDP_LOGIN_THIRD_PARTY_REFRESH_BTN" file="image\LoginDlg\refreshbtn.png"/>
+
 <!--会员等级-->
 <resid type="IMGX" name="IDP_MEMBER_SMALL_ICON_SVIP_LEVEL_1"  file="image\MemberLevelIcon\small_icon_svip1.png"/>
 <resid type="IMGX" name="IDP_MEMBER_SMALL_ICON_SVIP_LEVEL_2"  file="image\MemberLevelIcon\small_icon_svip2.png"/>
@@ -945,3 +953,20 @@
 <resid type="IMGX" name="IDP_MEMBER_SMALL_ICON_SVIP_LEVEL_7_GRAY" file="image\MemberLevelIcon\small_icon_svip7_gray.png"/>
 <resid type="IMGX" name="IDP_MEMBER_SMALL_ICON_SVIP_LEVEL_8_GRAY" file="image\MemberLevelIcon\small_icon_svip8_gray.png"/>
 
+<resid type="IMGX" name="IDP_MEMBER_SMALL_ICON_VIP_LEVEL_1"   file="image\MemberLevelIcon\small_icon_vip1.png"/>
+<resid type="IMGX" name="IDP_MEMBER_SMALL_ICON_VIP_LEVEL_2"   file="image\MemberLevelIcon\small_icon_vip2.png"/>
+<resid type="IMGX" name="IDP_MEMBER_SMALL_ICON_VIP_LEVEL_3"   file="image\MemberLevelIcon\small_icon_vip3.png"/>
+<resid type="IMGX" name="IDP_MEMBER_SMALL_ICON_VIP_LEVEL_4"   file="image\MemberLevelIcon\small_icon_vip4.png"/>
+<resid type="IMGX" name="IDP_MEMBER_SMALL_ICON_VIP_LEVEL_5"   file="image\MemberLevelIcon\small_icon_vip5.png"/>
+<resid type="IMGX" name="IDP_MEMBER_SMALL_ICON_VIP_LEVEL_6"   file="image\MemberLevelIcon\small_icon_vip6.png"/>
+<resid type="IMGX" name="IDP_MEMBER_SMALL_ICON_VIP_LEVEL_7"   file="image\MemberLevelIcon\small_icon_vip7.png"/>
+<resid type="IMGX" name="IDP_MEMBER_SMALL_ICON_VIP_LEVEL_8"   file="image\MemberLevelIcon\small_icon_vip8.png"/>
+
+<resid type="IMGX" name="IDP_MEMBER_SMALL_ICON_VIP_LEVEL_1_GRAY" file="image\MemberLevelIcon\small_icon_vip1_gray.png"/>
+<resid type="IMGX" name="IDP_MEMBER_SMALL_ICON_VIP_LEVEL_2_GRAY" file="image\MemberLevelIcon\small_icon_vip2_gray.png"/>
+<resid type="IMGX" name="IDP_MEMBER_SMALL_ICON_VIP_LEVEL_3_GRAY" file="image\MemberLevelIcon\small_icon_vip3_gray.png"/>
+<resid type="IMGX" name="IDP_MEMBER_SMALL_ICON_VIP_LEVEL_4_GRAY" file="image\MemberLevelIcon\small_icon_vip4_gray.png"/>
+<resid type="IMGX" name="IDP_MEMBER_SMALL_ICON_VIP_LEVEL_5_GRAY" file="image\MemberLevelIcon\small_icon_vip5_gray.png"/>
+<resid type="IMGX" name="IDP_MEMBER_SMALL_ICON_VIP_LEVEL_6_GRAY" file="image\MemberLevelIcon\small_icon_vip6_gray.png"/>
+<resid type="IMGX" name="IDP_MEMBER_SMALL_ICON_VIP_LEVEL_7_GRAY" file="image\MemberLevelIcon\small_icon_vip7_gray.png"/>
+<resid type="IMGX" name="IDP_MEMBER_SMALL_ICON_VIP_LEVEL_8_GRAY" file="image\MemberLevelIcon\small_icon_vip8_gray.png"/>

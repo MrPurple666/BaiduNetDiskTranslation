@@ -1,5 +1,5 @@
 <UI version="1.0">
-	<IBGCommonWin name="settingDialog" rect="0,0,730,470" sysBtnConfig="mainPanel_CapButton" selfDrawCaption="true" unvariedSize="true" showCloseButton="true" showMinButton="true" showMaxButton="false" config="mainPanel">
+	<IBGCommonWin name="settingDialog" rect="0,0,730,490" sysBtnConfig="mainPanel_CapButton" selfDrawCaption="true" unvariedSize="true" showCloseButton="true" showMinButton="true" showMaxButton="false" config="mainPanel">
 		<Children>
 			<IBGRegionPanel sizeAsParent="true">
 				<Children>
@@ -163,7 +163,7 @@
 															<!--下载文件位置选择-->
 															<IBGRegionPanel size="510,79" margin="0,16,0,0" dock="DOCK_TOP" autoCalcHeight="true">
 																<Children>
-																	<IBGStaticEx size="60,15" name="loacationInfo" text="$2536" margin="0,0,0,0" dock="DOCK_TOP"/>
+																	<IBGStaticEx size="150,15" name="loacationInfo" text="$2536" margin="0,0,0,0" dock="DOCK_TOP"/>
 																	<IBGRegionPanel size="510,32" margin="0,0,0,0" dock="DOCK_TOP">
 																		<Children>
 																			<IBGEdit size="300, 22" margin="2, 9, 10, 1" name="PathEdit" tabOrder="12" dock="DOCK_LEFT" config="seting_edit" enable="true" readOnly="true"/>
@@ -227,11 +227,11 @@
 																	<IBGButton name="p2pSwitchBtn" dock="DOCK_TOP" size="150,26" config="button" text="$3141" margin="4, 6, 0, 6"/>
 																</Children>
 															</IBGRegionPanel>
-															<IBGRegionPanel size="510,32" margin="0,0,0,0" dock="DOCK_TOP">
+															<IBGRegionPanel size="510,32" margin="0,0,0,0" dock="DOCK_BOTTOM">
 																<Children>
 																	<IBGRadioLogic name="turnOnP2pMode"/>
-																	<IBGCheckButton name="turnOnOverspeedMode" size="70,14" margin="0, 5, 3, 8" text="$3129" radio="true" check="true" dock="DOCK_LEFT" config="radioButton"/>
-																	<IBGCheckButton name="turnOnGetScoreMode" size="70,14" margin="86, 5, 3, 8" text="$3131" radio="true" check="false" dock="DOCK_LEFT" config="radioButton"/>
+																	<IBGCheckButton name="turnOnOverspeedMode" size="130,14" margin="0, 5, 3, 8" text="$3129" radio="true" check="true" dock="DOCK_LEFT" config="radioButton"/>
+																	<IBGCheckButton name="turnOnGetScoreMode" size="198,14" margin="86, 5, 3, 8" text="$3131" radio="true" check="false" dock="DOCK_LEFT" config="radioButton"/>
 																</Children>
 															</IBGRegionPanel>
 														</Children>
