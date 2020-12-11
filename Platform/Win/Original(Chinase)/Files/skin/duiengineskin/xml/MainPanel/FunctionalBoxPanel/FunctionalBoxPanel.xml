@@ -1,46 +1,93 @@
-<dlg name="FunctionalBoxContainerPanel" pos="0,0,-0,-0">
-  <dlg pos="|-115,%15,@230,@58">
-    <text pos="0,0,-0,27" class="functional_panel_head_tip">%str290%</text>
-    <text pos="0,37,-0,-0" class="functional_panel_head_tip1">%str291%</text>
+<dlg name="FunctionalBoxContainerPanel" pos="0,0,-0,-0" crbg="F5F6FA">
+  <dlg pos="|-452,|-240,@100,@20">
+    <text pos="0,0,-0,-0" class="functional_panel_head_tip">%str290%</text>
   </dlg>
-  <dlg name="FunctionalBoxPanel" pos="|-425,|-80,@850,@160">
-    <!--垃圾文件清理-->
-    <dlg name="GarbageClean" pos="0,0,@140,@160">
-      <imgbtn name="garbageclean_btn" pos="0,0,-0,-0" skin="function_btn_img" class="functional_panel_btn_text" icoskin="function_garbageclean_img" cursor="arrow" icoxoffset="33" icoyoffset="20" txtyoffset="110">%str297%</imgbtn>
-      <img name="garbageclean_svip_icon" pos="-48,8,@46,@20" skin="function_svip_only_img"/>
-      <text pos="0,-25,-0,-5" class="functional_panel_btn_tip">%str298%</text>
+  <dlg name="FunctionalBoxPanel" pos="|-452,|-200,@884,@308">
+    <!--手机端下载-->
+    <dlg name="AppDownload" pos="0,0,@218,@102">
+      <imgbtn name="appdownload_btn" pos="0,0,-0,-0" skin="function_btn_img" icoskin="function_app_download_img" cursor="arrow" icoxoffset="24" icoyoffset="36" ></imgbtn>
+      <text pos="62,34" class="functional_panel_btn_text">%str4077%</text>
+      <img pos="[2,37,@14,@14" skin="function_arrow_icon" />
+      <text pos="62,[5" class="functional_panel_btn_tip">%str4074%</text>
+      <check name="appdownload_collect_icon" pos="-38,20,@20,@20" skin="function_collect_star_icon" focusskin="function_collect_focus_skin" state="4" show="0"/>
     </dlg>
-    <!--自动备份-->
-    <dlg name="AutoBackup" pos="[35,0,@140,@160">
-      <imgbtn name="autobackup_btn" pos="0,0,-0,-0" skin="function_btn_img" class="functional_panel_btn_text" icoskin="function_backup_img" cursor="arrow" icoxoffset="33" icoyoffset="20" txtyoffset="110">%str287%</imgbtn>
-      <img name="autobackup_vip_icon" pos="-48,8,@40,@20" skin="function_vip_only_img"/>
-      <text pos="0,-25,-0,-5" class="functional_panel_btn_tip">%str295%</text>
-    </dlg>
-    <!--回收站-->
-    <dlg name="Recycle" pos="[35,0,@140,@160">
-      <imgbtn name="recycle_btn" pos="0,0,-0,-0" skin="function_btn_img" class="functional_panel_btn_text" icoskin="function_recycle_img" cursor="arrow" icoxoffset="33" icoyoffset="20" txtyoffset="110">%str289%</imgbtn>
-      <text pos="0,-25,-0,-5" class="functional_panel_btn_tip">%str296%</text>
-    </dlg>
+  
     <!--锁定云管家-->
-    <dlg name="LockBtnPanel" pos="[35,0,@140,@160">
-      <imgbtn name="lock_btn" pos="0,0,-0,-0" skin="function_btn_img" class="functional_panel_btn_text" icoskin="function_lock_img" cursor="arrow" icoxoffset="33" icoyoffset="20" txtyoffset="110">%str288%</imgbtn>
-      <text pos="0,-25,-0,-5" class="functional_panel_btn_tip">%str294%</text>
+    <dlg name="LockPanel" pos="[12,0,@218,@102">
+      <imgbtn name="lock_btn" pos="0,0,-0,-0" skin="function_btn_img" icoskin="function_lock_img" cursor="arrow" icoxoffset="24" icoyoffset="36" ></imgbtn>
+      <text pos="70,34" class="functional_panel_btn_text">%str288%</text>
+      <text pos="70,[2" class="functional_panel_btn_tip">%str294%</text>
+      <check name="lock_collect_icon" pos="-38,20,@20,@20" skin="function_collect_star_icon" focusskin="function_collect_focus_skin" state="4" show="0"/>
     </dlg>
-	<!--设备管理入口-->
-    <dlg name="DeviceManage" pos="[25,0,@160,@160">
-      <imgbtn name="devicemanage_btn" pos="0,0,-0,-0" skin="function_btn_img" class="functional_panel_btn_text" icoskin="function_devicemanage_img" cursor="arrow" icoxoffset="43" icoyoffset="20" txtyoffset="110">%str3435%</imgbtn>
-      <img name="devicemanage_new_icon" pos="-58,8,@38,@18" skin="function_new_img"/>
-  	  <text pos="0,-25,-0,-5" class="functional_panel_btn_tip">%str3436%</text>
+    
+    <!--自动备份-->
+    <dlg name="AutoBackup" pos="[12,0,@218,@102">
+      <imgbtn name="autobackup_btn" pos="0,0,-0,-0" skin="function_btn_img" icoskin="function_backup_img" cursor="arrow" icoxoffset="24" icoyoffset="36" ></imgbtn>
+      <text pos="70,34" class="functional_panel_btn_text">%str291%</text>
+      <img name="autobackup_vip_icon" pos="[2,36,@29,@15" skin="function_free_img"/>
+      <text pos="70,[4" class="functional_panel_btn_tip">%str295%</text>
+      <check name="autobackup_collect_icon" pos="-38,20,@20,@20" skin="function_collect_star_icon" focusskin="function_collect_focus_skin" state="4" show="0"/>
     </dlg>
+    
+    <!--微信、QQ备份-->
+    <dlg name="WeChatQQBackup" pos="[12,0,@218,@102">
+      <imgbtn name="wechatqqbackup_btn" pos="0,0,-0,-0" skin="function_btn_img" icoskin="function_wechatqq_backup_img" cursor="arrow" icoxoffset="24" icoyoffset="36" ></imgbtn>
+      <text pos="70,34" class="functional_panel_btn_text">%str299%</text>
+      <text pos="70,[2" class="functional_panel_btn_tip">%str4070%</text>
+      <check name="wechatqqbackup_collect_icon" pos="-38,20,@20,@20" skin="function_collect_star_icon" focusskin="function_collect_focus_skin" state="4" show="0"/>
+    </dlg>
+    
+    <!--设备管理入口-->
+    <dlg name="DeviceManage" pos="0,114,@218,@102">
+      <imgbtn name="devicemanage_btn" pos="0,0,-0,-0" skin="function_btn_img" icoskin="function_devicemanage_img" cursor="arrow" icoxoffset="24" icoyoffset="36" ></imgbtn>
+      <text pos="70,34" class="functional_panel_btn_text">%str3435%</text>
+      <img pos="[2,37,@14,@14" skin="function_arrow_icon" />
+      <img name="devicemanage_new_icon" pos="[2,38,@28,@15" skin="function_new_img"/>    
+  	  <text pos="70,[4" class="functional_panel_btn_tip">%str3436%</text>
+      <check name="devicemanage_collect_icon" pos="-38,20,@20,@20" skin="function_collect_star_icon" focusskin="function_collect_focus_skin" state="4" show="0"/>
+    </dlg>
+    
+    <!--回收站-->
+    <dlg name="Recycle" pos="[12,114,@218,@102">
+      <imgbtn name="recycle_btn" pos="0,0,-0,-0" skin="function_btn_img" icoskin="function_recycle_img" cursor="arrow" icoxoffset="24" icoyoffset="36" ></imgbtn>
+      <text pos="70,34" class="functional_panel_btn_text">%str289%</text>
+      <img pos="[2,37,@14,@14" skin="function_arrow_icon" />
+      <text pos="70,[5" class="functional_panel_btn_tip">%str296%</text>
+      <check name="recycle_collect_icon" pos="-38,20,@20,@20" skin="function_collect_star_icon" focusskin="function_collect_focus_skin" state="4" show="0"/>
+    </dlg>
+  
+    <!--垃圾文件清理-->
+    <dlg name="GarbageClean" pos="[12,114,@218,@102">
+      <imgbtn name="garbageclean_btn" pos="0,0,-0,-0" skin="function_btn_img" icoskin="function_garbageclean_img" cursor="arrow" icoxoffset="24" icoyoffset="36" ></imgbtn>  
+      <text pos="70,34" class="functional_panel_btn_text">%str297%</text>
+      <img name="garbageclean_svip_icon" pos="[2,36,@29,@15"  skin="function_svip_only_img"/>
+      <text pos="70,[4" class="functional_panel_btn_tip">%str298%</text>
+      <check name="garbageclean_collect_icon" pos="-38,20,@20,@20" skin="function_collect_star_icon" focusskin="function_collect_focus_skin" state="4" show="0"/>
+    </dlg>
+
+    <!--一刻相册-->
+    <dlg name="YikeAlbum" pos="[12,114,@218,@102">
+      <imgbtn name="yikeAlbum_btn" pos="0,0,-0,-0" skin="function_btn_img" icoskin="function_album_img" cursor="arrow" icoxoffset="24" icoyoffset="36" ></imgbtn>
+      <text pos="62,34" class="functional_panel_btn_text">%str4075%</text>
+      <img pos="[2,37,@16,@16" skin="function_arrow_icon" />
+      <text pos="62,[5" class="functional_panel_btn_tip">%str4076%</text>
+      <check name="yike_album_collect_icon" pos="-38,20,@20,@20" skin="function_collect_star_icon" focusskin="function_collect_focus_skin" state="4" show="0"/>
+    </dlg>
+    
     <!--数据线-->
-    <dlg name="DataCable" pos="[35,0,@140,@160" show="0">
-      <imgbtn name="datacable_btn" pos="0,0,-0,-0" skin="function_btn_img" class="functional_panel_btn_text" icoskin="function_datacable_img" cursor="arrow" icoxoffset="33" icoyoffset="20" txtyoffset="110">%str286%</imgbtn>
-      <text pos="0,-25,-0,-5" class="functional_panel_btn_tip">%str293%</text>
+    <dlg name="DataCable" pos="0,228,@218,@102" show="0">
+      <imgbtn name="datacable_btn" pos="0,0,-0,-0" skin="function_btn_img" icoskin="function_datacable_img" cursor="arrow" icoxoffset="24" icoyoffset="36" ></imgbtn>
+      <text pos="70,34" class="functional_panel_btn_text">%str286%</text>
+      <text pos="70,[2" class="functional_panel_btn_tip">%str293%</text>
+      <check name="datacable_collect_icon" pos="-38,20,@19,@19" skin="function_collect_star_icon" focusskin="function_collect_focus_skin" state="4" show="0"/>
     </dlg>
+    
     <!--手机忘带-->
-    <dlg name="Phone" pos="[35,0,@140,@160" show="0">
-      <imgbtn name="phone_btn" pos="0,0,-0,-0" skin="function_btn_img" class="functional_panel_btn_text" icoskin="function_phone_img" cursor="arrow" icoxoffset="33" icoyoffset="20" txtyoffset="110">%str285%</imgbtn>
-      <text pos="0,-25,-0,-5" class="functional_panel_btn_tip">%str292%</text>
+    <dlg name="Phone" pos="[12,228,@218,@102" show="0">
+      <imgbtn name="phone_btn" pos="0,0,-0,-0" skin="function_btn_img" icoskin="function_phone_img" cursor="arrow" icoxoffset="24" icoyoffset="36"></imgbtn>
+      <text pos="70,34" class="functional_panel_btn_text">%str285%</text>
+      <text pos="70,[2" class="functional_panel_btn_tip">%str292%</text>
+      <check name="phone_collect_icon" pos="-38,20,@19,@19"  skin="function_collect_star_icon" focusskin="function_collect_focus_skin" state="4" show="0"/>
     </dlg>
   </dlg>
 </dlg>

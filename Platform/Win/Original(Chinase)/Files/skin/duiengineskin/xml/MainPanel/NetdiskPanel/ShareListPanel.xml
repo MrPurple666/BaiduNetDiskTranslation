@@ -73,7 +73,7 @@
   <dlg name="sharelist_bottom" pos="0,-38,-0,-0" crbg="fbfbfb">
     <hr pos="0,0,-0,@1" crbg="eaecf2"/>
     <dlg name="sharelist_status" pos="0,1,-0,-0">
-      <text name="sharelist_count_tip" pos="16,|-9,160,@18" crtext="4c4c4c" font="0000:微软雅黑"></text>
+      <text name="sharelist_count_tip" pos="-40,|-9,-0,@18" crtext="4c4c4c" font="0000:微软雅黑"></text>
       <pagectrl pos="42,|-9,-40,@18" name="share_list_page" prebtn-skin="pagectrl_prebtn_bkg" nextbtn-skin="pagectrl_nextbtn_bkg"
       selClr="478de4" class="pagectrl_num"/>
     </dlg>

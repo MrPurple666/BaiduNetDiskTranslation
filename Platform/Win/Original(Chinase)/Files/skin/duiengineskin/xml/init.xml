@@ -105,6 +105,10 @@
         <imgframe name="btn_vip" src="IDP_BTN_VIP" subwidth="17" left="3" top="3" right="3" bottom="3" />
         <imgframe name="btn_svip" src="IDP_BTN_SVIP" subwidth="17" left="3" top="3" right="3" bottom="3" />
 
+        <imgframe name="btn_vip_round_angle" src="IDP_BTN_VIP_ROUND_ANGLE" subwidth="254" top="6" left="20" right="20" bottom="6" />
+        <imgframe name="btn_svip_round_angle" src="IDP_BTN_SVIP_ROUND_ANGLE" subwidth="254" top="6" left="20" right="20" bottom="6" />
+        <imgframe name="btn_default_round_angle" src="IDP_BTN_DEFAULT_ROUND_ANGLE" subwidth="254" top="6" left="20" right="20" bottom="6" />
+
         <!--数据线面板相关皮肤定义-->
         <gif name="connnecting_gif" src="IDP_GIF_DATACABLE_CONNECTING"/>
         <imgframe name="guide_image" src="IDP_IMG_DATACABLE_USERGUIDE"/>
@@ -206,19 +210,26 @@
         <imgframe name="share_groupqrcode_dlg_fail" src="IDP_IMG_SHARE_GROUPQRCODE_DLG_FAIL_BKG"/>
         <imgframe name="share_groupqrcode_dlg_head_mask" src="IDP_IMG_SHARE_GROUPQRCODE_DLG_HEAD_MASK"/>
         <!--功能宝箱面板相关皮肤定义-->
-        <imgframe name="function_datacable_img" src="IDP_IMG_FUNTION_DATACABLE" subwidth="74"/>
-        <imgframe name="function_phone_img" src="IDP_IMG_FUNTION_PHONE"/>
-        <imgframe name="function_backup_img" src="IDP_IMG_FUNTION_BACKUP" subwidth="74"/>
+        <imglst name="function_datacable_img" src="IDP_IMG_FUNTION_DATACABLE" subwidth="31"/>
+        <imgframe name="function_phone_img" src="IDP_IMG_FUNTION_PHONE" subwidth="31"/>
+        <imglst name="function_backup_img" src="IDP_IMG_FUNTION_BACKUP" subwidth="31"/>
         <imgframe name="function_vip_only_img" src="IDP_IMG_FUNTION_VIPONLY"/>
-        <imgframe name="function_lock_img" src="IDP_IMG_FUNTION_LOCK" subwidth="74"/>
-        <imgframe name="function_recycle_img" src="IDP_IMG_FUNTION_RECYCLE" subwidth="74"/>
-        <imgframe name="function_garbageclean_img" src="IDP_IMG_FUNTION_GARBAGECLEAN" subwidth="74"/>
-        <imgframe name="function_devicemanage_img" src="IDP_IMG_FUNTION_DEVICEMANAGE" subwidth="74"/>
+        <imglst name="function_lock_img" src="IDP_IMG_FUNTION_LOCK" subwidth="31"/>
+        <imglst name="function_recycle_img" src="IDP_IMG_FUNTION_RECYCLE" subwidth="31"/>
+        <imglst name="function_garbageclean_img" src="IDP_IMG_FUNTION_GARBAGECLEAN" subwidth="31"/>
+        <imglst name="function_devicemanage_img" src="IDP_IMG_FUNTION_DEVICEMANAGE" subwidth="31"/>
+        <imglst name="function_app_download_img" src="IDP_IMG_FUNTION_APP_DOWNLOAD" subwidth="31"/>
+        <imglst name="function_album_img" src="IDP_IMG_FUNTION_ALBUM" subwidth="31"/>
         <imgframe name="function_svip_only_img" src="IDP_IMG_FUNTION_SVIPONLY"/>
         <imgframe name="function_new_img" src="IDP_IMG_FUNTION_NEW"/>
         <imgframe name="function_free_img" src="IDP_IMG_FUNTION_FREE"/>
-        <imgframe name="function_btn_img" src="IDP_IMG_FUNTION_BTN_BKG" subwidth="16" left="2" right="2" top="2" bottom="2"/>
-        <!--视频清晰度皮肤定义-->
+        <imgframe name="function_btn_img" src="IDP_IMG_FUNTION_BTN_BKG" subwidth="236" left="20" right="20" top="20" bottom="20"/>
+        <imgframe name="function_collect_star_icon"  src="IDP_IMG_FUNTION_COLLECT_ICON" subwidth="20"/>
+        <imgframe name="function_arrow_icon" src="IDP_IMG_FUNTION_ARROW_ICON" />
+        <imglst name="function_wechatqq_backup_img" src="IDP_IMG_FUNTION_WACHARTQQ_BACKUP" subwidth="31"/>
+        <imgframe name="function_collect_focus_skin"  src="IDP_IMG_FUNTION_COLLECT_FOCUS_SKIN" />
+
+      <!--视频清晰度皮肤定义-->
         <imgframe name="definition_sviponly_script" src="IDP_IMG_DEFINITION_SVIPONLY_SCRIPT" />
         <imgframe name="definition_free_script" src="IDP_IMG_DEFINITION_FREE_SCRIPT"  />
         <imgframe name="definition_script" src="IDP_IMG_DEFINITION_SCRIPT"  />
@@ -356,9 +367,10 @@
         <imgframe name="errortipdlg_upgrade_btn" src="IDP_ERRORTIPDLG_UPGRADE_BTN" subwidth="120"/>
         <imgframe name="errortipdlg_guide_bug_img" src="IDP_ERRORTIPDLG_GUIDE_BUY"/>
         <imgframe name="errortipdlg_guide_upgrade_img" src="IDP_ERRORTIPDLG_GUIDE_UPGRADE"/>
-        <gif name="gif_prepare_unzip" src="IDP_GIF_PREPARE_UNZIP"/>
-
-        <!--文件属性相关皮肤定义-->
+        <imgframe name="compresspackage_guide_image" src="IDP_COMPRESSPACKAGE_GUIDE_IMG"/>
+        <gif name="gif_prepare_unzip" src="IDP_GIF_PREPARE_UNZIP"/>      
+      
+      <!--文件属性相关皮肤定义-->
         <imgframe name="file_property_file_type_bkg_img" src="IDP_FILE_PROPERTY_TYPE_BKG" left="2" top="2" right="2" bottom="2"/>
         <!--账号引导面板相关定义-->
         <imgframe name="title_bkskin" src="IDP_DLG_TITLE_BACKGROUND" />
@@ -523,22 +535,47 @@
         <imgframe name="titlepanel_viprenew_btn" src="IDP_TITLEPANEL_VIPRENEW_BTN" subwidth="40" left="15" right="15"/>
         <imgframe name="titlepanel_sviprenew_btn" src="IDP_TITLEPANEL_SVIPRENEW_BTN" subwidth="40" left="15" right="15"/>
         <imgframe name="titlepanel_quotatip_bg" src="IDP_TITLEPANEL_QUOTATIP_BKG" left="20" top="15" right="124" bottom="20"/>
+        <imgframe name="titlepanel_ad_skin" src="IDP_TITLEPANEL_AD_SKIN" subwidth="28"/>
+        <imgframe name="titlepanel_textad_bgk" src="IDP_TITLEPANEL_TEXTAD_BGK" left="20" top="30" right="20" bottom="20"/>
+        <imgframe name="titlepanel_cert_status_icon" src="IDP_TITLEPANEL_CERT_STATUS_ICON" />     
+        <imgframe name="titlepanel_bgk" src="IDP_TITLEPANEL_BGK"/>
 
         <!--用户卡片-->
-        <imgframe name="usercard_notvip_bg" src="IDP_USERCARD_NOTVIP_BKG" left="60" top="110" right="10" bottom="15"/>
-        <imgframe name="usercard_vip_bg" src="IDP_USERCARD_VIP_BKG" left="60" top="110" right="10" bottom="15"/>
-        <imgframe name="usercard_svip_bg" src="IDP_USERCARD_SVIP_BKG" left="60" top="110" right="10" bottom="15"/>
-        <imgframe name="usercard_vip_btn" src="IDP_USERCARD_VIP_BTN" subwidth="40" left="12" right="12"/>
-        <imgframe name="usercard_svip_btn" src="IDP_USERCARD_SVIP_BTN" subwidth="40" left="12" right="12"/>
+        <imgframe name="usercard_notvip_bg" src="IDP_USERCARD_NOTVIP_BKG" left="20" top="50" right="20" bottom="20"/>
+        <imgframe name="usercard_vip_bg" src="IDP_USERCARD_VIP_BKG" left="20" top="50" right="20" bottom="20"/>
+        <imgframe name="usercard_svip_bg" src="IDP_USERCARD_SVIP_BKG" left="20" top="50" right="20" bottom="20"/>
+        <imgframe name="usercard_vip_btn" src="IDP_USERCARD_VIP_BTN" subwidth="60" top="4" left="10" right="10" bottom="4"/>
+        <imgframe name="usercard_svip_btn" src="IDP_USERCARD_SVIP_BTN" subwidth="60" top="4" left="10" right="10" bottom="4"/>
         <imgframe name="usercard_progress_gray" src="IDP_USERCARD_PROGRESS_GRAY" left="3" right="3"/>
         <imgframe name="usercard_progress_green" src="IDP_USERCARD_PROGRESS_GREEN" left="3" right="3"/>
         <imgframe name="usercard_progress_red" src="IDP_USERCARD_PROGRESS_RED" left="3" right="3"/>
         <imgframe name="usercard_progress_yellow" src="IDP_USERCARD_PROGRESS_YELLOW" left="3" right="3"/>
         <imglst name="usercard_priv_5t_quota" src="IDP_USERCARD_PRIVILEG_5TQUOTA"/>
         <imglst name="usercard_priv_speed_download" src="IDP_USERCARD_PRIVILEG_SPEEDDOWNLOAD"/>
-        <imglst name="usercard_priv_batch_upload" src="IDP_USERCARD_PRIVILEG_BATCHUPLOAD"/>
-        <imglst name="usercard_priv_bigfile_upload" src="IDP_USERCARD_PRIVILEG_BIGFILEUPLOAD"/>
-        <imglst name="usercard_priv_more" src="IDP_USERCARD_PRIVILEG_MORE"/>
+        <imglst name="usercard_priv_svip_more" src="IDP_USERCARD_PRIVILEG_SVIP_MORE"/>
+        <imglst name="usercard_priv_vip_more" src="IDP_USERCARD_PRIVILEG_VIP_MORE"/>
+        <imglst name="usercard_priv_2t_quota" src="IDP_USERCARD_PRIVILEG_2TQUOTA"/>
+        <imglst name="usercard_priv_vedio_overspeed" src="IDP_USERCARD_PRIVILEG_VEDIO_OVERSPEED"/>
+        <imglst name="usercard_priv_file_save_as" src="IDP_USERCARD_PRIVILEG_FILE_SAVE_AS"/>
+        <imglst name="usercard_priv_yun_unzip" src="IDP_USERCARD_PRIVILEG_YUN_UNZIP"/>
+        <imglst name="usercard_member_notvip_bkg" src="IDP_USERCARD_MEMBER_NOTVIP_BKG"/>
+        <imglst name="usercard_member_vip_bkg" src="IDP_USERCARD_MEMBER_VIP_BKG"/>
+        <imglst name="usercard_member_svip_bkg" src="IDP_USERCARD_MEMBER_SVIP_BKG"/>
+        <imglst name="usercard_member_outdatavip_bkg" src="IDP_USERCARD_MEMBER_OUTDATAVIP_BKG"/>
+        <imglst name="usercard_vip_line" src="IDP_USERCARD_VIP_LINE"/>
+        <imglst name="usercard_svip_line" src="IDP_USERCARD_SVIP_LINE"/>      
+        <imglst name="usercard_vip_line_reverse" src="IDP_USERCARD_VIP_LINE_REVERSE" />
+        <imglst name="usercard_svip_line_reverse" src="IDP_USERCARD_SVIP_LINE_REVERSE"/>
+        <imglst name="usercard_priv_outdate_space" src="IDP_USERCARD_OUTDATE_GRAY_SPACE" />
+        <imglst name="usercard_priv_outdate_download" src="IDP_USERCARD_OUTDATE_GRAY_DOWNLOAD" />
+        <imglst name="usercard_priv_outdate_vedio" src="IDP_USERCARD_OUTDATE_GRAY_VEDIO" />
+        <imglst name="usercard_priv_outdate_more" src="IDP_USERCARD_OUTDATE_GRAY_MORE" />
+        <imglst name="usercard_priv_outdate_line" src="IDP_USERCARD_OUTDATE_LINE"/>
+        <imglst name="usercard_priv_outdate_line_reverse" src="IDP_USERCARD_OUTDATE_LINE_REVERSE"/>
+        <imglst name="usercard_channel_info_bgk" src="IDP_USERCARD_CHANNEL_INFO_BGK" />
+        <imglst name="usercard_channel_arrow" src="IDP_USERCARD_CHANNEL_ARROW"/>
+        <imglst name="usercard_svip_arrow" src="IDP_USERCARD_SVIP_ARROW" />
+
         <button name="usercard_normal_btn" border="ffffff" bg="ffffff" bgup="ffffff"
             bgdown="ffffff" bguphover="eef0f6" bgdownhover="eef0f6"
             bguppush="eef0f6" bgdownpush="eef0f6"/>
@@ -547,18 +584,31 @@
         <!--主面板侧边栏皮肤-->
         <imglst name="leftpanel_myshare_normal" src="IDP_LEFTPANEL_MYSHARE_NORMAL"/>
         <imglst name="leftpanel_myshare_hover" src="IDP_LEFTPANEL_MYSHARE_HOVER"/>
-        <imglst name="leftpanel_safebox_normal" src="IDP_LEFTPANEL_SAFEBOX_NORMAL"/>
-        <imglst name="leftpanel_safebox_hover" src="IDP_LEFTPANEL_SAFEBOX_HOVER"/>
         <imglst name="leftpanel_recycle_normal" src="IDP_LEFTPANEL_RECYCLE_NORMAL"/>
         <imglst name="leftpanel_recycle_hover" src="IDP_LEFTPANEL_RECYCLE_HOVER"/>
-        <imglst name="leftpanel_recent_normal" src="IDP_LEFTPANEL_RECENT_NORMAL"/>
-        <imglst name="leftpanel_recent_hover" src="IDP_LEFTPANEL_RECENT_HOVER"/>
         <imglst name="leftpanel_all_normal" src="IDP_LEFTPANEL_ALL_NORMAL"/>
         <imglst name="leftpanel_all_hover" src="IDP_LEFTPANEL_ALL_HOVER"/>
         <imglst name="leftpanel_newfunc_bg" src="IDP_LEFTPANEL_NEWFUNC_BG"/>
         <imgframe name="leftpanel_quotaguide_bg" src="IDP_LEFTPANEL_QUOTAGUIDE_BKG" top="10" bottom="16"/>
         <imgframe name="leftpanel_openvip_btn" src="IDP_LEFTPANEL_OPENVIP_BTN" subwidth="40" left="10" top="10" right="10" bottom="10"/>
         <imgframe name="down_animation_bg" src="IDP_DOWNANIMATION_BG"/>
+
+        <imglst name="leftpanel_btseed_normal" src="IDP_LEFTPANEL_BTSEED_NORMAL"/>
+        <imglst name="leftpanel_btseed_hover" src="IDP_LEFTPANEL_BTSEED_HOVER"/>
+        <imglst name="leftpanel_other_normal" src="IDP_LEFTPANEL_OTHER_NORMAL"/>
+        <imglst name="leftpanel_other_hover" src="IDP_LEFTPANEL_OTHER_HOVER"/>
+        <imglst name="leftpanel_video_normal" src="IDP_LEFTPANEL_VIDEO_NORMAL"/>
+        <imglst name="leftpanel_video_hover" src="IDP_LEFTPANEL_VIDEO_HOVER"/>
+        <imglst name="leftpanel_picture_normal" src="IDP_LEFTPANEL_PICTURE_NORMAL"/>
+        <imglst name="leftpanel_picture_hover" src="IDP_LEFTPANEL_PICTURE_HOVER"/>
+        <imglst name="leftpanel_file_normal" src="IDP_LEFTPANEL_FILE_NORMAL"/>
+        <imglst name="leftpanel_file_hover" src="IDP_LEFTPANEL_FILE_HOVER"/>
+        <imglst name="leftpanel_music_normal" src="IDP_LEFTPANEL_MUSIC_NORMAL"/>
+        <imglst name="leftpanel_music_hover" src="IDP_LEFTPANEL_MUSIC_HOVER"/>
+        <imglst name="leftpanel_safebox_normal" src="IDP_LEFTPANEL_SAFEBOX_NORMAL"/>
+        <imglst name="leftpanel_safebox_hover" src="IDP_LEFTPANEL_SAFEBOX_HOVER"/>
+        <imglst name="leftpanel_recent_normal" src="IDP_LEFTPANEL_RECENT_NORMAL"/>
+        <imglst name="leftpanel_recent_hover" src="IDP_LEFTPANEL_RECENT_HOVER"/>
 
         <!--传输列表侧边栏皮肤-->
         <imglst name="transpanel_left_download_btn" src="IDP_TRANSLEFTPANEL_DOWNLOAD_BTN" subwidth="165"/>
@@ -654,6 +704,7 @@
         <imgframe name="mainpanel_listview_down" src="IDP_MAINPANEL_LISTVIEW_DOWN" subwidth="16"/>
         <imgframe name="mainpanel_listview_del" src="IDP_MAINPANEL_LISTVIEW_DELETE" subwidth="16"/>
         <imgframe name="mainpanel_listview_export_onlinedoc" src="IDP_MAINPANEL_LISTVIEW_EXPORT_ONLINEDOC" subwidth="16"/>
+        <imgframe name="mainpanel_listview_rename" src="IDP_MAINPANEL_LISTVIEW_RENAME" subwidth="16"/>
         <imglst name="mainpanel_listview_trans_fail" src="IDP_MAINPANEL_LISTVIEW_TRANS_FAIL"/>
         <imglst name="mainpanel_listview_trans_pause" src="IDP_MAINPANEL_LISTVIEW_TRANS_PAUSE"/>
         <imglst name="mainpanel_listview_trans_upload" src="IDP_MAINPANEL_LISTVIEW_TRANS_UPLOAD"/>
@@ -676,6 +727,7 @@
         <imgframe name="mainpanel_thumbview_trans_progress_bg" src="IDP_MAINPANEL_THUMBVIEW_TRANS_PROGRESS_BG" left="4" top="2" right="4" bottom="2"/>
         <imgframe name="mainpanel_thumbview_trans_progress_fg" src="IDP_MAINPANEL_THUMBVIEW_TRANS_PROGRESS_FG" left="4" top="2" right="4" bottom="2"/>
         <imgframe name="mainpanel_frame_select_bg" src="IDP_MAINPANEL_FRAMESELECT_BKG" left="3" top="3" right="3" bottom="3"/>
+        <imglst name="mainpanel_thumbview_checkbox" src="IDP_MAINPANEL_THUMBVIEW_CHECKBOX" subwidth="16"/>
         <imglst name="mainpanel_guidepanel_zip" src="IDP_MAINPANEL_GUIDEPANEL_ZIP"/>
         <imglst name="mainpanel_guidepanel_doc" src="IDP_MAINPANEL_GUIDEPANEL_DOC"/>
         <imglst name="mainpanel_guidepanel_pdftoword" src="IDP_MAINPANEL_GUIDEPANEL_PDFTOWORD"/>
@@ -765,6 +817,12 @@
         <!--自动备份-->
         <imgframe name="autobackuptipdlg_bg" src="IDP_AUTOBACKUPTIP_DLG_BG" left="2" right="54" top="2" bottom="2"/>
         <imglst name="autobackuptipdlg_close_btn" src="IDP_AUTOBACKUPTIP_DLG_CLOSE" subwidth="8"/>
+        <imgframe name="autobackupdlg_bg" src="IDP_DUI_AUTOBACKUP_DIALOG_BG" left="30" right="30" top="50" bottom="50"/>
+        <imgframe name="autobackup_btn_add_bg" src="IDP_DUI_AUTOBACKUP_ADDBTN_BG"/>
+        <imgframe name="autobackup_btn_return_bg" src="IDP_DUI_AUTOBACKUP_RETURN_BTN_BG" subwidth="18" left="18" right="0"/>
+        <imglst name="autobackup_btn_seldir_bg" src="IDP_DUI_AUTOBACKUP_SELDIR_BTN_BG" subwidth="98"/>
+        <imgframe name="autobackup_splitter_bg" src="IDP_IMG_AUTO_BACKUP_SPLITTER"/>
+        <imgframe name="autobackup_seldir_dlg_bg" src="IDP_IMG_AUTO_BACKUP_SELDIR_DLG_BG"/>
 
         <!--互助提速功能-->
         <imgframe name="p2p_help_eachother_green_btn" src="IDP_P2P_HELP_EACHOTHER_BTN" subwidth="214" />
@@ -841,6 +899,55 @@
         <imgframe name="member_small_icon_vip_level6_gray" src="IDP_MEMBER_SMALL_ICON_VIP_LEVEL_6_GRAY"/>
         <imgframe name="member_small_icon_vip_level7_gray" src="IDP_MEMBER_SMALL_ICON_VIP_LEVEL_7_GRAY"/>
         <imgframe name="member_small_icon_vip_level8_gray" src="IDP_MEMBER_SMALL_ICON_VIP_LEVEL_8_GRAY"/>
+
+        <!-- 绑定_换绑手机号 -->
+        <imgframe name="bind_phone_logo" src="IDP_BIND_PHONE_LOGO"/>
+        <imgframe name="bind_phone_userhead_frame" src="IDP_BIND_PHONE_USERHEAD_FRAME"/>
+        <imgframe name="bind_phone_dlg_bkg" src="IDP_BIND_PHONE_DLG_BKG" left="5" right="5" top="30" bottom="60"/>
+
+        <!-- 二级导航栏 -->
+        <imglst name="leftpanel_more_operation_btn" src="IDP_LEFTPANEL_BTN_MORE_OPERATION" subwidth="16" />
+        <imglst name="leftpanel_list_collapse_btn" src="IDP_LEFTPANEL_BTN_LIST_COLLAPSE" subwidth="14" />
+        <imglst name="leftpanel_list_expand_btn" src="IDP_LEFTPANEL_BTN_LIST_EXPAND" subwidth="14" />
+        <imglst name="leftpanel_img_add" src="IDP_LEFTPANEL_IMG_ADD"/>
+        <imgframe name="leftpanel_img_bg" src="IDP_LEFTPANEL_IMG_BG" left="10" right="2" top="5" bottom="5" />
+        <imgframe name="leftpanel_shortcut_btn_bg" src="IDP_LEFTPANEL_SHORTCUT_BTN_BG"/>
+        <imgframe name="item_remove" src="IDP_LEFTPANEL_SHORTCUT_REMOVE" subwidth="15"/>
+
+        <!-- 一级导航栏 -->
+        <imglst name="navigatepanel_home_btn" src="IDP_NAVIGATEPANEL_BTN_HOME" subwidth="42" />
+        <imglst name="navigatepanel_share_btn" src="IDP_NAVIGATEPANEL_BTN_SHARE" subwidth="42" />
+        <imglst name="navigatepanel_transfer_btn" src="IDP_NAVIGATEPANEL_BTN_TRANSFER" subwidth="42" />
+        <imglst name="navigatepanel_moretools_btn" src="IDP_NAVIGATEPANEL_BTN_MORETOOLS" subwidth="42" />
+        <imgframe name="navigatepanel_bubble_bg" src="IDP_NAVIGATEPANEL_BG_BUBBLE"/>
+        <imgframe name="navigatepanel_bubble_content_default" src="IDP_NAVIGATEPANEL_CONTENT_BUBBLE_DEFAULT"/>
+        <gif name="gif_navigatepanel_transfer_blue" src="IDP_NAVIGATEPANEL_GIF_TRANSFER_BLUE"/>
+        <gif name="gif_navigatepanel_transfer_gray" src="IDP_NAVIGATEPANEL_GIF_TRANSFER_GRAY"/>
+        <imgframe name="navigatepanel_transfer_pause_blue" src="IDP_NAVIGATEPANEL_PAUSE_TRANSFER_BLUE"/>
+        <imgframe name="navigatepanel_transfer_pause_gray" src="IDP_NAVIGATEPANEL_PAUSE_TRANSFER_GRAY"/>
+        <imgframe name="navigatepanel_bg" src="IDP_NAVIGATEPANEL_BG" left="10" right="20" top="5" bottom="5"/>
+
+        <!-- 微信QQ备份 -->
+        <imgframe name="wechat_backup_dlg_bg" src="IDP_WECHAT_BACKUP_DLG_TITLE_BG"/>
+        <imgframe name="wechat_backup_dlg_ico_wechat" src="IDP_WECHAT_BACKUP_DLG_ICO_WECHAT"/>
+        <imgframe name="wechat_backup_dlg_ico_qq" src="IDP_WECHAT_BACKUP_DLG_ICO_QQ"/>
+        <imglst name="wechat_backup_dlg_btn_blue" src="IDP_WECHAT_BACKUP_DLG_BTN_BG_BLUE" subwidth="256"/>
+        <imglst name="wechat_backup_dlg_btn_border" src="IDP_WECHAT_BACKUP_DLG_BTN_BG_BORDER" subwidth="98"/>
+        <imgframe name="wechat_backup_dlg_bubble_bg_wechat" src="IDP_WECHAT_BACKUP_DLG_BUBBLE_HOVER_BG_WECHAT" left="20" right="20" top="20" bottom="20"/>
+        <imgframe name="wechat_backup_dlg_bubble_bg_qq" src="IDP_WECHAT_BACKUP_DLG_BUBBLE_HOVER_BG_QQ" left="20" right="20" top="20" bottom="20"/>
+        <imgframe name="wechat_backup_dlg_bubble_bg_head" src="IDP_WECHAT_BACKUP_DLG_BUBBLE_HOVER_BG_HEAD" left="20" right="20" top="20" bottom="20"/>
+        <imglst name="wechat_backup_dlg_chk_switch" src="IDP_WECHAT_BACKUP_DLG_CHK_SWITCH" subwidth="44"/>
+        <imgframe name="wechat_backup_dlg_img_question" src="IDP_WECHAT_BACKUP_DLG_IMG_QUESTION"/>
+        <imgframe name="wechat_backup_dlg_img_wechat_head" src="IDP_WECHAT_BACKUP_DLG_IMG_WECHAT_HEAD"/>
+        <imgframe name="wechat_backup_dlg_ico_dropdown" src="IDP_WECHAT_BACKUP_DLG_ICO_DROPDOWN"/>
+        <imgframe name="wechat_backup_dlg_combobox_border" src="IDP_WECHAT_BACKUP_DLG_COMBOBOX_BORDER" left="5" right="5" top="15" bottom="5"/>
+        <imglst name="wechat_backup_dlg_btn_blue_small" src="IDP_WECHAT_BACKUP_DLG_BTN_BG_BLUE_SMALL" subwidth="114"/>
+        <imgframe name="wechat_backup_dlg_bg_gray" src="IDP_WECHAT_BACKUP_DLG_BG_GRAY"/>
+        <imgframe name="wechat_backup_dlg_bg_light" src="IDP_WECHAT_BACKUP_DLG_BG_LIGHT"/>
+        <imglst name="wechat_backup_dlg_bg_listitem" src="IDP_WECHAT_BACKUP_DLG_BG_LISTITEM" subwidth="145"/>
+        <imgframe name="wechat_backup_dlg_setting_bg" src="IDP_WECHAT_BACKUP_DLG_SETTING_BG" left="100" right="100" top="10" bottom="10"/>
+        <imgframe name="wechat_backup_dlg_ico_wechat_big" src="IDP_WECHAT_BACKUP_DLG_ICO_WECHAT_BIG"/>
+
     </skins>
 
     <style>
@@ -930,10 +1037,10 @@
         <class name="phone_tabunsel_btn" skin="phone_tabunsel_btn" crtext="3c6889" font="0000:微软雅黑" textmode="25"/>
 
         <!--功能宝箱style定义-->
-        <class name="functional_panel_btn_text" crtext="333333" crhover="999999" crpush="999999" font="0200:微软雅黑" textmode="21"/>
-        <class name="functional_panel_btn_tip" crtext="999999" font="0000:微软雅黑" textmode="21"/>
-        <class name="functional_panel_head_tip" crtext="333333" font="0c00:微软雅黑" textmode="25"/>
-        <class name="functional_panel_head_tip1" crtext="999999" font="0400:微软雅黑" textmode="25"/>
+        <class name="functional_panel_btn_text" crtext="333333" crhover="333333" crpush="999999" font="0200:微软雅黑" textmode="21"/>
+        <class name="functional_panel_btn_tip" crtext="999999" font2="facename:微软雅黑;adding:-1" textmode="21"/>
+        <class name="functional_panel_head_tip" crtext="000000" font="0604:微软雅黑" textmode="25"/>
+ 
         <!--菜单style定义-->
         <class name="cls_menu" crtxt="000000" crtxtsel="000000" font="0000:微软雅黑"/>
         <!--登录窗口style定义-->
@@ -983,7 +1090,7 @@
         <class name="backup_unlock_dlg_link" crtext="438af7" font="0002:微软雅黑" textmode="40025" cursor="hand"/>
         <class name="autobackup_active_btn" skin="auto_backup_blue_btn" crtext="ffffff" font="0800:微软雅黑" textmode="40025" cursor="arrow"/>
       
-      <!--云解压style定义-->
+        <!--云解压style定义-->
         <class name="passwordinputdlg_confirm_text" skin="btn_default" crtext="ffffff" crdisabled="ffffff" cursor="arrow" font="0200:微软雅黑" textmode="25"/>
         <class name="compresspackage_filename_link" font="0000:微软雅黑" hoverfont="0002:微软雅黑" crtext="333333" cursor="hand" crhover="757880" textmode="40824"/>
         <class name="compresspackage_font_lightdark" font="0000:微软雅黑" crtext="999999" cursor="arrow" textmode="25"/>
@@ -991,6 +1098,8 @@
         <class name="preparedlg_vip_font" font="0201:微软雅黑" crtext="333333" cursor="arrow"/>
         <!--用户引导面板style定义-->
         <class name="guide_dlg_frame" skin="title_bkskin" font="0000:微软雅黑" crtext="FFFFFF" x-margin="0"/>
+        <class name="compresspackage_guide_btn_text" font="0300:微软雅黑" crtext="FFFFFF" textmode="40824" />
+        <class name="compresspackage_guide_price_text" font="0000:微软雅黑" crtext="FFFFFF" />
 
         <!--垃圾清理面板style定义-->
         <class name="cls_scan_link" cursor="arrow" font="0500:微软雅黑" crtext="ffffff" crhover="9ec7fe" align="center"/>
@@ -1020,17 +1129,23 @@
 
         <!--标题栏style定义-->
         <class name="cls_titlepanel_btn" crtext="333333" font="0200:微软雅黑" crhover="06a8ff" hoverfont="0200:微软雅黑" align="left" valign="middle" cursor="arrow"/>
-        <class name="cls_titlepanel_vipcenter_btn" crtext="000000" font="0000:微软雅黑" textmode="40825" cursor="hand" skin="titlepanel_vipcenter_btn"/>
+        <class name="cls_titlepanel_vipcenter_btn" crtext="442203" font="0000:微软雅黑" textmode="40825" cursor="hand" skin="titlepanel_vipcenter_btn"/>
         <class name="cls_titlepanel_resident_txt" crtext="c58c55" font="0000:微软雅黑" crhover="c58c55" hoverfont="0000:微软雅黑" align="left" cursor="arrow"/>
         <class name="cls_titlepanel_resident_link" crtext="c58c55" font="0002:微软雅黑" crhover="c58c55" hoverfont="0002:微软雅黑" align="left" cursor="hand"/>
-        <class name="cls_usercard_normal_btn" skin="usercard_normal_btn" cursor="arrow" crtext="4c4c4c" crhover="4c4c4c" font="0000:微软雅黑" hoverfont="0000:微软雅黑" align="left"/>
+        <class name="cls_usercard_table_btn" skin="titlepanel_translucent" cursor="arrow" crtext="454D5A" crhover="06A7FF" font="0000:微软雅黑" hoverfont="0000:微软雅黑" align="center"/>
         <class name="cls_usercard_vip_txt" crtext="ffffff" font="0000:微软雅黑" cursor="arrow"/>
         <class name="cls_usercard_user_point_txt" crtext="1e78d5" font="0000:微软雅黑" cursor="arrow" textmode="40824"/>
         <class name="cls_usercard_svip_txt" crtext="946738" font="0000:微软雅黑" cursor="arrow"/>
-
+        <class name="cls_usercard_member_endtime_txt" crtext="64360D" font="0000:微软雅黑" cursor="arrow"/>
+        <class name="cls_usercard_priv_txt" crtext="03081A" font="0000:微软雅黑" cursor="arrow"/>
+        <class name="cls_usercard_channel_title_txt" crtext="454D5A" font="0000:微软雅黑" cursor="arrow"/>
+        <class name="cls_usercard_channel_subtitle_txt" crtext="AFB3BF" font="0000:微软雅黑" cursor="arrow"/>
+      
         <!--侧边栏style定义-->
         <class name="cls_leftpanel_txt_normal" crtext="333333" font="0000:微软雅黑" align="left" cursor="arrow"/>
         <class name="cls_leftpanel_txt_hover" crtext="06a8ff" font="0000:微软雅黑" align="left" cursor="arrow"/>
+        <class name="cls_leftpanel_first_category_txt" crtext="333333" font="0004:微软雅黑" align="left" cursor="arrow"/>
+        <class name="cls_leftpanel_first_category_hover" crtext="06a8ff" font="0004:微软雅黑" align="left" cursor="arrow"/>
         <class name="cls_leftpanel_progress_bkg" crbg="e1e1e1"/>
         <class name="cls_leftpanel_progress_frg_green" crbg="06a8ff"/>
         <class name="cls_leftpanel_progress_frg_yellow" crbg="ff9743"/>
@@ -1099,7 +1214,10 @@
         <class name="cls_login_device_status_dlg_blue_link" cursor="hand" crtext="0fabfe" crhover="0fabfe" font2="facename:微软雅黑;bold:1;italic:0;underline:1;adding:2"/>
         <!--第三方账号登录-->
         <class name="cls_login_thirdparty_txt" font="0000:微软雅黑" crtext="636363" textmode="40825"/>
-    </style>
+      
+        <!--微信QQ备份-->
+        <class name="cls_wechat_backup_dlg_bold_txt" font2="facename:微软雅黑;bold:1;italic:0;underline:0;adding:2"/>
+  </style>
 
     <objattr>
         <button class="normalbtn"/>

@@ -1,4 +1,4 @@
-<layer name="CompressPackageGuideDlg" width="504" height="322" appwin="0" ncRect="0,0,0,0" resize="0" translucent="1" nomaxsize="1">
+<layer name="CompressPackageGuideDlg" width="426" height="226" appwin="0" ncRect="0,0,0,0" resize="0" translucent="1" nomaxsize="1">
   <body>
     <dlg pos="0,0,-0,-0" class="cls_dlg_frame">
       <!--标题栏-->
@@ -9,8 +9,19 @@
       </caption>
       
       <dlg pos="0,37,-0,-0">
-        <img pos="1,0,503,284" name="img_guide" skin="compresspackage_guide1_vip_image"/>
-        <imgbtn name="btn_ok" pos="176, 216, 328, 262" cursor="arrow" skin="compresspackage_upgrade_vip_btn"/>
+        <img pos="60,35,@60,@40" name="img_guide" skin="compresspackage_guide_image"/>
+        <text name="txt_content" pos="144,46" crtext="03081A " font="0300:微软雅黑">%str3775%</text>
+        <text name="txt_content2" pos="144,72" crtext="03081A " font="0300:微软雅黑" show="0">%str3775%</text>
+        
+        <imgbtn name="open_member_btn" pos="30,104,@176,@48" class="compresspackage_guide_btn_text" txtxoffset="36" txtyoffset="0" skin="btn_vip_round_angle">%str751%</imgbtn>
+        <text name="member_price" pos="136,121" class="compresspackage_guide_price_text">%str3778%</text>
+        
+        <imgbtn name="open_unzip_btn" pos="220,104,@176,@48" class="compresspackage_guide_btn_text" txtxoffset="40" txtyoffset="0" skin="btn_default_round_angle">%str3777%</imgbtn>
+        <text name="unzip_price" pos="320,121" class="compresspackage_guide_price_text">%str3780%</text>
+      </dlg>
+      
+      <dlg name="thirdWebFramePanel" pos="0,0,-0,-0"  show="0">      
+        <webbrowser name="thirdWebFrame" pos="0,0,-0,-0" use_ie="0" show="1"/> 
       </dlg>
     </dlg>
   </body>

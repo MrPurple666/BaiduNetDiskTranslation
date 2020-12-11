@@ -12,8 +12,10 @@
 <resid type="XML" name="IDR_DUI_PORTABLEDEVLIST_DIALOG" layer="1" file="xml\dlg_portabledevice_list.xml"/>
 <resid type="XML" name="IDR_DUI_MAIN_DIALOG" layer="1" file="xml\MainPanel\MainDlg.xml"/>
 <resid type="XML" name="IDR_DUI_TITLE_PANEL" file="xml\MainPanel\TitlePanel.xml"/>
+<resid type="XML" name="IDR_DUI_NAVIGATE_PANEL" file="xml\MainPanel\NavigatePanel.xml"/>
 <resid type="XML" name="IDR_DUI_LEFT_PANEL" file="xml\MainPanel\NetdiskPanel\LeftPanel.xml"/>
 <resid type="XML" name="IDR_DUI_SHARELIST_PANEL" file="xml\MainPanel\NetdiskPanel\ShareListPanel.xml"/>
+<resid type="XML" name="IDR_DUI_RECYCLE_PANEL" file="xml\MainPanel\NetdiskPanel\RecyclePanel.xml"/>
 <resid type="XML" name="IDR_DUI_PAN_CONTAINER_PANEL" file="xml\MainPanel\NetdiskPanel\PanContainerPanel.xml"/>
 <resid type="XML" name="IDR_DUI_SAFEBOX_CONTAINER_PANEL" file="xml\MainPanel\NetdiskPanel\SafeboxContainerPanel.xml"/>
 <resid type="XML" name="IDR_DUI_PAN_CONTAINER_TOOLBAR" file="xml\MainPanel\NetdiskPanel\FileContainerPanel\PanToolbar.xml"/>
@@ -67,8 +69,8 @@
 <resid type="XML" name="IDR_DUI_NEXTBATCH_PANEL" file="xml\GarbageCleanDlg\NextBatchPanel.xml"/>
 <resid type="XML" name="IDR_DUI_MASKSVIPGUIDE_DIALOG" layer="1" file="xml\GarbageCleanDlg\MaskSvipGuideDlg.xml"/>
 <resid type="XML" name="IDR_DUI_ONEKEYCLEAN_PANEL" file="xml\GarbageCleanDlg\OneKeyCleanPanel.xml"/>
-<resid type="XML" name="IDR_DUI_MEMBERSHIPEXPIREQUOTATIP_WND" layer="1" file="xml\MainPanel\MembershipExpireQuotaTipWnd.xml"/>
 <resid type="XML" name="IDR_DUI_USERCARD_WND" layer="1" file="xml\MainPanel\UserCardWnd.xml"/>
+<resid type="XML" name="IDR_DUI_ADCARD_WND" layer="1" file="xml\MainPanel\AdCardWnd.xml"/>
 <resid type="XML" name="IDR_DUI_IMAGEVIEW_DIALOG" layer="1" file="xml\ImageViewDlg\ImageViewDlg.xml"/>
 <resid type="XML" name="IDR_DUI_DRAGTIP_WND" layer="1" file="xml\MainPanel\NetdiskPanel\DragTip\DragTip.xml"/>
 <resid type="XML" name="IDR_DUI_EDIT_WND" layer="1" file="xml\MainPanel\NetdiskPanel\EditWnd\EditWnd.xml"/>
@@ -102,10 +104,22 @@
 <!--文件夹自动备份-->
 <resid type="XML" name="IDR_DUI_AUTOBACKUP_DIALOG" layer="1" file="xml\AutoBackupDlg\AutoBackupDlg.xml"/>
 <resid type="XML" name="IDR_DUI_AUTOBACKUP_VIEW_PANEL" file="xml\AutoBackupDlg\AutoBackupViewPanel.xml"/>
+<resid type="IMGX" name="IDP_DUI_AUTOBACKUP_DIALOG_BG" file="image\AutoBackupDlg\AutoBackuoDlgBg.png"/>
+<resid type="IMGX" name="IDP_DUI_AUTOBACKUP_ADDBTN_BG" file="image\AutoBackupDlg\AutoBackupAddBtnBg.png"/>
+<resid type="IMGX" name="IDP_DUI_AUTOBACKUP_RETURN_BTN_BG" file="image\AutoBackupDlg\AutoBackupBtnReturn.png"/>
+<resid type="IMGX" name="IDP_DUI_AUTOBACKUP_SELDIR_BTN_BG" file="image\AutoBackupDlg\AutoBackupBtnSelDir.png"/>
+<resid type="IMGX" name="IDP_IMG_AUTO_BACKUP_SELDIR_DLG_BG" file="image\AutoBackupDlg\AutoBackupSelDirDlg.png"/>
 
 <!--第三方登录-->
 <resid type="XML" name="IDR_DUI_LOGIN_THIRD_PARTY" layer="1" file="xml\dlg_login_third_party.xml"/>
-
+<!--会员到期顶部提醒-->
+<resid type="XML" name="IDR_DUI_MEMBERSHIPORQUOTAEXPIRE_WND" layer="1" file="xml\MainPanel\MembershipOrQuotaExpireWnd.xml"/>
+<!--二级菜单栏拖动-->
+<resid type="XML" name="IDR_DUI_LEFTCATEGORYDRAGTIP" layer="1" file="xml\MainPanel\NetdiskPanel\LeftCategoryPanel\LeftCategoryDragTip.xml"/>
+<!--二级菜单栏选择界面-->
+<resid type="XML" name="IDR_DUI_LEFTCATEGORYFLOATING" layer="1" file="xml\MainPanel\NetdiskPanel\LeftCategoryPanel\LeftCategoryFloatingLayer.xml"/>
+<!-- 网盘购买页 -->
+<resid type="XML" name="IDR_DUI_BUY_PAGE_DLG" layer="1" file="xml\BuyPageDlg\BuyPageDlg.xml"/>
 <!--窗口背景资源-->
 <resid type="IMGX" name="IDP_MAIN_DLG_FRAME" file="image\common\window\windowBkg.png"  />
 <resid type="IMGX" name="IDP_MESSAGEBOX_BACKGROUND_FRAME" file="image\common\window\MsgBxBk_New.png"  />
@@ -144,6 +158,10 @@
 <resid type="IMGX" name="IDP_BTN_DEFAULT"    file="image\common\button\default_button.png"/>
 <resid type="IMGX" name="IDP_BTN_VIP"    file="image\common\button\vip_button.png"/>
 <resid type="IMGX" name="IDP_BTN_SVIP"    file="image\common\button\svip_button.png"/>
+
+<resid type="IMGX" name="IDP_BTN_VIP_ROUND_ANGLE"    file="image\common\button\btn_vip_round_angle.png"/>
+<resid type="IMGX" name="IDP_BTN_SVIP_ROUND_ANGLE"    file="image\common\button\btn_svip_round_angle.png"/>
+<resid type="IMGX" name="IDP_BTN_DEFAULT_ROUND_ANGLE"    file="image\common\button\default_button_round_angle.png"/>
 
 <!--进度条资源-->
 <resid type="IMGX" name="IDP_PROG_BKG"    file="image\common\progress\ProgBkg.png"/>
@@ -338,11 +356,17 @@
 <resid type="IMGX" name="IDP_IMG_FUNTION_LOCK" file="image\MainPanel\FunctionalBoxPanel\Lock.png" />
 <resid type="IMGX" name="IDP_IMG_FUNTION_RECYCLE" file="image\MainPanel\FunctionalBoxPanel\Recycle.png" />
 <resid type="IMGX" name="IDP_IMG_FUNTION_GARBAGECLEAN" file="image\MainPanel\FunctionalBoxPanel\GarbageClean.png" />
+<resid type="IMGX" name="IDP_IMG_FUNTION_APP_DOWNLOAD" file="image\MainPanel\FunctionalBoxPanel\AppDownload.png" />
+<resid type="IMGX" name="IDP_IMG_FUNTION_ALBUM" file="image\MainPanel\FunctionalBoxPanel\Album.png" />
 <resid type="IMGX" name="IDP_IMG_FUNTION_NEW" file="image\MainPanel\FunctionalBoxPanel\New.png" />
 <resid type="IMGX" name="IDP_IMG_FUNTION_DEVICEMANAGE" file="image\MainPanel\FunctionalBoxPanel\DeviceManage.png" />
 <resid type="IMGX" name="IDP_IMG_FUNTION_SVIPONLY" file="image\MainPanel\FunctionalBoxPanel\SvipOnly.png" />
 <resid type="IMGX" name="IDP_IMG_FUNTION_BTN_BKG" file="image\MainPanel\FunctionalBoxPanel\BtnBkg.png" />
 <resid type="IMGX" name="IDP_IMG_FUNTION_FREE" file="image\MainPanel\FunctionalBoxPanel\Free.png" />
+<resid type="IMGX" name="IDP_IMG_FUNTION_WACHARTQQ_BACKUP" file="image\MainPanel\FunctionalBoxPanel\WechatQQBackup.png" />
+<resid type="IMGX" name="IDP_IMG_FUNTION_COLLECT_ICON" file="image\MainPanel\FunctionalBoxPanel\CollectStarIcon.png" />
+<resid type="IMGX" name="IDP_IMG_FUNTION_COLLECT_FOCUS_SKIN" file="image\MainPanel\FunctionalBoxPanel\CheckboxFocusSkin.png" />
+<resid type="IMGX" name="IDP_IMG_FUNTION_ARROW_ICON" file="image\MainPanel\FunctionalBoxPanel\ArrowIcon.png" />
 
 <!--文件类型相关资源-->
 <resid type="IMGX" name="IDP_IMG_FILETYPE_MIDDLE_VIDEO" file="image\FileType\Middle\VideoType.png" />
@@ -478,6 +502,7 @@
 <resid type="IMGX" name="IDP_ERRORTIPDLG_GUIDE_BUY" file="image\CompressPackage\ErrorTipDlg\errortip_guide_buy.png"/>
 <resid type="IMGX" name="IDP_ERRORTIPDLG_GUIDE_UPGRADE" file="image\CompressPackage\ErrorTipDlg\errortip_guide_upgrade.png"/>
 <resid type="IMGX" name="IDP_GIF_PREPARE_UNZIP" file="image\CompressPackage\prepare_unzip.gif"/>
+<resid type="IMGX" name="IDP_COMPRESSPACKAGE_GUIDE_IMG" file="image\CompressPackage\unzip_guide.png"/>
 
 <!--文件属性相关资源-->
 <resid type="IMGX" name="IDP_FILE_PROPERTY_TYPE_BKG" file="image\FilePropertyDlg\FileTypeBkg.png"/>
@@ -647,6 +672,10 @@
 <resid type="IMGX" name="IDP_TITLEPANEL_VIPRENEW_BTN" file="image\MainPanel\TitlePanel\btn_viprenew.png"/>
 <resid type="IMGX" name="IDP_TITLEPANEL_SVIPRENEW_BTN" file="image\MainPanel\TitlePanel\btn_sviprenew.png"/>
 <resid type="IMGX" name="IDP_TITLEPANEL_QUOTATIP_BKG" file="image\MainPanel\TitlePanel\quota_tip_bg.png"/>
+<resid type="IMGX" name="IDP_TITLEPANEL_AD_SKIN" file="image\MainPanel\TitlePanel\ad_skin.png"/>
+<resid type="IMGX" name="IDP_TITLEPANEL_TEXTAD_BGK" file="image\MainPanel\TitlePanel\title_textad_bgk.png"/>
+<resid type="IMGX" name="IDP_TITLEPANEL_CERT_STATUS_ICON" file="image\MainPanel\TitlePanel\enterprise_cert_icon.png"/>
+<resid type="IMGX" name="IDP_TITLEPANEL_BGK" file="image\MainPanel\TitlePanel\title_bkg.png"/>
 
 <!--用户卡片-->
 <resid type="IMGX" name="IDP_USERCARD_NOTVIP_BKG" file="image\MainPanel\UserCard\notvip_bg.png"/>
@@ -660,26 +689,60 @@
 <resid type="IMGX" name="IDP_USERCARD_PROGRESS_YELLOW" file="image\MainPanel\UserCard\progress_yellow.png"/>
 <resid type="IMGX" name="IDP_USERCARD_PRIVILEG_5TQUOTA" file="image\MainPanel\UserCard\priv_5t_quota.png"/>
 <resid type="IMGX" name="IDP_USERCARD_PRIVILEG_SPEEDDOWNLOAD" file="image\MainPanel\UserCard\priv_speed_download.png"/>
-<resid type="IMGX" name="IDP_USERCARD_PRIVILEG_BATCHUPLOAD" file="image\MainPanel\UserCard\priv_batch_upload.png"/>
-<resid type="IMGX" name="IDP_USERCARD_PRIVILEG_BIGFILEUPLOAD" file="image\MainPanel\UserCard\priv_bigfile_upload.png"/>
-<resid type="IMGX" name="IDP_USERCARD_PRIVILEG_MORE" file="image\MainPanel\UserCard\priv_more.png"/>
+<resid type="IMGX" name="IDP_USERCARD_PRIVILEG_SVIP_MORE" file="image\MainPanel\UserCard\priv_svip_more.png"/>
+<resid type="IMGX" name="IDP_USERCARD_PRIVILEG_VIP_MORE" file="image\MainPanel\UserCard\priv_vip_more.png"/>
+<resid type="IMGX" name="IDP_USERCARD_PRIVILEG_2TQUOTA" file="image\MainPanel\UserCard\priv_2t_quota.png"/>
+<resid type="IMGX" name="IDP_USERCARD_PRIVILEG_VEDIO_OVERSPEED" file="image\MainPanel\UserCard\priv_vedio_overspeed.png"/>
+<resid type="IMGX" name="IDP_USERCARD_PRIVILEG_FILE_SAVE_AS" file="image\MainPanel\UserCard\priv_file_save_as.png"/>
+<resid type="IMGX" name="IDP_USERCARD_PRIVILEG_YUN_UNZIP" file="image\MainPanel\UserCard\priv_yun_unzip.png"/>
+<resid type="IMGX" name="IDP_USERCARD_MEMBER_NOTVIP_BKG" file="image\MainPanel\UserCard\novip_yellow_bkg.png"/>
+<resid type="IMGX" name="IDP_USERCARD_MEMBER_VIP_BKG" file="image\MainPanel\UserCard\vip_pink_bkg.png"/>
+<resid type="IMGX" name="IDP_USERCARD_MEMBER_SVIP_BKG" file="image\MainPanel\UserCard\svip_gold_bkg.png"/>
+<resid type="IMGX" name="IDP_USERCARD_MEMBER_OUTDATAVIP_BKG" file="image\MainPanel\UserCard\outdate_gray_bkg.png"/>
 <resid type="IMGX" name="IDP_USERCARD_TIP_MASK" file="image\MainPanel\UserCard\tip_mask.png"/>
+<resid type="IMGX" name="IDP_USERCARD_SVIP_LINE_REVERSE" file="image\MainPanel\UserCard\svip_line_reverse.png"/>
+<resid type="IMGX" name="IDP_USERCARD_VIP_LINE_REVERSE" file="image\MainPanel\UserCard\vip_line_reverse.png"/>
+<resid type="IMGX" name="IDP_USERCARD_OUTDATE_LINE_REVERSE" file="image\MainPanel\UserCard\outdate_line_reverse.png"/>
+<resid type="IMGX" name="IDP_USERCARD_SVIP_LINE" file="image\MainPanel\UserCard\svip_line.png"/>
+<resid type="IMGX" name="IDP_USERCARD_VIP_LINE" file="image\MainPanel\UserCard\vip_line.png"/>
+<resid type="IMGX" name="IDP_USERCARD_OUTDATE_LINE" file="image\MainPanel\UserCard\outdate_line.png"/>
+<resid type="IMGX" name="IDP_USERCARD_OUTDATE_GRAY_SPACE" file="image\MainPanel\UserCard\gray_space.png"/>
+<resid type="IMGX" name="IDP_USERCARD_OUTDATE_GRAY_DOWNLOAD" file="image\MainPanel\UserCard\gray_download.png"/>
+<resid type="IMGX" name="IDP_USERCARD_OUTDATE_GRAY_VEDIO" file="image\MainPanel\UserCard\gray_vedio.png"/>
+<resid type="IMGX" name="IDP_USERCARD_OUTDATE_GRAY_MORE" file="image\MainPanel\UserCard\gray_more.png"/>
+<resid type="IMGX" name="IDP_USERCARD_CHANNEL_INFO_BGK" file="image\MainPanel\UserCard\channel_info_bgk.png"/>
+<resid type="IMGX" name="IDP_USERCARD_CHANNEL_ARROW" file="image\MainPanel\UserCard\ad_arrow.png"/>
+<resid type="IMGX" name="IDP_USERCARD_SVIP_ARROW" file="image\MainPanel\UserCard\svip_arrow.png"/>
 
 <!--主面板侧边栏-->
 <resid type="IMGX" name="IDP_LEFTPANEL_MYSHARE_NORMAL" file="image\MainPanel\LeftPanel\myshare_normal.png"/>
 <resid type="IMGX" name="IDP_LEFTPANEL_MYSHARE_HOVER" file="image\MainPanel\LeftPanel\myshare_hover.png"/>
-<resid type="IMGX" name="IDP_LEFTPANEL_SAFEBOX_NORMAL" file="image\MainPanel\LeftPanel\safebox_normal.png"/>
-<resid type="IMGX" name="IDP_LEFTPANEL_SAFEBOX_HOVER" file="image\MainPanel\LeftPanel\safebox_hover.png"/>
 <resid type="IMGX" name="IDP_LEFTPANEL_RECYCLE_NORMAL" file="image\MainPanel\LeftPanel\recycle_normal.png"/>
 <resid type="IMGX" name="IDP_LEFTPANEL_RECYCLE_HOVER" file="image\MainPanel\LeftPanel\recycle_hover.png"/>
-<resid type="IMGX" name="IDP_LEFTPANEL_RECENT_NORMAL" file="image\MainPanel\LeftPanel\recent_normal.png"/>
-<resid type="IMGX" name="IDP_LEFTPANEL_RECENT_HOVER" file="image\MainPanel\LeftPanel\recent_hover.png"/>
 <resid type="IMGX" name="IDP_LEFTPANEL_ALL_NORMAL" file="image\MainPanel\LeftPanel\all_normal.png"/>
 <resid type="IMGX" name="IDP_LEFTPANEL_ALL_HOVER" file="image\MainPanel\LeftPanel\all_hover.png"/>
 <resid type="IMGX" name="IDP_LEFTPANEL_QUOTAGUIDE_BKG" file="image\MainPanel\LeftPanel\quota_guide_bg.png"/>
 <resid type="IMGX" name="IDP_LEFTPANEL_OPENVIP_BTN" file="image\MainPanel\LeftPanel\btn_openvip.png"/>
 <resid type="IMGX" name="IDP_LEFTPANEL_NEWFUNC_BG" file="image\MainPanel\LeftPanel\newfunc.png"/>
 <resid type="IMGX" name="IDP_DOWNANIMATION_BG" file="image\MainPanel\DownAnimation\DownBkg.png"/>
+
+<resid type="IMGX" name="IDP_LEFTPANEL_BTSEED_NORMAL" file="image\MainPanel\LeftPanel\bt_seed_normal.png"/>
+<resid type="IMGX" name="IDP_LEFTPANEL_BTSEED_HOVER" file="image\MainPanel\LeftPanel\bt_seed_hover.png"/>
+<resid type="IMGX" name="IDP_LEFTPANEL_OTHER_NORMAL" file="image\MainPanel\LeftPanel\other_normal.png"/>
+<resid type="IMGX" name="IDP_LEFTPANEL_OTHER_HOVER" file="image\MainPanel\LeftPanel\other_hover.png"/>
+<resid type="IMGX" name="IDP_LEFTPANEL_VIDEO_NORMAL" file="image\MainPanel\LeftPanel\video_normal.png"/>
+<resid type="IMGX" name="IDP_LEFTPANEL_VIDEO_HOVER" file="image\MainPanel\LeftPanel\video_hover.png"/>
+<resid type="IMGX" name="IDP_LEFTPANEL_PICTURE_NORMAL" file="image\MainPanel\LeftPanel\picture_normal.png"/>
+<resid type="IMGX" name="IDP_LEFTPANEL_PICTURE_HOVER" file="image\MainPanel\LeftPanel\picture_hover.png"/>
+<resid type="IMGX" name="IDP_LEFTPANEL_FILE_NORMAL" file="image\MainPanel\LeftPanel\file_normal.png"/>
+<resid type="IMGX" name="IDP_LEFTPANEL_FILE_HOVER" file="image\MainPanel\LeftPanel\file_hover.png"/>
+<resid type="IMGX" name="IDP_LEFTPANEL_MUSIC_NORMAL" file="image\MainPanel\LeftPanel\music_normal.png"/>
+<resid type="IMGX" name="IDP_LEFTPANEL_MUSIC_HOVER" file="image\MainPanel\LeftPanel\music_hover.png"/>
+<resid type="IMGX" name="IDP_LEFTPANEL_SAFEBOX_NORMAL" file="image\MainPanel\LeftPanel\safebox_normal.png"/>
+<resid type="IMGX" name="IDP_LEFTPANEL_SAFEBOX_HOVER" file="image\MainPanel\LeftPanel\safebox_hover.png"/>
+<resid type="IMGX" name="IDP_LEFTPANEL_RECENT_NORMAL" file="image\MainPanel\LeftPanel\recent_normal.png"/>
+<resid type="IMGX" name="IDP_LEFTPANEL_RECENT_HOVER" file="image\MainPanel\LeftPanel\recent_hover.png"/>
+<resid type="IMGX" name="IDP_LEFTPANEL_IMG_BG" file="image\MainPanel\LeftPanel\background.png"/>
 
 <!--传输面板侧栏-->
 <resid type="IMGX" name="IDP_TRANSLEFTPANEL_DOWNLOAD_BTN" file="image\MainPanel\TransLeftPanel\download_btn.png"/>
@@ -778,6 +841,7 @@
 <resid type="IMGX" name="IDP_MAINPANEL_LISTVIEW_TRANS_UPLOAD" file="image\MainPanel\NetdiskPanel\ViewContainerPanel\ListView\upload.png"/>
 <resid type="IMGX" name="IDP_MAINPANEL_LISTVIEW_TRANS_WAIT" file="image\MainPanel\NetdiskPanel\ViewContainerPanel\ListView\wait.png"/>
 <resid type="IMGX" name="IDP_MAINPANEL_LISTVIEW_EXPORT_ONLINEDOC" file="image\MainPanel\NetdiskPanel\ViewContainerPanel\ListView\export_onlinedoc_word.png"/>
+<resid type="IMGX" name="IDP_MAINPANEL_LISTVIEW_RENAME" file="image\MainPanel\NetdiskPanel\ViewContainerPanel\ListView\rename.png"/>
 <resid type="IMGX" name="IDP_MAINPANEL_EMPTYVIEW_EMPTY" file="image\MainPanel\NetdiskPanel\ViewContainerPanel\EmptyView\empty.png"/>
 <resid type="IMGX" name="IDP_MAINPANEL_EMPTYVIEW_LOADING" file="image\MainPanel\NetdiskPanel\ViewContainerPanel\EmptyView\loading.png"/>
 <resid type="IMGX" name="IDP_MAINPANEL_EMPTYVIEW_ERROR" file="image\MainPanel\NetdiskPanel\ViewContainerPanel\EmptyView\error.png"/>
@@ -796,11 +860,13 @@
 <resid type="IMGX" name="IDP_MAINPANEL_THUMBVIEW_TRANS_PROGRESS_BG" file="image\MainPanel\NetdiskPanel\ViewContainerPanel\ThumbView\trans_progress_bg.png"/>
 <resid type="IMGX" name="IDP_MAINPANEL_THUMBVIEW_TRANS_PROGRESS_FG" file="image\MainPanel\NetdiskPanel\ViewContainerPanel\ThumbView\trans_progress_fg.png"/>
 <resid type="IMGX" name="IDP_MAINPANEL_FRAMESELECT_BKG" file="image\MainPanel\NetdiskPanel\ViewContainerPanel\ThumbView\frame_select_bg.png"/>
+<resid type="IMGX" name="IDP_MAINPANEL_THUMBVIEW_CHECKBOX" file="image\MainPanel\NetdiskPanel\ViewContainerPanel\ThumbView\checkbox.png"/>
 <resid type="IMGX" name="IDP_MAINPANEL_GUIDEPANEL_ZIP" file="image\MainPanel\NetdiskPanel\ViewContainerPanel\GuideTipPanel\zip_tip.png"/>
 <resid type="IMGX" name="IDP_MAINPANEL_GUIDEPANEL_DOC" file="image\MainPanel\NetdiskPanel\ViewContainerPanel\GuideTipPanel\doc_tip.png"/>
 <resid type="IMGX" name="IDP_MAINPANEL_GUIDEPANEL_PDFTOWORD" file="image\MainPanel\NetdiskPanel\ViewContainerPanel\GuideTipPanel\pdftoword_tip.png"/>
 <resid type="IMGX" name="IDP_MAINPANEL_GUIDEPANEL_ARROW_DOWN" file="image\MainPanel\NetdiskPanel\ViewContainerPanel\GuideTipPanel\down_arrow.png"/>
 <resid type="IMGX" name="IDP_MAINPANEL_GUIDEPANEL_ARROW_UP" file="image\MainPanel\NetdiskPanel\ViewContainerPanel\GuideTipPanel\up_arrow.png"/>
+
 
 <!--拖拽提示-->
 <resid type="IMGX" name="IDP_DRAGTIP_BKG" file="image\MainPanel\NetdiskPanel\DragTip\drag_bkg.png"/>
@@ -923,6 +989,7 @@
 <resid type="IMGX" name="IDP_IMG_AUTO_BACKUP_ICON_DELETE" file="image\AutoBackupDlg\AutoBackupIconDelete.png"/>
 <resid type="IMGX" name="IDP_IMG_AUTO_BACKUP_PROGRESS_WHITE" file="image\AutoBackupDlg\AutoBackupProgressWhite.png"/>
 <resid type="IMGX" name="IDP_IMG_AUTO_BACKUP_PROGRESS_GRAY" file="image\AutoBackupDlg\AutoBackupProgressGray.png"/>
+<resid type="IMGX" name="IDP_IMG_AUTO_BACKUP_SPLITTER" file="image\AutoBackupDlg\splitter.png"/>
 <!--设备登录限制-->
 <resid type="IMGX" name="IDP_LOGINDEVICESTATUS_DLG_BIG_SLN_BKG" file="image\LoginDeviceStatusDlg\big_head_sln_bkg.png"/>
 <resid type="IMGX" name="IDP_LOGINDEVICESTATUS_DLG_SMALL_SLN_BKG" file="image\LoginDeviceStatusDlg\small_head_sln_bkg.png"/>
@@ -970,3 +1037,57 @@
 <resid type="IMGX" name="IDP_MEMBER_SMALL_ICON_VIP_LEVEL_6_GRAY" file="image\MemberLevelIcon\small_icon_vip6_gray.png"/>
 <resid type="IMGX" name="IDP_MEMBER_SMALL_ICON_VIP_LEVEL_7_GRAY" file="image\MemberLevelIcon\small_icon_vip7_gray.png"/>
 <resid type="IMGX" name="IDP_MEMBER_SMALL_ICON_VIP_LEVEL_8_GRAY" file="image\MemberLevelIcon\small_icon_vip8_gray.png"/>
+
+<!-- 绑定_换绑手机号 -->
+<resid type="XML" name="IDR_DUI_BIND_PHONE_GUIDE_DIALOG" layer="1" file="xml\BindPhoneGuideDlg\BindPhoneGuideDlg.xml"/>
+<resid type="IMGX" name="IDP_BIND_PHONE_LOGO" file="image\BindPhoneGuideDlg\logo_small.png"/>
+<resid type="IMGX" name="IDP_BIND_PHONE_USERHEAD_FRAME" file="image\BindPhoneGuideDlg\head_frame.png"/>
+<resid type="IMGX" name="IDP_BIND_PHONE_DLG_BKG" file="image\BindPhoneGuideDlg\dlg_bkg.png"/>
+
+<!-- 快捷面板(收藏) -->
+<resid type="XML" name="IDR_DUI_SHORTCUT_PANEL" file="xml\MainPanel\NetdiskPanel\ShortcutPanel\ShortcutPanel.xml"/>
+<resid type="XML" name="IDR_DUI_SHORTCUTITEM_DRAGTIP" layer="1" file="xml\MainPanel\NetdiskPanel\ShortcutPanel\ShortcutItemDragTip.xml"/>
+<resid type="XML" name="IDR_DUI_SHORTCUTMENU_DLG" layer="1" file="xml\MainPanel\NetdiskPanel\ShortcutPanel\ShortcutMenuDlg.xml"/>
+
+<resid type="IMGX" name="IDP_LEFTPANEL_BTN_MORE_OPERATION" file="image\MainPanel\LeftPanel\btn_moreoperation.png"/>
+<resid type="IMGX" name="IDP_LEFTPANEL_BTN_LIST_COLLAPSE" file="image\MainPanel\LeftPanel\list_collapse.png"/>
+<resid type="IMGX" name="IDP_LEFTPANEL_BTN_LIST_EXPAND" file="image\MainPanel\LeftPanel\list_expand.png"/>
+<resid type="IMGX" name="IDP_LEFTPANEL_IMG_ADD" file="image\MainPanel\LeftPanel\ic_add.png"/>
+<resid type="IMGX" name="IDP_LEFTPANEL_SHORTCUT_BTN_BG" file="image\MainPanel\LeftPanel\shortcut_btn_bg.png"/>
+<resid type="IMGX" name="IDP_LEFTPANEL_SHORTCUT_REMOVE" file="image\MainPanel\LeftPanel\shortcut_remove.png"/>
+
+<!-- 一级导航栏 -->
+<resid type="IMGX" name="IDP_NAVIGATEPANEL_BTN_HOME" file="image\MainPanel\NavigatePanel\ic_home.png"/>
+<resid type="IMGX" name="IDP_NAVIGATEPANEL_BTN_SHARE" file="image\MainPanel\NavigatePanel\ic_share.png"/>
+<resid type="IMGX" name="IDP_NAVIGATEPANEL_BTN_TRANSFER" file="image\MainPanel\NavigatePanel\ic_transfer.png"/>
+<resid type="IMGX" name="IDP_NAVIGATEPANEL_BTN_MORETOOLS" file="image\MainPanel\NavigatePanel\ic_more.png"/>
+<resid type="IMGX" name="IDP_NAVIGATEPANEL_GIF_TRANSFER_BLUE" file="image\MainPanel\NavigatePanel\blue_transfer.gif"/>
+<resid type="IMGX" name="IDP_NAVIGATEPANEL_GIF_TRANSFER_GRAY" file="image\MainPanel\NavigatePanel\gray_transfer.gif"/>
+<resid type="IMGX" name="IDP_NAVIGATEPANEL_PAUSE_TRANSFER_BLUE" file="image\MainPanel\NavigatePanel\pause_transfer_blue.png"/>
+<resid type="IMGX" name="IDP_NAVIGATEPANEL_PAUSE_TRANSFER_GRAY" file="image\MainPanel\NavigatePanel\pause_transfer_gray.png"/>
+<resid type="IMGX" name="IDP_NAVIGATEPANEL_BG_BUBBLE" file="image\MainPanel\NavigatePanel\bubble_bg.png"/>
+<resid type="IMGX" name="IDP_NAVIGATEPANEL_CONTENT_BUBBLE_DEFAULT" file="image\MainPanel\NavigatePanel\default_bubble_content.png"/>
+<resid type="IMGX" name="IDP_NAVIGATEPANEL_BG" file="image\MainPanel\NavigatePanel\navigate_bg.png"/>
+<resid type="XML" name="IDR_DUI_TOOLBAR_BUBBLEAD_DLG" layer="1" file="xml\MainPanel\ToolbarBubbleAdDlg.xml"/>
+
+<!-- 微信QQ备份 -->
+<resid type="XML" name="IDR_DUI_WECHAT_BACKUP_DLG" layer="1" file="xml\WechatBackupDlg\WechatBackupDlg.xml"/>
+<resid type="IMGX" name="IDP_WECHAT_BACKUP_DLG_TITLE_BG" file="image\WechatBackupDlg\title_bg.png"/>
+<resid type="IMGX" name="IDP_WECHAT_BACKUP_DLG_ICO_WECHAT" file="image\WechatBackupDlg\icon_wechat.png"/>
+<resid type="IMGX" name="IDP_WECHAT_BACKUP_DLG_ICO_QQ" file="image\WechatBackupDlg\icon_qq.png"/>
+<resid type="IMGX" name="IDP_WECHAT_BACKUP_DLG_BTN_BG_BLUE" file="image\WechatBackupDlg\button_blue.png"/>
+<resid type="IMGX" name="IDP_WECHAT_BACKUP_DLG_BTN_BG_BORDER" file="image\WechatBackupDlg\button_border.png"/>
+<resid type="IMGX" name="IDP_WECHAT_BACKUP_DLG_BUBBLE_HOVER_BG_HEAD" file="image\WechatBackupDlg\hover_bg_wechat_head.png"/>
+<resid type="IMGX" name="IDP_WECHAT_BACKUP_DLG_BUBBLE_HOVER_BG_WECHAT" file="image\WechatBackupDlg\hover_bg_wechat.png"/>
+<resid type="IMGX" name="IDP_WECHAT_BACKUP_DLG_BUBBLE_HOVER_BG_QQ" file="image\WechatBackupDlg\hover_bg_qq.png"/>
+<resid type="IMGX" name="IDP_WECHAT_BACKUP_DLG_CHK_SWITCH" file="image\WechatBackupDlg\switch.png"/>
+<resid type="IMGX" name="IDP_WECHAT_BACKUP_DLG_IMG_QUESTION" file="image\WechatBackupDlg\system_question.png"/>
+<resid type="IMGX" name="IDP_WECHAT_BACKUP_DLG_IMG_WECHAT_HEAD" file="image\WechatBackupDlg\wechat_man.png"/>
+<resid type="IMGX" name="IDP_WECHAT_BACKUP_DLG_ICO_DROPDOWN" file="image\WechatBackupDlg\icon_down.png"/>
+<resid type="IMGX" name="IDP_WECHAT_BACKUP_DLG_COMBOBOX_BORDER" file="image\WechatBackupDlg\combobox_border.png"/>
+<resid type="IMGX" name="IDP_WECHAT_BACKUP_DLG_BTN_BG_BLUE_SMALL" file="image\WechatBackupDlg\button_blue_small.png"/>
+<resid type="IMGX" name="IDP_WECHAT_BACKUP_DLG_BG_GRAY" file="image\WechatBackupDlg\gray_bg.png"/>
+<resid type="IMGX" name="IDP_WECHAT_BACKUP_DLG_BG_LIGHT" file="image\WechatBackupDlg\light_bg.png"/>
+<resid type="IMGX" name="IDP_WECHAT_BACKUP_DLG_BG_LISTITEM" file="image\WechatBackupDlg\list_item_bg.png"/>
+<resid type="IMGX" name="IDP_WECHAT_BACKUP_DLG_SETTING_BG" file="image\WechatBackupDlg\wechat_setting_bg.png"/>
+<resid type="IMGX" name="IDP_WECHAT_BACKUP_DLG_ICO_WECHAT_BIG" file="image\WechatBackupDlg\icon_wechat_big.png"/>
