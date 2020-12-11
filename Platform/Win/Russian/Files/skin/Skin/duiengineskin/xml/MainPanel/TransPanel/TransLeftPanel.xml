@@ -14,11 +14,25 @@
             class="cls_transleftpanel_op_btn"  txtxoffset="55">%str1802%</imgbtn>
     <hr name="hr_line_history" pos="0,0,@3,-0" crbg="06a8ff" show="0"/>
   </dlg>
-  <hr name="text_line" pos="30,128,-1,129" crbg="ededed"/>
+  <hr name="text_line" pos="30,128,145,129" crbg="ededed"/>
   <dlg pos="0,133,-0,@38">
     <imgbtn name="btn_op_cloud" pos="0,0,-0,-0" skin="transpanel_left_cloud_btn" 
             class="cls_transleftpanel_op_btn"  txtxoffset="55" show="0">%str3750%</imgbtn>
     <hr name="hr_line_cloud" pos="0,0,@3,-0" crbg="06a8ff" show="0"/>
   </dlg>
-  <hr pos="-1,0,-0,-0" size="1" crbg="d6d8dd"/>
+  <!--广告面板-->
+  <dlg name="dlg_ad" pos="|-72,-170,@145,@160" show="0">
+    <!--与AdPanel.xml内容一致-->
+    <dlg name="AdPanel" pos="0,0,-0,-0">
+      <gifplayer name="ad_img_bkg" pos="0,0,-0,-0" bulltimer="1"></gifplayer>
+      <imgbtn name="ad_img_btn" pos="0,0,-0,-0"></imgbtn>
+      <imgbtn name="ad_close_btn" pos="-16,0,-0,16" cursor="arrow" tip="关闭" show="0"></imgbtn>
+      <text name="ad_calc_size" pos="0,0" crtext="ffffff" font2="facename:宋体;bold:0;italic:0;underline:0;adding:-1" textmode="40825" show="0"></text>
+      <dlg name="AdTipPanel" pos="-31,-17,-0,-0" msgtransparent="1">
+        <img name="ad_tip_bkg" pos="0,0,-0,-0"></img>
+        <text name="ad_tip" pos="0,0,-0,-0" crtext="ffffff" font2="facename:宋体;bold:0;italic:0;underline:0;adding:-1" textmode="40825"></text>
+      </dlg>
+    </dlg>
+  </dlg>
+  <hr pos="-1,0,-0,-0" size="1" crbg="F1F1F1"/>
 </dlg>

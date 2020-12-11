@@ -9,7 +9,6 @@
           <template>
             <!--背景-->
             <img name="item_bkg" pos="1,0,-1,-1" skin="listitem_hover_bkg" show="0"></img>
-            
             <!--文件名列-->
             <dlg name="col_1">
               <check name="chk_select" pos="12,|-7,@15,@15" skin="btncheckbox"></check>
@@ -17,22 +16,37 @@
                 <img name="img_trans_status" pos="0,0,-0,-0" skin="mainpanel_listview_trans_wait" show="0"></img>
               </img>
               <link name="link_filename" pos="[10,|-8" height="16" class="cls_mainpanel_filename_link" cursor="hand" dotted="1"></link>
-              <imgbtn name="btn_mobileview" pos="-140,|-8,@16,@16" skin="mainpanel_listview_mobile_view" cursor="arrow" tip="%str2362%" show="0"></imgbtn>
-              <imgbtn name="btn_pdftoword" pos="-112,|-8,@16,@16" skin="mainpanel_listview_pdf_to_word" cursor="arrow" tip="%str2361%" show="0"></imgbtn>
-              <imgbtn name="btn_share" pos="[12,|-8,@16,@16" skin="mainpanel_listview_share" cursor="arrow" tip="%str2306%" show="0"></imgbtn>
-              <imgbtn name="btn_down" pos="[12,|-8,@16,@16" skin="mainpanel_listview_down" cursor="arrow" tip="%str2321%" show="0"></imgbtn>
-              <imgbtn name="btn_del" pos="[12,|-8,@16,@16" skin="mainpanel_listview_del" cursor="arrow" tip="%str2325%" show="0"></imgbtn>
-            <imgbtn name="btn_export_onlinedoc" pos="-56,|-8,@16,@16" skin="mainpanel_listview_export_onlinedoc" cursor="arrow" tip="%str2363%" show="0"></imgbtn>
             </dlg>
-
+              
             <!--修改时间列-->
             <dlg name="col_2">
               <text name="txt_mtime" pos="8,|-8,-0,@16" crtext="666666" align="left" dotted="1"></text>
             </dlg>
-            
-            <!--文件大小列-->
+
+            <!--所属文件夹列-->
             <dlg name="col_3">
+                <text name="txt_filelastdir" pos="8,|-8,-0,@16" crtext="666666" align="left" dotted="1"></text>
+            </dlg>
+              
+            <!--文件类型列-->
+            <dlg name="col_4">
+                <text name="txt_filetype" pos="8,|-8,-0,@16" crtext="666666" align="left" dotted="1"></text>
+            </dlg>
+              
+            <!--文件大小列-->
+            <dlg name="col_5">
               <text name="txt_filesize" pos="8,|-8,-0,@16" crtext="666666" align="left" dotted="1"></text>
+            </dlg>
+              
+           <!--悬浮按钮-->
+            <dlg name="floating_button">
+                <imgbtn name="btn_share" pos="8,|-8,@16,@16" skin="mainpanel_listview_share" cursor="arrow" tip="%str2306%" show="0"></imgbtn>
+                <imgbtn name="btn_down" pos="[18,|-8,@16,@16" skin="mainpanel_listview_down" cursor="arrow" tip="%str2321%" show="0"></imgbtn>
+                <imgbtn name="btn_del" pos="[18,|-8,@16,@16" skin="mainpanel_listview_del" cursor="arrow" tip="%str2325%" show="0"></imgbtn>
+                <imgbtn name="btn_rename" pos="[18,|-8,@16,@16" skin="mainpanel_listview_rename" cursor="arrow" tip="%str2332%" show="0"></imgbtn>
+                <imgbtn name="btn_pdftoword" pos="[18,|-8,@16,@16" skin="mainpanel_listview_pdf_to_word" cursor="arrow" tip="%str2361%" show="0"></imgbtn>
+                <imgbtn name="btn_mobileview" pos="[18,|-8,@16,@16" skin="mainpanel_listview_mobile_view" cursor="arrow" tip="%str2362%" show="0"></imgbtn>
+                <imgbtn name="btn_export_onlinedoc" pos="42,|-8,@16,@16" skin="mainpanel_listview_export_onlinedoc" cursor="arrow" tip="%str2363%" show="0"></imgbtn>
             </dlg>
           </template>
         </listboxex>
@@ -52,13 +66,14 @@
         <dlg name="dlg_thumb_item" pos="6,6,-6,-6">
           <dlg name="dlg_file_item" pos="0,0,-0,-0" show="1">
             <img name="item_bkg" pos="0,0,-0,-0" skin="mainpanel_thumbview_item_hover_bg" show="0" cursor="arrow" msgtransparent="0"></img>
-            <dlg name="dlg_video_bg" pos="7,7,@112,@82" crbg="000000" msgtransparent="1" show="0"></dlg>
+            <dlg name="dlg_video_bg" pos="11,7,@104,@82" crbg="000000" msgtransparent="1" show="0"></dlg>
             <img name="img_filetype" pos="|-30,20,@60,@60" skin="other_big_image"></img>
             <img name="img_thumbview" pos="7,7,@112,@82" skin="other_big_image" keep_size="1" show="0"></img>
             <img name="img_videoplay" pos="-41,-66,@30,@30" skin="mainpanel_thumbview_videoplay_normal" show="0"></img>
             <imgbtn name="btn_trans_del" pos="-52,14,@26,@26" skin="mainpanel_thumbview_trans_del_btn" cursor="arrow" tip="%str2360%" show="0"></imgbtn>
             <img name="img_folder_upload" pos="-52,14,@26,@26" skin="mainpanel_thumbview_folder_upload" show="0"></img>
             <img name="img_trans_status" pos="|-26,|-36,@53,@53" skin="mainpanel_thumbview_trans_waiting" show="0"></img>
+            <check name="thumb_file_check" skin="mainpanel_thumbview_checkbox" focusskin="function_collect_focus_skin" pos="10,6" show="0"></check>
             <progress name="trans_progress" pos="|-23,70,@44,@6" bgskin="mainpanel_thumbview_trans_progress_bg" posskin="mainpanel_thumbview_trans_progress_fg" min="0" max="100" value="0" show="0"></progress>
             <link name="link_filename" pos="12,-26,-12,@16" crtext="333333" dotted="1" align="center" valign="middle" msgtransparent="1"></link>
           </dlg>
@@ -94,6 +109,6 @@
   <dlg name="dlg_error_view" pos="0,0,-0,-0" show="0">
     <img name="error_view_bg" pos="|-90,|-100,@181,@127" skin="mainpanel_emptyview_error"></img>
     <text name="txt_error_tip" pos="|-150,[8,@300,@18" crtext="333333" font="0200:微软雅黑" align="center">%str2312%</text>
-    <imgbtn name="btn_refresh" pos="|-36,[16,@116,@25" class="defultbtn" crtext="ffffff" cursor="arrow">%str2313%</imgbtn>
+    <imgbtn name="btn_refresh" pos="|-36,[16,@72,@25" class="defultbtn" crtext="ffffff" cursor="arrow">%str2313%</imgbtn>
   </dlg>
 </dlg>

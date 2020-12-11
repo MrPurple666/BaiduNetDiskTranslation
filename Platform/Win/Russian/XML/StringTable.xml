@@ -810,7 +810,7 @@
   <String id="IDS_GUIDEPANEL_START_AUTO_BACKUP" value="Авто запускать резервную копию папки" />
   <String id="IDS_GUIDEPANEL_SELECT_BACKUP_DIR" value="Выберите папку для резервного копирования вручную" />
   <String id="IDS_GUIDEPANEL_ENABLESCAN" value="Включить сканирование" />
-  <String id="IDS_GUIDEPANEL_PHONE_START" value="Телефон Старт" />
+  <String id="IDS_GUIDEPANEL_START_QQWECHAT_BACKUP" value="Сделать резервную копию сейчас" />
   <!--Окно выбора нескольких папок -->
   <String id="IDS_MUTLTIFOLDERDLG_CLONETOCLOUD" value="Клон в облако" />
   <String id="IDS_MUTLTIFOLDERDLG_SELECT_DIR" value="Папка часто используемых файлов не обнаружена, выберите ее вручную" />
@@ -840,6 +840,13 @@
   <String id="IDS_P2PSPEEDUP_SET_TIP" value="Ускорение в режиме ускорения, ускорено для вас%0.1f Раз вы можете управлять функцией ускорения загрузки на странице настроек." />
   <String id="IDS_P2PSPEEDUP_BTN_SET" value="Установить" />
 
+  <!--- Запрос на загрузку карты в режиме ожидани-->
+  <String id="IDS_SPEEDUP_BTN_BUYCARD" value="Купить карту загрузки" />
+  <String id="IDS_CARDSPEEDUP_OPEN_TIP" value="Купите карту загрузки, наслаждайтесь безлимитной загрузкой" />
+  <String id="IDS_CARDSPEEDUP_USING_TIP" value="Для вас включена безлимитная загрузка" />
+  <String id="IDS_CARDSPEEDUP_END_TIP" value="Обычная скорость загрузка" />
+  
+
   <!--Советы по быстрой загрузке купонов -->
   <String id="IDS_SPEEDUP_BTN_EXTEND" value="Продолжайте ускоряться" />
   <String id="IDS_SPEEDUPTICKET_REMINDING_TIP" value="(оставшиеся%d секунд)" />
@@ -863,6 +870,12 @@
   <String id="IDS_VIPSPEEDUP_DOWN_EXPERIENCING_TIP" value="Скоростная привилегия проверяется," />
   <String id="IDS_VIPSPEEDUP_FINISH_TIP" value="Пробная версия привилегии на конец скорости" />
   <String id="IDS_VIPSPEEDUP_FINISH_DEFAULT_TIP" value="Включение привилегий для ускорения" />
+
+    <!--Скачать напоминание карты в свободное время -->
+  <String id="IDS_SPEEDUPCARD_MSGBOX_TITLE_TIP" value="Внимание" />
+  <String id="IDS_SPEEDUPCARD_MSGBOX_OKBTN_TIP" value="Покупка прошла успешно" />
+  <String id="IDS_SPEEDUPCARD_MSGBOX_CANCELBTN_TIP" value="Возникли проблемы с оплатой" />
+  
   <!--Выбор каталога на стороне сервера-->
   <String id="IDS_STATIC_SERVERDIRDLG_INFO_TOOMUCHLEVEL" value="Превышен лимит: поддерживается каталог уровня d%." />
   <String id="IDS_STATIC_GET_SERVER_SUBDIR_FAIL" value="Ошибка получения папки" />
@@ -1152,7 +1165,7 @@
   <String id="IDS_DOWNLOAD_FILE_NOAUTHORITY" value="Загрузка не удалась, доля не существует или была отменена" />
   <String id="IDS_DOWNLOAD_FILE_MODIFIED" value="Файл был изменен, пожалуйста, попробуйте еще раз" />
   <String id="IDS_DOWNLOAD_NEED_RETRY" value="Загрузка не удалась, пожалуйста, попробуйте еще раз" />
-  <String id="IDS_DOWNLOAD_NEED_P2P_RETRY" value="Ошибка загрузки пожалуйста повторите" />
+  <String id="IDS_DOWNLOAD_NEED_P2P_RETRY" value="Жду загрузки." />
   <String id="IDS_DOWNLOAD_SERVER_BUSY" value="Сервер занят, пожалуйста, попробуйте еще раз" />
 
   <!--Ошибка загрузки кода ошибки-->

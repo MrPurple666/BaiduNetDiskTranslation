@@ -2,13 +2,13 @@
   <!--分类面板-->
   <dlg name="ShareLeftPanel" pos="0,0,64,-0" skin="share_leftpanel_img">
     <!--会话按钮-->
-    <buttonex name="session_list_btn" pos="0,64" width="64" height="72" class="share_tab_btn" crtext-check="ffffff" crtext-uncheck="333333"
+    <buttonex name="session_list_btn" pos="0,0" width="64" height="72" class="share_tab_btn" crtext-check="ffffff" crtext-uncheck="333333"
          text-yoffset="32" normal-skin="share_sessionbtn" hover-skin="share_sessionbtn_hover" down-skin="share_sessionbtn_hover" check-skin="share_sessionbtn_select">%str315%</buttonex>
     <!--好友按钮-->
-    <buttonex name="friend_list_btn" pos="0,136" width="64" height="72" class="share_tab_btn" crtext-check="ffffff" crtext-uncheck="333333"
+    <buttonex name="friend_list_btn" pos="0,72" width="64" height="72" class="share_tab_btn" crtext-check="ffffff" crtext-uncheck="333333"
          text-yoffset="36" normal-skin="share_friendbtn" hover-skin="share_friendbtn_hover" down-skin="share_friendbtn_hover" check-skin="share_friendbtn_select">%str316%</buttonex>
     <!--群按钮-->
-    <buttonex name="group_list_btn" pos="0,208" width="64" height="72" class="share_tab_btn" crtext-check="ffffff" crtext-uncheck="333333"
+    <buttonex name="group_list_btn" pos="0,144" width="64" height="72" class="share_tab_btn" crtext-check="ffffff" crtext-uncheck="333333"
          text-yoffset="36" normal-skin="share_groupbtn" hover-skin="share_groupbtn_hover" down-skin="share_groupbtn_hover" check-skin="share_groupbtn_select">%str317%</buttonex>
     <!--添加按钮-->
     <imgbtn name="add_btn" pos="8,-56" width="48" height="48" animate="true" skin="share_add_btn_img" cursor="arrow"></imgbtn>
