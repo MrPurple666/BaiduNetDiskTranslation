@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- baseid = 1024-->
 <!-- ZloiSupport translation, based translation John Wayne -->
-<!-- Update 04-OKTOBER-2020 -->
+<!-- Update 12-DEC-2020 -->
+<!-- license MIT -->
 <StringTable language="2052">
   <String id="IDS_STANDARDWIN_CLOSE" value="Close" />
   <String id="IDS_STANDARDWIN_MAX" value="Maximise" />
@@ -811,7 +812,7 @@
   <String id="IDS_GUIDEPANEL_START_AUTO_BACKUP" value="Automatically start backup folder" />
   <String id="IDS_GUIDEPANEL_SELECT_BACKUP_DIR" value="Manually select backup folder" />
   <String id="IDS_GUIDEPANEL_ENABLESCAN" value="Enable Scan" />
-  <String id="IDS_GUIDEPANEL_PHONE_START" value="Phone Start" />
+  <String id="IDS_GUIDEPANEL_START_QQWECHAT_BACKUP" value="Backup now" />
   <!--多选文件夹窗口 -->
   <String id="IDS_MUTLTIFOLDERDLG_CLONETOCLOUD" value="Clone to cloud" />
   <String id="IDS_MUTLTIFOLDERDLG_SELECT_DIR" value="Frequently used files folder not detected, manually select it" />
@@ -841,6 +842,12 @@
   <String id="IDS_P2PSPEEDUP_SET_TIP" value="Speeding up in speed-up mode, has speeded up for you%0.1fTimes，You can manage the download speed-up function in the settings page." />
   <String id="IDS_P2PSPEEDUP_BTN_SET" value="To set" />
 
+<!--Download card prompt when idle -->
+   <String id="IDS_SPEEDUP_BTN_BUYCARD" value="Purchase free download card" />
+   <String id="IDS_CARDSPEEDUP_OPEN_TIP" value="Purchase the free download card, enjoy extremely fast downloading" />
+   <String id="IDS_CARDSPEEDUP_USING_TIP" value="High speed download has been turned on for you" />
+   <String id="IDS_CARDSPEEDUP_END_TIP" value="Common download will resume soon" />
+  
   <!--极速下载券提示 -->
   <String id="IDS_SPEEDUP_BTN_EXTEND" value="Continue to accelerate" />
   <String id="IDS_SPEEDUPTICKET_REMINDING_TIP" value="(remaining %d seconds)" />
@@ -864,6 +871,12 @@
   <String id="IDS_VIPSPEEDUP_DOWN_EXPERIENCING_TIP" value="Speed privilege being tested, " />
   <String id="IDS_VIPSPEEDUP_FINISH_TIP" value="End of speed privilege trial" />
   <String id="IDS_VIPSPEEDUP_FINISH_DEFAULT_TIP" value="Enabling privilege to enjoy accelerated speed" />
+
+  <!--Download card prompt when idle -->
+  <String id="IDS_SPEEDUP_BTN_BUYCARD" value="Purchase free download card" />
+  <String id="IDS_CARDSPEEDUP_OPEN_TIP" value="Purchase the free download card, enjoy extremely fast downloading" />
+  <String id="IDS_CARDSPEEDUP_USING_TIP" value="High speed download has been turned on for you" />
+  <String id="IDS_CARDSPEEDUP_END_TIP" value="Common download will resume soon" />
   <!--Select the directory server-->
   <String id="IDS_STATIC_SERVERDIRDLG_INFO_TOOMUCHLEVEL" value="Limit exceeded: %d level directory supported." />
   <String id="IDS_STATIC_GET_SERVER_SUBDIR_FAIL"   value="Get Server Folder failed" />
@@ -1280,6 +1293,7 @@
    <String id="IDS_QUIT_CLOSE_P2P" value="Use it again"/>
    <String id="IDS_P2P_NON_SVIP_SPEEDUP_TIP" value="Download speedup %s"/>
    <String id="IDS_P2P_SVIP_SPEEDUP_TIP" value="SVIPSpeed ​​up %s"/>
+   <String id="IDS_DOWNLOADCARD_SPEEDUP_TIP" value="Download card speed up %s"/>
    <String id="IDS_HELP_EACHOTHER_FUNCTION" value="Download speedup" />
    <String id="IDS_P2P_SVIP_SPEEDUP_SLOW_TIP" value="SVIPSpeeding up link acquisition..."/>
    <String id="IDS_HELP_EACHOTHER_CLOSE" value="Go close" />

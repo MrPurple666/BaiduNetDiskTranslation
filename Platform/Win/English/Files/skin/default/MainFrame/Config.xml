@@ -176,7 +176,7 @@
     </Property>
   </Config>
   
-  <Config name="guideWinFunctionBox" interface="IBGCommonWin">
+  <Config name="guideWinPageOne" interface="IBGCommonWin">
     <Property name="topmost" value="false"/>
     <Property name="immovable" value="false"/>
     <Property name="unvariedSize" value="true"/>
@@ -189,7 +189,58 @@
 	<Property name="minSize" value="900,640"></Property>
 	<Property name="alphaWin" value="true"/>
     <Property name="bkground" >
-      <IBGVeins file="Resource:\MainFrame\MainPanel\GuidePanel\background.png" drawStyle="DRAWMODE_33Mesh_TILE" stretchArea="400,350,895,670" transparent="true" colorize="false"/>
+      <IBGVeins file="Resource:\MainFrame\MainPanel\GuidePanel\background.png" drawStyle="DRAWMODE_33Mesh_TILE" stretchArea="550,350,895,670" transparent="true" colorize="false"/>
+    </Property>
+  </Config>
+  
+  <Config name="guideWinPageTwo" interface="IBGCommonWin">
+    <Property name="topmost" value="false"/>
+    <Property name="immovable" value="false"/>
+    <Property name="unvariedSize" value="true"/>
+    <Property name="border" value="0,0,0,0"/>
+	<Property name="showCloseButton" value="false"/>
+	<Property name="showMinButton" value="false"/>
+	<Property name="showMaxButton" value="false"/>
+    <Property name="ncRegion" value="0,0,0,0"/>
+    <Property name="withClientBkg" value="false"/>
+	<Property name="minSize" value="900,640"></Property>
+	<Property name="alphaWin" value="true"/>
+    <Property name="bkground" >
+      <IBGVeins file="Resource:\MainFrame\MainPanel\GuidePanel\background1.png" drawStyle="DRAWMODE_33Mesh_TILE" stretchArea="400,350,895,670" transparent="true" colorize="false"/>
+    </Property>
+  </Config>
+  
+  <Config name="guideWinPageThree" interface="IBGCommonWin">
+    <Property name="topmost" value="false"/>
+    <Property name="immovable" value="false"/>
+    <Property name="unvariedSize" value="true"/>
+    <Property name="border" value="0,0,0,0"/>
+	<Property name="showCloseButton" value="false"/>
+	<Property name="showMinButton" value="false"/>
+	<Property name="showMaxButton" value="false"/>
+    <Property name="ncRegion" value="0,0,0,0"/>
+    <Property name="withClientBkg" value="false"/>
+	<Property name="minSize" value="900,640"></Property>
+	<Property name="alphaWin" value="true"/>
+    <Property name="bkground" >
+      <IBGVeins file="Resource:\MainFrame\MainPanel\GuidePanel\background2.png" drawStyle="DRAWMODE_33Mesh_TILE" stretchArea="610,350,895,670" transparent="true" colorize="false"/>
+    </Property>
+  </Config>
+  
+  <Config name="guideWinPageFour" interface="IBGCommonWin">
+    <Property name="topmost" value="false"/>
+    <Property name="immovable" value="false"/>
+    <Property name="unvariedSize" value="true"/>
+    <Property name="border" value="0,0,0,0"/>
+	<Property name="showCloseButton" value="false"/>
+	<Property name="showMinButton" value="false"/>
+	<Property name="showMaxButton" value="false"/>
+    <Property name="ncRegion" value="0,0,0,0"/>
+    <Property name="withClientBkg" value="false"/>
+	<Property name="minSize" value="900,640"></Property>
+	<Property name="alphaWin" value="true"/>
+    <Property name="bkground" >
+      <IBGVeins file="Resource:\MainFrame\MainPanel\GuidePanel\background3.png" drawStyle="DRAWMODE_33Mesh_TILE" stretchArea="610,350,895,670" transparent="true" colorize="false"/>
     </Property>
   </Config>
   
@@ -383,6 +434,18 @@
     </Property>
     <Property name="downDraw">
       <IBGVeins file="Resource:MainFrame\MainPanel\GuidePanel\guidebtn_down.png" transparent="true" changeLight="false" />
+    </Property>
+  </Config>
+  
+  <Config name="guideWndNextBtn" interface="IBGButton">
+    <Property name="normalDraw">
+      <IBGVeins file="Resource:MainFrame\MainPanel\GuidePanel\guidenextbtn_normal.png" transparent="true" changeLight="false" />
+    </Property>
+    <Property name="onDraw">
+      <IBGVeins file="Resource:MainFrame\MainPanel\GuidePanel\guidenextbtn_hover.png" transparent="true" changeLight="false" />
+    </Property>
+    <Property name="downDraw">
+      <IBGVeins file="Resource:MainFrame\MainPanel\GuidePanel\guidenextbtn_down.png" transparent="true" changeLight="false" />
     </Property>
   </Config>
   
@@ -1005,6 +1068,12 @@
     </Property>
   </Config>
   
+  <Config name="TransShadowPanel" interface="IBGRegionPanel">
+    <Property name="bkground">
+      <IBGVeins drawStyle="DRAWMODE_ADAPT" file="Resource:MainFrame\MainPanel\TransPanel\shadow.png" transparent="true" stretchArea="0, 24, 19, 34"/>
+    </Property>
+  </Config>
+  
    <Config name="funcAppInnerPanel" interface="IBGRegionPanel">
     <Property name="bkground">
       <IBGVeins drawStyle="DRAWMODE_NORMAL" file="Resource:\MainFrame\FuncManageDlg\FuncPanelBkg.png" transparent="true" />
@@ -1436,6 +1505,39 @@
        <IBGVeins file="Resource:\MainFrame\MainPanel\SpeedupTip\speedup_extend.png" transparent="TRUE" veinsRect="68, 0, 102, 25" stretchArea="79,0,90,25" drawStyle="DRAWMODE_33Mesh" changeLight="false">
        </IBGVeins>
      </Property>
+  </Config>
+  <Config name="SpeedupCardBtn" interface="IBGButton">
+    <Property name="anchorPoints" value="256"/>
+    <Property name="normalClr" value="0xffffff"/>
+    <Property name="onColor" value="0xffffff"/>
+    <Property name="downColor" value="0xffffff"/>
+    <Property name="normalBkg">
+      <IBGVeins file="Resource:\MainFrame\MainPanel\SpeedupTip\speedup_card.png" transparent="TRUE" stretchArea="12,0,22,25" drawStyle="DRAWMODE_33Mesh" changeLight="false">
+      </IBGVeins>
+    </Property>
+    <Property name="onBkg">
+      <IBGVeins file="Resource:\MainFrame\MainPanel\SpeedupTip\speedup_card.png" transparent="TRUE" stretchArea="12,0,22,25" drawStyle="DRAWMODE_33Mesh" changeLight="false">
+      </IBGVeins>
+    </Property>
+    <Property name="downBkg">
+      <IBGVeins file="Resource:\MainFrame\MainPanel\SpeedupTip\speedup_card.png" transparent="TRUE" stretchArea="12,0,22,25" drawStyle="DRAWMODE_33Mesh" changeLight="false">
+      </IBGVeins>
+    </Property>
+  </Config>
+  <Config name="SpeedupCardTipBtn" interface="IBGButton">
+    <Property name="anchorPoints" value="256"/>
+    <Property name="normalClr" value="0xffa706"/>
+    <Property name="onColor" value="0xffa706"/>
+    <Property name="downColor" value="0xffa706"/>
+    <Property name="normalDraw">
+      <IBGVeins file="Resource:\MainFrame\MainPanel\SpeedupTip\speedup_card_tip.png" transparent="true" drawStyle="DRAWMODE_NORMAL" changeLight="false" />
+    </Property>
+    <Property name="onDraw">
+      <IBGVeins file="Resource:\MainFrame\MainPanel\SpeedupTip\speedup_card_tip.png" transparent="true" drawStyle="DRAWMODE_NORMAL"  changeLight="false" />
+    </Property>
+    <Property name="downDraw">
+      <IBGVeins file="Resource:\MainFrame\MainPanel\SpeedupTip\speedup_card_tip.png" transparent="true" drawStyle="DRAWMODE_NORMAL"  changeLight="false" />
+    </Property>
   </Config>
   <Config name="SpeedupCornerBtn" interface="IBGButton">
      <Property name="anchorPoints" value="256"/>

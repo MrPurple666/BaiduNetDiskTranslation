@@ -120,16 +120,17 @@
   <s id="287">Automatic backup</s>
   <s id="288">Lock Baidu Cloud</s>
   <s id="289">Recycle bin</s>
-  <s id="290">Tool Box</s>
-  <s id="291">More functions</s>
+  <s id="290">All tools</s>
+  <s id="291">Folder backup</s>
+  <s id="292">Easily view incoming calls and text messages</s>
+  <s id="293">Mobile phone and computer wireless transmission</s>
+  <s id="294">One-key lock to protect privacy</s>
+  <s id="295">Automatic backup, say goodbye to loss</s>
+  <s id="296">Retrieve deleted files</s>
+  <s id="297">Junk file cleaning</s>
+  <s id="298">Clean up files to save space</s>
+  <s id="299">WeChat, QQ backup</s>
 
-  <s id="292">Easy to view calls and SMS </s>
-  <s id="293">Transfer of mobile phones/computer</s>
-  <s id="294">Lock Baidu Disk</s>
-  <s id="295">Backup files</s>
-  <s id="296">Delete files</s>
-  <s id="297">File cleaning</s>
-  <s id="298">Save to disk</s>
   <!--缓存清理对话框-->
   <s id="300">Release cache prompt</s>
   <s id="301">There is too much disk cache. Clearing the disk can free more space and improve the loading speed of the network disk. Do you want to release the cache? </s>
@@ -780,18 +781,46 @@
   <s id="1519">maturity</s>
   <s id="1520">Super member</s>
   <s id="1521">member</s>
-  <s id="1522">5T large space</s>
-  <s id="1523">Fast download</s>
-  <s id="1524">Unlimited batch uploads</s>
-  <s id="1525">Large file upload</s>
+  <s id="1522">5T space</s>
+  <s id="1523">Speed download</s>
+  <s id="1524">Double the video speed</s>
+  <s id="1525">Online decompression</s>
   <s id="1526">understand more</s>
-  <s id="1527">Some of your capacity is about to expire,</s>
-  <s id="1528">View</s>
+
   <s id="1529">Library</s>
   <s id="1530">Scores</s>
   <s id="1531">Redeem Gifts></s>
-  <!--主面板-->
-  <s id="1600">Welcome to Baidu Web Disk</s>
+  <s id="1532">You are not a super member yet</s>
+  <s id="1533">One ​​step away from 5T</s>
+  <s id="1534">One ​​click away from speed download</s>
+  <s id="1535">Unlock 31 privileges for super members</s>
+  <s id="1536">31 privileges for super members have been enjoyed</s>
+  <s id="1537">21 privileges have been enjoyed by members</s>
+  <s id="1538">31 privileges to retain super members</s>
+  <s id="1539">21 privileges to retain members</s>
+  <s id="1540">Super member to:</s>
+  <s id="1541">Member to:</s>
+  <s id="1542">Member Center</s>
+  <s id="1543">File export</s>
+  <s id="1544">Lost privilege %d days</s>
+  <s id="1545">Expires in %d days and will lose 21 privileges</s>
+  <s id="1546">Expires in %d days and will lose 31 privileges</s>
+  <s id="1547">Regain 31 privileges of super member</s>
+  <s id="1548">Renewal</s>
+  <s id="1549">Manage automatic renewal</s>
+  <s id="1550">2T space</s>
+  <s id="1551">Download card to:</s>
+
+
+  <!--Main Panel-->
+  <s id="1600">Welcome to use Baidu Netdisk</s>
+
+  <!--Navigation board-->
+  <s id="1650">Home</s>
+  <s id="1651">Transfer</s>
+  <s id="1652">Friends</s>
+  <s id="1653">Tools</s>
+  <s id="1654">One ​​moment</s>
 
   <!--侧边栏面板-->
   <s id="1700">My share</s>
@@ -903,9 +932,9 @@
   <s id="2163">Add to</s>
   <s id="2164">Move to network disk file</s>
   <s id="2165">Upload a local file</s>
-  <s id="2166">Move out of hidden space</s>
+  <s id="2166">Move out of Safe</s>
   <s id="2167">Lock now</s>
-  <s id="2168">Move into hidden space</s>
+  <s id="2168">Move into Safe</s>
   <s id="2169">file name</s>
   <s id="2170">size</s>
   <s id="2171">Change the time</s>
@@ -924,7 +953,9 @@
   <s id="2184">cancel</s>
   <s id="2185">carry on</s>
   <s id="2186">Mobile phone</s>
-
+  <s id="2188">Rename</s>
+  <s id="2189">Copy to</s>
+  <s id="2190">Safe %s/%s used</s>
   <!--地址栏-->
   <s id="2200">My network drive</s>
   <s id="2201">Safe</s>
@@ -997,8 +1028,8 @@
   <s id="2325">Delete</s>
   <s id="2326">Copy</s>
   <s id="2327">Move to the</s>
-  <s id="2328">Moved into the hidden space</s>
-  <s id="2329">Moved out of the hidden space</s>
+  <s id="2328">Moved into the Safe</s>
+  <s id="2329">Moved out of the Safe</s>
   <s id="2330">Shear</s>
   <s id="2331">Paste</s>
   <s id="2332">Rename</s>
@@ -1033,6 +1064,7 @@
   <s id="2361">PDF转Word</s>
   <s id="2362">Mobile phone</s>
   <s id="2363">Export</s>
+  <s id="2364">File type</s>
   <!--最近使用视图-->
   <s id="2365">To clear the record</s>
   <s id="2366">Delete the file</s>
@@ -1074,7 +1106,7 @@
   <s id="2514">Operation please wait...</s>
   <s id="2515">Choose to shift out of position</s>
   <s id="2516">Cancel</s>
-  <s id="2517">Moved into the hidden space</s>
+  <s id="2517">Moved into the Safe</s>
   <s id="2518">Moved into the file contains a third-party file,to move into after the third-party will be unable to see the\r\n the file is moved into it?</s>
   <s id="2519">Moved into</s>
   <s id="2520">Cancel</s>
@@ -1151,7 +1183,9 @@
   <s id="2932">Pictures and video</s>
   <s id="2933">More></s>
   <s id="2934">There is no recent record of~</s>
-
+  <s id="2935">Source</s>
+  <s id="2936">Type</s>
+  <s id="2937">Owned folder</s>
   <!--用户奖励计划-->
   <s id="3000">User rewards program</s>
   <s id="3001">Network connection failure</s>
@@ -1301,7 +1335,7 @@
   <s id="3548">Remove backup folder</s>
   <s id="3549">After removal, the folder cannot be automatically backed up to the network disk. In order to avoid file loss, it is recommended to turn on the backup~ The previously backed up files are still saved to the cloud and will not be deleted</s>
   <s id="3550">Remove</s>
-  <s id="3551">Hidden space is not supported</s>
+  <s id="3551">Safe is not supported</s>
   <s id="3552">Membership activation></s>
   <s id="3553">Members can enjoy the privilege of document history version</s>
   <s id="3554">Super members can enjoy the privilege of document history version</s>
@@ -1361,7 +1395,7 @@
   <s id="3726">You can use the following methods to log in to the new device：</s>
   <s id="3727">Baidu Netdisk</s>
   <s id="3728">Only count the number of devices that simultaneously log in to the account on iOS, Android, iPad, Mac, Linux, and Windows. After binding the main device, there are up to 6 ordinary users and 10 super members.</s>
-    
+  <s id="3729">The currently logged-in device is %d station</s>
   <!--Fast file transfer-->
   <s id="3750">Fast file transfer</s>
 
@@ -1389,9 +1423,124 @@
   <s id="3767">File appeal, submitted successfully</s>
   <s id="3768">Do not appeal normal files</s>
   <s id="3769">Recognizing...</s>
+
+  <!-- Bind_Change phone number to bind -->
+   <s id="3790">System prompt</s>
+   <s id="3791">Unbind</s>
+   <s id="3792">To replace</s>
+   <s id="3793">Sign out</s>
+   <s id="3794">The system has detected that your current account has security risks, in order to protect your data</s>
+   <s id="3795">And privacy security, please change the bound mobile phone number. </s>
+   <s id="3796">The current account is not bound to a mobile phone number, which is a security risk.</s>
+   <s id="3797">Please bind your mobile phone number before proceeding. </s>
+
+   <!--Top capacity expiration pop-up window-->
+   <s id="3770">Capacity plan expiration reminder</s>
+   <s id="3771">Part of your capacity is about to expire, please check it in time</s>
+   <s id="3772">View</s>
+
+   <!--Single rights decompression coupon-->
+   <s id="3775">Become a member and decompress the 2G compressed package online</s>
+   <s id="3776">Become a super member and decompress the 8G compressed package online</s>
+   <s id="3777">Unzip coupon</s>
+   <s id="3778">10 yuan/month</s>
+   <s id="3779">25 yuan/month</s>
+   <s id="3780">4.9 yuan/piece</s>
+   <s id="3781">Upgrading to super member decompression upper limit is increased to 8G</s>
   <!--在线文档导出-->
   <s id="4000">Exporting...</s>
   <s id="4001">Cancel</s>
   <s id="4002">The export path has no write permission, please run Baidu Net Disk as an administrator</s>
+<!-- Collection -->
+  <s id="4020">Quick access</s>
+  <s id="4021">Remove from the sidebar</s>
+  <s id="4022">Drag into frequently used folders</s>
 
+  <!--Join the sidebar-->
+  <s id="4050">Add to sidebar</s>
+
+  <!--Functional Treasure Box-->
+  <s id="4070">Chat files are not lost</s>
+  <s id="4071">Reminder</s>
+  <s id="4072">Only 3 function modules can be collected~</s>
+  <s id="4074">Scan the code to download the cloud disk APP</s>
+  <s id="4075">A Moment Album</s>
+  <s id="4076">Unlimited space, unlimited download speed</s>
+  <s id="4077">APP download</s>
+
+  <!-- Navigation bar widget -->
+  <s id="4100">File cleanup</s>
+  <s id="4101">Automatic backup</s>
+  <s id="4102">WeChat backup</s>
+
+  <!-- Purchase page -->
+  <s id="4130">Purchase</s>
+  <s id="4131">Purchase decompression coupons</s>
+  <s id="4132">Purchase accelerated coupons</s>
+  <s id="4133">Purchase free download card</s>
+  <s id="4134">Purchase members</s>
+
+  <!-- WeChat QQ backup -->
+  <s id="4140">Open now</s>
+  <s id="4141">WeChat backup</s>
+  <s id="4142">Opened</s>
+  <s id="4143">Not open</s>
+  <s id="4144">QQ backup</s>
+  <s id="4145">Chat files only exist locally, there is a risk of accidental deletion, and it is not convenient to view on other devices. It is recommended to turn on the backup</s>
+  <s id="4146">Your chat file was not found, you may not have installed/logged in to WeChat, or modified the default</s>
+  <s id="4147">[File Management]</s>
+  <s id="4148">The folder location in,</s>
+  <s id="4149">Done</s>
+  <s id="4150">Backup settings</s>
+  <s id="4151">Edit path></s>
+  <s id="4152">Please check and modify before starting backup~</s>
+  <s id="4153">WeChat file backup is turned on</s>
+  <s id="4154">You did not find your chat file, you may not have installed/logged in to QQ, or modified the default</s>
+  <s id="4155">Avoid accidental deletion when expired</s>
+  <s id="4156">Convenient access anytime, anywhere</s>
+  <s id="4157">QQ file backup is enabled</s>
+  <s id="4158">Open the network disk folder</s>
+  <s id="4159">Degree small cap</s>
+  <s id="4160">WeChat ID: duxiaopan</s>
+  <s id="4161">This is your WeChat ID, you can log in on WeChat</s>
+  <s id="4162">Confirm this folder in "WeChat-Settings-File Management"</s>
+  <s id="4163">Confirm this folder in "QQ-System Settings-File Management"</s>
+  <s id="4164">WeChat/QQ file backup (unlimited backup)</s>
+  <s id="4165">Open now></s>
+  <s id="4166">Opened></s>
+  <s id="4167">Unlimited traffic, does not account for the number of backup folders. </s>
+  <s id="4168">After the backup is successful, you can click "</s>
+  <s id="4169">" to view the document</s>
+  <s id="4170">/WeChat backup/</s>
+  <s id="4171">/QQ Backup/</s>
+  <s id="4172">WeChat/QQ file backup</s>
+  <s id="4173">Timely backup of WeChat/QQ chat files</s>
+  <s id="4174">Mobile phone/other computers/webpages and other multi-terminal synchronization</s>
+  <s id="4175">The files in the default folder of WeChat/QQ [File Management] can be automatically uploaded; if the folder is modified, it cannot be backed up temporarily. </s>
+  <s id="4176">Open WeChat file backup</s>
+  <s id="4177">Local file location:</s>
+  <s id="4178">Backup account:</s>
+  <s id="4179">Enable QQ file backup</s>
+  <s id="4181">Open backup with one click</s>
+  <s id="4182">Do not open WeChat file backup</s>
+  <s id="4183">Do not open QQ file backup</s>
+  <s id="4184">Chat files only exist locally, there is a risk of accidental deletion, and it is not convenient to view on other devices. It is recommended to turn on the backup</s>
+  <s id="4185">Overflow limit</s>
+  <s id="4186">Computer files</s>
+  <s id="4187">Access files anytime, anywhere</s>
+  <s id="4188">Wechat has not been installed/logged in or the file storage path of Wechat has been modified, and the backup cannot be opened temporarily</s>
+  <s id="4189">You haven’t installed/logged in to QQ or modified the QQ file save path, temporarily unable to open backup</s>
+  <s id="4190">Automatic backup of chat files,</s>
+  <s id="4191">Free unlimited free</s>
+  <s id="4192">Instantaneous backup to avoid</s>
+  <s id="4193">Expired deletion by mistake</s>
+  <s id="4194"> for easy access anytime</s>
+  <s id="4195">Click on the profile picture to view it. </s>
+  <s id="4196">Open WeChat file backup</s>
+  <s id="4197">Enable QQ file backup</s>
+
+  <s id="4200">You have decompression coupons available. Do you want to use them? </s>
+  <s id="4201">Not used temporarily</s>
+  <s id="4202">Use now</s>
+  <s id="4203">Dear Baidu network disk user</s>
 </string>

@@ -17,6 +17,7 @@
         <text pos="222,74" class="cls_login_device_status_dlg_big_text">%str3701%</text>
         <dlg name="panel_device_question" pos="428,90,@14,@14" tip="%str3728%" skin="logindevicestatus_dlg_question">
         </dlg>
+        <text pos="[6,90" name="text_current_device_num" crtext="FF0000" font="0200:微软雅黑"></text>
         <text pos="170,117" name="text_device_limit_tip" class="cls_login_device_status_dlg_middle_text">%str3702%</text>
 
         <dlg name="panel_app_guide_tip" pos="196,157,@278,@24">
