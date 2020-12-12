@@ -10,7 +10,7 @@
 			
 			<dlg pos="0,37,-0,-0">
 				<dlg pos="0,0,-0,@60">
-					<text name="txt_detail" pos="|-200,|-8,@400,@16" align="center" crtext="333333" font="0000:微软雅黑"></text>
+					<text name="txt_detail" pos="|-200,|-8,@400,@16" align="center" crtext="333333" font="Segoe UI"></text>
 				</dlg>
 				<buttonex name="btn_guide" pos="10,-224,@480,@214" normal-skin="svipguidedlg_bug_emptydir_img" cursor="hand" animate="1"/>
 			</dlg>

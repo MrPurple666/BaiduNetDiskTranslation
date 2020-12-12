@@ -28,10 +28,6 @@
             <dlg name="MySharePanel" pos="165,0,-0,-0" show="0">
               <include src="IDR_DUI_SHARELIST_PANEL"/>
             </dlg>
-            <!--回收站区域-->
-            <dlg name="MyRecyclePanel" pos="165,0,-0,-0" show="0">
-              <include src="IDR_DUI_RECYCLE_PANEL"/>
-            </dlg>
             <!--隐藏空间激活区域-->
             <dlg name="SafeboxActivePanel" pos="165,0,-0,-0" show="0">
               <include src="IDR_DUI_SAFEBOX_ACTIVE_PANEL"/>

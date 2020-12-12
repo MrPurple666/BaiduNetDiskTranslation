@@ -1,5 +1,5 @@
 <UI version="1.0">
-	<IBGCommonWin name="opGuide" enableMsg="true" toolWin="false" rect="0,0,1100,680" config="guideWinFunctionBox">
+	<IBGCommonWin name="opGuide" enableMsg="true" toolWin="false" rect="0,0,1100,680" config="guideWinPageOne">
 		<Children>
 			<IBGRegionPanel sizeAsParent="true">
 				<Children>
@@ -16,7 +16,12 @@
 							</downDraw>
 						</Properties>
 					</IBGButton>
-					<IBGButton name="guideBtn" size="120,62" margin="490, 0, 490, 220" dock="DOCK_BOTTOM" config="guideWndKnownBtn">
+					<IBGStaticEx name="bindLinkTip" autoCalcHeight="true" autoCalcWidth="true" text="$2752" margin="240, 558, 0, 106" position="240,558" handCursor="true" unseen="true" dock="DOCK_NULL">
+						<Children>
+							<IBGLinkItem config="linkItem" positionMode="true" position="0,-1"/>
+						</Children>
+					</IBGStaticEx>
+					<IBGButton name="guideBtn" size="96,34" margin="284, 0, 720, 80" dock="DOCK_BOTTOM" config="guideWndNextBtn">
 					</IBGButton>
 				</Children>
 			</IBGRegionPanel>

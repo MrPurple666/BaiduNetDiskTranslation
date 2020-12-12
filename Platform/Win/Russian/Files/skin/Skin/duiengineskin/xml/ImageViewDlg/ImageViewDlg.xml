@@ -44,7 +44,7 @@
       </dlg>
       <dlg name="dlg_op_tip" pos="|-86,-190,@172,@56" show="0" skin="toast_ok_bg">
         <img name="op_tip_ico" pos="23,|-6,@16,@16" skin="toast_ok_ico"/>
-        <text name="txt_op_tip" pos="[6,0,-17,-0" crtext="ffffff" font="0200:微软雅黑" textmode="40824">%str2119%</text>
+        <text name="txt_op_tip" pos="[6,0,-17,-0" crtext="ffffff" font="Segoe UI" textmode="40824">%str2119%</text>
       </dlg>
       <dlg name="dlg_opbtnlist_view" pos="0,-136,-0,@70" skin="imageviewpanel_dlg_mask_down">
         <dlg name="dlg_opbtnlist_view_child" pos="|-270,0,@540,-0">

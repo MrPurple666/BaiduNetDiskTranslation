@@ -10,10 +10,10 @@
 <dlg name="dlg_loopplay_autobackup_title_bar" pos="0,0,-0,@154" show="0">
     <dlg name="regular_user_loopplay_autobackup_theme" pos="0,0,-0,@88" crtext="000000" show="0">
         <text pos="38,33" align="left" font="0A00:微软雅黑">%str3532%</text>
-        <text name="txt_autobackup_used_quota" pos="[11,37" align="left" font="0600:微软雅黑">%str3533%</text>
+        <text name="txt_autobackup_used_quota" pos="[11,37" align="left" font="Segoe UI">%str3533%</text>
         <progress name="progress_autobackup_quota" pos="[6,46,@226,@6" bgskin="auto_backup_progress_white" posskin="auto_backup_progress_gray" min="0" max="100" value="0"/>
-        <imgbtn name="autobackup_quota_warning_img" pos="[10,36,@74,@24" cursor="arrow" crtext="FF436A" font="0000:微软雅黑" skin="auto_backup_quota_warn_icon" show="0">%str4185%</imgbtn>
-        <link name="link_open_vip_autobackup_quota" pos="38,73" crtext="C9A566" font="0200:微软雅黑" hoverfont="0202:微软雅黑" align="left" valign="middle" cursor="hand">%str3534%</link>
+        <imgbtn name="autobackup_quota_warning_img" pos="[10,36,@74,@24" cursor="arrow" crtext="FF436A" font="Segoe UI" skin="auto_backup_quota_warn_icon" show="0">%str4185%</imgbtn>
+        <link name="link_open_vip_autobackup_quota" pos="38,73" crtext="C9A566" font="Segoe UI" hoverfont="0202:微软雅黑" align="left" valign="middle" cursor="hand">%str3534%</link>
     </dlg>
     
     <dlg name="vip_user_autobackup_theme" pos="0,0,-0,@33" crtext="000000" show="0">
@@ -21,7 +21,7 @@
     </dlg>
     
     <dlg pos="0,112,-0,@32" crtext="000000"> <!--要轮询的tip-->
-        <text name="txt_autobackup_loopplay_tip" pos="38,0,@400,@32" align="left" font="0000:微软雅黑" crtext="878C9C">%str3522%</text>
+        <text name="txt_autobackup_loopplay_tip" pos="38,0,@400,@32" align="left" font="Segoe UI" crtext="878C9C">%str3522%</text>
         <dlg name="dlg_wechat_backup_not_open" pos="573,0,-0,-0" show="1">
           <text pos="0,0" font="0300:微软雅黑" crtext="000000" valign="middle">%str4164%</text>
           <link name="lnk_goto_wechat_backup" pos="[0,0" font="0300:微软雅黑" crtext="06A7FF" cursor="hand" valign="middle" hoverfont="0302:微软雅黑">%str4165%</link>
@@ -40,10 +40,10 @@
       <dlg pos="48,28,-48,@55" name="autobackup_seldir_dlg" skin="autobackup_seldir_dlg_bg">
         <dlg name="local_folder_information_dlg" pos="0,4,-1,@46" show="0">
           <img name="local_folder_image" pos="16,8,@28,@28" skin="folder_small_image" />
-          <text name="txt_local_folder_name" pos="[8,12" font="0200:微软雅黑" crtext="000000" hight="20" maxwidth="150" dotted="1" ></text>
-          <text name="txt_local_folder_path" pos="[8,12" font="0200:微软雅黑" crtext="999999" hight="20" maxwidth="380" dotted="1" ></text>
+          <text name="txt_local_folder_name" pos="[8,12" font="Segoe UI" crtext="000000" hight="20" maxwidth="150" dotted="1" ></text>
+          <text name="txt_local_folder_path" pos="[8,12" font="Segoe UI" crtext="999999" hight="20" maxwidth="380" dotted="1" ></text>
         </dlg>
-        <imgbtn name="btn_select_local_folder" pos="692,8,@98,@30" skin="autobackup_btn_seldir_bg" font="0200:微软雅黑">%str3556%</imgbtn>
+        <imgbtn name="btn_select_local_folder" pos="692,8,@98,@30" skin="autobackup_btn_seldir_bg" font="Segoe UI">%str3556%</imgbtn>
       </dlg>
 
       <dlg name="autobackup_yun_path_dlg" pos="50,[16,-1,@20">
@@ -73,13 +73,13 @@
       </dlg>
     
       <dlg name="autobackup_begin_dlg" pos="0,[26,-1,@58">
-        <imgbtn name="btn_begin_autobackup" pos="321,0,@258,@82" crdisabled="FFFFFF" skin="wechat_backup_dlg_btn_blue" font="0600:微软雅黑" crtext="ffffff">%str3555%</imgbtn>
+        <imgbtn name="btn_begin_autobackup" pos="321,0,@258,@82" crdisabled="FFFFFF" skin="wechat_backup_dlg_btn_blue" font="Segoe UI" crtext="ffffff">%str3555%</imgbtn>
       </dlg>
     </dlg>
   <!--存在备份时的列表展示-->
     <dlg name="dlg_backup_list_view" pos="0,10,-1,@445" show="0">
       <dlg pos="0,27,-1,@46">
-        <text name="txt_have_backedup_num" pos="37,8,@170,@25" crtext="000000" font="0600:微软雅黑">%str3535%</text>
+        <text name="txt_have_backedup_num" pos="37,8,@170,@25" crtext="000000" font="Segoe UI">%str3535%</text>
         <buttonex name="btn_view_backup_detail" pos="[10,10,@100,@20" font="0300:微软雅黑" hoverfont="0302:微软雅黑" cursor="hand" crtext="348AFF">%str3536%</buttonex>
         <imgbtn name="btn_open_backup_operation_dlg" pos="-210,0,@156,@38" skin="autobackup_btn_add_bg" font="0400:微软雅黑" crtext="348AFF" >%str3537%</imgbtn>
         <text name="txt_max_autobackup_num" pos="-200,0,@170,@46" font="0400:微软雅黑" crtext="999999" show="0">%str3547%</text>
@@ -101,10 +101,10 @@
         </listboxex>
       </dlg>
       <dlg name="dlg_file_mulversion" pos="37,-40,-1,@20">
-         <check name="check_enable_mulversion" pos="0,0,@130,@20" font="0200:微软雅黑" crtext="000000" skin="btncheckbox">%str1155%</check>
-         <text name="txt_mulversion_introduction" pos="[6,0,@210,@20" font="0200:微软雅黑" crtext="999999">%str3538%</text>
-         <text name="txt_mulversion_tip" pos="350,0,@210,@20" font="0200:微软雅黑" crtext="333333" show="0">%str3551%</text>
-         <buttonex name="btn_open_vip_mulvision" pos="350,0,@100,@20" font="0200:微软雅黑" hoverfont="0202:微软雅黑" cursor="hand" show="0" crtext="C9A566">%str3552%</buttonex>
+         <check name="check_enable_mulversion" pos="0,0,@130,@20" font="Segoe UI" crtext="000000" skin="btncheckbox">%str1155%</check>
+         <text name="txt_mulversion_introduction" pos="[6,0,@210,@20" font="Segoe UI" crtext="999999">%str3538%</text>
+         <text name="txt_mulversion_tip" pos="350,0,@210,@20" font="Segoe UI" crtext="333333" show="0">%str3551%</text>
+         <buttonex name="btn_open_vip_mulvision" pos="350,0,@100,@20" font="Segoe UI" hoverfont="0202:微软雅黑" cursor="hand" show="0" crtext="C9A566">%str3552%</buttonex>
       </dlg>
     </dlg>
 </dlg>

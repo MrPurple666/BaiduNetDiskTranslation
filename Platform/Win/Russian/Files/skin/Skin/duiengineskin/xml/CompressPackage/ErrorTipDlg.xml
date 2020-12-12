@@ -8,7 +8,7 @@
         <imgbtn name="btn_close" skin="btn_sys_close" pos="-34,1,-2,21" cursor="arrow" tip="%str250%" animate="1"/>
       </caption>
       <dlg pos="0,38,-0,98">
-        <text name="txt_error_info" pos="|-100,|-10,|100,|10" crtext="333333" font="0000:微软雅黑" textmode="25"/>
+        <text name="txt_error_info" pos="|-100,|-10,|100,|10" crtext="333333" font="Segoe UI" textmode="25"/>
       </dlg>
       <dlg pos="12,98,-12,-12">
         <img name="img_guide" pos="0,0,-0,-0" width="480" height="214" skin="errortipdlg_guide_bug_img"/>

@@ -19,6 +19,6 @@
   </dlg>
   <gifplayer name="gif_status" pos="-80,|-10" width="20" height="20" skin="gif_statuspanel_loading" show="0"/>
   <img name="img_status" pos="-80,|-8,@16,@16" skin="mainpanel_statuspanel_error" show="0"></img>
-  <text name="txt_status_tip" pos="-50,|-9" height="16" crtext="999999" font="0000:微软雅黑" align="left" show="1"/>
+  <text name="txt_status_tip" pos="-50,|-9" height="16" crtext="999999" font="Segoe UI" align="left" show="1"/>
 
 </dlg>

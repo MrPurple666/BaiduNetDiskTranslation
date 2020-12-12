@@ -21,7 +21,7 @@
   </dlg>
   
   <dlg name ="SearchBox" pos="-212,5,-12,-5">
-    <edit name="search_word_edit" pos="5,1,@166,@28" x-margin="0" y-margin="0" align="left" font="0000:宋体" deffont="0000:微软雅黑" crdeftext="999999" password="0" show="1" deftext="%str2203%" defleftmargin="1"></edit>
+    <edit name="search_word_edit" pos="5,1,@166,@28" x-margin="0" y-margin="0" align="left" font="0000:宋体" deffont="Segoe UI" crdeftext="999999" password="0" show="1" deftext="%str2203%" defleftmargin="1"></edit>
     <imgbtn name="btn_search" skin="mainpanel_addresspanel_searchbox_search" pos="[3,7,@16,@16" cursor="arrow"></imgbtn>
   </dlg>
 </dlg>

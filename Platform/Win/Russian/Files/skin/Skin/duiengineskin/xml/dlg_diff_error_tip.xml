@@ -8,7 +8,7 @@
       </caption>
       <dlg pos="0,38,-0,-0">
         <img pos="30,33,@34,@34" skin="msgbox_information"/>
-        <text name="error_tip" pos="74,33,-10,73" font="0000:微软雅黑" multilines="1" crtext="666666" textmode="40804">%str823%</text>
+        <text name="error_tip" pos="74,33,-10,73" font="Segoe UI" multilines="1" crtext="666666" textmode="40804">%str823%</text>
         <imgbtn name="btn_tip" pos="-82,-27,-10,-3" class="msgboxbtn">%str821%</imgbtn>
       </dlg>
     </dlg>

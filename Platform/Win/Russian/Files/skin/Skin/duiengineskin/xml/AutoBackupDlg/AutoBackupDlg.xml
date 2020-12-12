@@ -1,11 +1,11 @@
 <layer title="%str3520%" name="AutoBackupDlg" width="900" height="650" appwin="1" ncRect="0,0,0,0" translucent="1" nomaxsize="1">
     <body>
-        <dlg pos="0,0,-0,-0" skin="autobackupdlg_bg" font="0000:微软雅黑" crtext="FFFFFF">
+        <dlg pos="0,0,-0,-0" skin="autobackupdlg_bg" font="Segoe UI" crtext="FFFFFF">
             <!--标题栏-->
             <caption pos="0,0,-0,@38">
                 <dlg name="dlg_logo" pos="0,0,200,-0" show="1" msgtransparent="1">
                     <img pos="10,10" skin="common_logo_main"></img>
-                    <text name="main_panel_title" pos="39,8" crtext="000000" font="0200:微软雅黑">%str3520%</text>
+                    <text name="main_panel_title" pos="39,8" crtext="000000" font="Segoe UI">%str3520%</text>
                 </dlg>
                 <imgbtn name="btn_return" pos="10,10,@52,@14" skin="autobackup_btn_return_bg" crtext="000000" 
 					txtxoffset="18" cursor="arrow" tip="%str365%" animate="1" show="0">%str365%</imgbtn>
@@ -39,7 +39,7 @@
                   </dlg>
                 </dlg>
                 <dlg name="guide_panel_bottom" pos="0,[24,-0,-0">
-                  <imgbtn name="btn_try_autobackup" pos="320,0,@258,@82" skin="wechat_backup_dlg_btn_blue" font="0600:微软雅黑" crtext="ffffff">%str3526%</imgbtn>
+                  <imgbtn name="btn_try_autobackup" pos="320,0,@258,@82" skin="wechat_backup_dlg_btn_blue" font="Segoe UI" crtext="ffffff">%str3526%</imgbtn>
                 </dlg>
             </dlg>
             

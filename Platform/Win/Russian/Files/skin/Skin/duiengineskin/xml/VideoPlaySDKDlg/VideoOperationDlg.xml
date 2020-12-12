@@ -124,18 +124,18 @@
         <!--记住播放位置Tip-->
         <dlg name="tip_history_play" pos="10,-102" width="204" height="28" skin="video_skin_tip_bg" show="0">
           <text name="tip_history_play_text" pos="10,5" class="cls_txt_white" txtalpha="0">%str1412%</text>
-          <link name="link_replay" pos="144,0" width="50" height="28" crtext="008AFF" font="0000:微软雅黑" hoverfont="0002:微软雅黑" skin="video_skin_op_bg" txtalpha="0" cursor="hand">%str1413%</link>
+          <link name="link_replay" pos="144,0" width="50" height="28" crtext="008AFF" font="Segoe UI" hoverfont="0002:微软雅黑" skin="video_skin_op_bg" txtalpha="0" cursor="hand">%str1413%</link>
         </dlg>
         <!--反馈卡顿成功Tip-->
         <dlg name="tip_carlton_feedback" pos="10,-102" width="148" height="28" skin="video_skin_tip_bg" show="0">
           <text name="tip_carlton_feedback_text" pos="10,5" class="cls_txt_white" txtalpha="0">%str1488%</text>
-          <link name="link_carlton_feedback" pos="70,0" width="50" height="28" crtext="008AFF" font="0000:微软雅黑" hoverfont="0002:微软雅黑" skin="video_skin_op_bg" txtalpha="0" cursor="hand">%str1489%</link>
+          <link name="link_carlton_feedback" pos="70,0" width="50" height="28" crtext="008AFF" font="Segoe UI" hoverfont="0002:微软雅黑" skin="video_skin_op_bg" txtalpha="0" cursor="hand">%str1489%</link>
           <imgbtn name="close_carlton_feedback_btn" skin="video_imglist_close" pos="116,|-16" cursor="arrow"/>
         </dlg>
         <!--原画播放Tip-->
         <dlg name="tip_carlton_origin" pos="10,-102" width="254" height="28" skin="video_skin_tip_bg" show="0">
           <text name="tip_carlton_origin_text" pos="10,5" class="cls_txt_white" txtalpha="0">%str1406%</text>
-          <link name="link_quality_switch" pos="218,0" width="24" height="28" crtext="008AFF" font="0000:微软雅黑" hoverfont="0002:微软雅黑" txtalpha="0" skin="video_skin_op_bg" cursor="hand">%str1414%</link>
+          <link name="link_quality_switch" pos="218,0" width="24" height="28" crtext="008AFF" font="Segoe UI" hoverfont="0002:微软雅黑" txtalpha="0" skin="video_skin_op_bg" cursor="hand">%str1414%</link>
         </dlg>
         <!--流畅播放Tip-->
         <dlg name="tip_carlton_smooth" pos="10,-102" width="238" height="28" skin="video_skin_tip_bg" show="0">
@@ -155,14 +155,14 @@
         <dlg name="tip_definition" pos="10,-102" skin="video_skin_tip_bg" show="0">
           <img name="tip_definition_img_svip" pos="10,5,@16,@16" skin="video_overspeed_svip_img" show="0"></img>
           <text name="tip_definition_head" pos="30,4" class="cls_txt_white" txtalpha="0"></text>
-          <text name="tip_definition_middle" pos="[0,4" crtext="FFFFFF" font="0000:微软雅黑" txtalpha="0"></text>
+          <text name="tip_definition_middle" pos="[0,4" crtext="FFFFFF" font="Segoe UI" txtalpha="0"></text>
           <text name="tip_definition_tail" pos="[0,4" class="cls_txt_white" txtalpha="0"></text>
         </dlg>
         <!--倍速Tip-->   
         <dlg name="tip_overspeed" pos="10,-102" skin="video_skin_tip_bg" show="0">
            <img name="tip_overspeed_img_svip" pos="10,5,@16,@16" skin="video_overspeed_svip_img" show="0"></img>
            <text name="tip_overspeed_head" pos="30,4" class="cls_txt_white" txtalpha="0"></text>
-           <text name="tip_overspeed_middle" pos="[0,4" crtext="FFFFFF" font="0000:微软雅黑" txtalpha="0"></text>
+           <text name="tip_overspeed_middle" pos="[0,4" crtext="FFFFFF" font="Segoe UI" txtalpha="0"></text>
            <text name="tip_overspeed_tail" pos="[0,4" class="cls_txt_white" txtalpha="0"></text>
         </dlg>
         <!--tip panel end-->
@@ -184,13 +184,13 @@
           <text name="video_subtitle_tip_text" pos="110,57" class="cls_video_subtitle_txt_white"></text>
           <imgbtn name="video_subtitle_tip_btn_retry" skin="video_subtitle_op_retry" pos="184,60" show="0" cursor="arrow"/>
           <combobox name="video_subtitle_select" pos="88,26,@180,@28" dropdown="1"
-                          dropheight="128" font="0000:微软雅黑" crtext="3a8cff" dotted="1" cursel="0"
+                          dropheight="128" font="Segoe UI" crtext="3a8cff" dotted="1" cursel="0"
                           align="left" tabstop="0" x-margin="4" y-margin="2" richedit="0" 
                     btnskin="video_subtitle_comboboxbtn" ncskin="video_subtitle_border" itempanel="1" animtime="0">
             <liststyle x-margin="4" y-margin="0" richedit="0" ncskin="video_subtitle_border" itemheight="32" 
                        critembg="000000" critemselbg="1c2434" crbg="000000" id_text="1">
               <template>
-                <text id="1" pos="2,8" crtext="FFFFFF" crhover="008AFF" font="0000:微软雅黑" maxwidth="156" dotted="1" msgtransparent="0"/>
+                <text id="1" pos="2,8" crtext="FFFFFF" crhover="008AFF" font="Segoe UI" maxwidth="156" dotted="1" msgtransparent="0"/>
               </template>
             </liststyle>
             <editstyle inset="5,0,5,0" crtext="FFFFFF" align="left" crbg="000000"/>
@@ -230,7 +230,7 @@
             <dlg name="video_definition_display" pos="0,-82,-0,-0">
                 <hr pos="16,0,-16,1" crbg="333333"></hr>
                 <text name="video_definition_type_tip" pos="20,30" class="cls_txt_white" txtalpha="0">%str3306%</text>
-                <text name="video_definition_type" pos="124,30" font="0000:微软雅黑" align="center" crtext="ffffff" txtalpha="0">%str3308%</text>  
+                <text name="video_definition_type" pos="124,30" font="Segoe UI" align="center" crtext="ffffff" txtalpha="0">%str3308%</text>  
             </dlg>
           </dlg>
         </dlg>
@@ -253,7 +253,7 @@
               <hr pos="16,0,-16,1" crbg="333333"></hr>
               <img name="video_overspeed_img_svip" pos="11,-67,@16,@16" skin="video_overspeed_svip_img"></img>
               <text name="video_overspeed_guide_head" pos="33,-68" class="cls_txt_white" txtalpha="0">%str1465%</text>    <!-- id="1465"你可免费试用-->
-              <text name="video_overspeed_guide_trycount" pos="110,-68" font="0000:微软雅黑" align="center" crtext="f9d680" txtalpha="0">%str1466%</text>    <!--id="1466">%d次-->
+              <text name="video_overspeed_guide_trycount" pos="110,-68" font="Segoe UI" align="center" crtext="f9d680" txtalpha="0">%str1466%</text>    <!--id="1466">%d次-->
               <text name="video_overspeed_guide_tail" pos="130,-68" class="cls_txt_white" txtalpha="0">%str1467%</text>  <!-- id="1467">倍速播放-->
               <imgbtn name="video_overspeed_svip" pos="49,-41" width="110" height="26" class="cls_video_overspeed_vip_btn" txtalpha="0">%str1464%</imgbtn>   <!--id="1464">立即开通-->
             </dlg>

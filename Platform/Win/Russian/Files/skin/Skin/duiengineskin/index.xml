@@ -15,7 +15,6 @@
 <resid type="XML" name="IDR_DUI_NAVIGATE_PANEL" file="xml\MainPanel\NavigatePanel.xml"/>
 <resid type="XML" name="IDR_DUI_LEFT_PANEL" file="xml\MainPanel\NetdiskPanel\LeftPanel.xml"/>
 <resid type="XML" name="IDR_DUI_SHARELIST_PANEL" file="xml\MainPanel\NetdiskPanel\ShareListPanel.xml"/>
-<resid type="XML" name="IDR_DUI_RECYCLE_PANEL" file="xml\MainPanel\NetdiskPanel\RecyclePanel.xml"/>
 <resid type="XML" name="IDR_DUI_PAN_CONTAINER_PANEL" file="xml\MainPanel\NetdiskPanel\PanContainerPanel.xml"/>
 <resid type="XML" name="IDR_DUI_SAFEBOX_CONTAINER_PANEL" file="xml\MainPanel\NetdiskPanel\SafeboxContainerPanel.xml"/>
 <resid type="XML" name="IDR_DUI_PAN_CONTAINER_TOOLBAR" file="xml\MainPanel\NetdiskPanel\FileContainerPanel\PanToolbar.xml"/>

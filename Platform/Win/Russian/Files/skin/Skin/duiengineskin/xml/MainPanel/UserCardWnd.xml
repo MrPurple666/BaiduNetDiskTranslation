@@ -5,13 +5,13 @@
 	    <!--顶部面板-->
 	    <dlg name="dlg_top" pos="0,0,-0,@94">
 		  <dlg name="dlg_user" pos="0,0,-0,@48">
-			<link name="link_username" pos="20,14" crtext="03081A" font="0200:微软雅黑" crhover="696969" hoverfont="0200:微软雅黑" maxwidth="250" cursor="hand" dotted="1"/>
+			<link name="link_username" pos="20,14" crtext="03081A" font="Segoe UI" crhover="696969" hoverfont="Segoe UI" maxwidth="250" cursor="hand" dotted="1"/>
 		    <imgbtn name="btn_crown" pos="[4,14,@38,@18" skin="titlepanel_translucent" icoskin="titlepanel_vipclose" cursor="hand"/>
 		  </dlg>   
           <!--用户到期时间区域-->          
           <dlg name="dlg_endtime_info" pos="18,[0,@282,@42" skin="usercard_member_notvip_bkg">
-			<text name="txt_endtime" pos="12,14" crtext="64360D" font="0000:微软雅黑" align="left">%str1532%</text>
-			<imgbtn name="btn_buy" pos="-100,8,@90,@28" skin="usercard_svip_btn" crtext="64360D" font="0000:微软雅黑">%str831%</imgbtn>
+			<text name="txt_endtime" pos="12,14" crtext="64360D" font="Segoe UI" align="left">%str1532%</text>
+			<imgbtn name="btn_buy" pos="-100,8,@90,@28" skin="usercard_svip_btn" crtext="64360D" font="Segoe UI">%str831%</imgbtn>
             <img name="img_svip_arror" pos="-20,20,@8,@5" skin="usercard_svip_arrow" show="0"/>          
 		  </dlg>		
 		</dlg>
@@ -20,7 +20,7 @@
 		<dlg name="dlg_middle" pos="0,[0,-0,@120">
           <dlg name="dlg_privilege_tip" pos="0,0,-0,@44">
 			<img name="img_line_fre" pos="10,18,@64,@1" skin="usercard_svip_line" />
-			<text name="text_priv_num" pos="74,10,-74,@20" font="0000:微软雅黑" align="center" crtext="C99E47">%str1535%</text>
+			<text name="text_priv_num" pos="74,10,-74,@20" font="Segoe UI" align="center" crtext="C99E47">%str1535%</text>
 			<img name="img_line_tail" pos="-74,18,@64,@1" skin="usercard_svip_line_reverse"/>
 		  </dlg>
 		  <!--特权按钮-->
