@@ -46,6 +46,7 @@
                 <imgbtn name="btn_rename" pos="[18,|-8,@16,@16" skin="mainpanel_listview_rename" cursor="arrow" tip="%str2332%" show="0"></imgbtn>
                 <imgbtn name="btn_pdftoword" pos="[18,|-8,@16,@16" skin="mainpanel_listview_pdf_to_word" cursor="arrow" tip="%str2361%" show="0"></imgbtn>
                 <imgbtn name="btn_mobileview" pos="[18,|-8,@16,@16" skin="mainpanel_listview_mobile_view" cursor="arrow" tip="%str2362%" show="0"></imgbtn>
+                <imgbtn name="btn_edit_onlinedoc" pos="[18,|-8,@16,@16" skin="mainpanel_listview_doc_to_onlinedoc" cursor="arrow" tip="%str2191%" show="0"></imgbtn>
                 <imgbtn name="btn_export_onlinedoc" pos="42,|-8,@16,@16" skin="mainpanel_listview_export_onlinedoc" cursor="arrow" tip="%str2363%" show="0"></imgbtn>
             </dlg>
           </template>

@@ -86,10 +86,10 @@
 											<!-- 文档历史版本 -->
 											<IBGRegionPanel size="530,42" margin="0,4,0,0" dock="DOCK_TOP">
 												<Children>
-													<IBGStaticEx size="60,15" text="$3053" margin="20,12,0,10" dock="DOCK_LEFT"/>
+													<IBGStaticEx size="60,15" text="$3055" margin="20,12,0,10" dock="DOCK_LEFT"/>
 													<IBGRegionPanel size="470,42" margin="3,0,0,0" dock="DOCK_FILL">
 														<Children>
-															<IBGCheckButton name="fileHistoryVersion" dock="DOCK_LEFT" autoCalcWidth="true" size="165,14" check="true" config="checkButton" text="$3054" margin="5, 8, 3, 8"/>
+															<IBGCheckButton name="fileHistoryVersion" dock="DOCK_LEFT" autoCalcWidth="true" size="165,14" check="true" config="checkButton" text="$3056" margin="5, 8, 3, 8"/>
 															<IBGGIFControl dock="DOCK_LEFT" margin="5, 10, 5, 10" image="Resource:\\MainFrame\\SettingDlg\\onlyvip.png" size="48, 18"></IBGGIFControl>
 														</Children>
 													</IBGRegionPanel>
@@ -217,21 +217,21 @@
 											<!-- 互助提速 -->
 											<IBGRegionPanel size="530,64" margin="0,8,0,0" dock="DOCK_TOP">
 												<Children>
-													<IBGStaticEx size="60,15" text="$3134" margin="20,8,0,10" dock="DOCK_LEFT"/>
+													<IBGStaticEx size="60,15" text="$3136" margin="20,8,0,10" dock="DOCK_LEFT"/>
 													<IBGRegionPanel size="510,64" margin="20,0,0,0" dock="DOCK_TOP">
 														<Children>
 															<!-- 开启互助提速功能 -->
 															<IBGRegionPanel size="510,32" margin="0,0,0,0" dock="DOCK_TOP">
 																<Children>
-																	<IBGStaticEx name="p2pSettingtext" dock="DOCK_LEFT" size="196,14" text="$3135" margin="0, 8, 2, 2"/>
-																	<IBGButton name="p2pSwitchBtn" dock="DOCK_LEFT" size="56,26" config="button" text="$3149" margin="4, 6, 0, 6"/>
+																	<IBGStaticEx name="p2pSettingtext" dock="DOCK_LEFT" size="196,14" text="$3137" margin="0, 8, 2, 2"/>
+																	<IBGButton name="p2pSwitchBtn" dock="DOCK_LEFT" size="56,26" config="button" text="$3151" margin="4, 6, 0, 6"/>
 																</Children>
 															</IBGRegionPanel>
 															<IBGRegionPanel size="510,32" margin="0,0,0,0" dock="DOCK_TOP">
 																<Children>
 																	<IBGRadioLogic name="turnOnP2pMode"/>
-																	<IBGCheckButton name="turnOnOverspeedMode" size="70,14" margin="0, 5, 3, 8" text="$3136" radio="true" check="true" dock="DOCK_LEFT" config="radioButton"/>
-																	<IBGCheckButton name="turnOnGetScoreMode" size="70,14" margin="86, 5, 3, 8" text="$3138" radio="true" check="false" dock="DOCK_LEFT" config="radioButton"/>
+																	<IBGCheckButton name="turnOnOverspeedMode" size="70,14" margin="0, 5, 3, 8" text="$3138" radio="true" check="true" dock="DOCK_LEFT" config="radioButton"/>
+																	<IBGCheckButton name="turnOnGetScoreMode" size="70,14" margin="86, 5, 3, 8" text="$3140" radio="true" check="false" dock="DOCK_LEFT" config="radioButton"/>
 																</Children>
 															</IBGRegionPanel>
 														</Children>
@@ -267,7 +267,7 @@
 											<!-- 客户端锁定 -->
 											<IBGRegionPanel size="530,114" margin="0,0,0,0" name="lockSettingPanel" dock="DOCK_TOP">
 												<Children>
-													<IBGStaticEx size="76,15" text="$2907" margin="20,21,0,78" dock="DOCK_LEFT"/>
+													<IBGStaticEx size="76,15" text="$2909" margin="20,21,0,78" dock="DOCK_LEFT"/>
 													<!-- 密码保护 -->
 													<IBGRegionPanel size="430,114" margin="0,0,0,0" dock="DOCK_LEFT">
 														<Children>
@@ -275,21 +275,21 @@
 																<Children>
 																	<IBGRegionPanel size="510,30" margin="0,0,0,2" dock="DOCK_TOP">
 																		<Children>
-																			<IBGCheckButton name="lockHotkeyCheck" dock="DOCK_LEFT" autoCalcWidth="true" size="0,14" check="true" config="checkButton" text="$2909" margin="2, 8, 2, 8"/>
-																			<IBGEdit size="100, 24" margin="2, 3, 2, 3" name="lockHotkeyEdit" text="$2906" dock="DOCK_LEFT" enable="true" config="edit"/>
-																			<IBGStaticEx size="45,15" name="lockTip" autoCalcWidth="true" textClr="0x666666" text="$2908" margin="2, 8, 2, 8" dock="DOCK_LEFT" config="static"/>
+																			<IBGCheckButton name="lockHotkeyCheck" dock="DOCK_LEFT" autoCalcWidth="true" size="0,14" check="true" config="checkButton" text="$2911" margin="2, 8, 2, 8"/>
+																			<IBGEdit size="100, 24" margin="2, 3, 2, 3" name="lockHotkeyEdit" text="$2908" dock="DOCK_LEFT" enable="true" config="edit"/>
+																			<IBGStaticEx size="45,15" name="lockTip" autoCalcWidth="true" textClr="0x666666" text="$2910" margin="2, 8, 2, 8" dock="DOCK_LEFT" config="static"/>
 																		</Children>
 																	</IBGRegionPanel>
 																	<IBGRegionPanel size="510,30" margin="0,4,10,2" dock="DOCK_TOP">
 																		<Children>
-																			<IBGCheckButton name="autoLockCheck" dock="DOCK_LEFT" size="191,14" check="true" config="checkButton" text="$2910" margin="2, 8, 2, 8"/>
+																			<IBGCheckButton name="autoLockCheck" dock="DOCK_LEFT" size="191,14" check="true" config="checkButton" text="$2912" margin="2, 8, 2, 8"/>
 																			<IBGEdit size="30, 24" margin="2, 3, 2, 3" name="autoLockTime" text="10" number="true" dock="DOCK_LEFT" enable="true" limitLength="2" config="edit"/>
-																			<IBGStaticEx size="45,15" name="autoLockTip" autoCalcWidth="true" textClr="0x666666" text="$2911" margin="2, 8, 2, 8" dock="DOCK_LEFT" config="static"/>
+																			<IBGStaticEx size="45,15" name="autoLockTip" autoCalcWidth="true" textClr="0x666666" text="$2913" margin="2, 8, 2, 8" dock="DOCK_LEFT" config="static"/>
 																		</Children>
 																	</IBGRegionPanel>
 																	<IBGRegionPanel size="510,27" margin="0,4,10,0" dock="DOCK_TOP">
 																		<Children>
-																			<IBGCheckButton name="systemAppLockCheck" dock="DOCK_LEFT" size="280,14" check="true" config="checkButton" text="$2912" margin="2, 8, 2, 5"/>
+																			<IBGCheckButton name="systemAppLockCheck" dock="DOCK_LEFT" size="280,14" check="true" config="checkButton" text="$2914" margin="2, 8, 2, 5"/>
 																		</Children>
 																	</IBGRegionPanel>
 																</Children>
@@ -315,7 +315,7 @@
 											<!-- 隐藏空间 -->
 											<IBGRegionPanel size="530,84" margin="0,0,0,0" name="safeboxSettingPanel" dock="DOCK_TOP">
 												<Children>
-													<IBGStaticEx size="76,15" text="$2918" margin="20,21,0,10" dock="DOCK_LEFT"/>
+													<IBGStaticEx size="76,15" text="$2920" margin="20,21,0,10" dock="DOCK_LEFT"/>
 													<!-- 修改密码 -->
 													<IBGRegionPanel size="430,100" margin="0,0,0,0" dock="DOCK_LEFT">
 														<Children>
@@ -323,15 +323,15 @@
 																<Children>
 																	<IBGRegionPanel name="safeboxActivatedPanel" size="510,30" margin="0,0,0,2" dock="DOCK_TOP" unseen="false">
 																		<Children>
-																			<IBGStaticEx size="45,15" name="safeboxActivatedTip" autoCalcWidth="true" textClr="0x666666" text="$2919" margin="2, 6, 2, 10" dock="DOCK_LEFT" config="static"/>
-																			<IBGButton name="modifySafeBoxPswBtn" dock="DOCK_LEFT" drawFocus="true" enableFocus="true" size="80,23" config="button" text="$2921" normalClr="0x2e2e2e" margin="20, 5, 0, 2" enable="true"/>
-																			<IBGButton name="findSafeBoxPswBtn" dock="DOCK_LEFT" drawFocus="true" enableFocus="true" size="80,23" config="button" text="$2922" normalClr="0x2e2e2e" margin="20, 5, 0, 2" enable="true"/>
+																			<IBGStaticEx size="45,15" name="safeboxActivatedTip" autoCalcWidth="true" textClr="0x666666" text="$2921" margin="2, 6, 2, 10" dock="DOCK_LEFT" config="static"/>
+																			<IBGButton name="modifySafeBoxPswBtn" dock="DOCK_LEFT" drawFocus="true" enableFocus="true" size="80,23" config="button" text="$2923" normalClr="0x2e2e2e" margin="20, 5, 0, 2" enable="true"/>
+																			<IBGButton name="findSafeBoxPswBtn" dock="DOCK_LEFT" drawFocus="true" enableFocus="true" size="80,23" config="button" text="$2924" normalClr="0x2e2e2e" margin="20, 5, 0, 2" enable="true"/>
 																		</Children>
 																	</IBGRegionPanel>
 																	<IBGRegionPanel name="safeboxNotActivatedPanel" size="510,30" margin="0,0,0,2" dock="DOCK_TOP" unseen="false">
 																		<Children>
-																			<IBGStaticEx size="45,15" name="safeboxNotActivatedTip" autoCalcWidth="true" textClr="0x666666" text="$2920" margin="2, 6, 2, 10" dock="DOCK_LEFT" config="static"/>
-																			<IBGButton name="activateSafeBoxPswBtn" dock="DOCK_LEFT" drawFocus="true" enableFocus="true" size="100,23" config="button" text="$2923" normalClr="0x2e2e2e" margin="70, 5, 0, 2" enable="true"/>
+																			<IBGStaticEx size="45,15" name="safeboxNotActivatedTip" autoCalcWidth="true" textClr="0x666666" text="$2922" margin="2, 6, 2, 10" dock="DOCK_LEFT" config="static"/>
+																			<IBGButton name="activateSafeBoxPswBtn" dock="DOCK_LEFT" drawFocus="true" enableFocus="true" size="100,23" config="button" text="$2925" normalClr="0x2e2e2e" margin="70, 5, 0, 2" enable="true"/>
 																		</Children>
 																	</IBGRegionPanel>
 																</Children>
@@ -368,16 +368,16 @@
 													<!-- 声音提醒选择 -->
 													<IBGRegionPanel size="510,144" margin="10,0,10,0" dock="DOCK_TOP">
 														<Children>
-															<IBGCheckButton name="playCompleteSound" dock="DOCK_TOP" autoCalcWidth="true" size="0,14" check="true" config="checkButton" text="$2924" margin="2, 8, 2, 4"/>
+															<IBGCheckButton name="playCompleteSound" dock="DOCK_TOP" autoCalcWidth="true" size="0,14" check="true" config="checkButton" text="$2926" margin="2, 8, 2, 4"/>
 															<IBGRegionPanel size="510,93" margin="0,0,0,0" dock="DOCK_TOP">
 																<Children>
 																	<IBGRadioLogic name="soundType"/>
 																	<IBGRegionPanel size="510,43" margin="0,0,0,0" dock="DOCK_TOP">
 																		<Children>
-																			<IBGCheckButton name="sound1" text="$2925" autoCalcWidth="true" size="0, 16" config="radioButton" check="false" radio="true" margin="0, 2, 0, 0" dock="DOCK_LEFT"/>
-																			<IBGCheckButton name="sound2" text="$2926" autoCalcWidth="true" size="0, 16" config="radioButton" check="false" radio="true" margin="52, 2, 0, 0" dock="DOCK_LEFT"/>
-																			<IBGCheckButton name="sound3" text="$2927" autoCalcWidth="true" size="0, 16" config="radioButton" check="false" radio="true" margin="52, 2, 0, 0" dock="DOCK_LEFT"/>
-																			<IBGCheckButton name="sound4" text="$2928" autoCalcWidth="true" size="0, 16" config="radioButton" check="false" radio="true" margin="52, 2, 0, 0" dock="DOCK_LEFT"/>
+																			<IBGCheckButton name="sound1" text="$2927" autoCalcWidth="true" size="0, 16" config="radioButton" check="false" radio="true" margin="0, 2, 0, 0" dock="DOCK_LEFT"/>
+																			<IBGCheckButton name="sound2" text="$2928" autoCalcWidth="true" size="0, 16" config="radioButton" check="false" radio="true" margin="52, 2, 0, 0" dock="DOCK_LEFT"/>
+																			<IBGCheckButton name="sound3" text="$2929" autoCalcWidth="true" size="0, 16" config="radioButton" check="false" radio="true" margin="52, 2, 0, 0" dock="DOCK_LEFT"/>
+																			<IBGCheckButton name="sound4" text="$2930" autoCalcWidth="true" size="0, 16" config="radioButton" check="false" radio="true" margin="52, 2, 0, 0" dock="DOCK_LEFT"/>
 																		</Children>
 																	</IBGRegionPanel>
 																</Children>

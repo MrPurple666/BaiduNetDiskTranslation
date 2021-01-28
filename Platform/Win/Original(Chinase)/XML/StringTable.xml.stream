@@ -845,10 +845,9 @@
   
   <!--极速下载券提示 -->
   <String id="IDS_SPEEDUP_BTN_EXTEND" value="继续加速" />
-  <String id="IDS_SPEEDUPTICKET_REMINDING_TIP" value="(剩余%d秒)" />
-  <String id="IDS_SPEEDUPTICKET_REMINDING_1_TIP" value="(剩余%d小时)" />
-  <String id="IDS_SPEEDUPTICKET_REMINDING_2_TIP" value="(%s之前有效)" />
-  <String id="IDS_SPEEDUPTICKET_REMINDING_3_TIP" value="(剩余%d分钟)" />
+  <String id="IDS_SPEEDUPTICKET_REMINDING_1_TIP" value="%d小时" />
+  <String id="IDS_SPEEDUPTICKET_REMINDING_2_TIP" value="%d秒" />
+  <String id="IDS_SPEEDUPTICKET_REMINDING_3_TIP" value="%d分钟" />
   <String id="IDS_SPEEDUPTICKET_MSGBOX_TITLE_TIP" value="提示" />
   <String id="IDS_SPEEDUPTICKET_MSGBOX_ADD_DOWNTASK_TIP" value="知道啦" />
   <String id="IDS_SPEEDUPTICKET_MSGBOX_OKBTN_TIP" value="购买成功" />
@@ -866,6 +865,9 @@
   <String id="IDS_VIPSPEEDUP_DOWN_EXPERIENCING_TIP" value="正在试用提速特权，" />
   <String id="IDS_VIPSPEEDUP_FINISH_TIP" value="试用提速特权结束" />
   <String id="IDS_VIPSPEEDUP_FINISH_DEFAULT_TIP" value="开通特权即可享受持续加速" />
+  <String id="IDS_VIPSPEEDUP_INUSE_DEFAULT_TIP" value="提速中！试用时间剩余" />
+  <String id="IDS_VIPSPEEDUP_END_DEFAULT_TIP" value="试用结束，速度提升了" />
+  <String id="IDS_VIPSPEEDUP_BUY_SVIP" value="开通超级会员" />
 
   <!--闲时下载卡提示 -->
   <String id="IDS_SPEEDUPCARD_MSGBOX_TITLE_TIP" value="提示" />
@@ -880,7 +882,7 @@
   <String id="IDS_URL_OFFLINEDOWNLOADTASK_TITLE_FORQA" value="新建离线下载任务窗口" />
   <String id="IDS_URL_OFFLINEDOWNLOADTASK_TITLE" value="新建下载任务" />
   <String id="IDS_URL_OFFLINEDOWNLOADTASK_INPUTLINK" value="填写下载文件链接" />
-  <String id="IDS_URL_OFFLINEDOWNLOADTASK_URLEDIT_DEFAULT" value="支持HTTP、FTP、磁力链、电驴链接下载" />
+  <String id="IDS_URL_OFFLINEDOWNLOADTASK_URLEDIT_DEFAULT" value="支持HTTP、FTP、磁力链接下载" />
   <String id="IDS_URL_OFFLINEDOWNLOADTASK_URL_INVALIDE" value="链接格式有误 例：http://abc.com/xyz.rmvb" />
   <String id="IDS_URL_OFFLINEDOWNLOADTASK_URL_NOT_SUPPORT" value="暂时不支持该链接格式" />
   <String id="IDS_URL_OFFLINEDOWNLOADTASK_ADDTASK_FAILED" value="创建离线下载任务失败" />
@@ -1136,7 +1138,7 @@
   <String id="IDS_SPEEDFEECBACKTIP_FEEDBACK" value="我要反馈" />
 
   <!--提速相关日志-->
-  <String id="IDS_GET_SPEEDUP_SERVICE_FAILED" value="领取网络加速包失败，错误码【%d】" />
+  <String id="IDS_GET_SPEEDUP_SERVICE_FAILED" value="领取超级会员提速失败，错误码【%d】" />
   <String id="IDS_QUERY_SPEEDUP_STATUS_FAILED" value="查询网络加速状态失败:%d" />
   <String id="IDS_SEND_SPEEDUP_HEARTBEAT_FAILED" value="发送提速心跳失败:%d" />
   <String id="IDS_QUERY_MEMBER_SPEEDUP_STATUS_FAILED" value="查询会员下载加速状态失败:%d" />

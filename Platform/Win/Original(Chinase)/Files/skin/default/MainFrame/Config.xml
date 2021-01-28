@@ -1488,23 +1488,59 @@
        </IBGVeins>
      </Property>
   </Config>
-  <Config name="SpeedupExtendBtn" interface="IBGButton">
+  <Config name="SpeedupBlueFrameBtn" interface="IBGButton">
      <Property name="anchorPoints" value="256"/>
      <Property name="normalClr" value="0xffa706"/>
      <Property name="onColor" value="0xffa706"/>
      <Property name="downColor" value="0xffa706"/>
-     <Property name="normalBkg">
-       <IBGVeins file="Resource:\MainFrame\MainPanel\SpeedupTip\speedup_extend.png" transparent="TRUE" veinsRect="0, 0, 34, 25" stretchArea="12,0,22,25" drawStyle="DRAWMODE_33Mesh" changeLight="false">
-       </IBGVeins>
-     </Property>
-     <Property name="onBkg">
-       <IBGVeins file="Resource:\MainFrame\MainPanel\SpeedupTip\speedup_extend.png" transparent="TRUE" veinsRect="34, 0, 68, 25" stretchArea="46,0,55,25" drawStyle="DRAWMODE_33Mesh" changeLight="false">
-       </IBGVeins>
-     </Property>
-     <Property name="downBkg">
-       <IBGVeins file="Resource:\MainFrame\MainPanel\SpeedupTip\speedup_extend.png" transparent="TRUE" veinsRect="68, 0, 102, 25" stretchArea="79,0,90,25" drawStyle="DRAWMODE_33Mesh" changeLight="false">
-       </IBGVeins>
-     </Property>
+    <Property name="normalBkg">
+      <IBGVeins file="Resource:\MainFrame\MainPanel\SpeedupTip\speedup_blue_frame_btn.png" transparent="TRUE" veinsRect="0, 0, 60, 40" stretchArea="20,0,40,40" drawStyle="DRAWMODE_33Mesh" changeLight="false">
+      </IBGVeins>
+    </Property>
+    <Property name="onBkg">
+      <IBGVeins file="Resource:\MainFrame\MainPanel\SpeedupTip\speedup_blue_frame_btn.png" transparent="TRUE" veinsRect="60, 0, 120, 40" stretchArea="80,0,100,40" drawStyle="DRAWMODE_33Mesh" changeLight="false">
+      </IBGVeins>
+    </Property>
+    <Property name="downBkg">
+      <IBGVeins file="Resource:\MainFrame\MainPanel\SpeedupTip\speedup_blue_frame_btn.png" transparent="TRUE" veinsRect="120, 0, 180, 40" stretchArea="140,0,160,40" drawStyle="DRAWMODE_33Mesh" changeLight="false">
+      </IBGVeins>
+    </Property>
+  </Config>
+  <Config name="SpeedupBlueBtn" interface="IBGButton">
+    <Property name="anchorPoints" value="256"/>
+    <Property name="normalClr" value="0xffffff"/>
+    <Property name="onColor" value="0xffffff"/>
+    <Property name="downColor" value="0xffffff"/>
+    <Property name="normalBkg">
+      <IBGVeins file="Resource:\MainFrame\MainPanel\SpeedupTip\speedup_blue_btn.png" transparent="TRUE" veinsRect="0, 0, 60, 40" stretchArea="20,0,40,40" drawStyle="DRAWMODE_33Mesh" changeLight="false">
+      </IBGVeins>
+    </Property>
+    <Property name="onBkg">
+      <IBGVeins file="Resource:\MainFrame\MainPanel\SpeedupTip\speedup_blue_btn.png" transparent="TRUE" veinsRect="60, 0, 120, 40" stretchArea="80,0,100,40" drawStyle="DRAWMODE_33Mesh" changeLight="false">
+      </IBGVeins>
+    </Property>
+    <Property name="downBkg">
+      <IBGVeins file="Resource:\MainFrame\MainPanel\SpeedupTip\speedup_blue_btn.png" transparent="TRUE" veinsRect="120, 0, 180, 40" stretchArea="140,0,160,40" drawStyle="DRAWMODE_33Mesh" changeLight="false">
+      </IBGVeins>
+    </Property>
+  </Config>
+  <Config name="SpeedupGoldBtn" interface="IBGButton">
+    <Property name="anchorPoints" value="256"/>
+    <Property name="normalClr" value="0x0d3664"/>
+    <Property name="onColor" value="0x0d3664"/>
+    <Property name="downColor" value="0x0d3664"/>
+    <Property name="normalBkg">
+      <IBGVeins file="Resource:\MainFrame\MainPanel\SpeedupTip\speedup_gold_btn.png" transparent="TRUE" veinsRect="0, 0, 60, 40" stretchArea="20,0,40,40" drawStyle="DRAWMODE_33Mesh" changeLight="false">
+      </IBGVeins>
+    </Property>
+    <Property name="onBkg">
+      <IBGVeins file="Resource:\MainFrame\MainPanel\SpeedupTip\speedup_gold_btn.png" transparent="TRUE" veinsRect="60, 0, 120, 40" stretchArea="80,0,100,40" drawStyle="DRAWMODE_33Mesh" changeLight="false">
+      </IBGVeins>
+    </Property>
+    <Property name="downBkg">
+      <IBGVeins file="Resource:\MainFrame\MainPanel\SpeedupTip\speedup_gold_btn.png" transparent="TRUE" veinsRect="120, 0, 180, 40" stretchArea="140,0,160,40" drawStyle="DRAWMODE_33Mesh" changeLight="false">
+      </IBGVeins>
+    </Property>
   </Config>
   <Config name="SpeedupCardBtn" interface="IBGButton">
     <Property name="anchorPoints" value="256"/>

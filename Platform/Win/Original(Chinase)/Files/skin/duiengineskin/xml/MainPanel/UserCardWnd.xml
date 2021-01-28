@@ -10,9 +10,9 @@
 		  </dlg>   
           <!--用户到期时间区域-->          
           <dlg name="dlg_endtime_info" pos="18,[0,@282,@42" skin="usercard_member_notvip_bkg">
-			<text name="txt_endtime" pos="12,14" crtext="64360D" font="0000:微软雅黑" align="left">%str1532%</text>
+			<link name="link_endtime" pos="12,14" multilines="0" dotted="1" maxwidth="172" crtext="64360D" font="0000:微软雅黑" align="left">%str1532%</link>
 			<imgbtn name="btn_buy" pos="-100,8,@90,@28" skin="usercard_svip_btn" crtext="64360D" font="0000:微软雅黑">%str831%</imgbtn>
-            <img name="img_svip_arror" pos="-20,20,@8,@5" skin="usercard_svip_arrow" show="0"/>          
+            <img name="img_svip_arror" pos="-20,19,@8,@5" skin="usercard_svip_arrow" show="0"/>          
 		  </dlg>		
 		</dlg>
 	  
