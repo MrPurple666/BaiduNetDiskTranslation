@@ -53,18 +53,18 @@
         <buttonex name="btn_modify_yun_path" pos="[10,0,@70,@20" font="0300:微软雅黑" hoverfont="0302:微软雅黑" cursor="hand" crtext="348AFF">%str3559%</buttonex>
       </dlg>
       
-      <dlg name="dlg_wechat_backup_swith" skin="wechat_backup_dlg_setting_bg" pos="35,[100,@830,@104">
+      <dlg name="dlg_wechat_backup_swith" skin="wechat_backup_dlg_setting_bg" pos="50,[100,@800,@104">
           <!-- 微信 -->
           <dlg name="dlg_wechat_backup_setting" pos="15,8,-0,@22" show="0">
             <link name="lnk_goto_wechat_backup3" pos="0,2" font="0100:微软雅黑" crtext="03081A" hoverfont="0102:微软雅黑" cursor="hand">%str4196%</link>
-            <check name="chk_wechat_backup" pos="749,0,@44,@22" state="4" skin="wechat_backup_dlg_chk_switch" focusskin="function_collect_focus_skin"></check>
+            <check name="chk_wechat_backup" pos="746,3,@18,@16" state="4" skin="wechat_backup_dlg_chk_switch" focusskin="function_collect_focus_skin"></check>
           </dlg>
-          <hr name="hr_between_wechat_qq" pos="15,[8,@773,@1" crbg="EDEDED" size="1"/>
+          <hr name="hr_between_wechat_qq" pos="23,[8,@755,@1" crbg="EDEDED" size="1"/>
 
           <!-- QQ -->
           <dlg name="dlg_qq_backup_setting" pos="15,[8,-0,@22" show="1">
             <link name="lnk_goto_wechat_backup4" pos="0,2" font="0100:微软雅黑" crtext="03081A" hoverfont="0102:微软雅黑" cursor="hand">%str4197%</link>
-            <check name="chk_qq_backup" pos="749,0,@44,@22" state="4" skin="wechat_backup_dlg_chk_switch" focusskin="function_collect_focus_skin"></check>
+            <check name="chk_qq_backup" pos="746,3,@18,@16" state="4" skin="wechat_backup_dlg_chk_switch" focusskin="function_collect_focus_skin"></check>
           </dlg>
           <dlg name="dlg_wechat_backup_tip" pos="0,[10,-0,@22" show="1">
             <text pos="15,0" font2="facename:微软雅黑;bold:1;italic:0;underline:0;adding:1" crtext="878C9C">%str4167%</text>

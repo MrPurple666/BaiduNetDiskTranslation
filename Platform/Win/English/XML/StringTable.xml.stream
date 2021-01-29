@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- baseid = 1024-->
 <!-- ZloiSupport translation, based translation John Wayne -->
-<!-- Update 12-DEC-2020 -->
+<!-- Update 29-01-2020 -->
 <!-- license MIT -->
 <StringTable language="2052">
   <String id="IDS_STANDARDWIN_CLOSE" value="Close" />
@@ -850,7 +850,6 @@
   
   <!--极速下载券提示 -->
   <String id="IDS_SPEEDUP_BTN_EXTEND" value="Continue to accelerate" />
-  <String id="IDS_SPEEDUPTICKET_REMINDING_TIP" value="(remaining %d seconds)" />
   <String id="IDS_SPEEDUPTICKET_REMINDING_1_TIP" value="(%d hours remaining)" />
   <String id="IDS_SPEEDUPTICKET_REMINDING_2_TIP" value="(Valid before %s)" />
   <String id="IDS_SPEEDUPTICKET_REMINDING_3_TIP" value="(%d minutes remaining)" />
@@ -871,6 +870,9 @@
   <String id="IDS_VIPSPEEDUP_DOWN_EXPERIENCING_TIP" value="Speed privilege being tested, " />
   <String id="IDS_VIPSPEEDUP_FINISH_TIP" value="End of speed privilege trial" />
   <String id="IDS_VIPSPEEDUP_FINISH_DEFAULT_TIP" value="Enabling privilege to enjoy accelerated speed" />
+  <String id="IDS_VIPSPEEDUP_INUSE_DEFAULT_TIP" value="Speeding up! Trial time remaining" />
+  <String id="IDS_VIPSPEEDUP_END_DEFAULT_TIP" value="The trial is over, the speed has increased" />
+  <String id="IDS_VIPSPEEDUP_BUY_SVIP" value="Open Super Member" />
 
   <!--Download card prompt when idle -->
   <String id="IDS_SPEEDUP_BTN_BUYCARD" value="Purchase free download card" />

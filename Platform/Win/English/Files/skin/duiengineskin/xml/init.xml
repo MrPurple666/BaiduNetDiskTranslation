@@ -45,6 +45,7 @@
         <imgframe name="toast_vip_bg" src="IDP_TOAST_VIP_BKG" left="60" top="15" right="15" bottom="15"/>
         <imgframe name="toast_svip_bg" src="IDP_TOAST_SVIP_BKG" left="60" top="15" right="15" bottom="15"/>
         <imgframe name="toast_p2p_bg" src="IDP_TOAST_P2P_BKG" left="2" top="2" right="2" bottom="2"/>
+        <imgframe name="toast_video_note_bg" src="IDP_TOAST_VIDEO_NOTE_BKG" left="6" top="6" right="6" bottom="6"/>
         <imgframe name="toast_ok_ico" src="IDP_TOAST_OK_ICO"/>
         <imgframe name="toast_fail_ico" src="IDP_TOAST_FAIL_ICO"/>    
         <gif name="gif_toast_loading" src="IDP_TOAST_LOADING"/>
@@ -106,7 +107,7 @@
         <imgframe name="btn_svip" src="IDP_BTN_SVIP" subwidth="17" left="3" top="3" right="3" bottom="3" />
 
         <imgframe name="btn_vip_round_angle" src="IDP_BTN_VIP_ROUND_ANGLE" subwidth="254" top="6" left="20" right="20" bottom="6" />
-        <imgframe name="btn_svip_round_angle" src="IDP_BTN_SVIP_ROUND_ANGLE" subwidth="254" top="6" left="20" right="20" bottom="6" />
+        <imgframe name="btn_svip_round_angle" src="IDP_BTN_SVIP_ROUND_ANGLE" subwidth="254" top="6" left="20" right="20" bottom="6"/>
         <imgframe name="btn_default_round_angle" src="IDP_BTN_DEFAULT_ROUND_ANGLE" subwidth="254" top="6" left="20" right="20" bottom="6" />
 
         <!--数据线面板相关皮肤定义-->
@@ -228,12 +229,17 @@
         <imgframe name="function_arrow_icon" src="IDP_IMG_FUNTION_ARROW_ICON" />
         <imglst name="function_wechatqq_backup_img" src="IDP_IMG_FUNTION_WACHARTQQ_BACKUP" subwidth="31"/>
         <imgframe name="function_collect_focus_skin"  src="IDP_IMG_FUNTION_COLLECT_FOCUS_SKIN" />
+        <imgframe name="function_collect_files_img"  src="IDP_IMG_FUNTION_COLLECT_FILES" subwidth="31"/>
+        <imgframe name="function_paper_check_img"  src="IDP_IMG_FUNTION_PAPER_CHECK" subwidth="31"/>
+        <imgframe name="function_pdf2word_img"  src="IDP_IMG_FUNTION_PDF2WORD" subwidth="31"/>
+        <imgframe name="function_phone_addressbook_img"  src="IDP_IMG_FUNTION_PHONE_ADDRESSBOOK" subwidth="31"/>
+        <imgframe name="function_phonecall_records_img"  src="IDP_IMG_FUNTION_PHONECALL_RECORDS" subwidth="31"/>
+        <imgframe name="function_phone_message_img"  src="IDP_IMG_FUNTION_PHONE_MESSAGE" subwidth="31"/>
 
       <!--视频清晰度皮肤定义-->
         <imgframe name="definition_sviponly_script" src="IDP_IMG_DEFINITION_SVIPONLY_SCRIPT" />
         <imgframe name="definition_free_script" src="IDP_IMG_DEFINITION_FREE_SCRIPT"  />
         <imgframe name="definition_script" src="IDP_IMG_DEFINITION_SCRIPT"  />
-        <imgframe name="video_definition_new_img" src="IDP_VIDEO_DEFINITION_NEW_IMG"/>
         <!--文件类型相关皮肤定义-->
         <imgframe name="video_middle_image" src="IDP_IMG_FILETYPE_MIDDLE_VIDEO"/>
         <imgframe name="audio_middle_image" src="IDP_IMG_FILETYPE_MIDDLE_AUDIO"/>
@@ -428,8 +434,8 @@
         <imglst name="svipguidedlg_upgrade_dupfile_img" src="IDP_UPGRADEVIP_DUPFILE"/>
         <!--视频播放器相关皮肤定义-->
         <imglst name="video_skin_bg_temp" src="IDP_VIDEO_BK_BG"/>
-        <imglst name="video_imglist_play" src="IDP_VIDEO_BTN_PLAY" subwidth="38"/>
-        <imglst name="video_imglist_pause" src="IDP_VIDEO_BTN_PAUSE" subwidth="38"/>
+        <imglst name="video_imglist_play" src="IDP_VIDEO_BTN_PLAY" subwidth="20"/>
+        <imglst name="video_imglist_pause" src="IDP_VIDEO_BTN_PAUSE" subwidth="20"/>
         <imglst name="video_imglist_pre" src="IDP_VIDEO_BTN_PRE" subwidth="15"/>
         <imglst name="video_imglist_next" src="IDP_VIDEO_BTN_NEXT" subwidth="15"/>
         <imglst name="video_imglist_volum" src="IDP_VIDEO_BTN_VOLUM" subwidth="32"/>
@@ -509,7 +515,27 @@
         <imgframe name="video_definition_guidedlg_img" src="IDP_VIDEO_DEFINITION_GUIDE_IMG"/>
         <imglst name="video_definition_guidedlg_btn" src="IDP_IMG_DEFINITION_GUIDE_BUTTON" subwidth="160"/>
         <imglst name="video_imglist_yellow_words_btn" src="IDP_VIDEO_TASKBAR_YELLOW_BTN_WORDS" subwidth="62"/>
-        <!--标题栏皮肤-->
+        <!--视频标记-->
+        <imglst name="video_note_guide_img" src="IDP_VIDEO_NOTE_GUIDE_IMG"/>
+        <imglst name="video_note_guide_open_btn" src="IDP_VIDEO_NOTE_GUIDE_OPEN_BTN" subwidth="160"/>
+        <imglst name="video_note_add_btn" src="IDP_VIDEO_NOTE_ADD_BTN" subwidth="256"/>
+        <imglst name="video_note_list_empty_img" src="IDP_VIDEO_NOTE_LIST_EMPTY_IMG"/>
+        <imgframe name="video_note_list_hover_bgk" src="IDP_VIDEO_NOTE_LIST_HOVER_BGK" left="20" top="20" right="20" bottom="20"/>
+        <imgframe name="video_note_list_edit_bgk" src="IDP_VIDEO_NOTE_LIST_EDIT_BGK" left="20" top="20" right="20" bottom="20"/>
+
+        <imglst name="video_note_icon" src="IDP_VIDEO_NOTE_ICON" />
+        <imglst name="video_note_edit_wnd_bgk" src="IDP_VIDEO_NOTE_EDIT_WND_BGK"/>
+        <imglst name="video_note_edit_wnd_skin" src="IDP_VIDEO_NOTE_EDIT_WND_SKIN"/>
+        <imglst name="video_note_btn" src="IDP_VIDEO_NOTE_IMG_BTN" subwidth="32" />
+        <imglst name="video_note_edit_btn"  src="IDP_VIDEO_NOTE_EDIT_BTN" subwidth="12" />
+        <imglst name="video_note_delete_btn"  src="IDP_VIDEO_NOTE_DELETE_BTN" subwidth="12"/>
+        <imglst name="video_note_locate_frame" src="IDP_VIDEO_NOTE_LOCATE_FRAME"/>
+        <imglst name="video_note_auto_show_switch" src="IDP_VIDEO_NOTE_AUTO_SHOW_SWITCH" subwidth="32"/>
+        <imglst name="video_note_process_bar_point" src="IDP_VIDEO_NOTE_PROCESS_BAR_POINT_IMG"/>
+        <imglst name="video_note_process_bar_big_point" src="IDP_VIDEO_NOTE_PROCESS_BAR_BIG_POINT_IMG"/>
+        <imglst name="video_note_add_icon" src="IDP_VIDEO_NOTE_ADD_ICON"/>
+      
+      <!--标题栏皮肤-->
         <imglst name="titlepanel_default_head" src="IDP_TITLEPANEL_HEAD"/>
         <imglst name="titlepanel_vipclose" src="IDP_TITLEPANEL_VIPCLOSE"/>
         <imglst name="titlepanel_vipopen" src="IDP_TITLEPANEL_VIPOPEN"/>
@@ -536,7 +562,7 @@
         <imgframe name="titlepanel_sviprenew_btn" src="IDP_TITLEPANEL_SVIPRENEW_BTN" subwidth="40" left="15" right="15"/>
         <imgframe name="titlepanel_quotatip_bg" src="IDP_TITLEPANEL_QUOTATIP_BKG" left="20" top="15" right="124" bottom="20"/>
         <imgframe name="titlepanel_ad_skin" src="IDP_TITLEPANEL_AD_SKIN" subwidth="28"/>
-        <imgframe name="titlepanel_textad_bgk" src="IDP_TITLEPANEL_TEXTAD_BGK" left="20" top="30" right="20" bottom="20"/>
+        <imgframe name="titlepanel_textad_bgk" src="IDP_TITLEPANEL_TEXTAD_BGK" left="30" top="40" right="30" bottom="30"/>
         <imgframe name="titlepanel_cert_status_icon" src="IDP_TITLEPANEL_CERT_STATUS_ICON" />     
         <imgframe name="titlepanel_bgk" src="IDP_TITLEPANEL_BGK"/>
 
@@ -575,8 +601,10 @@
         <imglst name="usercard_channel_info_bgk" src="IDP_USERCARD_CHANNEL_INFO_BGK" />
         <imglst name="usercard_channel_arrow" src="IDP_USERCARD_CHANNEL_ARROW"/>
         <imglst name="usercard_svip_arrow" src="IDP_USERCARD_SVIP_ARROW" />
+        <imglst name="member_center_card_bgk" src="IDP_MEMBER_CENTER_CARD_BGK" />
+        <imgframe name="member_center_card_qr_bgk" src="IDP_MEMBER_CENTER_CARD_QR_BGK" />
 
-        <button name="usercard_normal_btn" border="ffffff" bg="ffffff" bgup="ffffff"
+      <button name="usercard_normal_btn" border="ffffff" bg="ffffff" bgup="ffffff"
             bgdown="ffffff" bguphover="eef0f6" bgdownhover="eef0f6"
             bguppush="eef0f6" bgdownpush="eef0f6"/>
         <imgframe name="usercard_tip_mask" src="IDP_USERCARD_TIP_MASK" left="3" top="3" right="3" bottom="3"/>
@@ -622,12 +650,13 @@
         <imgframe name="tippanel_onlineedit_down_bg" src="IDP_TIPPANEL_ONLINEEDIT_DOWN_BG"/>
         <!--主面板提速引导皮肤-->
         <imgframe name="speeduptippanel_bg" src="IDP_SPEEDUPTIPPANEL_BG" left="3" top="3" right="3" bottom="3"/>
-        <imgframe name="speeduptippanel_try_btn" src="IDP_SPEEDUPTIPPANEL_SPEEDUP_BTN" subwidth="34" left="12" right="12"/>
+        <imgframe name="speeduptippanel_try_btn" src="IDP_SPEEDUPTIPPANEL_SPEEDUP_BTN" subwidth="60" left="20" right="20"/>
         <imgframe name="speeduptippanel_close_btn" src="IDP_SPEEDUPTIPPANEL_CLOSE_BTN" subwidth="10"/>
         <imgframe name="speeduptippanel_smile" src="IDP_SPEEDUPTIPPANEL_TIP_SMILE"/>
+        <imgframe name="speeduptippanel_detail" src="IDP_SPEEDUPTIPPANEL_TIP_DETAIL"/>
         <imgframe name="speeduptickettippanel_bg" src="IDP_SPEEDUPTICKETTIPPANEL_BG" left="3" top="3" right="3" bottom="3"/>
-        <imgframe name="speeduptickettippanel_use_btn" src="IDP_SPEEDUPTICKETTIPPANEL_USE_BTN" subwidth="34" left="12" right="12"/>
-        <imgframe name="speeduptickettippanel_extend_btn" src="IDP_SPEEDUPTICKETTIPPANEL_EXTEND_BTN" subwidth="34" left="12" right="12"/>
+        <imgframe name="speeduptickettippanel_use_btn" src="IDP_SPEEDUPTICKETTIPPANEL_USE_BTN" subwidth="60" left="20" right="20"/>
+        <imgframe name="speeduptickettippanel_extend_btn" src="IDP_SPEEDUPTICKETTIPPANEL_EXTEND_BTN" subwidth="60" left="20" right="20"/>
         <imgframe name="speeduptickettippanel_ticket" src="IDP_SPEEDUPTICKETTIPPANEL_TICKET"/>
         <imgframe name="speeduptickettippanel_corner" src="IDP_SPEEDUPTICKETTIPPANEL_CORNER" left="11" right="11" subwidth="34"/>
         <imgframe name="speeduptickettippanel_smile" src="IDP_SPEEDUPTICKETTIPPANEL_TIP_TICKET"/>
@@ -640,6 +669,7 @@
         <imgframe name="mainpanel_toolbar_createshare" src="IDP_MAINPANEL_TOOLBAR_CREATESHARE" subwidth="20"/>
         <imgframe name="mainpanel_toolbar_delete" src="IDP_MAINPANEL_TOOLBAR_DELETE" subwidth="20"/>
         <imgframe name="mainpanel_createonlinedoc" src="IDP_MAINPANEL_TOOLBAR_CREATEONLINEDOC" subwidth="20"/>
+        <imgframe name="mainpanel_toolbar_doc_to_onlinedoc" src="IDP_MAINPANEL_TOOLBAR_DOC_TO_ONLINEDOC" subwidth="20"/>
         <imgframe name="mainpanel_toolbar_createdir" src="IDP_MAINPANEL_TOOLBAR_CREATEDIR" subwidth="20"/>
         <imgframe name="mainpanel_toolbar_pdftoword" src="IDP_MAINPANEL_TOOLBAR_PDFTOWORD" subwidth="20"/>
         <imgframe name="mainpanel_toolbar_mobileview" src="IDP_MAINPANEL_TOOLBAR_MOBILEVIEW" subwidth="20"/>
@@ -663,6 +693,11 @@
         <imgframe name="safebox_quota_buy_svip_icon" src="IDP_SAFEBOX_QUOTA_BUY_SVIP_ICON"/>
         <imgframe name="safebox_arrow_drop_down" src="IDP_SAFEBOX_ARROW_DROP_DOWN" subwidth="20"/>
         <imgframe name="safebox_arrow_drop_up" src="IDP_SAFEBOX_ARROW_DROP_UP" subwidth="20"/>
+        <imglst name="template_new" src="IDP_ONLINEDOC_TEMPLATE_NEW"/>
+        <imglst name="template_empty" src="IDP_ONLINEDOC_TEMPLATE_EMPTY"/>
+        <imgframe name="template_more" src="IDP_ONLINEDOC_TEMPLATE_MORE"/>
+        <imgframe name="template_frame" src="IDP_ONLINEDOC_TEMPLATE_FRAME" subwidth="93"/>
+        
 
         <!--主面板地址栏-->
         <imgframe name="mainpanel_addresspanel_bkg" src="IDP_MAINPANEL_ADDRESSPANEL_BKG" left="4" top="4" right="4" bottom="4"/>
@@ -704,6 +739,7 @@
         <imgframe name="mainpanel_listview_down" src="IDP_MAINPANEL_LISTVIEW_DOWN" subwidth="16"/>
         <imgframe name="mainpanel_listview_del" src="IDP_MAINPANEL_LISTVIEW_DELETE" subwidth="16"/>
         <imgframe name="mainpanel_listview_export_onlinedoc" src="IDP_MAINPANEL_LISTVIEW_EXPORT_ONLINEDOC" subwidth="16"/>
+        <imgframe name="mainpanel_listview_doc_to_onlinedoc" src="IDP_MAINPANEL_LISTVIEW_DOC_TO_ONLINEDOC" subwidth="16"/>
         <imgframe name="mainpanel_listview_rename" src="IDP_MAINPANEL_LISTVIEW_RENAME" subwidth="16"/>
         <imglst name="mainpanel_listview_trans_fail" src="IDP_MAINPANEL_LISTVIEW_TRANS_FAIL"/>
         <imglst name="mainpanel_listview_trans_pause" src="IDP_MAINPANEL_LISTVIEW_TRANS_PAUSE"/>
@@ -919,7 +955,7 @@
         <imglst name="navigatepanel_share_btn" src="IDP_NAVIGATEPANEL_BTN_SHARE" subwidth="42" />
         <imglst name="navigatepanel_transfer_btn" src="IDP_NAVIGATEPANEL_BTN_TRANSFER" subwidth="42" />
         <imglst name="navigatepanel_moretools_btn" src="IDP_NAVIGATEPANEL_BTN_MORETOOLS" subwidth="42" />
-        <imgframe name="navigatepanel_bubble_bg" src="IDP_NAVIGATEPANEL_BG_BUBBLE"/>
+        <imgframe name="navigatepanel_bubble_bg" src="IDP_NAVIGATEPANEL_BG_BUBBLE" left="50" right="50" top="50" bottom="50"/>
         <imgframe name="navigatepanel_bubble_content_default" src="IDP_NAVIGATEPANEL_CONTENT_BUBBLE_DEFAULT"/>
         <gif name="gif_navigatepanel_transfer_blue" src="IDP_NAVIGATEPANEL_GIF_TRANSFER_BLUE"/>
         <gif name="gif_navigatepanel_transfer_gray" src="IDP_NAVIGATEPANEL_GIF_TRANSFER_GRAY"/>
@@ -936,7 +972,7 @@
         <imgframe name="wechat_backup_dlg_bubble_bg_wechat" src="IDP_WECHAT_BACKUP_DLG_BUBBLE_HOVER_BG_WECHAT" left="20" right="20" top="20" bottom="20"/>
         <imgframe name="wechat_backup_dlg_bubble_bg_qq" src="IDP_WECHAT_BACKUP_DLG_BUBBLE_HOVER_BG_QQ" left="20" right="20" top="20" bottom="20"/>
         <imgframe name="wechat_backup_dlg_bubble_bg_head" src="IDP_WECHAT_BACKUP_DLG_BUBBLE_HOVER_BG_HEAD" left="20" right="20" top="20" bottom="20"/>
-        <imglst name="wechat_backup_dlg_chk_switch" src="IDP_WECHAT_BACKUP_DLG_CHK_SWITCH" subwidth="44"/>
+        <imglst name="wechat_backup_dlg_chk_switch" src="IDP_WECHAT_BACKUP_DLG_CHK_SWITCH" subwidth="18"/>
         <imgframe name="wechat_backup_dlg_img_question" src="IDP_WECHAT_BACKUP_DLG_IMG_QUESTION"/>
         <imgframe name="wechat_backup_dlg_img_wechat_head" src="IDP_WECHAT_BACKUP_DLG_IMG_WECHAT_HEAD"/>
         <imgframe name="wechat_backup_dlg_ico_dropdown" src="IDP_WECHAT_BACKUP_DLG_ICO_DROPDOWN"/>
@@ -947,7 +983,64 @@
         <imglst name="wechat_backup_dlg_bg_listitem" src="IDP_WECHAT_BACKUP_DLG_BG_LISTITEM" subwidth="145"/>
         <imgframe name="wechat_backup_dlg_setting_bg" src="IDP_WECHAT_BACKUP_DLG_SETTING_BG" left="100" right="100" top="10" bottom="10"/>
         <imgframe name="wechat_backup_dlg_ico_wechat_big" src="IDP_WECHAT_BACKUP_DLG_ICO_WECHAT_BIG"/>
+        <!-- 透明图片 -->
+        <imglst name="common_translucent_img" src="IDP_COMMON_TRANSLUCENT_IMG" />
 
+      <!-- 特权引导 -->
+      <imgframe name="privilege_guide_dlg_buy_vip" src="IDP_PRIVILEGE_GUIDE_BUY_VIP" subwidth="176" left="50" right="50" top="10" bottom="10"/>
+      <imgframe name="privilege_guide_dlg_buy_svip" src="IDP_PRIVILEGE_GUIDE_BUY_SVIP" subwidth="176" left="50" right="50" top="10" bottom="10"/>
+      <imgframe name="privilege_guide_dlg_buy_ticket" src="IDP_PRIVILEGE_GUIDE_BUY_TICKET" subwidth="176" left="50" right="50" top="10" bottom="10"/>
+      <imgframe name="privilege_guide_dlg_coupon" src="IDP_PRIVILEGE_GUIDE_COUPON" left="20" right="20"/>
+      <imgframe name="privilege_guide_dlg_big_file_upload" src="IDP_PRIVILEGE_GUIDE_BIG_FILE_UPLOAD"/>
+      
+      <imgframe name="privilege_guide_vip_2t_space" src="IDP_PRIVILEGE_GUIDE_VIP_2T_SPACE"/>
+      <imgframe name="privilege_guide_vip_autobackup" src="IDP_PRIVILEGE_GUIDE_VIP_AUTOBACKUP"/>
+      <imgframe name="privilege_guide_vip_big_file_upload" src="IDP_PRIVILEGE_GUIDE_VIP_BIG_FILE_UPLOAD"/>
+      <imgframe name="privilege_guide_vip_cloud_uncompress" src="IDP_PRIVILEGE_GUIDE_VIP_CLOUD_UNCOMPRESS"/>
+      <imgframe name="privilege_guide_vip_file_transfer" src="IDP_PRIVILEGE_GUIDE_VIP_FILE_TRANSFER"/>
+      <imgframe name="privilege_guide_vip_pdf_to_word" src="IDP_PRIVILEGE_GUIDE_VIP_PDF_TO_WORD"/>
+      <imgframe name="privilege_guide_vip_recycle" src="IDP_PRIVILEGE_GUIDE_VIP_RECYCLE"/>
+      <imgframe name="privilege_guide_vip_safebox" src="IDP_PRIVILEGE_GUIDE_VIP_SAFEBOX"/>
+      <imgframe name="privilege_guide_vip_video_backup" src="IDP_PRIVILEGE_GUIDE_VIP_VIDEO_BACKUP"/>
+      <imgframe name="privilege_guide_vip_icon" src="IDP_PRIVILEGE_GUIDE_VIP_ICON"/>
+      <imgframe name="privilege_guide_vip_view_more" src="IDP_PRIVILEGE_GUIDE_VIP_VIEW_MORE"/>
+
+      <imgframe name="privilege_guide_svip_5t_space" src="IDP_PRIVILEGE_GUIDE_SVIP_5T_SPACE"/>
+      <imgframe name="privilege_guide_svip_autobackup" src="IDP_PRIVILEGE_GUIDE_SVIP_AUTOBACKUP"/>
+      <imgframe name="privilege_guide_svip_big_file_upload" src="IDP_PRIVILEGE_GUIDE_SVIP_BIG_FILE_UPLOAD"/>
+      <imgframe name="privilege_guide_svip_cloud_uncompress" src="IDP_PRIVILEGE_GUIDE_SVIP_CLOUD_UNCOMPRESS"/>
+      <imgframe name="privilege_guide_svip_file_transfer" src="IDP_PRIVILEGE_GUIDE_SVIP_FILE_TRANSFER"/>
+      <imgframe name="privilege_guide_svip_pdf_to_word" src="IDP_PRIVILEGE_GUIDE_SVIP_PDF_TO_WORD"/>
+      <imgframe name="privilege_guide_svip_recycle" src="IDP_PRIVILEGE_GUIDE_SVIP_RECYCLE"/>
+      <imgframe name="privilege_guide_svip_safebox" src="IDP_PRIVILEGE_GUIDE_SVIP_SAFEBOX"/>
+      <imgframe name="privilege_guide_svip_video_backup" src="IDP_PRIVILEGE_GUIDE_SVIP_VIDEO_BACKUP"/>
+      <imgframe name="privilege_guide_svip_icon" src="IDP_PRIVILEGE_GUIDE_SVIP_ICON"/>
+      <imgframe name="privilege_guide_svip_audio_speedup" src="IDP_PRIVILEGE_GUIDE_SVIP_AUDIO_SPEEDUP"/>
+      <imgframe name="privilege_guide_svip_batch_upload" src="IDP_PRIVILEGE_GUIDE_SVIP_BATCH_UPLOAD"/>
+      <imgframe name="privilege_guide_svip_content" src="IDP_PRIVILEGE_GUIDE_SVIP_CONTENT"/>
+      <imgframe name="privilege_guide_svip_dir_backup" src="IDP_PRIVILEGE_GUIDE_SVIP_DIR_BACKUP"/>
+      <imgframe name="privilege_guide_svip_download_speedup" src="IDP_PRIVILEGE_GUIDE_SVIP_DOWNLOAD_SPEEDUP"/>
+      <imgframe name="privilege_guide_svip_file_clean" src="IDP_PRIVILEGE_GUIDE_SVIP_FILE_CLEAN"/>
+      <imgframe name="privilege_guide_svip_multi_version" src="IDP_PRIVILEGE_GUIDE_SVIP_MULTI_VERSION"/>
+      <imgframe name="privilege_guide_svip_video_hd" src="IDP_PRIVILEGE_GUIDE_SVIP_VIDEO_HD"/>
+      <imgframe name="privilege_guide_svip_video_speed_play" src="IDP_PRIVILEGE_GUIDE_SVIP_VIDEO_SPEED_PLAY"/>
+      <imgframe name="privilege_guide_svip_video_x_speed" src="IDP_PRIVILEGE_GUIDE_SVIP_VIDEO_X_SPEED"/>
+      <imgframe name="privilege_guide_svip_view_more" src="IDP_PRIVILEGE_GUIDE_SVIP_VIEW_MORE"/>
+
+        <!-- 批量超会引导 -->
+        <imgframe name="privilege_guide_dlg_out_of_space" src="IDP_PRIVILEGE_GUIDE_OUT_OF_SPACE"/>
+        <imgframe name="privilege_guide_dlg_batch_upload" src="IDP_PRIVILEGE_GUIDE_BATCH_UPLOAD"/>
+        <imgframe name="privilege_guide_dlg_bg" src="IDP_PRIVILEGE_GUIDE_DLG_BG" left="50" right="50" top="50" bottom="50"/>
+
+        <!-- 微信QQ备份气泡引导 -->
+        <imgframe name="wechatbackup_guide_dlg_icon" src="IDP_DUI_WECHATBACKUP_GUIDE_DLG_ICON"/>
+        <imgframe name="wechatbackup_guide_dlg_close" src="IDP_DUI_WECHATBACKUP_GUIDE_DLG_CLOSE"  subwidth="16"/>
+        <imgframe name="wechatbackup_guide_dlg_btn" src="IDP_DUI_WECHATBACKUP_GUIDE_DLG_BTN" subwidth="120"/>
+        <!--同名文件复制-->
+        <imgframe name="lightblue_bg_btn" src="IDP_DUI_SAMENAMEFILEOP_DLG_BTN" subwidth="120"/>
+        <imgframe name="same_name_frame" src="IDP_DUI_SAMENAMEFILEOP_DLG_FRAME"/>
+        <imgframe name="same_name_content_frame" src="IDP_DUI_SAMENAMEFILEOP_DLG_CONTENT_FRAME"/>
+        
     </skins>
 
     <style>
@@ -1162,12 +1255,13 @@
         <class name="cls_wnd_edit" x-margin="2" y-margin="2" ncskin="edit_wnd_bkg" font="0400:微软雅黑" crtext="333333"/>
         <!--主面板提速引导style定义-->
         <class name="cls_speedup_tip_txt" crtext="333333" font="0000:微软雅黑" textmode="40824" cursor="arrow"/>
-        <class name="cls_speedup_btn_txt" crtext="1d1501" font="0000:微软雅黑" textmode="40825" skin="speeduptippanel_try_btn" cursor="arrow"/>
+        <class name="cls_speedup_btn_txt" crtext="64360d" font="0000:微软雅黑" textmode="40821" skin="speeduptippanel_try_btn" cursor="arrow"/>
         <class name="cls_speedupextend_btn_txt" crtext="06a7ff" font="0000:微软雅黑" textmode="40825" skin="speeduptickettippanel_extend_btn" cursor="arrow"/>
         <class name="cls_speedupuse_btn_txt" crtext="ffffff" font="0000:微软雅黑" textmode="40825" skin="speeduptickettippanel_use_btn" cursor="arrow"/>
         <class name="cls_speedupcorner_btn_txt" crtext="ffffff" font2="facename:微软雅黑;adding:-3" textmode="40825" skin="speeduptickettippanel_corner" cursor="arrow"/>
+        <class name="cls_speedup_price_txt" crtext="333333" font2="facename:微软雅黑;adding:-3" textmode="40824" cursor="arrow"/>
 
-        <class name="cls_sub_director_panel_txt" cursor="hand" crtext="333333" crhover="1e78d5" font="0000:微软雅黑" textmode="40824"/>
+      <class name="cls_sub_director_panel_txt" cursor="hand" crtext="333333" crhover="1e78d5" font="0000:微软雅黑" textmode="40824"/>
         <!--隐藏空间面板style定义-->
         <class name="cls_safeboxpanel_edit" x-margin="2" y-margin="2" ncskin="mainpanel_safebox_edit" crtext="757880"/>
         <class name="cls_safeboxpanel_vcode_edit" x-margin="2" y-margin="2" ncskin="mainpanel_safebox_edit" crtext="333333"/>
@@ -1217,6 +1311,14 @@
       
         <!--微信QQ备份-->
         <class name="cls_wechat_backup_dlg_bold_txt" font2="facename:微软雅黑;bold:1;italic:0;underline:0;adding:2"/>
+
+        <!--视频标记-->
+        <class name="cls_video_note_list_txt" crtext="ffffff" crhover="06a8ff" font="0000:微软雅黑"/>
+        <class name="cls_video_note_list_btn" crtext="06a8ff" font="0000:微软雅黑"/>
+
+        <!--同名文件操作-->
+        <class name="cls_samename_file_cancel_btn" skin="lightblue_bg_btn" font="0200:微软雅黑" crtext="06A7FF" textmode="25"/>
+        <class name="cls_samename_file_confirm_btn" skin="wechatbackup_guide_dlg_btn" font="0200:微软雅黑" crtext="ffffff" textmode="25"/>
   </style>
 
     <objattr>

@@ -957,6 +957,9 @@
   <s id="2188">Rename</s>
   <s id="2189">Copy to</s>
   <s id="2190">Safe %s/%s used</s>
+  <s id="2191">Import online documents</s>
+  <s id="2192">Blank document</s>
+  <s id="2193">More templates</s>
   <!--地址栏-->
   <s id="2200">My network drive</s>
   <s id="2201">Safe</s>
@@ -1113,7 +1116,7 @@
   <s id="2520">Cancel</s>
   <s id="2521">A single operation must not exceed%d, please few points and then the operation</s>
   <s id="2522">Temporarily does not support online browsing, please download to view later</s>
-
+  <s id="2523">Cannot save the file %s to itself or its subdirectories</s>
   <!--自动更新-->
   <s id="2600">Baidu network disk to automatically update</s>
   <s id="2601">Immediately open</s>
@@ -1443,10 +1446,8 @@
    <!--Single rights decompression coupon-->
    <s id="3775">Become a member and decompress the 2G compressed package online</s>
    <s id="3776">Become a super member and decompress the 8G compressed package online</s>
-   <s id="3777">Unzip coupon</s>
    <s id="3778">10 yuan/month</s>
    <s id="3779">25 yuan/month</s>
-   <s id="3780">4.9 yuan/piece</s>
    <s id="3781">Upgrading to super member decompression upper limit is increased to 8G</s>
   <!--在线文档导出-->
   <s id="4000">Exporting...</s>
@@ -1468,12 +1469,23 @@
   <s id="4075">A Moment Album</s>
   <s id="4076">Unlimited space, unlimited download speed</s>
   <s id="4077">APP download</s>
-
+  <s id="4078">Contacts</s>
+  <s id="4079">Mobile phone address book backup</s>
+  <s id="4080">Call history</s>
+  <s id="4081">Mobile phone call log backup</s>
+  <s id="4082">SMS backup</s>
+  <s id="4083">Mobile SMS Backup</s>
+  <s id="4084">PDF to Word</s>
+  <s id="4085">PDF file conversion</s>
+  <s id="4086">Collect documents</s>
+  <s id="4087">Remote collection, unified management</s>
+  <s id="4088">Thesis check</s>
+  <s id="4089">Multi-brand safe, accurate, fast and low price</s>
   <!-- Navigation bar widget -->
   <s id="4100">File cleanup</s>
   <s id="4101">Automatic backup</s>
   <s id="4102">WeChat backup</s>
-
+  <s id="4103">Transition to Word</s>
   <!-- Purchase page -->
   <s id="4130">Purchase</s>
   <s id="4131">Purchase decompression coupons</s>
@@ -1544,4 +1556,78 @@
   <s id="4201">Not used temporarily</s>
   <s id="4202">Use now</s>
   <s id="4203">Dear Baidu network disk user</s>
+
+  <s id="4250">File</s>
+  <s id="4251">Folder</s>
+  <s id="4252">If you choose to generate a copy, it will be saved with the file name plus the ordinal number; the file without the processing method will be automatically skipped</s>
+  <s id="4253">Existing %s</s>
+  <s id="4254">At %s of %s</s>
+  <s id="4255">Skip this group</s>
+  <s id="4256">Make a copy</s>
+  <s id="4257">Make all copies</s>
+  <s id="4258">Skip all</s>
+  <s id="4259">Overwrite all</s>
+  <s id="4260">Duplicate file reminder</s>
+  <s id="4261">Overwrite file</s>
+  <s id="4262">Cancel</s>
+  <s id="4263">OK</s>
+  <s id="4264">File %s succeeded</s>
+  <s id="4265">Copy</s>
+  <s id="4266">Mobile</s>
+  <s id="4267">Rename</s>
+  <s id="4268">There are currently unfinished tasks, which can only be operated after they are completed</s>
+
+  <!--Video tag-->
+   <s id="4210">Open a super member and enjoy 31 privileges such as video tagging</s>
+   <s id="4211">Tags</s>
+   <s id="4212">Automatic display</s>
+   <s id="4213">Add a tag</s>
+   <s id="4214">%d/100</s>
+   <s id="4215">Expand</s>
+   <s id="4216">Collapse</s>
+   <s id="4217">Cannot add new markers. The maximum number of markers is 50. </s>
+   <s id="4218">Manage points</s>
+   <s id="4219">Added the tag successfully</s>
+   <s id="4220">Failed to add tag</s>
+   <s id="4221">Successfully modified tag</s>
+   <s id="4222">Failed to modify tag</s>
+   <s id="4223">Successfully deleted tag</s>
+   <s id="4224">Failed to delete tag</s>
+   <s id="4225">This tag already exists</s>
+   <s id="4226">Automatic display</s>
+   <s id="4227">Mark %d</s>
+   <s id="4228">Adding tags...</s>
+   <s id="4229">Deleting tags...</s>
+   <s id="4230">Editing tag...</s>
+   <s id="4231">Upgrade Super Member to enjoy 31 privileges including video tagging</s>
+
+   <s id="4290">Learn more about privileges></s>
+   <!--Large file upload guide-->
+   <s id="4300">Activate membership</s>
+   <s id="4301">Become a super member</s>
+   <s id="4302">Become a member</s>
+   <s id="4303">Exceeded the upload file size limit,\nopen super member, the maximum upload file size is %I64dG</s>
+   <s id="4305">Exceed the upload file size limit,\nopen membership, you can upload large files up to %I64dG</s>
+   <s id="4306">Also enjoy %d privileges:</s>
+   <s id="4307">More privileges</s>
+   <s id="4308">2T space</s>
+   <s id="4309">Unzip online</s>
+   <s id="4310">PDF tools</s>
+   <s id="4312">Speed download</s>
+   <s id="4313">5T space</s>
+   <s id="4314">Double the video speed</s>
+   <s id="4315">Bulk upload</s>
+
+   <!-- Bulk upload guide -->
+   <s id="4342">The number of uploaded files exceeds %d,\nUnlimited number of files uploaded in batches is activated for super members</s>
+   <s id="4343">-yuan/month</s>
+
+   <!-- Capacity package guide -->
+   <s id="4350">Insufficient space, unzipping failed\n</s>
+   <s id="4351">Insufficient space, upload failed\n</s>
+   <s id="4352">Insufficient space, save failed\n</s>
+   <s id="4353">Open super member, enjoy 5T super space</s>
+   <s id="4354">Buy a capacity package to get more capacity</s>
+   <s id="4355">Purchase confirmation</s>
+   <s id="4356">Is the purchase successful? </s>
 </string>

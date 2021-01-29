@@ -28,12 +28,12 @@
       <link name="lnk_goto_backup_progress" pos="54,215" font="0200:微软雅黑" crtext="06A7FF" hoverfont="0202:微软雅黑" cursor="hand">%str3536%</link>
       <text pos="170,215" font="0200:微软雅黑" crtext="AFB3BF">%str4175%</text>
       <!-- 微信 -->
-      <dlg name="dlg_wechat_backup_settings" pos="35,245,@830,@152" skin="wechat_backup_dlg_setting_bg">
-        <dlg pos="15,0,@800,@122">
+      <dlg name="dlg_wechat_backup_settings" pos="35,245,@830,@152">
+        <dlg pos="15,0,@800,@122" skin="wechat_backup_dlg_setting_bg">
           <img pos="22,14,@28,@28" skin="wechat_backup_dlg_ico_wechat"></img>
           <text pos="53,18" class="cls_wechat_backup_dlg_bold_txt" crtext="000000">%str4141%</text>
           <text name="txt_wechat_backup_status" pos="[0,18" class="cls_wechat_backup_dlg_bold_txt" crtext="000000"></text>
-          <check name="chk_wechat_backup" pos="745,15,@44,@36" state="4" skin="wechat_backup_dlg_chk_switch" focusskin="function_collect_focus_skin"></check>
+          <check name="chk_wechat_backup" pos="762,22,@18,@16" state="4" skin="wechat_backup_dlg_chk_switch" focusskin="function_collect_focus_skin"></check>
   
           <text pos="53,54" font="0000:微软雅黑" crtext="000000">%str4177%</text>
           <link name="lnk_wechat_backup_dir" pos="141,52" font="0200:微软雅黑" crtext="03081A" hoverfont="0202:微软雅黑" cursor="hand"></link>
@@ -62,8 +62,8 @@
         </dlg>
       </dlg>
       <!-- 未开启微信备份 -->
-      <dlg name="dlg_wechat_backup_not_open" pos="35,245,@830,@152" skin="wechat_backup_dlg_setting_bg" show="0">
-        <dlg pos="15,0,@800,@122">
+      <dlg name="dlg_wechat_backup_not_open" pos="35,245,@830,@152" show="0">
+        <dlg pos="15,0,@800,@122" skin="wechat_backup_dlg_setting_bg">
           <img pos="22,14,@28,@28" skin="wechat_backup_dlg_ico_wechat"></img>
           <text pos="53,18" class="cls_wechat_backup_dlg_bold_txt" crtext="000000">%str4141%</text>
           <text pos="[0,18" class="cls_wechat_backup_dlg_bold_txt" crtext="FF436A">%str4143%</text>
@@ -74,8 +74,8 @@
         </dlg>
       </dlg>
       <!-- 未安装微信 -->
-      <dlg name="dlg_wechat_not_found" pos="35,245,@830,@152" skin="wechat_backup_dlg_setting_bg" show="0">
-        <dlg pos="15,0,@800,@122">
+      <dlg name="dlg_wechat_not_found" pos="35,245,@830,@152" show="0">
+        <dlg pos="15,0,@800,@122" skin="wechat_backup_dlg_setting_bg">
           <img pos="22,14,@28,@28" skin="wechat_backup_dlg_ico_wechat"></img>
           <text pos="53,18" class="cls_wechat_backup_dlg_bold_txt" crtext="000000">%str4141%</text>
           <text pos="[0,18" class="cls_wechat_backup_dlg_bold_txt" crtext="FF436A">%str4143%</text>
@@ -93,12 +93,12 @@
       </dlg>
 
       <!-- QQ -->
-      <dlg name="dlg_qq_backup_settings" pos="35,383,@830,@152" skin="wechat_backup_dlg_setting_bg">
-        <dlg pos="15,0,@800,@122">
+      <dlg name="dlg_qq_backup_settings" pos="35,383,@830,@152">
+        <dlg pos="15,0,@800,@122" skin="wechat_backup_dlg_setting_bg">
           <img pos="22,14,@28,@28" skin="wechat_backup_dlg_ico_qq"></img>
           <text pos="53,18" class="cls_wechat_backup_dlg_bold_txt" crtext="000000">%str4144%</text>
           <text name="txt_qq_backup_status" pos="[0,18" class="cls_wechat_backup_dlg_bold_txt" crtext="000000"></text>
-          <check name="chk_qq_backup" pos="745,15,@44,@36" state="4" skin="wechat_backup_dlg_chk_switch" focusskin="function_collect_focus_skin"></check>
+          <check name="chk_qq_backup" pos="762,22,@18,@16" state="4" skin="wechat_backup_dlg_chk_switch" focusskin="function_collect_focus_skin"></check>
   
           <text pos="53,54" font="0000:微软雅黑" crtext="000000">%str4177%</text>
           <link name="lnk_qq_backup_dir" pos="141,52" font="0200:微软雅黑" crtext="03081A" hoverfont="0202:微软雅黑" cursor="hand"></link>
@@ -126,8 +126,8 @@
         </dlg>
       </dlg>
       <!-- 未开启QQ备份 -->
-      <dlg name="dlg_qq_backup_not_open" pos="35,383,@830,@152" skin="wechat_backup_dlg_setting_bg" show="0">
-        <dlg pos="15,0,@800,@122">
+      <dlg name="dlg_qq_backup_not_open" pos="35,383,@830,@152" show="0">
+        <dlg pos="15,0,@800,@122" skin="wechat_backup_dlg_setting_bg">
           <img pos="22,14,@28,@28" skin="wechat_backup_dlg_ico_qq"></img>
           <text pos="53,18" class="cls_wechat_backup_dlg_bold_txt" crtext="000000">%str4144%</text>
           <text pos="[0,18" class="cls_wechat_backup_dlg_bold_txt" crtext="FF436A">%str4143%</text>
@@ -138,8 +138,8 @@
         </dlg>
       </dlg>
       <!-- 未安装QQ -->
-      <dlg name="dlg_qq_not_found" pos="35,383,@830,@152" skin="wechat_backup_dlg_setting_bg" show="0">
-        <dlg pos="15,0,@800,@122">
+      <dlg name="dlg_qq_not_found" pos="35,383,@830,@152" show="0">
+        <dlg pos="15,0,@800,@122" skin="wechat_backup_dlg_setting_bg">
           <img pos="22,14,@28,@28" skin="wechat_backup_dlg_ico_qq"></img>
           <text pos="53,18" class="cls_wechat_backup_dlg_bold_txt" crtext="000000">%str4144%</text>
           <text pos="[0,18" class="cls_wechat_backup_dlg_bold_txt" crtext="FF436A">%str4143%</text>
@@ -173,7 +173,7 @@
           <img pos="22,14,@28,@28" skin="wechat_backup_dlg_ico_wechat"></img>
           <text pos="53,18" class="cls_wechat_backup_dlg_bold_txt" crtext="000000">%str4141%</text>
           <text name="txt_wechat_backup_status2" pos="[0,18" fclass="cls_wechat_backup_dlg_bold_txt" crtext="000000" show="0"></text>
-          <check name="chk_wechat_backup2" state="4" pos="745,15,@44,@36" skin="wechat_backup_dlg_chk_switch" focusskin="function_collect_focus_skin"></check>
+          <check name="chk_wechat_backup2" state="4" pos="762,22,@18,@16" skin="wechat_backup_dlg_chk_switch" focusskin="function_collect_focus_skin"></check>
 
           <text pos="53,54" font="0000:微软雅黑" crtext="000000">%str4177%</text>
           <link name="lnk_wechat_backup_dir2" pos="141,52" font="0200:微软雅黑" crtext="03081a" hoverfont="0202:微软雅黑" cursor="hand"></link>
@@ -214,7 +214,7 @@
           <img pos="22,14,@28,@28" skin="wechat_backup_dlg_ico_qq"></img>
           <text pos="53,18" class="cls_wechat_backup_dlg_bold_txt" crtext="000000">%str4144%</text>
           <text name="txt_qq_backup_status2" pos="[0,18" class="cls_wechat_backup_dlg_bold_txt" crtext="000000" show="0"></text>
-          <check name="chk_qq_backup2" state="4" pos="745,15,@44,@36" skin="wechat_backup_dlg_chk_switch" focusskin="function_collect_focus_skin"></check>
+          <check name="chk_qq_backup2" state="4" pos="762,22,@18,@16" skin="wechat_backup_dlg_chk_switch" focusskin="function_collect_focus_skin"></check>
   
           <text pos="53,54" font="0000:微软雅黑" crtext="000000">%str4177%</text>
           <link name="lnk_qq_backup_dir2" pos="141,52" font="0200:微软雅黑" crtext="03081a" hoverfont="0202:微软雅黑" cursor="hand"></link>
