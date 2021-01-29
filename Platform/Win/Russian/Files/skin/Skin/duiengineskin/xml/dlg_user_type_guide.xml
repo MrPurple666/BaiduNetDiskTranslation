@@ -5,13 +5,13 @@
         <dlg pos="0,0,-0,186" class="guide_dlg_frame">
           <dlg pos="0,0,-0,29">
             <img pos="10,10,34,30" skin="common_logo_main" />
-            <text pos="40,10" crtext="333333" font="Segoe UI">%str910%</text>
+            <text pos="40,10" crtext="333333" font="0000:微软雅黑">%str910%</text>
             <imgbtn name="btn_close" skin="btn_sys_close" pos="-35,0" tip="%str250%" animate="0"/>
           </dlg>
           <dlg pos="0,30,-0,-0">
             <img pos="30,58,69,91" skin="attention_bkskin" />
-            <text pos="80,53" crtext="ffffff" font="Segoe UI">%str911%</text>
-            <text pos="80,80" crtext="ffffff" font="Segoe UI">%str912%</text>
+            <text pos="80,53" crtext="ffffff" font="0200:微软雅黑">%str911%</text>
+            <text pos="80,80" crtext="ffffff" font="0200:微软雅黑">%str912%</text>
           </dlg>
         </dlg>
         <dlg pos="0,-42,-0,-0" crbg="fbfcfc">

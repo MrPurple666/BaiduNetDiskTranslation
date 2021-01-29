@@ -1,11 +1,11 @@
 <layer title="%str1200%" name="GarbageCleanDlg" width="900" height="650" appwin="1" ncRect="0,0,0,0" translucent="1" nomaxsize="1">
 	<body>
-		<dlg pos="0,0,-0,-0" skin="garbageclean_bg" font="Segoe UI" crtext="FFFFFF">
+		<dlg pos="0,0,-0,-0" skin="garbageclean_bg" font="0000:微软雅黑" crtext="FFFFFF">
 			<!--标题栏-->
 			<caption pos="0,0,-0,38">
 				<dlg name="dlg_logo" pos="0,0,200,-0" show="1" msgtransparent="1">
 					<img pos="10,10" skin="garbageclean_logo"></img>
-					<text name="main_panel_title" pos="39,8" crtext="ffffff" font="Segoe UI">%str1200%</text>
+					<text name="main_panel_title" pos="39,8" crtext="ffffff" font="0200:微软雅黑">%str1200%</text>
 				</dlg>
 				<imgbtn name="btn_return" pos="15,|-7,@52,@14" skin="garbageclean_back_btn" class="cls_garbageclean_return_link" 
 					txtxoffset="18" cursor="arrow" tip="%str365%" animate="1" show="0">%str365%</imgbtn>
@@ -39,7 +39,7 @@
 				<dlg name="panel_cleared_info" pos="0,[1,-0,-0">
 					<img name="left_line" pos="45,-37,@216,@1" skin="garbageclean_leftline_img"/>
 					<img name="right_line" pos="-261,-37,@216,@1" skin="garbageclean_rightline_img"/>
-					<text name="txt_cleared_info" pos="|-200,-46" crtext="bdd9fd" align="center" font="Segoe UI">%str1208%</text>
+					<text name="txt_cleared_info" pos="|-200,-46" crtext="bdd9fd" align="center" font="0200:微软雅黑">%str1208%</text>
 				</dlg>
 			</dlg>
 			
@@ -47,7 +47,7 @@
 			<dlg name="garbage_scan_panel" pos="1,38,-1,-1" show="0">
 				<dlg name="scan_scanning_view" pos="0,0,-0,-0" crtext="ffffff" show="1">
 					<img name="img_scan_desc" pos="|-117,56,@234,@26" skin="garbageclean_scandupfile_txt"/>
-					<text name="txt_scan_file" pos="|-250,[15,@500,@18" font="Segoe UI" align="center" dotted="1"></text>
+					<text name="txt_scan_file" pos="|-250,[15,@500,@18" font="0200:微软雅黑" align="center" dotted="1"></text>
 					<dlg name="dlg_progress" pos="|-200,|-150,@400,@300">
 						<arcctrl name="arcctrl_progress" pos="|-143,|-143,@286,@286" crline="ffffff" linewidth="8" startangle="90" x-deflate="7" y-deflate="7">
 							<img pos="|-140,|-140,@280,@280" skin="garbageclean_scanprogress_bg"/>
@@ -66,7 +66,7 @@
 				</dlg>
 				<dlg name="scan_empty_view" pos="0,0,-0,-0" show="0" crbg="ffffff">
 					<img pos="|-110,180,@221,@89" skin="garbageclean_cheer_img"/>
-					<text name="txt_not_found" pos="|-200,[15,@400,@20" font="Segoe UI" crtext="999999" align="center"></text> 
+					<text name="txt_not_found" pos="|-200,[15,@400,@20" font="0200:微软雅黑" crtext="999999" align="center"></text> 
 					<dlg name="dlg_scan_sel" pos="|-150,[20,@300,@32">
 						<button name="btn_scan_full_disk" pos="|-150,0,@142,@32" class="button">%str1225%</button>
 						<button name="btn_scan_sel_dir" pos="|8,0,@142,@32" class="button">%str1226%</button>
@@ -74,7 +74,7 @@
 					<dlg name="panel_other_clean" pos="0,-115,-0,-0">
 						<img pos="|-391,10,@326,@1" skin="garbageclean_leftline2_img"/>
 						<img pos="|65,10,@326,@1" skin="garbageclean_rightline2_img"/>
-						<text pos="|-100,2,@200,@18" crtext="999999" align="center" font="Segoe UI">%str1227%</text>
+						<text pos="|-100,2,@200,@18" crtext="999999" align="center" font="0200:微软雅黑">%str1227%</text>
 						<button name="btn_scan_other1" pos="|-149,50,@142,@32" class="button">%str1203%</button>
 						<button name="btn_scan_other2" pos="|8,50,@142,@32" class="button">%str1204%</button>
 					</dlg>
@@ -100,7 +100,7 @@
 				<dlg pos="0,-115,-0,-0">
 					<img pos="|-391,10,@326,@1" skin="garbageclean_leftline2_img"/>
 					<img pos="|65,10,@326,@1" skin="garbageclean_rightline2_img"/>
-					<text pos="|-100,2,@200,@18" crtext="999999" align="center" font="Segoe UI">%str1227%</text>
+					<text pos="|-100,2,@200,@18" crtext="999999" align="center" font="0200:微软雅黑">%str1227%</text>
 					<button name="btn_clean_other1" pos="|-149,50,@142,@32" class="button">%str1203%</button>
 					<button name="btn_clean_other2" pos="|8,50,@142,@32" class="button">%str1204%</button>
 				</dlg>

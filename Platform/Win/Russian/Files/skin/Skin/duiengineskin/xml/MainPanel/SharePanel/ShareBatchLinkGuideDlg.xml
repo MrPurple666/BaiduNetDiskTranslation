@@ -9,7 +9,7 @@
       </caption>
       <dlg pos="1,37,-0,-0">
         <img pos="132,20,@77,@77" name="img_guide" align="center" skin="share_batch_link_guide_bkg"/>
-        <text name="batch_link_guide_text" pos="50,[22,@240,@22" align="center" crtext="000000" font="Segoe UI">%str3444%</text>   
+        <text name="batch_link_guide_text" pos="50,[22,@240,@22" align="center" crtext="000000" font="0200:微软雅黑">%str3444%</text>   
         <imgbtn name="btn_svip" pos="70,[28,@200,@46" align="center"  cursor="arrow" crtext="532B07" font="0400:微软雅黑" skin="video_definition_guidedlg_btn">%str1476%</imgbtn>
       </dlg>
     </dlg>

@@ -13,7 +13,7 @@
                   <dlg name="dlg_progress_bg" pos="0,20,@340,@11" skin="compresspackage_progress_bg">
                     <dlg name="dlg_progress_fg" pos="0,0,0,-0" skin="compresspackage_progress_fg"/>
                   </dlg>
-                  <text name="txt_progress" pos="|-67,[12"  font="Segoe UI" crtext="666666" textmode="25"/>
+                  <text name="txt_progress" pos="|-67,[12"  font="0000:微软雅黑" crtext="666666" textmode="25"/>
                 </dlg>    
             </dlg>
 

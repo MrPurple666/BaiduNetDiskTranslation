@@ -849,10 +849,9 @@
 
   <!--Советы по быстрой загрузке купонов -->
   <String id="IDS_SPEEDUP_BTN_EXTEND" value="Продолжайте ускоряться" />
-  <String id="IDS_SPEEDUPTICKET_REMINDING_TIP" value="(оставшиеся%d секунд)" />
-  <String id="IDS_SPEEDUPTICKET_REMINDING_1_TIP" value="(осталось%d часов)" />
-  <String id="IDS_SPEEDUPTICKET_REMINDING_2_TIP" value="(Действительно до%s)" />
-  <String id="IDS_SPEEDUPTICKET_REMINDING_3_TIP" value="(осталось%d минут)" />
+  <String id="IDS_SPEEDUPTICKET_REMINDING_1_TIP" value="(Oсталось %d часов)" />
+  <String id="IDS_SPEEDUPTICKET_REMINDING_2_TIP" value="(Действительно до %s)" />
+  <String id="IDS_SPEEDUPTICKET_REMINDING_3_TIP" value="(Oсталось %d минут)" />
   <String id="IDS_SPEEDUPTICKET_MSGBOX_TITLE_TIP" value="Подсказки" />
   <String id="IDS_SPEEDUPTICKET_MSGBOX_ADD_DOWNTASK_TIP" value="Я знаю" />
   <String id="IDS_SPEEDUPTICKET_MSGBOX_OKBTN_TIP" value="Успешно куплено" />
@@ -870,6 +869,9 @@
   <String id="IDS_VIPSPEEDUP_DOWN_EXPERIENCING_TIP" value="Скоростная привилегия проверяется," />
   <String id="IDS_VIPSPEEDUP_FINISH_TIP" value="Пробная версия привилегии на конец скорости" />
   <String id="IDS_VIPSPEEDUP_FINISH_DEFAULT_TIP" value="Включение привилегий для ускорения" />
+  <String id="IDS_VIPSPEEDUP_INUSE_DEFAULT_TIP" value="Ускорение! Оставшееся время привилегии" />
+  <String id="IDS_VIPSPEEDUP_END_DEFAULT_TIP" value="Испытание окончено, скорость увеличилась" />
+  <String id="IDS_VIPSPEEDUP_BUY_SVIP" value="Открыть SVIP" />
 
     <!--Скачать напоминание карты в свободное время -->
   <String id="IDS_SPEEDUPCARD_MSGBOX_TITLE_TIP" value="Внимание" />

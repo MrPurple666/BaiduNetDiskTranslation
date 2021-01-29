@@ -9,9 +9,9 @@
       </caption>
       <dlg pos="0,37,-0,-0">
         <img pos="1,0,-1,140" name="img_guide" skin="video_overspeed_guidedlg_img"/>
-        <text name="guide_text" pos="0,152,@420,@20" align="center" crtext="333333" font="Segoe UI">%str1474%</text>
-        <imgbtn name="btn_svip" pos="77,-53,@118,@32" cursor="arrow" crtext="ffffff" font="Segoe UI" skin="video_overspeed_guidedlg_red_btn">%str1476%</imgbtn>
-        <imgbtn name="btn_try" pos="225,-53,@118,@32" cursor="arrow" crtext="000000" font="Segoe UI" skin="video_overspeed_guidedlg_gray_btn">%str1478%</imgbtn>
+        <text name="guide_text" pos="0,152,@420,@20" align="center" crtext="333333" font="0200:微软雅黑">%str1474%</text>
+        <imgbtn name="btn_svip" pos="77,-53,@118,@32" cursor="arrow" crtext="ffffff" font="0000:微软雅黑" skin="video_overspeed_guidedlg_red_btn">%str1476%</imgbtn>
+        <imgbtn name="btn_try" pos="225,-53,@118,@32" cursor="arrow" crtext="000000" font="0000:微软雅黑" skin="video_overspeed_guidedlg_gray_btn">%str1478%</imgbtn>
       </dlg>
     </dlg>
   </body>

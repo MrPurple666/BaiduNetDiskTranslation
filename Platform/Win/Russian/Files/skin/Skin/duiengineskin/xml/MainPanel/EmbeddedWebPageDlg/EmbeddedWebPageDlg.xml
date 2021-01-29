@@ -1,0 +1,20 @@
+﻿<layer name="EmbeddedWebPageDlg" width="400" height="300" appwin="0" ncRect="0,0,0,0" resize="0" translucent="0" nomaxsize="1">
+  <body>
+    <dlg pos="0,0,-0,-0" crbg="ffffff">
+      <hr pos="0,0,-0,1" size="1" crbg="F1F1F1" show="0"/>
+      <!-- 浏览器控件 -->
+      <webbrowser name="browser_webpage" pos="0,1,-0,-34" use_ie="0" load_ignore_cache="1" show="1"/>
+      <!-- 网络连接错误面板 -->
+      <dlg name="NetworkErrorPanel" pos="0,1,-0,-34" show="0">
+        <dlg name="netErrTipPanel" pos="|-90,|-100" width="180" height="200">
+          <img pos="|-52,0" skin="doc_dlg_load_error" width="103" height="93" />
+          <text pos="0,110,-0,130" class="cls_txt_red">%str3453%</text>
+          <imgbtn name="btn_retry" class="defultbtn" pos="|-48,162" width="96" height="34" cursor="arrow">%str3454%</imgbtn>
+        </dlg>
+      </dlg>
+      <dlg name="file_container_status_panel" pos="0,-34,-0,-0">
+        <hr pos="0,0,-0,1" size="1" crbg="F1F1F1"/>
+      </dlg>
+    </dlg>
+  </body>
+</layer>

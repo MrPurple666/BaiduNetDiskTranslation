@@ -2,10 +2,10 @@
 <dlg name="dlg_title_bar" pos="0,0,-0,@88">
 	<dlg pos="0,0,@650,-0" crtext="ffffff">
 		<text name="txt_scan_info" pos="40,6,-0,@30" align="left" font="1000:微软雅黑"></text>
-		<text name="txt_sel_info" pos="40,[12,-0,@18" align="left" font="Segoe UI"></text>
+		<text name="txt_sel_info" pos="40,[12,-0,@18" align="left" font="0200:微软雅黑"></text>
 	</dlg>
 	<dlg pos="[0,0,-0,-0">
-		<imgbtn name="btn_quick_clean" pos="-210,6,@190,@38" skin="garbageclean_cancelscan_btn" crtext="ffffff" crhover="9ec7fe" font="Segoe UI" 
+		<imgbtn name="btn_quick_clean" pos="-210,6,@190,@38" skin="garbageclean_cancelscan_btn" crtext="ffffff" crhover="9ec7fe" font="0600:微软雅黑" 
 			align="center" cursor="arrow" animate="1">%str1240%</imgbtn>
 		<link name="link_unckeck_all" pos="-204,55,@178,@18" align="left" class="cls_garbagecleanview_link">%str1241%</link>
 		<dlg name="dlg_op_dupfile" pos="-140,54,@120,-0" show="0">	
@@ -48,7 +48,7 @@
 								<img name="img_group" pos="12,0,@11,-0" skin="garbageclean_groupmid_img"/>
 								<check id="1" name="item_chk" pos="32,|-7,@15,@15" skin="btncheckbox"/>
 								<img name="img_filetype" pos="[5,|-8,@16,@18" skin="other_small_image"/>
-								<link id="2" name="link_filename" pos="[5,|-8" height="16" crtext="333333" font="Segoe UI" curor="arrow" dotted="1"/>
+								<link id="2" name="link_filename" pos="[5,|-8" height="16" crtext="333333" font="0000:微软雅黑" curor="arrow" dotted="1"/>
 							</dlg>
 							<dlg name="col_2">
 								<text name="txt_file_size" pos="8,|-8,-0,@16" class="cls_garbageview_txt" dotted="1"/>
@@ -68,7 +68,7 @@
 		<!--重复文件空列表视图-->
 		<dlg name="dlg_dup_empty_view" pos="120,0,-0,-0" show="0">
 			<img pos="|-96,|-90,@181,@127" skin="garbageclean_empty_img"/>
-			<text name="txt_dup_empty" pos="|-100,[10,@200,@18" font="Segoe UI" crtext="999999" align="center">%str1303%</text>
+			<text name="txt_dup_empty" pos="|-100,[10,@200,@18" font="0400:微软雅黑" crtext="999999" align="center">%str1303%</text>
 		</dlg>
 	</dlg>
 
@@ -162,22 +162,22 @@
 <!--正在加载面板-->
 <dlg name="dlg_loading" pos="0,88,-0,-36" crbg="ffffff" show="0">
 	<img pos="|-90,|-104,@181,@128" skin="garbageclean_loading_img"/>
-	<text pos="|-200,[40,@400,@20" crtext="999999" font="Segoe UI" align="center">%str1291%</text>
+	<text pos="|-200,[40,@400,@20" crtext="999999" font="0600:微软雅黑" align="center">%str1291%</text>
 </dlg>
 
 <!--加载错误面板-->
 <dlg name="dlg_error" pos="0,88,-0,-36" crbg="ffffff" show="0">
 	<img pos="|-90,|-104,@181,@128" skin="garbageclean_error_img"/>
-	<text pos="|-75,|64,@110,@20" crtext="999999" font="Segoe UI" align="center">%str1292%</text>
-	<link name="link_retry" pos="[0,|64,@100,@20" cursor="hand" crtext="1e78d5" crhover="1e78d5" font="Segoe UI" hoverfont="0602:微软雅黑">%str888%</link>
+	<text pos="|-75,|64,@110,@20" crtext="999999" font="0600:微软雅黑" align="center">%str1292%</text>
+	<link name="link_retry" pos="[0,|64,@100,@20" cursor="hand" crtext="1e78d5" crhover="1e78d5" font="0600:微软雅黑" hoverfont="0602:微软雅黑">%str888%</link>
 </dlg>
 
 <!--底部面板-->
 <dlg name="dlg_bottom" pos="0,-36,-0,-0" crbg="ffffff">
 	<hr pos="0,0,-0,@1" crbg="f5f5f6" size="1"/> 
-	<text name="txt_load_info" pos="10,|-8,@300,@16" crtext="3c6889" font="Segoe UI" align="left"></text>
+	<text name="txt_load_info" pos="10,|-8,@300,@16" crtext="3c6889" font="0000:微软雅黑" align="left"></text>
 	<dlg name="dlg_attention" pos="|0,0,-0,-0" show="0">
 		<img pos="-198,|-6,@14,@14" skin="garbageclean_attention_img"/>
-		<text pos="[4,|-8,-0,@16" crtext="3c6889" font="Segoe UI" align="left">%str1276%</text>
+		<text pos="[4,|-8,-0,@16" crtext="3c6889" font="0000:微软雅黑" align="left">%str1276%</text>
 	</dlg>
 </dlg>
