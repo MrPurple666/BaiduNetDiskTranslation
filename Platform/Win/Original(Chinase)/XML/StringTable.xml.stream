@@ -189,6 +189,7 @@
   <String id="IDS_SHARE_BTN_CANCEL" value="取消" />
   <String id="IDS_SHARE_PUBLIC_LINK_EXPIRE_LIMIT" value="有效期:" />
   <String id="IDS_SHARE_PUBLIC_LINK_EXPIRE_NONE" value="永久有效" />
+  <String id="IDS_SHARE_PUBLIC_LINK_EXPIRE_30DAYS" value="30天" />
   <String id="IDS_SHARE_PUBLIC_LINK_EXPIRE_7DAYS" value="7天" />
   <String id="IDS_SHARE_PUBLIC_LINK_EXPIRE_1DAYS" value="1天" />
   <String id="IDS_SHARE_PUBLIC_LINK_DAYS_EXPIRE" value="链接%d天后失效" />

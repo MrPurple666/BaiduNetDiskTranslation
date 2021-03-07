@@ -74,9 +74,10 @@
             <imgbtn name="btn_trans_del" pos="-52,14,@26,@26" skin="mainpanel_thumbview_trans_del_btn" cursor="arrow" tip="%str2360%" show="0"></imgbtn>
             <img name="img_folder_upload" pos="-52,14,@26,@26" skin="mainpanel_thumbview_folder_upload" show="0"></img>
             <img name="img_trans_status" pos="|-26,|-36,@53,@53" skin="mainpanel_thumbview_trans_waiting" show="0"></img>
+            <img name="img_thumbview_filetype" pos="-36,-53,@20,@20" skin="other_big_image" show="0"></img>
             <check name="thumb_file_check" skin="mainpanel_thumbview_checkbox" focusskin="function_collect_focus_skin" pos="10,6" show="0"></check>
             <progress name="trans_progress" pos="|-23,70,@44,@6" bgskin="mainpanel_thumbview_trans_progress_bg" posskin="mainpanel_thumbview_trans_progress_fg" min="0" max="100" value="0" show="0"></progress>
-            <link name="link_filename" pos="12,-26,-12,@16" crtext="333333" dotted="1" align="center" valign="middle" msgtransparent="1"></link>
+            <link name="link_filename" pos="12,-26,-12,@16" crtext="333333" dotted="1" align="center" valign="middle" msgtransparent="1" textmode="40825"></link>
           </dlg>
           <dlg name="dlg_upload_item" pos="0,0,-0,-0" show="0">
             <img name="img_upload" pos="|-32,20,@64,@64" skin="mainpanel_thumbview_upload_normal"></img>
@@ -97,6 +98,7 @@
   <dlg name="dlg_empty_view" pos="0,0,-0,-0" show="0">
     <img name="empty_view_bg" pos="|-90,|-100,@181,@127" skin="mainpanel_emptyview_empty"></img>
     <text name="txt_empty_tip" pos="|-150,[8,@300,@18" crtext="333333" font="0200:微软雅黑" align="center">%str2307%</text>
+    <text name="txt_empty_tip_line2" pos="0,[8,-0,@18" crtext="333333" font="0200:微软雅黑" align="center" show="0">%str4401%</text>
     <imgbtn name="btn_upload" pos="|-36,[16,@72,@25" class="defultbtn" crtext="ffffff" cursor="arrow">%str2310%</imgbtn>
   </dlg>
 
