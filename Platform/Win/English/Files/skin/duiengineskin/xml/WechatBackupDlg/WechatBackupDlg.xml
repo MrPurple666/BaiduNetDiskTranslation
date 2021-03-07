@@ -157,9 +157,7 @@
 
       <!-- 云端路径 -->
         <dlg name="dlg_backup_server_path_center" pos="0,536,-0,@20">
-          <text name="txt_wechat_server_dir_head" pos="248,0" font="0200:微软雅黑" crtext="AFB3BF">%str4168%</text>
-          <text name="txt_wechat_backup_serverpath" pos="[0,0" font="0200:微软雅黑" crtext="AFB3BF"></text>
-          <text pos="[0,0" font="0200:微软雅黑" crtext="AFB3BF">%str4169%</text>
+          <text name="txt_wechat_backup_serverpath" pos="0,0" font="0200:微软雅黑" crtext="AFB3BF"></text>
           <link name="lnk_change_serverpath" pos="[10,0" hoverfont="0202:微软雅黑" cursor="hand" font="0200:微软雅黑" crtext="06A7FF">%str4151%</link>
         </dlg>
       

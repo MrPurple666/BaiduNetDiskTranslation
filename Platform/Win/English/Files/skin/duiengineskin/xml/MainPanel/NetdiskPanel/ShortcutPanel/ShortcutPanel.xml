@@ -15,7 +15,7 @@
         <dlg name="item_bg" pos="0,0,-0,-0" crbg="eef0f6" show="0"/>
         <dlg name="dlg_item" pos="0,0,-12,-0">
           <img name="img_item" pos="36,|-8,@16,@16" skin="folder_small_image" cursor="arrow"/>
-          <link name="txt_item_name" pos="[11,|-8,-0,@16" crtext="333333" font="Segoe UI" align="left" dotted="1"/>
+          <link name="txt_item_name" pos="[11,|-8,-0,@16" crtext="333333" font="0000:微软雅黑" align="left" dotted="1" textmode="40824"/>
         </dlg>
       </template>
     </listboxex>

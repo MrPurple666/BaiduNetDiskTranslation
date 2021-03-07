@@ -550,7 +550,7 @@
         <imglst name="titlepanel_minmize_btn" src="IDP_TITLEPANEL_MINIMIZE_BTN" subwidth="15"/>
         <imglst name="titlepanel_setting_btn" src="IDP_TITLEPANEL_SETTING_BTN" subwidth="15"/>
         <imglst name="titlepanel_message_btn" src="IDP_TITLEPANEL_MESSAGE_BTN" subwidth="15"/>
-        <imglst name="titlepanel_vipcenter_btn" src="IDP_TITLEPANEL_VIPCENTER_BTN" subwidth="84"/>
+        <imgframe name="titlepanel_vipcenter_btn" src="IDP_TITLEPANEL_VIPCENTER_BTN" subwidth="84" left="20" top="0" right="20" bottom="0"/>
         <imglst name="titlepanel_translucent" src="IDP_TITLEPANEL_TRANSLUCENT"/>
         <imglst name="titlepanel_reddot" src="IDP_TITLEPANEL_REDDOT"/>
         <imgframe name="titlepanel_redbg" src="IDP_TITLEPANEL_REDBG" left="8" top="0" right="8" bottom="0"/>
@@ -565,6 +565,7 @@
         <imgframe name="titlepanel_textad_bgk" src="IDP_TITLEPANEL_TEXTAD_BGK" left="30" top="40" right="30" bottom="30"/>
         <imgframe name="titlepanel_cert_status_icon" src="IDP_TITLEPANEL_CERT_STATUS_ICON" />     
         <imgframe name="titlepanel_bgk" src="IDP_TITLEPANEL_BGK"/>
+        <imgframe name="titlepanel_vipcenter_cornel" src="IDP_TITLEPANEL_VIPRENEW_CORNEL" left="10" top="0" right="10" bottom="0"/>
 
         <!--用户卡片-->
         <imgframe name="usercard_notvip_bg" src="IDP_USERCARD_NOTVIP_BKG" left="20" top="50" right="20" bottom="20"/>
@@ -1060,8 +1061,8 @@
         <class name="cls_message_box" skin="message_box_background" font="0000:微软雅黑" crtext="FFFFFF" x-margin="0"/>
         <class name="cls_msgbox_title_text" crtext="333333"/>
         <!--主面板style定义-->
-        <class name="cls_mainpanel_filename_link" crtext="333333" crhover="06a8ff" font="0000:微软雅黑" hoverfont="0000:微软雅黑" align="left"/>
-        <class name="cls_addresspanel_dirname_link" cursor="hand" crtext="333333" crhover="06a8ff" font="0000:微软雅黑" hoverfont="0000:微软雅黑" align="left"/>
+        <class name="cls_mainpanel_filename_link" crtext="333333" crhover="06a8ff" font="0000:微软雅黑" hoverfont="0000:微软雅黑" align="left" textmode="40824"/>
+        <class name="cls_addresspanel_dirname_link" cursor="hand" crtext="333333" crhover="06a8ff" font="0000:微软雅黑" hoverfont="0000:微软雅黑" align="left" textmode="40824"/>
         <class name="cls_addresspanel_searchbox_keyword_link" cursor="hand" crtext="333333" crhover="06a8ff" font="0000:微软雅黑" hoverfont="0002:微软雅黑" align="left"/>
         <class name="cls_statuspanel_rewardplan_txt" crtext="ffa856" font="0000:微软雅黑" textmode="40025"/>
         <!--便携式设备备份界面style定义-->

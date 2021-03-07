@@ -9,7 +9,7 @@
           <dlg name="dlg_item" pos="0,0,-0,-0">
             <check name="chk_item" pos="16,|0" pos2type="center" skin="item_remove"/>
             <img name="img_item" pos="32,|-8,@14,@16" skin="folder_small_image" cursor="arrow"/>
-            <link name="txt_item_name" pos="[13,|-8,-0,@16" class="cls_leftpanel_txt_normal" dotted="1"/>
+            <link name="txt_item_name" pos="[13,|-8,-0,@16" class="cls_leftpanel_txt_normal" dotted="1" textmode="40824"/>
           </dlg>
         </template>
       </listboxex>

@@ -703,6 +703,7 @@
 <resid type="IMGX" name="IDP_TITLEPANEL_TEXTAD_BGK" file="image\MainPanel\TitlePanel\title_textad_bgk.png"/>
 <resid type="IMGX" name="IDP_TITLEPANEL_CERT_STATUS_ICON" file="image\MainPanel\TitlePanel\enterprise_cert_icon.png"/>
 <resid type="IMGX" name="IDP_TITLEPANEL_BGK" file="image\MainPanel\TitlePanel\title_bkg.png"/>
+<resid type="IMGX" name="IDP_TITLEPANEL_VIPRENEW_CORNEL" file="image\MainPanel\TitlePanel\cornel.png"/>
 
 <!--用户卡片-->
 <resid type="IMGX" name="IDP_USERCARD_NOTVIP_BKG" file="image\MainPanel\UserCard\notvip_bg.png"/>
