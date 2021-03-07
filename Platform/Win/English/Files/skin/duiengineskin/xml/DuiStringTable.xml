@@ -1630,4 +1630,8 @@
    <s id="4354">Buy a capacity package to get more capacity</s>
    <s id="4355">Purchase confirmation</s>
    <s id="4356">Is the purchase successful? </s>
+
+  <!-- Local search -->
+  <s id="4400">No search results</s>
+  <s id="4401">Try other keywords or click "Enter" button to re-initiate search</s>
 </string>

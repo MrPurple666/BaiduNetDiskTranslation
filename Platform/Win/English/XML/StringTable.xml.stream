@@ -192,6 +192,7 @@
   <String id="IDS_SHARE_BTN_CANCEL" value="Cancel" />
   <String id="IDS_SHARE_PUBLIC_LINK_EXPIRE_LIMIT" value="Valid:" />
   <String id="IDS_SHARE_PUBLIC_LINK_EXPIRE_NONE" value="Unlimited" />
+  <String id="IDS_SHARE_PUBLIC_LINK_EXPIRE_30DAYS" value="30 day" />
   <String id="IDS_SHARE_PUBLIC_LINK_EXPIRE_7DAYS" value="7 day" />
   <String id="IDS_SHARE_PUBLIC_LINK_EXPIRE_1DAYS" value="1 day" />
   <String id="IDS_SHARE_PUBLIC_LINK_DAYS_EXPIRE" value="Link %d Days expired" />
@@ -873,13 +874,12 @@
   <String id="IDS_VIPSPEEDUP_INUSE_DEFAULT_TIP" value="Speeding up! Trial time remaining" />
   <String id="IDS_VIPSPEEDUP_END_DEFAULT_TIP" value="The trial is over, the speed has increased" />
   <String id="IDS_VIPSPEEDUP_BUY_SVIP" value="Open Super Member" />
-
-  <!--Download card prompt when idle -->
-  <String id="IDS_SPEEDUP_BTN_BUYCARD" value="Purchase free download card" />
-  <String id="IDS_CARDSPEEDUP_OPEN_TIP" value="Purchase the free download card, enjoy extremely fast downloading" />
-  <String id="IDS_CARDSPEEDUP_USING_TIP" value="High speed download has been turned on for you" />
-  <String id="IDS_CARDSPEEDUP_END_TIP" value="Common download will resume soon" />
-  <!--Select the directory server-->
+  <!--闲时下载卡提示 -->
+  <String id="IDS_SPEEDUPCARD_MSGBOX_TITLE_TIP" value="提示" />
+  <String id="IDS_SPEEDUPCARD_MSGBOX_OKBTN_TIP" value="购买成功" />
+  <String id="IDS_SPEEDUPCARD_MSGBOX_CANCELBTN_TIP" value="支付遇到问题" />
+  
+    <!--Select the directory server-->
   <String id="IDS_STATIC_SERVERDIRDLG_INFO_TOOMUCHLEVEL" value="Limit exceeded: %d level directory supported." />
   <String id="IDS_STATIC_GET_SERVER_SUBDIR_FAIL"   value="Get Server Folder failed" />
 
@@ -1131,6 +1131,7 @@
   <String id="IDS_SPEEDFEECBACKDLG_TITLE" value="Speed Feedback" />
   <String id="IDS_SPEEDFEECBACKDLG_STATIC_TEXT_BANDWIDTH_TIP" value="Please fill in bandwidth, for more precise problem resolution" />
   <String id="IDS_SPEEDFEECBACKDLG_STATIC_TEXT_BANDWIDTH" value="Bandwidth" />
+  <String id="IDS_SPEEDFEECBACKDLG_STATIC_TEXT_BANDWIDTH_UNIT" value="M"/>
   <String id="IDS_SPEEDFEECBACKDLG_STATIC_TEXT_BANDWIDTH_EXAMPLE" value="(Example: If you are using Unicom 10M fiber, please fill out 10)" />
   <String id="IDS_SPEEDFEECBACKDLG_STATIC_TEXT_SUBMIT_TIP" value="Please tell us your problem, we will solve as soon as possible ~" />
   <String id="IDS_SPEEDFEECBACKDLG_STATIC_TEXT_SPEED_TIP" value="Closing software using up speed(video, download, etc.) can greatly enhance the transmission speed ~" />
@@ -1281,8 +1282,7 @@
   <String id="IDS_UPLOADLOG_NOTIFY_FAIL_NETWORK_TIP" value="The network connection is abnormal, please feedback again later" />
   <String id="IDS_UPLOADLOG_NOTIFY_START_TITLE" value="Feedback processing" />
   <String id="IDS_UPLOADLOG_NOTIFY_START_TIP" value="Your feedback is being received, please be patient ~" />
-  
-  
+
    <!--Mutual assistance-->
    <String id="IDS_HELP_EACHOTHER_TITLE" value="Download speedup：" />
    <String id="IDS_HELP_EACHOTHER_SWITCH" value="Use idle bandwidth to speed up downloads or redeem points" />
