@@ -190,6 +190,7 @@
   <String id="IDS_SHARE_BTN_CANCEL" value="Отмена" />
   <String id="IDS_SHARE_PUBLIC_LINK_EXPIRE_LIMIT" value="Действительно:" />
   <String id="IDS_SHARE_PUBLIC_LINK_EXPIRE_NONE" value="Неограниченный" />
+  <String id="IDS_SHARE_PUBLIC_LINK_EXPIRE_30DAYS" value="30д" />
   <String id="IDS_SHARE_PUBLIC_LINK_EXPIRE_7DAYS" value="7д" />
   <String id="IDS_SHARE_PUBLIC_LINK_EXPIRE_1DAYS" value="1д" />
   <String id="IDS_SHARE_PUBLIC_LINK_DAYS_EXPIRE" value=" Ссылка истечет  через %d дней" />
