@@ -8,9 +8,31 @@ Localization of the **BaiduNetDisk** program for PC in
 
 
 # Download 🔻
+
+## 📤︎ Installation over
+
+Unpack the contents of the archive to the folder:
+`C:\Users\[[**UserName**]]\AppData\Roaming\Baidu\BaiduNetDisk`
+
 > [Download localization](https://bit.ly/3fYH54o)
 
+## 📦 Modified installer
+
+The modified installer is the ability to select the language installed for the program, the possibility of a quiet installation. Nothing needs to be copied and replaced everything in the installer.
+
 > [Download a modified installer with a choice of localization language](https://bit.ly/2BtHzR2)
+
+
+## 🗳 Portable version
+The version portable does not require installation. Does not leave the tracks system. Unpack and use the language change (after the first launch), in the `Data / BaiduNetDiskportable.ini` file
+`Language =` Register the desired language:
+
+* russian
+* english
+* chinase
+
+> [Download portable](http://bit.ly/2OznleI)
+
 # Screen 💻
 
 <details>
