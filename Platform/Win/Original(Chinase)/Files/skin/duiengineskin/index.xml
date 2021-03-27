@@ -832,6 +832,10 @@
 <resid type="IMGX" name="IDP_ONLINEDOC_TEMPLATE_EMPTY" file="image\MainPanel\NetdiskPanel\Toolbar\template_empty.png"/>
 <resid type="IMGX" name="IDP_ONLINEDOC_TEMPLATE_MORE" file="image\MainPanel\NetdiskPanel\Toolbar\template_more.png"/>
 <resid type="IMGX" name="IDP_ONLINEDOC_TEMPLATE_FRAME" file="image\MainPanel\NetdiskPanel\Toolbar\template_frame.png"/>
+<resid type="IMGX" name="IDP_MAINPANEL_TOOLBAR_BADGE_NEW_FUNC" file="image\MainPanel\NetdiskPanel\Toolbar\new_func.png"/>
+<resid type="IMGX" name="IDP_MAINPANEL_TOOLBAR_BADGE_LIMITED_FREE" file="image\MainPanel\NetdiskPanel\Toolbar\limited_free.png"/>
+<resid type="IMGX" name="IDP_MAINPANEL_TOOLBAR_BADGE_SVIP_ONLY" file="image\MainPanel\NetdiskPanel\Toolbar\svip_only.png"/>
+<resid type="IMGX" name="IDP_MAINPANEL_TOOLBAR_BATCH_RENAME" file="image\MainPanel\NetdiskPanel\Toolbar\batch_rename.png"/>
 
 <!--主面板地址栏-->
 <resid type="IMGX" name="IDP_MAINPANEL_ADDRESSPANEL_BKG" file="image\MainPanel\NetdiskPanel\AddressPanel\address_bkg.png"/>
@@ -1187,3 +1191,6 @@
 <resid type="IMGX" name="IDP_DUI_SAMENAMEFILEOP_DLG_BTN" file="image\common\button\btn_lightblue_bg.png"/>
 <resid type="IMGX" name="IDP_DUI_SAMENAMEFILEOP_DLG_FRAME" file="image\common\window\same_name_file_bg.png"/>
 <resid type="IMGX" name="IDP_DUI_SAMENAMEFILEOP_DLG_CONTENT_FRAME" file="image\common\window\content_bg.png"/>
+
+
+<resid type="XML" name="IDR_DUI_BATCHRENAME_DLG" layer="1" file="xml\BatchRename\BatchRenameDlg.xml"/>

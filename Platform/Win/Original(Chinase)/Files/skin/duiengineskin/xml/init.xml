@@ -698,6 +698,10 @@
         <imglst name="template_empty" src="IDP_ONLINEDOC_TEMPLATE_EMPTY"/>
         <imgframe name="template_more" src="IDP_ONLINEDOC_TEMPLATE_MORE"/>
         <imgframe name="template_frame" src="IDP_ONLINEDOC_TEMPLATE_FRAME" subwidth="93"/>
+        <imgframe name="mainpanel_toolbar_badge_new_func" src="IDP_MAINPANEL_TOOLBAR_BADGE_NEW_FUNC"/>
+        <imgframe name="mainpanel_toolbar_badge_limited_free" src="IDP_MAINPANEL_TOOLBAR_BADGE_LIMITED_FREE"/>
+        <imgframe name="mainpanel_toolbar_badge_svip_only" src="IDP_MAINPANEL_TOOLBAR_BADGE_SVIP_ONLY"/>
+        <imgframe name="mainpanel_toolbar_batch_rename" src="IDP_MAINPANEL_TOOLBAR_BATCH_RENAME" subwidth="20"/>
         
 
         <!--主面板地址栏-->
