@@ -1,4 +1,4 @@
-<layer name="MemberCerterCardWnd" width="388" height="287" appwin="0" toolwindow="1" ncRect="5,5,5,5" translucent="1" nomaxsize="1">
+<layer name="MemberCerterCardWnd" width="0" height="0" appwin="0" toolwindow="1" ncRect="5,5,5,5" translucent="1" nomaxsize="1">
   <body> 
     <dlg name="dlg_member_center" pos="0,0,-0,-0" skin="member_center_card_bgk" >   
       <dlg name="dlg_member_privilege" pos="0,0,160,-0">  

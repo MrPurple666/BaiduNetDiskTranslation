@@ -960,6 +960,7 @@
   <s id="2191">Import online documents</s>
   <s id="2192">Blank document</s>
   <s id="2193">More templates</s>
+  <s id="2194">Batch Rename</s>
   <!--地址栏-->
   <s id="2200">My network drive</s>
   <s id="2201">Safe</s>
@@ -1634,4 +1635,9 @@
   <!-- Local search -->
   <s id="4400">No search results</s>
   <s id="4401">Try other keywords or click "Enter" button to re-initiate search</s>
+
+    <!--Rename -->
+  <s id="4402">Batch renaming</s>
+  <s id="4403">The number of selected files cannot exceed 1000!</s>
+
 </string>

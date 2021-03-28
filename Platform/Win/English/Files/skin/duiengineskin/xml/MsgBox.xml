@@ -10,7 +10,7 @@
 		  </caption>
 		  <dlg pos="5,64,-5,-40">
 			<icon name="msgicon" pos="18,0,52,34" size="34"/>
-			<text name="msgtext" pos="[14,7" font="0000:微软雅黑" crtext="4c4c4c" multilines="1" interhei="0" maxwidth="315"/>
+			<text name="msgtext" pos="[14,7" font="Segoe UI" crtext="4c4c4c" multilines="1" interhei="0" maxwidth="315"/>
 		  </dlg>
 		  <dlg pos="0,-30,-0,-0" name="btn1panel">
 			<button pos="-88,|-22,-16,|2" class="msgboxbtn" name="button1st">button1</button>

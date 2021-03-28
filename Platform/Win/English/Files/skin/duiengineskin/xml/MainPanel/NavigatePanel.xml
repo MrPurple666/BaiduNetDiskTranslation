@@ -1,5 +1,5 @@
 <dlg name="NavigatePanel" pos="0,0,-0,-0" skin="navigatepanel_bg">
-  <dlg pos="0,0,-13,-0">
+  <dlg pos="0,0,-5,-0">
     <!--首页-->
     <imgbtn name="btn_home" pos="0,0,-0,@80" skin="main_panel_frame" icoxoffset="13" icoyoffset="15" 
     crtext="636D7E" font="0000:微软雅黑" icoskin="navigatepanel_home_btn" 
@@ -23,7 +23,7 @@
     txtyoffset="50" cursor="arrow">%str1652%</imgbtn>
     <img name="img_share_reddot" pos="50,[-60,@8,@8" skin="titlepanel_reddot" show="0"/>
 
-    <dlg name="dlg_invalid_area" pos="0,240,-1,-100">
+    <dlg name="dlg_invalid_area" pos="-9999,-9999,-9999,-9999">
       <dlg name="dlg_tools" pos="0,-187,-1,@181">
         <hr pos="13,0,-13,0" size="1" crbg="EDEDED"/>
         <!-- 工具 -->
