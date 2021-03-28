@@ -21,16 +21,16 @@
     <hr name="hr_line_cloud" pos="0,0,@3,-0" crbg="06a8ff" show="0"/>
   </dlg>
   <!--广告面板-->
-  <dlg name="dlg_ad" pos="|-72,-170,@145,@160" show="0">
+  <dlg name="dlg_ad" pos="|-9999,-9999,@-9999,@-9999" show="0">
     <!--与AdPanel.xml内容一致-->
-    <dlg name="AdPanel" pos="0,0,-0,-0">
-      <gifplayer name="ad_img_bkg" pos="0,0,-0,-0" bulltimer="1"></gifplayer>
-      <imgbtn name="ad_img_btn" pos="0,0,-0,-0"></imgbtn>
-      <imgbtn name="ad_close_btn" pos="-16,0,-0,16" cursor="arrow" tip="关闭" show="0"></imgbtn>
+    <dlg name="AdPanel" pos="-9999,-9999,-9999,-9999" >
+      <gifplayer name="ad_img_bkg" pos="-9999,-9999,-9999,-9999" bulltimer="1"></gifplayer>
+      <imgbtn name="ad_img_btn" pos="-9999,-9999,-9999,-9999" ></imgbtn>
+      <imgbtn name="ad_close_btn" pos="-9999,-9999,-9999,-9999" cursor="arrow" tip="关闭" show="0"></imgbtn>
       <text name="ad_calc_size" pos="0,0" crtext="ffffff" font2="facename:宋体;bold:0;italic:0;underline:0;adding:-1" textmode="40825" show="0"></text>
-      <dlg name="AdTipPanel" pos="-31,-17,-0,-0" msgtransparent="1">
-        <img name="ad_tip_bkg" pos="0,0,-0,-0"></img>
-        <text name="ad_tip" pos="0,0,-0,-0" crtext="ffffff" font2="facename:宋体;bold:0;italic:0;underline:0;adding:-1" textmode="40825"></text>
+      <dlg name="AdTipPanel" pos="-9999,-9999,-9999,-9999" msgtransparent="1">
+        <img name="ad_tip_bkg" pos="-9999,-9999,-9999,-9999" ></img>
+        <text name="ad_tip" pos="-9999,-9999,-9999,-9999" crtext="ffffff" font2="facename:宋体;bold:0;italic:0;underline:0;adding:-1" textmode="40825"></text>
       </dlg>
     </dlg>
   </dlg>

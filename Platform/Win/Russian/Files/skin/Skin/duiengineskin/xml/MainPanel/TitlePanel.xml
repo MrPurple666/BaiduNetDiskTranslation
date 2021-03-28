@@ -3,32 +3,38 @@
   <img pos="20,12,@122,@26" skin="titlepanel_logo"></img>
   
   <!--文字运营位-->
-  <link name="link_header_ad" pos="-500,|-8" crtext="C9A566" font="0000:微软雅黑" align="left" maxwidth="200" cursor="hand" dotted="1" show="0"></link>
+  <link name="link_header_ad" pos="-9999,|-9999" crtext="C9A566" font="0000:微软雅黑" align="left" maxwidth="0" cursor="hand" dotted="1" show="0"></link>
   <!--用户头像-->
   <img name="img_userhead" pos="-414,|-15,@30,@30" skin="titlepanel_default_head">
 	<img name="img_userhead_frame" pos="0,0,-0,-0" skin="titlepanel_headframe"/>
     <img name="img_userhead_cert_status" pos="16,18,@13,@13" skin="titlepanel_cert_status_icon" show="0"/>
   </img>
   <!--用户昵称-->
-  <text name="txt_nickname" pos="-360,|-8" crtext="333333" font="0000:微软雅黑" align="left" cursor="arrow" maxwidth="200" dotted="1"></text>
+  <text name="txt_nickname" pos="-960,|-8" crtext="333333" font="0000:微软雅黑" align="left" cursor="arrow" maxwidth="200" dotted="1"></text>
   <!--会员身份标识-->
-  <imgbtn name="btn_crown" pos="-342,|-9,@38,@18" skin="titlepanel_translucent" icoskin="titlepanel_vipclose" cursor="hand"/>
+  <imgbtn name="btn_crown" pos="-9999,|-9999,@0,@0" skin="titlepanel_translucent" icoskin="titlepanel_vipclose" cursor="hand"
+show="0"
+/>
   
   <!--会员中心-->
-  <imgbtn name="btn_vipcenter" pos="-262,|-20,@84,@40" class="cls_titlepanel_vipcenter_btn" txtyoffset="2">%str1505%</imgbtn>
-    <dlg name="dlg_coupon" pos="[-28,|-22,@34,@15" skin="titlepanel_vipcenter_cornel" show="0">
-    <text name="text_coupon" pos="6,0" font2="facename:微软雅黑;adding:-2" crtext="ffffff"></text>
+  <imgbtn name="btn_vipcenter" pos="-9999,|-9999,@-9999,@-9999" class="cls_titlepanel_vipcenter_btn" txtyoffset="2"
+show="0">%str1505%</imgbtn>
+    <dlg name="dlg_coupon" pos="[-9999|-9999,@34,@15" skin="titlepanel_vipcenter_cornel" show="0">
+    <text name="text_coupon" pos="-99999,-99999,-99999,-99999"
+font2="facename:微软雅黑;adding:-2" crtext="ffffff"
+show="0"
+></text>
   </dlg>
   <text name="text_vipcenter" class="cls_titlepanel_vipcenter_btn" show="0"></text>
 
-  <dlg name="title_right_region" pos="-178,10,-98,-10">
+  <dlg name="title_right_region" pos="-99999,-99999,-99999,--99999">
     <!--消息-->
     <imgbtn name="btn_message" pos="14,|-8,@15,@16" skin="titlepanel_message_btn" cursor="arrow" tip="%str1506%"></imgbtn>
     <img name="img_newmsg_reddot" pos="[-5,|-8,@8,@8" skin="titlepanel_reddot" show="0"/>
     <!--设置-->
     <imgbtn name="btn_setting" pos="[14,|-8,@15,@16" skin="titlepanel_setting_btn" cursor="arrow" tip="%str1507%"></imgbtn>
     <!--icon广告-->
-    <imgbtn name="btn_icon_ad" pos="[14,|-15,@28,@28" skin="titlepanel_ad_skin" cursor="hand" show="0"></imgbtn> 
+    <imgbtn name="btn_icon_ad" pos="[14,|-15,@0,@0" skin="titlepanel_ad_skin" cursor="hand" show="0"></imgbtn> 
   </dlg>
   
   <!--窗口属性-->
