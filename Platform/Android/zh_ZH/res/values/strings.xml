@@ -1836,6 +1836,7 @@
     <string name="can_not_delete_apps">(无法删除 “我的应用数据” 文件夹)</string>
     <string name="can_not_open">无法打开</string>
     <string name="can_not_open_classification_content">当前申请用户较多，暂时不能开启；过段时间再来试试吧。</string>
+    <string name="can_not_transfer_account">此帐号无法转移</string>
     <string name="can_not_unlock">无法解锁</string>
     <string name="cancel">取消</string>
     <string name="cancel_collection_fail">操作失败，请稍后再试</string>
@@ -1845,6 +1846,7 @@
     <string name="cancel_delete_play_list">取消</string>
     <string name="cancel_downloading">取消下载</string>
     <string name="cancel_failed">取消失败</string>
+    <string name="cancel_file_resolve">取消解析</string>
     <string name="cancel_guide">取消</string>
     <string name="cancel_operate">不%s</string>
     <string name="cancel_saving_resource">取消保存所选资源？</string>
@@ -1857,6 +1859,7 @@
     <string name="cancel_share_directory_title">取消共享</string>
     <string name="cancel_share_success">取消分享成功</string>
     <string name="cancel_share_success_empty_txt">含该文件夹的分享已全部取消，后续文件变更不会同步</string>
+    <string name="cancel_transfer">取消</string>
     <string name="cancel_transfer_task">取消传输</string>
     <string name="cancel_transfer_task_msg">是否取消传输</string>
     <string name="cancle_story_video_generate">离开当前页面将终止视频的生成,是否离开?</string>
@@ -2051,6 +2054,8 @@
     <string name="cause_of_network">网络原因</string>
     <string name="cause_of_other">其它原因</string>
     <string name="certification_user_enter_text">了解企业帐号</string>
+    <string name="certification_user_info_enter_text">了解企业号</string>
+    <string name="certification_user_info_tips_text">来自企业的分享</string>
     <string name="certification_user_item_label">限免</string>
     <string name="certification_user_item_status_approve">已认证</string>
     <string name="certification_user_item_status_approving">审核中</string>
@@ -2084,6 +2089,7 @@
     <string name="chain_skin_dialog_guide_sub_title">SVIP还拥有尊享图标、卡片换肤等特权</string>
     <string name="chain_skin_dialog_guide_title">这款皮肤很适合你哦</string>
     <string name="chain_skin_fetch_error">服务异常，点击重试</string>
+    <string name="chain_skin_fetch_network_retry">网络不给力，点击再试试</string>
     <string name="chain_skin_guide_svip">开通超级会员尊享皮肤</string>
     <string name="chain_skin_identity_tip">超级会员专享皮肤</string>
     <string name="chain_skin_invalid">皮肤已过期</string>
@@ -2118,10 +2124,17 @@
     <string name="choice_person">请选择一个人物</string>
     <string name="choice_your_person_image_from_multi_image">下面哪个是你？</string>
     <string name="choice_your_person_image_from_single_image">下面的头像是你吗？</string>
+    <string name="choose_account">选择账号</string>
     <string name="choose_album">选择相册</string>
     <string name="choose_app_dialog_title">选择要使用的应用程序</string>
     <string name="choose_audio">选择音乐</string>
     <string name="choose_backup_file">选择备份文件类型：</string>
+    <string name="choose_dialog_backup_content">所选文件包含备份文件夹，后续添加的备份文件将会被同步分享</string>
+    <string name="choose_dialog_backup_title">包含备份文件</string>
+    <string name="choose_dialog_left_button">普通分享</string>
+    <string name="choose_dialog_right_button">去密享</string>
+    <string name="choose_dialog_super_privacy_content">建议对文件进行更安全的分享，推荐使用限制人数的分享</string>
+    <string name="choose_dialog_super_privacy_title">建议采用更安全的分享方式</string>
     <string name="choose_doc">选择文档</string>
     <string name="choose_file">选择文件</string>
     <string name="choose_image_count">已选：%1$d/%2$d</string>
@@ -2274,6 +2287,7 @@
     <string name="close">关闭</string>
     <string name="close_ad_des">关闭</string>
     <string name="close_failed_by_network_error">网络异常，关闭失败</string>
+    <string name="close_notification_to_system_settings">请到系统设置页修改</string>
     <string name="close_notify_failed">屏蔽消息通知失败</string>
     <string name="close_notify_success">消息通知已开启</string>
     <string name="close_share_failed_tips">关闭分享失败，请重试</string>
@@ -2423,6 +2437,7 @@
     <string name="cloudp2p_file_from">来自:%s</string>
     <string name="cloudp2p_file_get_info_fail">无法获取分享信息</string>
     <string name="cloudp2p_file_save_scccess">保存成功</string>
+    <string name="cloudp2p_group_freeze_dialog">非常抱歉，当前群组存在违规情况，已禁止访问群文件，限制时间至%1$s</string>
     <string name="cloudp2p_local_file_share_out_of_selected_count_max">本地文件分享不能超过%d个</string>
     <string name="cloudp2p_local_file_tab">本地文件</string>
     <string name="cloudp2p_more_file">等多个文件</string>
@@ -2437,9 +2452,15 @@
     <string name="cloudp2p_officia_title">官方消息</string>
     <string name="cloudp2p_officia_title_unread">官方账号(%d)</string>
     <string name="cloudp2p_officia_title_unread_plus">官方账号(%d+)</string>
+    <string name="cloudp2p_open_push_notification_guide">打开通知，好友消息再也不漏接~</string>
     <string name="cloudp2p_pick_file_title">分享文件</string>
     <string name="cloudp2p_pick_friends">正在查询好友</string>
     <string name="cloudp2p_pick_netdisk_file_cloudimage_header">选择网盘中的图片</string>
+    <string name="cloudp2p_receive_client_not_support">当前设备不支持查看，请使用最新版iOS百度网盘APP查看</string>
+    <string name="cloudp2p_receive_message_default_des">点击升级版本后查看</string>
+    <string name="cloudp2p_receive_message_default_title">当前版本过低，无法查看消息</string>
+    <string name="cloudp2p_receive_view_not_support_des">请点击卡片进行升级后查看</string>
+    <string name="cloudp2p_receive_view_not_support_title">当前版本不支持查看</string>
     <string name="cloudp2p_select_file">选择文件</string>
     <string name="cloudp2p_send_add_follow_verification">发送好友验证</string>
     <string name="cloudp2p_send_failed_need_add_follow">对方开启了好友验证，你还不是他(她)的好友，请先发送好友验证请求，对方验证通过后，才能聊天。</string>
@@ -2539,9 +2560,11 @@
     <string name="common_tool_item_close_text">关闭</string>
     <string name="common_tool_item_share_text">分享</string>
     <string name="common_tool_item_star_text">收藏</string>
+    <string name="common_unknown_error">出错了</string>
     <string name="complete_btn_num">完成（%1$d/%2$d）</string>
     <string name="complete_offline_task">资源成功保存到百度网盘</string>
-    <string name="confirm">确认</string>
+    <string name="conduct_choose_tip">请至少选择一个商品</string>
+    <string name="confirm">确定</string>
     <string name="confirm_app_download_dialog">即将为你下载%s</string>
     <string name="confirm_app_download_title">下载应用</string>
     <string name="confirm_btn_num">确定（%1$d/%2$d）</string>
@@ -2551,6 +2574,8 @@
 关闭后无法展示更适合您的运营活动"</string>
     <string name="confirm_close_classification_content">关闭后图片的人物分类服务将无法使用，已标记的人物名称和关系也将删除。</string>
     <string name="confirm_close_classification_text">确认关闭</string>
+    <string name="confirm_code_tip">"为保证账户安全，已将验证码发送到您绑定
+的手机号：%s"</string>
     <string name="confirm_complete">完善信息</string>
     <string name="confirm_delete_play_list">确定</string>
     <string name="confirm_download_filename_label">确认下载</string>
@@ -2566,6 +2591,8 @@
     <string name="confirm_share_property_album">确认分享</string>
     <string name="confirm_share_property_album_context">分享相册文件夹时，如其中有非图片文件，也将被分享</string>
     <string name="confirm_share_property_media_context">分享相册文件夹时，如相册内有图片和视频以外的内容，也将被分享</string>
+    <string name="confirm_transfer">确认转换</string>
+    <string name="confirm_transfer_account">确认转入账号</string>
     <string name="confrim_downlaod_filesize_label">文件大小:</string>
     <string name="contact_add_follow_title">加好友</string>
     <string name="contact_auto_backup_closed">已关闭流量自动备份</string>
@@ -2789,7 +2816,11 @@
     <string name="create_share_title">创建的共享</string>
     <string name="create_special_folder_failed">该文件夹不允许创建</string>
     <string name="create_tag_fail">新建失败</string>
+    <string name="create_video_mark">创建新标记</string>
     <string name="creating_group_conversation">正在创建群组…</string>
+    <string name="current_account_tips">当前登录账号</string>
+    <string name="current_account_unbind_phone_tips">当前手机号未绑手机号，无法进行转移</string>
+    <string name="current_account_unbind_tips">当前手机号未绑定其他账号，无法进行转移</string>
     <string name="current_device_never_bind">本设备未关联到当前帐户，请重新登录试试</string>
     <string name="current_download_path">"当前下载位置：
 %s"</string>
@@ -2998,11 +3029,13 @@
     <string name="dialog_nagtive_button_text">取消</string>
     <string name="dialog_negative_title_cancel">取消</string>
     <string name="dialog_netloss">网络正在开小差</string>
+    <string name="dialog_original_image_quality">原画质备份</string>
     <string name="dialog_positive_button_text">确定</string>
     <string name="dialog_positive_title_ok">确定</string>
     <string name="dialog_refresh">刷新</string>
     <string name="dialog_select_telephone">选择号码</string>
     <string name="dialog_share_confirm_tips">该文件夹已被分享，后续访问者可同步查看文件变更内容，是否继续?</string>
+    <string name="dialog_speed_download">下载享极速</string>
     <string name="dialog_tip_fail_copy_description">空间不足，无法复制，删除些网盘文件再试试吧</string>
     <string name="dialog_tip_fail_i_know">知道了</string>
     <string name="dialog_tip_fail_recover_description">空间不足，无法还原，删除些网盘文件再试试吧</string>
@@ -3015,7 +3048,11 @@
     <string name="dialog_title_change_file_category">更改文件类型</string>
     <string name="dialog_title_prompt">提示</string>
     <string name="dialog_title_save_long_picture_failed">保存失败</string>
+    <string name="dialog_unlimited_quota">无限量存储</string>
     <string name="dialog_webcall_common_title">网页提示</string>
+    <string name="dialog_yike_guide_confirm">立即体验</string>
+    <string name="dialog_yike_guide_desc">注册即享</string>
+    <string name="dialog_yike_guide_title">你还没有体验过一刻相册</string>
     <string name="didnt_open_auto_backup_tip_btn">立即开启</string>
     <string name="didnt_open_auto_backup_tip_desc">定期备份、联系人不丢失</string>
     <string name="didnt_open_auto_backup_tip_title">未开启自动备份</string>
@@ -3096,6 +3133,7 @@
     <string name="document_backup_word">文字文档</string>
     <string name="document_backup_xls_info">手机中xls、xlsx、numbers格式的文件</string>
     <string name="document_close_share">关闭分享</string>
+    <string name="document_collection_empty">暂无收藏</string>
     <string name="document_convert_background">后台转换</string>
     <string name="document_convert_tips">允许别人转存、导出该文档所有内容与附件</string>
     <string name="document_convert_tools_des">·%s</string>
@@ -3109,6 +3147,7 @@
     <string name="document_load_failed">连接出错了，重新尝试</string>
     <string name="document_need_password">文档已加密</string>
     <string name="document_need_password_dialog_content">该文档已加密，无法进行翻译</string>
+    <string name="document_not_permit_convert_tips">不允许别人转存、导出该文档所有内容与附件</string>
     <string name="document_not_support_preview">附件暂不支持预览</string>
     <string name="document_number">%s个</string>
     <string name="document_office_pages">%1$d页(2000字/页)</string>
@@ -3126,8 +3165,14 @@
     <string name="document_share_close_dialog_tips">取消分享后，被分享者将无法访问该链接，是否继续?</string>
     <string name="document_share_effective_tips">在取消分享前该链接将长期有效</string>
     <string name="document_share_expired_time_tips">上次分享已于%s过期</string>
+    <string name="document_share_need_password">对方需要输入提取码才能查看文档</string>
+    <string name="document_share_no_password">对方可直接查看文档，无需提取码</string>
     <string name="document_share_opened_tips">文档已开启分享</string>
     <string name="document_share_overdue">分享已过期</string>
+    <string name="document_share_overdue_day">%1$s前有效</string>
+    <string name="document_share_overdue_tips">分享已于%1$s过期</string>
+    <string name="document_share_password_switch_open_toast">为了保护您的文件安全，已将有效期设为30天</string>
+    <string name="document_share_recovery">有效期已恢复为永久有效</string>
     <string name="document_src_language">文档语言</string>
     <string name="document_switch_save_tips">转换成功后，自动保存到原%1$s所在目录</string>
     <string name="document_title" formatted="false">%s(%s)</string>
@@ -3147,6 +3192,7 @@
     <string name="document_translate_verify_tips3">支持中、英、日、韩多国语言，一键全文翻译</string>
     <string name="document_txt">TXT</string>
     <string name="document_unupload_detail">仅显示本机未上传的文档类文件</string>
+    <string name="document_update_share">更新分享</string>
     <string name="document_verify_failed">文档校验失败</string>
     <string name="document_verify_failed_tips">校验失败</string>
     <string name="document_verify_format">校验文档格式</string>
@@ -3235,6 +3281,7 @@
     <string name="download_failed">下载失败（%1$s）</string>
     <string name="download_failed_no_sdcard_space">手机存储空间不足，请清理后再试</string>
     <string name="download_failed_normal">下载失败</string>
+    <string name="download_failed_normal_with_code">下载失败（%d）</string>
     <string name="download_file_all_added">正在为你加密传输</string>
     <string name="download_file_overflow">下载文件已超过100个，请重新选择</string>
     <string name="download_file_start_tip">高速下载已经开始</string>
@@ -3270,6 +3317,7 @@
     <string name="downloading">正在下载（%1$s）</string>
     <string name="downloading_x">正在下载...%1$s</string>
     <string name="duration_too_long_error">视频时长过长，暂不支持线上解析，请下载后观看</string>
+    <string name="dwg_file_resolve_title">dwg文件解析</string>
     <string name="dxm_ebpay_add_bankcard">添加银行卡</string>
     <string name="dxm_ebpay_auto_fill_sms_no_permission">没有读取短信的权限，无法自动填写验证码</string>
     <string name="dxm_ebpay_bank_phone_title">手机号说明</string>
@@ -3816,6 +3864,7 @@
     <string name="expand_storage_capacity">扩充存储容量</string>
     <string name="expansion_btn_title">扩容></string>
     <string name="experience_immediately">知道了</string>
+    <string name="expire_account">已过期账号</string>
     <string name="expire_time_notice">有效期至 %1$s</string>
     <string name="expire_time_notice_forever">该分享永久有效</string>
     <string name="export">导出</string>
@@ -3911,7 +3960,14 @@
     <string name="feed_type_xls">XLS</string>
     <string name="feed_type_zip">ZIP</string>
     <string name="feed_update_toast_bad_net">网络不给力，请稍后重试</string>
+    <string name="feedback_accept">已收到反馈，我们会尽快优化</string>
+    <string name="feedback_description">请选择您要反馈的问题，我们会尽快优化</string>
+    <string name="feedback_input_hint">若有其他问题，请简要描述</string>
     <string name="feedback_quota_error">请您退出账号重新登录或者刷新页面。如仍有问题，可点击刷新容量按钮进行修复，因需重新计算您的网盘容量，预计5分钟后生效。</string>
+    <string name="feedback_reason">初步定位为：%s</string>
+    <string name="feedback_solution">建议您：%s</string>
+    <string name="feedback_success">反馈成功</string>
+    <string name="feedback_test_speed">慢速检测</string>
     <string name="feedback_title">意见反馈</string>
     <string name="feedcard_username">%1$s分享了%2$d个%3$s</string>
     <string name="fileSizeSuffix">%1$s %2$s</string>
@@ -3970,6 +4026,8 @@
     <string name="file_no_permission_error">文件异常，请检查</string>
     <string name="file_not_exist_or_deleted">文件不存在或已被删除</string>
     <string name="file_not_exists">文件不存在</string>
+    <string name="file_open_failed">文档打开失败</string>
+    <string name="file_open_other">用其他方式打开</string>
     <string name="file_opening">正在打开文件……</string>
     <string name="file_position">文件管理</string>
     <string name="file_preview_cancle_loading">取消加载</string>
@@ -4007,6 +4065,9 @@
     <string name="file_tab_guide_text">下载的文件在这里查看</string>
     <string name="file_task_error">%s失败，请稍候重试</string>
     <string name="file_transfer_fail">文件转码失败</string>
+    <string name="filelist_gallery_guide_subtitle_link">马上体验</string>
+    <string name="filelist_gallery_guide_subtitle_text">网盘相册图库全新升级，</string>
+    <string name="filelist_gallery_guide_title">看图找图更方便</string>
     <string name="filemanage_copy">复制文件</string>
     <string name="filemanage_delete">删除文件</string>
     <string name="filemanage_failed">失败</string>
@@ -4103,6 +4164,7 @@
     <string name="flash_advertise_title_refresh">刷新</string>
     <string name="flash_screen_countdown">%s</string>
     <string name="flash_screen_countdown_skip">跳过 %s</string>
+    <string name="flash_screen_jump_default_text">点击查看详情</string>
     <string name="flash_screen_skip">跳过</string>
     <string name="flash_toast">周围环境太暗，建议开启闪光灯</string>
     <string name="float_advertise_countdown_with_day">%1$d天%2$s:%3$s:%4$s</string>
@@ -4289,6 +4351,7 @@
     <string name="get_captcha_fail">获取验证码失败</string>
     <string name="get_cloudimage_status_button">好了没</string>
     <string name="get_cloudimage_status_dialog_msg">正在帮你询问…</string>
+    <string name="get_confirm_code">获取验证码</string>
     <string name="get_dlink_failed">获取地址失败</string>
     <string name="get_file_list_failed">获取文件列表失败</string>
     <string name="get_five_points">待领取积分</string>
@@ -4317,6 +4380,12 @@
     <string name="goto_time_machine">去时光机查看更多</string>
     <string name="goto_try">去试试</string>
     <string name="gpt_plugin_debug">GPT插件debug</string>
+    <string name="graph_file_allow_preview">可预览</string>
+    <string name="graph_file_preview_loading">加载完成后可使用其他方式打开</string>
+    <string name="graph_file_resolve">正在解析文件</string>
+    <string name="graph_file_switch_fail">解析文件失败</string>
+    <string name="graph_file_switch_resolve">解析文件</string>
+    <string name="graph_file_switch_success">解析成功，正在为您打开文件</string>
     <string name="grid_more_function_tool_tip">手机忘带、手机找回移到这里了</string>
     <string name="grid_title_aiapps">小程序</string>
     <string name="grid_title_cloud_print">云冲印</string>
@@ -4374,7 +4443,7 @@
     <string name="guide_dialog_text">如不允许，将无法在网盘中正常使用</string>
     <string name="guide_dialog_text_down">上传照片及保存照片等功能</string>
     <string name="guide_dialog_title">百度网盘想访问您的照片</string>
-    <string name="guide_file_backup_privilege">会员立享文件夹备份特权</string>
+    <string name="guide_file_backup_privilege">超级会员立享文件夹备份特权</string>
     <string name="guide_know">我知道了</string>
     <string name="guide_normal_photo_switch">喜欢这种视图吗?</string>
     <string name="guide_normal_photo_switch_desc">把其他图片文件夹切换为相册模式吧</string>
@@ -4403,9 +4472,9 @@
     <string name="guide_unzip_open_svip_privilege">超级会员在线解压%s内压缩包</string>
     <string name="guide_unzip_upgrade_svip_privilege">升级至超级会员解压上线提升至%s</string>
     <string name="guide_unzip_vip_privilege">会员在线解压2G内压缩包</string>
-    <string name="guide_video_backup_original_privilege">开通会员，立享原画视频备份特权</string>
+    <string name="guide_video_backup_original_privilege">开通超级会员，立享原画视频备份特权</string>
     <string name="guide_video_backup_privilege">会员立享视频备份特权</string>
-    <string name="guide_video_upload_privilege">开通会员，立享上传视频特权</string>
+    <string name="guide_video_upload_privilege">开通超级会员，立享上传视频特权</string>
     <string name="guidence_enter_right_now">立即体验</string>
     <string name="half_video_next_tip">即将播放下方视频</string>
     <string name="hardware_upgrade_desc">为减少占用您的网盘空间容量，自2020年2月12日起， 该设备新上传的数据将保存至 我的-网盘功能-智能设备-专属空间中，不再占用网盘容量。已上传的数据不受影响。</string>
@@ -4466,6 +4535,10 @@ progress: %d%%"</string>
     <string name="home_audioserver_create">新建播单</string>
     <string name="home_audioserver_create_playlst">创建我的音频播单</string>
     <string name="home_audioserver_mine_playlist">我的播单</string>
+    <string name="home_card_default_check">试一下</string>
+    <string name="home_card_default_second_title">书籍/文档/证件，生成电子版</string>
+    <string name="home_card_docscan_create">新建扫描文档</string>
+    <string name="home_card_docscan_second_title">%1$s %2$d张</string>
     <string name="home_collect_card_add_collection">添加收藏</string>
     <string name="home_collect_card_check_all">查看全部</string>
     <string name="home_collect_card_guide">去添加更多常用文件</string>
@@ -4485,9 +4558,13 @@ progress: %d%%"</string>
     <string name="home_page_all_service_entry">查看全部</string>
     <string name="home_page_audio_service_history_tip">在这继续上次播放</string>
     <string name="home_page_note_service_has_new_tip">有新剪藏的笔记</string>
+    <string name="home_page_permission_guide_button">去开启</string>
+    <string name="home_page_permission_guide_subtitle">开启存储权限继续备份</string>
+    <string name="home_page_permission_guide_title">自动备份已暂停</string>
     <string name="home_page_recommend_entry">为你推荐</string>
     <string name="home_page_recommend_entry_story">我的故事</string>
     <string name="home_personal_tools_guide">更多工具等你来探索</string>
+    <string name="home_privilege_recommend_card_name">特权推荐</string>
     <string name="home_recent_card_multi_file_text" formatted="false">%s 等%d个文件</string>
     <string name="home_recent_video_item_view_time">观看至%1$s</string>
     <string name="home_recent_video_mall_view_time">观看至%s</string>
@@ -4569,8 +4646,8 @@ progress: %d%%"</string>
     <string name="imagepager_bt_print">打印</string>
     <string name="imagepager_bt_print_store">云冲印</string>
     <string name="imagepager_bt_share">分享</string>
+    <string name="imagepager_import">保存到一刻</string>
     <string name="imagepager_print">打印</string>
-    <string name="imagepager_youa">创作</string>
     <string name="img_file_not_found">你要找的图片不见了~</string>
     <string name="immediately_create">立即创建</string>
     <string name="immediately_create_baby_loading">正在努力创建中...</string>
@@ -4595,6 +4672,7 @@ progress: %d%%"</string>
     <string name="info_install">播放此视频需安装视频插件</string>
     <string name="info_update">播放此视频需升级视频插件</string>
     <string name="init_failed">Initialization failure has been opened for you with third party App</string>
+    <string name="input_confirm_code">请输入验证码</string>
     <string name="input_file_no_permission_note_text">后续操作需要用到麦克风权限或相机权限，请在“设置”中开启</string>
     <string name="input_need_download_url">填写要下载的文件链接</string>
     <string name="input_nick_name">输入昵称</string>
@@ -4935,11 +5013,17 @@ progress: %d%%"</string>
     <string name="marked_people">已标注人物</string>
     <string name="marked_text">已标注</string>
     <string name="max_photo_num">999+</string>
+    <string name="media_library_empty_text">"暂无使用记录
+图片的上传、转存记录会在这里显示"</string>
+    <string name="media_library_error_text">列表加载失败，请检查网络</string>
+    <string name="media_library_list_retry">重新加载</string>
+    <string name="media_library_update_desc">图库展示了你在网盘中所有图片文件（不含隐藏文件），看图找图更方便～</string>
+    <string name="media_library_update_title">图库频道全新升级</string>
+    <string name="media_library_view_last_time">上次看过</string>
     <string name="megabyteShort">MB</string>
     <string name="meizu_id">118645</string>
     <string name="meizu_key">114c6777811b4faea741468bc6a67866</string>
     <string name="member_distribute_dialog_subtitle">加入分享回馈计划，分享内容赚现金</string>
-    <string name="member_distribute_guide_tips">分享得红包</string>
     <string name="member_normal">用户</string>
     <string name="member_svip">超级会员</string>
     <string name="member_vip">会员</string>
@@ -5028,6 +5112,9 @@ progress: %d%%"</string>
     <string name="move_success">移动成功</string>
     <string name="move_tag_num_overflow">移动失败，最多同时移动%d个文件夹</string>
     <string name="move_to_property_dir_failed">移动失败，目标文件夹文件数超限</string>
+    <string name="msg_code_countdown">重新获取%ss</string>
+    <string name="msg_code_server_error">获取验证码失败，请稍后再试</string>
+    <string name="msg_code_verify_error">验证码校验失败</string>
     <string name="mtrl_badge_numberless_content_description">New notification</string>
     <string name="mtrl_chip_close_icon_content_description">Remove %1$s</string>
     <string name="mtrl_exceed_max_badge_number_suffix">%1$d%2$s</string>
@@ -5284,6 +5371,7 @@ progress: %d%%"</string>
     <string name="no_permission_dialog_confirm_btn">开通会员</string>
     <string name="no_permission_sms_describe">无短信可备份或未于设置中开启读取短信权限</string>
     <string name="no_power_user">没有权限操作</string>
+    <string name="no_product_days_tip">仅支持30天内在网盘外购买的会员（超级会员）转移</string>
     <string name="no_result">无匹配结果</string>
     <string name="no_save_resource">没有历史记录，快去找资源吧！</string>
     <string name="no_saving_offline_task">没有正在保存的任务</string>
@@ -5294,16 +5382,22 @@ progress: %d%%"</string>
     <string name="no_space_warning_dialog_expansion">扩容</string>
     <string name="no_space_warning_dialog_title">容量已满</string>
     <string name="no_support_file">没有可操作的文件</string>
+    <string name="no_transfer_product">暂无可转移商品</string>
     <string name="no_transfer_recorder">还没有传输记录哦~</string>
+    <string name="normal_account">normal</string>
     <string name="normal_album_set_ok">%d个文件夹已切换成功</string>
     <string name="normal_name">用户</string>
     <string name="not_bind_email_or_mobile">未绑定邮箱或手机</string>
     <string name="not_calllog_backup_info">云端没有数据哦，赶快备份吧~</string>
+    <string name="not_create_video_mark_now">编辑已有标记</string>
+    <string name="not_display_forever">不再提示</string>
     <string name="not_install_tools">未添加的工具</string>
     <string name="not_installed">未安装</string>
     <string name="not_login_or_account_not_exist">请重新登录再试</string>
     <string name="not_support_type_error">暂不支持播放当前文件格式</string>
     <string name="not_use_now">暂不使用</string>
+    <string name="not_vip_cannot_transfer">非会员账号，无法转移</string>
+    <string name="not_vip_tip">非会员账号</string>
     <string name="not_wifi_tips">无可用WiFi，使用移动网络继续播放</string>
     <string name="note_card_detail">立即查看</string>
     <string name="note_card_save">保存</string>
@@ -5932,6 +6026,7 @@ progress: %d%%"</string>
     <string name="online_device_info">在线设备</string>
     <string name="online_device_selector">选择在线设备</string>
     <string name="online_push">远程推送</string>
+    <string name="only_account">仅有此账号</string>
     <string name="only_creater_modify_enable">仅创建者可重命名文件夹</string>
     <string name="only_group_creator_allow_modify_name">仅群主可修改群名称</string>
     <string name="op_js_location_name">获取位置信息</string>
@@ -5947,14 +6042,18 @@ progress: %d%%"</string>
     <string name="open_file">正在尝试打开，请稍候…</string>
     <string name="open_file_error">文件打开失败</string>
     <string name="open_file_title">打开文件</string>
+    <string name="open_gift_page">查看奖品</string>
     <string name="open_histroy_private_mode">搜索历史</string>
     <string name="open_image">打开</string>
     <string name="open_loading">正在打开百度网盘，请稍候…</string>
     <string name="open_notify_failed">开启消息通知失败</string>
     <string name="open_notify_success">消息通知已关闭</string>
     <string name="open_novel_fail">阅读器打开失败</string>
+    <string name="open_permission_continue">开启权限并继续</string>
     <string name="open_personal_face">去开启</string>
+    <string name="open_push_success">开启成功</string>
     <string name="open_recently">开启人脸分组</string>
+    <string name="open_share_failed_tips">开启分享失败，请重试</string>
     <string name="open_storage_permission_content">为了正常使用图像搜索、下载、文件上传、阅读小说等服务，请开启百度APP存储权限</string>
     <string name="open_storage_permission_title">开启存储权限</string>
     <string name="open_video_file_button_install_toast">开始下载百度网盘视频插件</string>
@@ -5980,6 +6079,7 @@ progress: %d%%"</string>
     <string name="original_space_full_guide_content">5G专属无损备份空间已满，已为您切换为压缩备份。 开通会员即可享受超大原画备份空间。</string>
     <string name="original_space_full_guide_title">无损备份空间已满</string>
     <string name="original_space_manage_text">去管理</string>
+    <string name="other_account">其他账号</string>
     <string name="other_login_ostype_qq">QQ登录</string>
     <string name="other_login_ostype_sina">新浪微博登录</string>
     <string name="other_login_ostype_wechat">微信登录</string>
@@ -6138,11 +6238,11 @@ progress: %d%%"</string>
     <string name="panlink_sending">正在传送，请稍候…</string>
     <string name="panlink_title_default">传送文件</string>
     <string name="parent_path_added">该文件夹已经添加过</string>
+    <string name="pass_bio_alert_dialog_btn_again">重试</string>
     <string name="pass_bio_alert_dialog_btn_back">退出</string>
     <string name="pass_bio_alert_dialog_btn_cancel">取消</string>
     <string name="pass_bio_alert_dialog_btn_go_setting">去设置</string>
     <string name="pass_bio_alert_dialog_btn_ok">确定</string>
-    <string name="pass_bio_alert_dialog_btn_try_again">重试</string>
     <string name="pass_bio_alert_dialog_default_msg_text">提示</string>
     <string name="pass_bio_cancel">取消</string>
     <string name="pass_bio_error_msg_contrast_fail">人脸对比失败，请确保本人操作</string>
@@ -6158,7 +6258,6 @@ progress: %d%%"</string>
     <string name="pass_bio_error_msg_ssl_peer_unverified">网站安全证书已过期或不可信，系统时间错误可能导致此问题</string>
     <string name="pass_bio_error_msg_unknown">操作失败，请稍后重试</string>
     <string name="pass_bio_error_msg_user_cancel">用户取消操作</string>
-    <string name="pass_bio_loading">加载中…</string>
     <string name="pass_bio_multi_window_tips">当前界面在分屏模式下可能显示不正常</string>
     <string name="pass_bio_permission_request">开启摄像头权限</string>
     <string name="pass_bio_pmn_camera">摄像头/相机</string>
@@ -6166,7 +6265,6 @@ progress: %d%%"</string>
     <string name="pass_bio_pmn_msg_liveness">为了您使用人脸识别功能，请允许%1$sApp使用%2$s。您可以通过系统“设置”进行权限的管理</string>
     <string name="pass_bio_pmn_ok">继续</string>
     <string name="pass_bio_pmn_title_liveness">%1$sApp将使用“%2$s”</string>
-    <string name="pass_bio_point">●</string>
     <string name="pass_bio_result_msg_success">成功</string>
     <string name="pass_face_timeout_dialog_fail_reason">不佩戴眼镜</string>
     <string name="pass_face_timeout_dialog_fail_reason2">不遮挡脸部</string>
@@ -6174,20 +6272,13 @@ progress: %d%%"</string>
     <string name="pass_face_timeout_dialog_msg">请避免以下操作，来提升刷脸成功率</string>
     <string name="pass_face_timeout_dialog_title">超时提醒</string>
     <string name="pass_liveness_brightness_too_dark">光线再亮一点</string>
-    <string name="pass_liveness_cancle">取消</string>
-    <string name="pass_liveness_dialog_recognized_fail_cancel">重试</string>
-    <string name="pass_liveness_dialog_recognized_time_out_title">验证超时</string>
-    <string name="pass_liveness_face_to_screen">请双眼平视屏幕</string>
-    <string name="pass_liveness_guide_start_recog">立即验证</string>
-    <string name="pass_liveness_network_set">设置</string>
-    <string name="pass_liveness_no_network_tip">网络不给力，请稍后重试</string>
-    <string name="pass_liveness_open_camera_no_permission">打开相机失败，请检查是否有相机权限</string>
+    <string name="pass_liveness_face_to_screen">请保持正脸</string>
+    <string name="pass_liveness_frist_text">请拿起手机，把脸移入框内</string>
     <string name="pass_liveness_permission_camera">"为了使用正常拍照服务
 请开启摄像头权限"</string>
     <string name="pass_liveness_put_face_round">请将脸移入框内</string>
     <string name="pass_liveness_recog_fail_dialog_msg">请保证光线充足，或者更换设备后尝试</string>
     <string name="pass_liveness_recog_fail_dialog_title">人脸识别失败</string>
-    <string name="pass_liveness_title_text">拍摄照片</string>
     <string name="pass_liveness_tofar_from_camera">凑近一点</string>
     <string name="pass_liveness_tonear_from_camera">请离远一点</string>
     <string name="passwd_confirm_nothing">请再次输入确认密码</string>
@@ -6242,9 +6333,12 @@ progress: %d%%"</string>
     <string name="pdf_first_success_switch_tips_top">转换成功！</string>
     <string name="pdf_first_success_switch_tips_valid">稍后再看</string>
     <string name="pdf_format_conversion_coupon_cancle">暂不使用</string>
+    <string name="pdf_format_conversion_coupon_convert">立即转换 %1$s ?</string>
     <string name="pdf_format_conversion_coupon_desc">您有格式转换券可使用，是否使用？</string>
+    <string name="pdf_format_conversion_coupon_export">立刻导出 %1$s ?</string>
     <string name="pdf_format_conversion_coupon_ok">立即使用</string>
     <string name="pdf_format_conversion_coupon_title">提示</string>
+    <string name="pdf_format_conversion_upload_fail">上传失败</string>
     <string name="pdf_guide_tools">转成Excel/PPT/长图等PDF工具在这里~</string>
     <string name="pdf_long_pic_share">以长图分享</string>
     <string name="pdf_merge_buy_guide_button_price">10元/月</string>
@@ -6266,6 +6360,11 @@ progress: %d%%"</string>
     <string name="pdf_second_success_switch_tips_middle">服务器开小差了，您可重新打开文档进行预览</string>
     <string name="pdf_second_success_switch_tips_top">打开文档失败</string>
     <string name="pdf_second_success_switch_tips_valid">稍后再看</string>
+    <string name="pdf_split">PDF提取</string>
+    <string name="pdf_split_buy_guide_button_price">10元/月</string>
+    <string name="pdf_split_buy_guide_button_text">开始转换</string>
+    <string name="pdf_split_buy_guide_sub_title">成为会员可将指定页面提取为新的文档</string>
+    <string name="pdf_split_guide_tools">PDF文档可以提取页面啦~</string>
     <string name="pdf_switch_fail">转换失败，请重试</string>
     <string name="pdf_switch_tips_coupon">转换失败时，不会消耗格式转换券</string>
     <string name="pdf_switch_tips_input_password">该文档已加密，点击输入密码</string>
@@ -6277,10 +6376,10 @@ progress: %d%%"</string>
     <string name="pdf_switch_tips_vip_tip3">支持OCR识别，影印版的PDF也能转</string>
     <string name="pdf_switch_tips_vip_tip4">害怕等待？PDF也可以后台转换</string>
     <string name="pdf_switch_to_words">pdf转word</string>
-    <string name="pdf_to_excel">转成Excel</string>
+    <string name="pdf_to_excel">PDF转Excel</string>
     <string name="pdf_to_pic">导出长图</string>
-    <string name="pdf_to_ppt">转成PPT</string>
-    <string name="pdf_to_word">转成Word</string>
+    <string name="pdf_to_ppt">PDF转PPT</string>
+    <string name="pdf_to_word">PDF转Word</string>
     <string name="pdf_to_word_success">转换成功，正在为您打开文件</string>
     <string name="pdf_to_words">PDF转Word</string>
     <string name="pdf_upload_fail">上传失败，请重试</string>
@@ -6381,6 +6480,7 @@ progress: %d%%"</string>
     <string name="personal_homepage_hearder_other_share">个分享</string>
     <string name="personal_homepage_hearder_share">分享</string>
     <string name="personal_info">个人信息</string>
+    <string name="personal_info_backup_card_overdue">备份卡：%s到期</string>
     <string name="personal_info_buy_vip">立即开通</string>
     <string name="personal_info_enjoy_card_overdue">音视频畅享卡：%s到期</string>
     <string name="personal_info_svip_overdue">超级会员：%s到期</string>
@@ -6485,6 +6585,7 @@ progress: %d%%"</string>
     <string name="pim_sync_running_state_tips">正在同步，请稍候…</string>
     <string name="pim_sync_success_state_tips">同步成功</string>
     <string name="pim_synchro">通讯录自动同步</string>
+    <string name="pl_three_day_share_tip">为保护你的文件安全，已将文件有效期设置为%d天</string>
     <string name="play_error">播放失败</string>
     <string name="play_error_tip">播放出错啦</string>
     <string name="play_next_button_text">播放下一个</string>
@@ -6599,6 +6700,7 @@ OPPO
     <string name="privilege_backup_overdue">您的%s已经到期，备份停止，请立即续费。</string>
     <string name="privilege_cancel">取消</string>
     <string name="privilege_file">文件</string>
+    <string name="privilege_for_svip">SVIP</string>
     <string name="privilege_guide_alert">服务已升级为会员专享</string>
     <string name="privilege_guide_finish">完成</string>
     <string name="privilege_guide_later">稍后设置</string>
@@ -6622,6 +6724,7 @@ OPPO
     <string name="probationary_purchase_server_error">服务器出错，请稍后重试</string>
     <string name="probationary_running_button_msg">立即购买</string>
     <string name="probationary_running_tips">帐号试用提速中！剩余%d秒</string>
+    <string name="product_expiring_today">今日到期</string>
     <string name="progress_percent">%d%%</string>
     <string name="projection_cant_change_resolution_toast">清晰度转码中，请稍后重试</string>
     <string name="projection_cant_find_device_report_toast">已收到您的反馈</string>
@@ -6650,6 +6753,7 @@ OPPO
     <string name="property_album_refresh_now">立即刷新</string>
     <string name="property_image_timeline_empty">上传照片，为你留驻美好瞬间</string>
     <string name="protocol_text">用户协议</string>
+    <string name="psd_file_resolve_title">psd文件解析</string>
     <string name="publish_device_has_not_been_binded">设备未关联</string>
     <string name="publish_device_not_exit">设备不存在</string>
     <string name="publish_exceed_max_task">推送的文件太多了，请少选点吧</string>
@@ -6764,7 +6868,10 @@ OPPO
     <string name="quick_action_document_merge">合并文档</string>
     <string name="quick_action_download">下载</string>
     <string name="quick_action_edit_play_list">编辑播单</string>
+    <string name="quick_action_feedback">反馈</string>
     <string name="quick_action_file_convert">PDF工具</string>
+    <string name="quick_action_help">帮助</string>
+    <string name="quick_action_help_feedback">帮助与反馈</string>
     <string name="quick_action_into_playlist">加入播单</string>
     <string name="quick_action_meitu">美图秀秀</string>
     <string name="quick_action_modify_tag">编辑照片分类</string>
@@ -6777,6 +6884,7 @@ OPPO
     <string name="quick_action_pdf_merge">PDF合并</string>
     <string name="quick_action_push">推送到设备</string>
     <string name="quick_action_push_to_device">推送至设备</string>
+    <string name="quick_action_quest_feedback">问题反馈</string>
     <string name="quick_action_remove">移除</string>
     <string name="quick_action_remove_tag">照片中没有%s</string>
     <string name="quick_action_rename">重命名</string>
@@ -6988,12 +7096,16 @@ OPPO
     <string name="recycle_bin_privilege_degrade">%1$s%2$s到期，保存期限将降至%3$d天</string>
     <string name="recycle_bin_service_file_protected">%d个可恢复文件</string>
     <string name="recycle_bin_service_file_to_overdue">%d个文件将超出恢复期</string>
+    <string name="recycle_bin_service_go_and_see">去看看</string>
     <string name="recycle_bin_service_in_much">已为您放入待恢复文件列表中</string>
     <string name="recycle_bin_service_in_tips">文件恢复服务保护您的数据安全</string>
     <string name="recycle_bin_service_overdue">文件恢复服务已经过期，恢复已暂停</string>
-    <string name="recycle_bin_service_overdue_tips">文件恢复服务 已过期</string>
+    <string name="recycle_bin_service_overdue_tips">文件恢复服务已过期，恢复已暂停</string>
     <string name="recycle_bin_service_protect">文件保障中</string>
+    <string name="recycle_bin_service_start_svip">免费重启</string>
+    <string name="recycle_bin_service_svip_overdue_tips">SVIP已过期，恢复已暂停</string>
     <string name="recycle_bin_service_to_overdue">服务1天后到期</string>
+    <string name="recycle_bin_service_to_svip_overdue">SVIP 1天后到期</string>
     <string name="refresh_shelf">点击刷新</string>
     <string name="refresh_verify_code_text">点击刷新</string>
     <string name="refreshing">寻找资源中…</string>
@@ -7378,8 +7490,8 @@ OPPO
     <string name="sapi_sdk_account_center_webview_title_common_problem">常见问题</string>
     <string name="sapi_sdk_account_center_webview_title_online_service">在线客服</string>
     <string name="sapi_sdk_account_center_year">年</string>
-    <string name="sapi_sdk_address_add_action">添加收货地址</string>
-    <string name="sapi_sdk_address_add_tips">快来添加收货地址吧~</string>
+    <string name="sapi_sdk_address_add_action">添加地址</string>
+    <string name="sapi_sdk_address_add_tips">快来添加地址吧~</string>
     <string name="sapi_sdk_address_empty_tips">暂无地址</string>
     <string name="sapi_sdk_address_selector_title">请选择所在地区</string>
     <string name="sapi_sdk_address_service_content">为了提升您的体验，您提交的信息将同步到您的百度帐号中，便于您在相关服务场景中随时调用</string>
@@ -7403,6 +7515,7 @@ OPPO
     <string name="sapi_sdk_face_login_switch_disable">您已成功关闭刷脸登录</string>
     <string name="sapi_sdk_face_login_switch_enable">您已成功开启刷脸登录</string>
     <string name="sapi_sdk_facebook_logging">Authorizing</string>
+    <string name="sapi_sdk_glory_login_fail">授权荣耀帐号登录失败</string>
     <string name="sapi_sdk_google_loging">Authorizing</string>
     <string name="sapi_sdk_huawei_login_fail">授权华为帐号登录失败</string>
     <string name="sapi_sdk_login_dialog_delete_account_btn_cancel">取消</string>
@@ -7437,6 +7550,7 @@ OPPO
     <string name="sapi_sdk_speech_recognition_is_identifying">正在识别</string>
     <string name="sapi_sdk_speech_recognition_stop_speech">按一下停止录音</string>
     <string name="sapi_sdk_speech_recognition_tips_text">请说姓名、电话、地址</string>
+    <string name="sapi_sdk_third_error_glory">未登录荣耀帐号</string>
     <string name="sapi_sdk_third_error_hw">未登录华为帐号</string>
     <string name="sapi_sdk_title_account_center">帐号管理</string>
     <string name="sapi_sdk_title_fast_reg">手机一键注册</string>
@@ -7444,6 +7558,7 @@ OPPO
     <string name="sapi_sdk_title_forget_pwd">找回密码</string>
     <string name="sapi_sdk_title_login">百度帐号登录</string>
     <string name="sapi_sdk_title_login_facebook">Login to Facebook account</string>
+    <string name="sapi_sdk_title_login_glory">荣耀帐号登录</string>
     <string name="sapi_sdk_title_login_google">Login to Google account</string>
     <string name="sapi_sdk_title_login_hw">华为帐号登录</string>
     <string name="sapi_sdk_title_login_mz">魅族帐号登录</string>
@@ -7770,6 +7885,7 @@ OPPO
     <string name="share_already_cancelled">该文件已被取消分享</string>
     <string name="share_avate_title">共享成员 （%s）</string>
     <string name="share_cancel">管理文件夹分享</string>
+    <string name="share_chain_certification_name">来自企业号：%s</string>
     <string name="share_close_success_toast">已关闭分享</string>
     <string name="share_contains_directory">包含该文件夹的分享</string>
     <string name="share_content">%1$s %2$s (分享自@扫一扫)</string>
@@ -7781,7 +7897,17 @@ OPPO
     <string name="share_dialog_distribution_text">红包领取成功，可在购买网盘超级会员时直接抵用，有效期1天，请尽快使用</string>
     <string name="share_dialog_fx_not_signed">分享红包链接，送现金！现在签约，3步就到账 ></string>
     <string name="share_dialog_fx_signed">您可创建红包链接，分享就拿现金 ></string>
+    <string name="share_dialog_fx_title">卖会员 赚现金</string>
+    <string name="share_dialog_password_self_content_fail">仅支持输入数字及英文字母</string>
+    <string name="share_dialog_password_self_hint">请输入4位提取码，仅支持数字及英文字母</string>
+    <string name="share_dialog_password_self_length_fail">请输入四位提取码</string>
+    <string name="share_dialog_password_self_setting">自定义提取码</string>
+    <string name="share_dialog_password_self_subtitle">为防止隐私泄露不要输入过于简单的提取码</string>
+    <string name="share_dialog_password_setting">提取码设置</string>
+    <string name="share_dialog_password_setting_finish">完成</string>
+    <string name="share_dialog_password_system_setting">系统随机生成提取码</string>
     <string name="share_dialog_skin_title">分享页皮肤管理</string>
+    <string name="share_dialog_using">正在使用皮肤：%s</string>
     <string name="share_dir_cancel_notice_complex_info">"文件夹
 %1$s
 等%2$s个已取消共享"</string>
@@ -7822,6 +7948,7 @@ OPPO
     <string name="share_error_msg">发送地址为无效地址，请重新输入</string>
     <string name="share_failure">分享失败</string>
     <string name="share_failure_define">知道了</string>
+    <string name="share_failure_goto_feedback">去反馈</string>
     <string name="share_feedback_content">%d个用户反馈分享失败</string>
     <string name="share_feedback_dialog_first_question_answer">分享失败后，访问的用户可在失效页反馈链接失效情况，用于提醒已不可用，可进行删除或替换</string>
     <string name="share_feedback_dialog_first_question_title">为什么我会收到分享反馈说明？</string>
@@ -7862,11 +7989,20 @@ OPPO
     <string name="share_link_appeal_dialog_title">链接失效申诉</string>
     <string name="share_link_appeal_failed_tips">提交失败请重试</string>
     <string name="share_link_appeal_succeed_tips">提交成功，我们会尽快处理</string>
+    <string name="share_link_detail_password">提取码</string>
+    <string name="share_link_detail_password_copy">复制</string>
+    <string name="share_link_detail_password_fail">复制失败，请重试</string>
+    <string name="share_link_detail_password_success">已复制到粘贴板</string>
+    <string name="share_link_detail_period_change">修改</string>
     <string name="share_link_expire">分享已过期</string>
     <string name="share_link_expire_date">%s失效</string>
     <string name="share_link_expire_days">%d天有效</string>
     <string name="share_link_expire_hours">%d小时后失效</string>
     <string name="share_link_expire_minutes">%d分钟后失效</string>
+    <string name="share_link_feedback_dialog_hint">请填写反馈原因</string>
+    <string name="share_link_feedback_dialog_title">分享失败反馈</string>
+    <string name="share_link_feedback_succeed_status">反馈处理成功</string>
+    <string name="share_link_feedback_succeed_tips">反馈成功，我们会尽快处理</string>
     <string name="share_link_modify_success">有效期修改成功</string>
     <string name="share_link_network_connect_error">网络连接失败，请稍候再试</string>
     <string name="share_link_pwd_code">%1$s 链接:%2$s 提取码:%3$s</string>
@@ -7883,10 +8019,16 @@ OPPO
     <string name="share_overflow">分享文件已超100个，请重新选择</string>
     <string name="share_owner_create">%s创建的共享</string>
     <string name="share_password">密码:</string>
+    <string name="share_password_number">自定义提取码：</string>
+    <string name="share_password_setting">自定义</string>
+    <string name="share_password_subtitle">对方输入提取码可查看分享的文件</string>
+    <string name="share_password_system_number">随机生成提取码：</string>
+    <string name="share_password_title">随机生成提取码</string>
     <string name="share_pc">快传到电脑</string>
     <string name="share_pcode">复制盘口令</string>
     <string name="share_period_check_simple_title">有效期</string>
     <string name="share_period_check_title">文件分享有效期</string>
+    <string name="share_period_forever_toast">不带提取码的链接不支持永久有效</string>
     <string name="share_period_one_day">1天过期</string>
     <string name="share_period_permanent">永久有效</string>
     <string name="share_period_seven_day">7天过期</string>
@@ -7907,6 +8049,7 @@ OPPO
     <string name="share_qq_zone_success">qq空间分享成功</string>
     <string name="share_qr_code">生成二维码</string>
     <string name="share_qr_code_card_failed">分享失败，稍候重试</string>
+    <string name="share_recalculate_period">更新后有效期将重新计算</string>
     <string name="share_save_error">保存失败，请稍后再试</string>
     <string name="share_save_pic">保存</string>
     <string name="share_save_toast">已存至手机相册</string>
@@ -7925,15 +8068,18 @@ OPPO
     <string name="share_this_file_times_limit">该文件分享次数超出限制，到网页端“我的分享”中查看</string>
     <string name="share_time_expire">设定有效期已过，请重新设置</string>
     <string name="share_time_unknown">***</string>
-    <string name="share_tips_certification_user_suffix">--来自企业账号：%s</string>
+    <string name="share_tips_certification_user_suffix">--来自企业号：%s</string>
     <string name="share_tips_pwd">提取码：%s</string>
     <string name="share_tips_vip_suffix">--来自百度网盘超级会员%s的分享</string>
     <string name="share_title_receiver">收件人：</string>
+    <string name="share_to_frend">分享给好友</string>
     <string name="share_to_friends">好友分享</string>
     <string name="share_to_it">分享给TA</string>
     <string name="share_to_me_dir_dismiss_by_server_complex_info">\"%1$s\" 等%2$s个文件夹因含有非法违规内容，已被取消共享，无法继续查看</string>
     <string name="share_to_me_dir_dismiss_by_server_info">\"%s\"文件夹因含有非法违规内容，已被取消共享，无法继续查看</string>
     <string name="share_to_me_empty_txt">你还没有加入的共享文件夹</string>
+    <string name="share_to_qq">QQ</string>
+    <string name="share_to_weixin">微信</string>
     <string name="share_to_weixin_cancel">用户取消分享到微信</string>
     <string name="share_to_weixin_error">分享到微信失败</string>
     <string name="share_to_weixin_ok">分享到微信成功</string>
@@ -8228,6 +8374,7 @@ OPPO
     <string name="story_photo_confirm_title">移出照片</string>
     <string name="story_print_photo">打印照片</string>
     <string name="story_read_progress">已阅读 %s%%</string>
+    <string name="story_remember_old_days">重温旧时光</string>
     <string name="story_see_myself">仅自己可见</string>
     <string name="story_share">分享故事</string>
     <string name="story_share_cancel">取消</string>
@@ -8288,15 +8435,19 @@ OPPO
     <string name="success_delete_play_list">所选播单已删除</string>
     <string name="sure">确定</string>
     <string name="svip_Honorific">尊贵的</string>
+    <string name="svip_account">svip</string>
     <string name="svip_app_icon">尊享图标</string>
     <string name="svip_call">超级会员</string>
     <string name="svip_exclusive_icon">SVIP图标</string>
+    <string name="svip_expire">SVIP至：%s</string>
     <string name="svip_get_exclusive_skin">您已获得专属</string>
     <string name="svip_icon_save">保存</string>
     <string name="svip_name">超级会员</string>
     <string name="svip_overdue_info">视频、文件备份特权被收回，点击立即续费，继续享受备份特权~</string>
     <string name="svip_overdue_title">您的超级会员已到期</string>
     <string name="svip_probationary_privilege">尊享极速下载等特权</string>
+    <string name="svip_remain_days">SVIP可转时长：%s</string>
+    <string name="svip_remain_days_tip">仅支持30天内购买的超级会员</string>
     <string name="svip_skin_setting">可在「我的-设置-App图标」中进行设置</string>
     <string name="svip_skin_use_currently">立即使用</string>
     <string name="svip_skin_use_lately">暂不使用</string>
@@ -8492,6 +8643,7 @@ OPPO
     <string name="swangame_reload_dialog_title">重启小游戏</string>
     <string name="sweet_female_voice">甜美女声</string>
     <string name="switch_account">切换帐号</string>
+    <string name="switch_account_tips">转入账号</string>
     <string name="switch_auto_backup_album_property_guide_info">"已为您切换为普通相册
 可在此切回普通文件夹"</string>
     <string name="switch_loading">切换中..</string>
@@ -8536,6 +8688,7 @@ OPPO
     <string name="tab_filelist">文件</string>
     <string name="tab_home">首页</string>
     <string name="tab_local_album">本机未备份</string>
+    <string name="tab_local_album_desc">开启照片备份，美好回忆永不丢失</string>
     <string name="tab_new_timeline">时光轴</string>
     <string name="tab_normal_directory">普通文件夹</string>
     <string name="tab_photo_album">普通相册</string>
@@ -8656,6 +8809,9 @@ OPPO
     <string name="timeline_tips_show_only_video">已切换至仅查看视频</string>
     <string name="timeline_tips_show_sort_phototime">已切换至按拍摄时间排序</string>
     <string name="timeline_tips_show_sort_savetime">已切换至按存入时间排序</string>
+    <string name="timeline_type_all">全部照片</string>
+    <string name="timeline_type_save">来自转存</string>
+    <string name="timeline_type_upload">来自上传</string>
     <string name="timeline_zoom_guide_text">双指缩放即可切换视图大小</string>
     <string name="timeout">操作超时，请重试</string>
     <string name="timeout_bt_left">继续扫一扫</string>
@@ -8663,6 +8819,15 @@ OPPO
     <string name="timeout_default_msg">由于你长时间未操作，为了减少设备耗能，已为你暂停扫一扫功能</string>
     <string name="timeout_default_title">温馨提示</string>
     <string name="timneline_share_confirm_dialog">继续</string>
+    <string name="tip_fifth">• 会员到期当天不支持转移。</string>
+    <string name="tip_first">• 网盘会员时长转移仅支持30天内，用户在网盘外线上渠道（如淘宝App、招行App、联通App等）通过输入手机号码直充购买的商品。</string>
+    <string name="tip_forth">• 当前每个会员订单只能转移1次，且转移后不可逆。</string>
+    <string name="tip_receive_benefits">领福利</string>
+    <string name="tip_second">• 当前仅支持VIP(会员)和SVIP(超级会员)两种商品的时长转移。</string>
+    <string name="tip_sixth">• 若发现违规行为，百度网盘将有权回收转移的百度网盘会员时长。如有疑问，请联系客服。</string>
+    <string name="tip_third">• 转移只支持在同一个手机号对应的账号之间进行，请点此查询相关账户。</string>
+    <string name="tip_title">规则说明</string>
+    <string name="tip_unlimited_space">无限空间</string>
     <string name="tips">提示</string>
     <string name="tips_debug_set">当前为测试环境</string>
     <string name="tips_new">新</string>
@@ -8691,9 +8856,16 @@ OPPO
     <string name="toast_added_to_transfer_list">已添加至传输列表</string>
     <string name="toast_choose_contacts_failed">打开联系人失败</string>
     <string name="toast_file_begin_transfer">文件开始传输</string>
+    <string name="toast_first_import_to_yike_success">领取一刻礼物</string>
     <string name="toast_friend_share_fail">分享失败，请稍后重试</string>
     <string name="toast_friend_share_success">分享string成功</string>
     <string name="toast_go_to_transfer_list">查看</string>
+    <string name="toast_import_to_yike_all_success_prefix">保存成功</string>
+    <string name="toast_import_to_yike_failed">保存失败，请重试</string>
+    <string name="toast_import_to_yike_mix_type_prefix">已选的%d张图片保存成功</string>
+    <string name="toast_import_to_yike_success">去一刻查看</string>
+    <string name="toast_import_to_yike_success_prefix">保存成功%d张图片</string>
+    <string name="toast_max_import_count">最多可选择%d张图片</string>
     <string name="toast_message_guide_to_login_download">登录后为您下载</string>
     <string name="toast_message_guide_to_login_p2pshare">登录后开启闪电互传</string>
     <string name="toast_message_guide_to_login_page">登录后为您打开</string>
@@ -9216,7 +9388,7 @@ OPPO
     <string name="trans_file_type_label">限制接收的文件格式</string>
     <string name="trans_file_type_title">限制接收的文件格式 (可多选)</string>
     <string name="trans_file_type_video">视频</string>
-    <string name="trans_generate_pcode">生成口令</string>
+    <string name="trans_generate_pcode">复制链接</string>
     <string name="trans_go_collect_file">去收集</string>
     <string name="trans_go_send_file">去发送</string>
     <string name="trans_has_resave_task_running">另一文件正在转存，请稍后再试</string>
@@ -9296,6 +9468,9 @@ OPPO
     <string name="trans_share_notification_dialog_content">开启消息通知，收到文件或好友发消息时将在系统通知栏显示。</string>
     <string name="trans_share_notification_dialog_title">开启消息通知</string>
     <string name="trans_share_pcode_confirm">复制</string>
+    <string name="trans_share_pcode_format">"【复制整段话打开网盘APP可直接识别】
+ 大家好，在此收集%1$s,有效期截止到%2$s,麻烦在此之前点击以下链接或复制文字到网盘将文件发送给我支持发送%3$s格式的文件，感谢~
+ 链接：%4$s"</string>
     <string name="trans_share_pcode_loading">正在创建链接</string>
     <string name="trans_share_pcode_title">你的收文件盘口令已生成</string>
     <string name="trans_share_period_format">有效期 %d 天</string>
@@ -9352,6 +9527,9 @@ OPPO
     <string name="trans_work_title_null_notice">请输入作业标题</string>
     <string name="trans_wrok_desc_format">%1$d/%2$d</string>
     <string name="trans_wrok_title_length_over">不可键入更多内容</string>
+    <string name="transfer_account_content">您将转移您的会员资产到：</string>
+    <string name="transfer_account_tips">"每个手机对应的账号之前只能参与一次,转
+换后不可取消,请谨慎操作。"</string>
     <string name="transfer_backup_group_tip_title">备份说明</string>
     <string name="transfer_backup_group_tips_four">备份后可在“首页-照片/视频”中查看，或前往“来自：%s 文件夹”进行管理。</string>
     <string name="transfer_backup_group_tips_one">可在“我的-手机备份”中开启/关闭图片或视频自动备份；</string>
@@ -9360,12 +9538,13 @@ OPPO
     <string name="transfer_backup_list_empty">已备份至%s文件夹</string>
     <string name="transfer_backup_right_text_to_use_internet">开启%s流量备份</string>
     <string name="transfer_backup_right_text_using_internet">正在使用流量备份</string>
+    <string name="transfer_btn">我要转移</string>
     <string name="transfer_coupon_is_coming">转存券正在向你赶来，请重试～</string>
     <string name="transfer_dialog_agree">确认</string>
     <string name="transfer_dialog_checkbox">我已阅读并同意《权利义务转让协议》、度友公司《百度网盘服务协议》《隐私协议》《会员服务协议》《自动续费协议》，以实现度友科技为本人提供百度网盘服务。</string>
     <string name="transfer_dialog_context">亲爱的百度网盘用户：为了让你享受更优质、专业的云存储服务，百度网盘运营主体将由北京百度网讯科技有限公司迁移至百度旗下的北京度友科技有限公司（以下简称“度友公司”）。此运营主体迁移工作不会对百度网盘用户已享受的服务和权益内容产生影响。</string>
     <string name="transfer_download_list_empty">暂无下载记录</string>
-    <string name="transfer_download_path">文件下载至: %1$s</string>
+    <string name="transfer_download_path">文件下载至: %1$s ></string>
     <string name="transfer_error">保存失败</string>
     <string name="transfer_error_by_network">网络异常，保存失败</string>
     <string name="transfer_error_file_already_exist">目标文件夹中已存在此文件</string>
@@ -9387,7 +9566,9 @@ OPPO
     <string name="transfer_list_download_tip_2">正在尊享极速下载特权</string>
     <string name="transfer_list_download_tip_3">速度超过83%的用户</string>
     <string name="transfer_list_empty">你还没有传输记录哦~</string>
+    <string name="transfer_list_manage_space">查看详情</string>
     <string name="transfer_list_probation_tip">加速试用中</string>
+    <string name="transfer_list_storage_default">网盘剩余空间：-/-</string>
     <string name="transfer_list_storage_netdisk" formatted="false">网盘剩余空间：%s/%s</string>
     <string name="transfer_list_storage_phone" formatted="false">手机剩余空间：%s/%s</string>
     <string name="transfer_list_svip_guide_text">SVIP加速</string>
@@ -9402,6 +9583,7 @@ OPPO
     <string name="transfer_offline_list_empty">暂无下载记录</string>
     <string name="transfer_only_wifi">仅WiFi传输</string>
     <string name="transfer_pause">暂停传输</string>
+    <string name="transfer_product_title">可转移商品</string>
     <string name="transfer_recorder_title">传输记录</string>
     <string name="transfer_task_text">发送给</string>
     <string name="transfer_upload_list_empty">暂无上传记录</string>
@@ -9454,6 +9636,7 @@ OPPO
     <string name="type_pages">PAGES</string>
     <string name="type_photo">相册</string>
     <string name="type_pic">照片</string>
+    <string name="type_psd">PSD</string>
     <string name="type_recent">最近</string>
     <string name="type_video">视频</string>
     <string name="type_wechatbackup">微信备份</string>
@@ -9791,11 +9974,14 @@ OPPO
     <string name="video_loading_slow_buy_svip">开通超级会员，加载无需等待</string>
     <string name="video_loading_slow_text">加载太慢？</string>
     <string name="video_local_start_scan_text">开始扫描</string>
+    <string name="video_mark_auto_display">自动展示</string>
     <string name="video_mark_edit_dialog_exit_tip">返回将不保留已编辑的标记</string>
     <string name="video_mark_edit_dialog_title">视频标记</string>
     <string name="video_mark_manager_edit">编辑</string>
     <string name="video_mark_manager_edit_save">完成</string>
     <string name="video_mark_manager_title">标记</string>
+    <string name="video_mark_repeat_tip">"标记时间点邻近存在标记，请问是
+否创建新的标记:"</string>
     <string name="video_net_tip_duration">视频时长 ：</string>
     <string name="video_net_tip_not_wifi">正在非WiFi网络下观看</string>
     <string name="video_net_tip_one_week">一周内非Wi-Fi下允许播放</string>
@@ -9925,17 +10111,20 @@ OPPO
     <string name="view_all_group_members">查看全部群成员</string>
     <string name="view_calendar_not_available">您的设备不支持查看日历</string>
     <string name="view_collect_toast">收藏成功，可在我的收藏中查看</string>
+    <string name="view_gift_path">路径：我的 > 活动中心 > 我的奖品</string>
     <string name="view_his_image">查看网盘中所有TA的照片</string>
     <string name="view_hot_user_page">热门帐号</string>
     <string name="view_marked_person">查看已标注</string>
     <string name="view_my_image">查看网盘中所有我的照片</string>
     <string name="view_personal_page">个人主页</string>
+    <string name="vip_account">vip</string>
     <string name="vip_call">会员</string>
     <string name="vip_center">会员中心</string>
     <string name="vip_committing_order">正在提交订单…</string>
     <string name="vip_dialog_content_not_support_third_account">手机端暂不支持第三方帐号购买百度网盘会员，你可以通过网页端完成会员购买</string>
     <string name="vip_dialog_title_buy_vip">购买会员</string>
     <string name="vip_enjoy">VIP尊享</string>
+    <string name="vip_expire">VIP至：%s</string>
     <string name="vip_getting_order">正在确认订单信息…</string>
     <string name="vip_high_speed_tip_first">尊贵的超级会员，已为您开启</string>
     <string name="vip_high_speed_tip_second">高速播放通道</string>
@@ -9986,9 +10175,14 @@ OPPO
     <string name="vip_phone_set_tip">为了能及时接收自动续费短信提醒的通知，请填写手机号。</string>
     <string name="vip_phone_set_title">扣费及到期提醒设置</string>
     <string name="vip_phone_set_verification_code_resend_tick">%ds后重发</string>
+    <string name="vip_remain_days">VIP可转时长：%s</string>
+    <string name="vip_remain_days_tip">仅支持30天内购买的会员</string>
     <string name="vip_saving">尊贵的%s,正在为您转存文件…</string>
     <string name="vip_status_sync_err">页面加载失败</string>
     <string name="vip_status_sync_err_cause_by_network">页面加载失败</string>
+    <string name="vip_transfer">会员转移</string>
+    <string name="vip_transfer_account">更换转入账号</string>
+    <string name="vip_transfer_success">会员已转移，请重新登录后查看</string>
     <string name="vip_wap_normal_title">开通会员</string>
     <string name="vip_wap_vip_title">会员续费</string>
     <string name="voice_backup_item_check_title">查看已备份的音频</string>
@@ -10476,6 +10670,18 @@ OPPO
     <string name="wp_preview_failed">由于当前设备Android版本过低，暂不支持查看，可升级系统或前往百度网盘电脑端(pan.baidu.com)查看</string>
     <string name="wp_preview_not_support">暂不支持手机查看</string>
     <string name="wp_preview_tips">当前文件为百度网盘在线文档，暂不支持手机查看，可前往百度网盘电脑端(pan.baidu.com)查看，或导为Word后查看。</string>
+    <string name="wpdocument_content">当前在线文档尚未打开分享权限，需要开启权限后才能进行分享，是否继续？</string>
+    <string name="wpdocument_content_banned">分享内容因为违规已失效</string>
+    <string name="wpdocument_manage_share">管理分享</string>
+    <string name="wpdocument_open_share">开启分享</string>
+    <string name="wpdocument_pwd_content">文档密码：%1$s</string>
+    <string name="wpdocument_share_confirm">在线文档分享确认</string>
+    <string name="wpdocument_share_failed">获取文档权限失败，请稍后再试</string>
+    <string name="wpdocument_share_info">分享到</string>
+    <string name="wpdocument_share_opened">已开启分享</string>
+    <string name="wpdocument_share_permission_failed">文档权限开启失败，请稍候再试</string>
+    <string name="wpdocument_share_public">在线文档</string>
+    <string name="wpdocument_share_valid_days">%1$s天内有效</string>
     <string name="wps_create_doc">新建文档</string>
     <string name="wps_create_excel">新建表格</string>
     <string name="wps_create_file_failed">创建失败</string>
