@@ -80,6 +80,22 @@
 	</Property>
   </Config>
   
+   <Config name="WorkspaceTrayLinkItem" interface="IBGLinkItem">
+	<Property name="color" value="0x3661B8" /> 
+	<Property name="onClr" value="0x3661B8" /> 
+	<Property name="LButtonDownClr" value="0x3661B8" /> 
+	<Property name="sink" value="true" /> 
+	<Property name="font">
+		<IBGFont underline="false" /> 
+	</Property>
+	<Property name="onFont">
+		<IBGFont underline="false" /> 
+	</Property>
+	<Property name="downFont">
+		<IBGFont underline="false" /> 
+	</Property>
+  </Config>
+  
     <Config name="staticex_portabledevicebackup" interface="IBGStaticEx">
      <Property name="textFont">
        <IBGFont height="22" weight="700" facename="微软雅黑" width="0" orientation="0" italic="false" underline="false" strikeout="false" charSet="1"/>
@@ -354,6 +370,11 @@
 	<Property name="bkground">
 	   <IBGVeins drawStyle="DRAWMODE_33Mesh_TILE" file="Resource:\MainFrame\LoginDlg\webframe_bg.png" veinsRect="0, 0, 128, 128" stretchArea="10,10,100,100"/>
 	</Property>
+  </Config>
+  <Config name="workspaceTaryGuidePanel" interface="IBGRegionPanel">
+	<Property name="bkground">
+	  <IBGVeins drawStyle="DRAWMODE_33Mesh_TILE" file="Resource:MainFrame\TrayHint\Workspace\guideBgk.png" veinsRect="0, 0, 319, 38" stretchArea="4,4,300,30"/>
+    </Property>
   </Config>
   <Config name="docViewPanel" interface="IBGRegionPanel">
 	<Property name="bkground">

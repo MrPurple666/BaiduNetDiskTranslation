@@ -236,11 +236,12 @@
 
   <!-- Буква виртуального диска-->
   <String id="IDS_VIRTUALFOLDER_NAME" value="Baidu NetDisk" />
+  <String id="IDS_DESKTOP_VIRTUALFOLDER_NAME" value="Рабочая среда" />
   <String id="IDS_VIRTUALFOLDER_INFOTIP" value="Дважды щелкните, чтобы запустить Baidu Network Disk" />
 
   <!--Панель типов файлов-->
   <String id="IDS_FILETYPEPANEL_ALL" value="Все файлы" />
-
+  <String id="IDS_FILETYPEPANEL_WORKSPACE" value="Рабочая среда" />
   <!--Панель Загрузок -->
   <String id="IDS_TRANPANEL_AUTOBACKUP_FOLDER_TEXT" value="Папка автоматического резервного копирования" />
   <String id="IDS_TRANPANEL_PORTABLEDEVBACKUP_FOLDER_TEXT" value="Папка для резервного копирования портативного устройства" />
@@ -647,11 +648,11 @@
   <!--历史版本窗口 -->
   <String id="IDS_FILEVERSIONDLG_TITLENAME_FORQA" value="История версий" />
   <String id="IDS_FILEVERSIONDLG_TITLENAME" value="История версий" />
-  <String id="IDS_FILEVERSIONDLG_HISVERSION" value="Версия (последние 10 версий)" />
+  <String id="IDS_FILEVERSIONDLG_HISVERSION" value="История версий" />
   <String id="IDS_FILEVERSIONDLG_HISVERSION_VIP" value="Версия" />
   <String id="IDS_FILEVERSIONDLG_FILESIZE" value="Размер" />
   <String id="IDS_FILEVERSIONDLG_FILEMTIME" value="Последние изменения" />
-  <String id="IDS_FILEVERSIONDLG_OP" value="Состояние" />
+  <String id="IDS_FILEVERSIONDLG_OP" value="Восстановить" />
   <String id="IDS_FILEVERSIONDLG_RESUME" value="Восстановить" />
   <String id="IDS_FILEVERSIONDLG_CLOSE" value="Закрыть" />
   <String id="IDS_FILEVERSIONDLG_CURVERSION" value="(Текущий)" />
@@ -718,6 +719,11 @@
   <String id="IDS_MENUID_COMMON_LOCK" value="Заблокировать" />
   <String id="IDS_MENUID_COMMON_UNLOCK" value="Разблокировать" />
   <String id="IDS_MENUID_UPLOAD_LOG" value="Отзыв одним нажатием" />
+  <String id="IDS_WORKSPACE_OPEN" value="Откройте сетевое дисковое рабочее пространство" />
+  <String id="IDS_WORKSPACE_STOP_SYNC" value="Синхронизация паузы" />
+  <String id="IDS_WORKSPACE_RESTART_SYNC" value="Открытая синхронизация" />
+
+  
   <!--Подносы-->
   <String id="IDS_COMMON_INSTALL" value="Устанавливать" />
   <String id="IDS_COMMON_CANCEL" value="Отмена" />
@@ -733,6 +739,10 @@
   <String id="IDS_TRAYICON_TIP_UPLOADING" value="Выгружено: %.1f%% " />
   <String id="IDS_TRAYICON_TIP_DOWNLOADING" value="Загружено : %.1f%% " />
   <String id="IDS_TRAYICON_TIP_TRANSERROR" value="Ошибка передачи" />
+  <String id="IDS_TRAYICON_TIP_SYNC_SUCCEED" value="Синхронизировано" />
+  <String id="IDS_TRAYICON_TIP_SYNC_FAILD" value="Ошибка синхронизации" />
+  <String id="IDS_TRAYICON_TIP_SYNC_STOP" value="Синхронизация пауза" />
+  <String id="IDS_TRAYICON_TIP_SYNC_DOING" value="Синхронизация" />
 
   <String id="IDS_NO_PROMPT" value="Подсказки" />
   <String id="IDS_NO_SPACE" value="Недостаточно места!" />
@@ -1348,5 +1358,13 @@
   <String id="IDS_EXPORTONLINEDOC_NOTIFY_FAIL_TITLE" value="Ошибка экспорта" />
   <String id="IDS_EXPORTONLINEDOC_NOTIFY_FAIL_RETRY" value="Повторить" />
   <String id="IDS_EXPORTONLINEDOC_NOTIFY_FAIL_EXISTEXPORTING" value="Некоторые файлы экспортируются, попробуйте еще раз" />
+  <!--Рабочий диск-->
+  <String id="IDS_WORKSPACE_SETTING" value="Рабочая среда" />
+  <String id="IDS_WORKSPACE_SYNC_TRAY_TITLE" value="Уведомление:" />
+  <String id="IDS_WORKSPACE_SYNC_TRAY_TIP" value="Показывать состояния синхронизации" />
+  <String id="IDS_WORKSPACE_VIRTUAL_FOLDER_SHOW" value="Показывать виртуальный диска" />
+  <String id="IDS_WORKSPACE_SAVE_LOCAL_PATH" value="Каталог локальной синхронизации:" />
+  <String id="IDS_WORKSPACE_TRAY_NAME" value="Рабочее пространство" />
+  <String id="IDS_WORKSPACE_FILEVERSIONDLG_TITLENAME"  value="История версий" />
 
 </StringTable>

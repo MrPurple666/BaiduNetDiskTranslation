@@ -7,7 +7,7 @@
         <imgbtn name="btn_close" skin="btn_sys_close" pos="-34,1,-2,21" cursor="arrow" tip="%str250%" animate="1"/>
       </caption>
       <dlg pos="0,36,-0,-0">
-        <dlg name="vip_tip_dlg" pos="1,0,-1,32" skin="fileversion_svip_enable_guide_bkskin" show="0">
+        <dlg name="vip_tip_dlg" pos="1,0,-1,32" show="0">
           <img name="vip_image_type" pos="60,6,@24,@20" skin="compresspackage_vip_img"/>
           <text name="text_content" pos="90,8" crtext="ef2625">%str1150%</text>
         </dlg>

@@ -2,7 +2,7 @@
   <body>
     <dlg pos="0,0,-0,-0" class="cls_dlg_frame">
       <caption pos="0,0,-0,38">
-      <img pos="10,8" skin="common_logo_main"></img>
+      <img pos="10,8" name="img_title" skin="common_logo_main"></img>
       <text name="text_file_property_title" pos="39,9" class="cls_dlg_title_text">%str3764%</text>
       <imgbtn name="btn_close" skin="btn_sys_close" pos="-34,1,-2,21" cursor="arrow" tip="%str250%" animate="1"/>
     </caption>
