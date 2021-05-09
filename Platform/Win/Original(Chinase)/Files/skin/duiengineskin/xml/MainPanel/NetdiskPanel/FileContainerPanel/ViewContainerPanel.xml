@@ -25,12 +25,12 @@
 
             <!--所属文件夹列-->
             <dlg name="col_3">
-                <text name="txt_filelastdir" pos="8,|-8,-0,@16" crtext="666666" align="left" dotted="1"></text>
+              <text name="txt_filelastdir" pos="8,|-8,-0,@16" crtext="666666" align="left" dotted="1"></text>
             </dlg>
               
             <!--文件类型列-->
             <dlg name="col_4">
-                <text name="txt_filetype" pos="8,|-8,-0,@16" crtext="666666" align="left" dotted="1"></text>
+              <text name="txt_filetype" pos="8,|-8,-0,@16" crtext="666666" align="left" dotted="1"></text>
             </dlg>
               
             <!--文件大小列-->

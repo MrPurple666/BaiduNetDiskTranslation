@@ -1,0 +1,125 @@
+<UI version="1.0">
+	<IBGRegionPanel sizeAsParent="true" name="nmPanelWorkspace" size="320,140">
+		<Children>
+			<IBGRegionPanel dock="DOCK_TOP" margin="0,0,0,0" size="320,32">
+				<Children>
+					<IBDGuiCell size="24,24" margin="10,5,6,5" dock="DOCK_LEFT">
+						<Properties>
+							<bkground>
+								<IBGVeins file="Resource:MainFrame\TrayHint\Workspace\WorkspaceIcon.png" transparent="true" colorize="false"/>
+							</bkground>
+						</Properties>
+					</IBDGuiCell>
+					<IBGButton name="nmBtnClose" margin="0,7,0,7" size="31,19" dock="DOCK_RIGHT" toolText="$2048">
+						<Properties>
+							<normalBkg>
+								<IBGVeins file="Resource:MainFrame\TrayHint\close_normal.png" changeLight="false" colorize="false"/>
+							</normalBkg>
+							<onBkg>
+								<IBGVeins file="Resource:MainFrame\TrayHint\close_hover.png" changeLight="false" colorize="false"/>
+							</onBkg>
+							<downBkg>
+								<IBGVeins file="Resource:MainFrame\TrayHint\close_down.png" changeLight="false" colorize="false"/>
+							</downBkg>
+						</Properties>
+					</IBGButton>
+					<IBGStaticEx name="nmNotifyTitle" dock="DOCK_FILL" text="$3203" margin="1,8,0,4" textClr="0x666666">
+						<Properties>
+							<textFont>
+								<IBGFont weight="1000"/>
+							</textFont>
+						</Properties>
+					</IBGStaticEx>
+				</Children>
+			</IBGRegionPanel>
+			<IBGRegionPanel dock="DOCK_TOP" size="320,74" margin="0,0,0,0">
+				<Children>
+					<IBGRegionPanel dock="DOCK_LEFT" margin="0,0,0,0" size="54,74">
+						<Children>
+							<IBDGuiCell name="trayNotifyIcon" size="24,24" margin="16,20,14,22" dock="DOCK_TOP">
+								<Properties>
+									<bkground>
+										<IBGVeins file="Resource:MainFrame\TrayHint\Workspace\SyncSucess.png" transparent="true" colorize="false"/>
+									</bkground>
+								</Properties>
+							</IBDGuiCell>
+						</Children>
+					</IBGRegionPanel>
+					<IBGRegionPanel dock="DOCK_TOP" margin="0,0,0,0" size="266,74">
+						<Children>
+							<IBGStaticEx name="workSpaceTipName" autoCalcHeight="true" autoCalcWidth="true" textClr="0x03081A" endEllipsis="true" margin="0,12,0,0" dock="DOCK_TOP">
+								<Properties>
+									<textFont>
+										<IBGFont height="18"/>
+									</textFont>
+								</Properties>
+							</IBGStaticEx>
+							<IBGRegionPanel dock="DOCK_TOP" margin="0,8,0,0" size="266,36">
+								<Children>
+									<IBGStaticEx name="workSpaceTipContent" autoCalcHeight="true" autoCalcWidth="true" textClr="0x878C9C" handCursor="true" endEllipsis="true" margin="0,0,0,0" dock="DOCK_LEFT">
+										<Properties>
+											<textFont>
+												<IBGFont height="18"/>
+											</textFont>
+										</Properties>
+									</IBGStaticEx>
+									<IBGStaticEx name="workSpaceContentFileName" autoCalcHeight="true" autoCalcWidth="true" textClr="0x878C9C" handCursor="true" endEllipsis="false" unseen="true" margin="0,0,0,0" dock="DOCK_LEFT">
+										<Properties>
+											<textFont>
+												<IBGFont height="18"/>
+											</textFont>
+										</Properties>
+									</IBGStaticEx>
+									<IBGStaticEx name="workSpaceContentEnd" size="70,20" textClr="0x878C9C" handCursor="true" endEllipsis="true" unseen="true" margin="0,0,0,0" dock="DOCK_LEFT">
+										<Properties>
+											<textFont>
+												<IBGFont height="18"/>
+											</textFont>
+										</Properties>
+									</IBGStaticEx>
+								</Children>
+							</IBGRegionPanel>
+						</Children>
+					</IBGRegionPanel>
+				</Children>
+			</IBGRegionPanel>
+			<IBGRegionPanel name="viewDetailPanel" dock="DOCK_TOP" size="320,30" margin="1,0,1,0" unseen="true">
+				<Children>
+					<IBGRegionPanel dock="DOCK_TOP" margin="0,0,0,0" size="266,30">
+						<Children>
+							<IBGStaticEx name="workSpaceTipViewDetail" autoCalcHeight="true" autoCalcWidth="true" textClr="0x006A7F" endEllipsis="false" margin="54,0,0,0" dock="DOCK_TOP">
+								<Properties>
+									<textFont>
+										<IBGFont height="18"/>
+									</textFont>
+								</Properties>
+							</IBGStaticEx>
+						</Children>
+					</IBGRegionPanel>
+				</Children>
+			</IBGRegionPanel>
+			<IBGRegionPanel name="svipGuidePanel" dock="DOCK_TOP" margin="0,0,0,0" size="320,32" config="workspaceTaryGuidePanel" unseen="true">
+				<Children>
+					<IBGStaticEx name="svipGuideContent" autoCalcHeight="true" autoCalcWidth="true" endEllipsis="true" textClr="0x3661B8" margin="16,8,0,0" dock="DOCK_LEFT">
+						<Properties>
+							<textFont>
+								<IBGFont height="18"/>
+							</textFont>
+						</Properties>
+					</IBGStaticEx>
+					<IBGStaticEx name="svipGuideName" autoCalcHeight="true" autoCalcWidth="true" endEllipsis="true" textClr="0x3661B8" handCursor="true" margin="0,8,16,0" dock="DOCK_RIGHT">
+						<Properties>
+							<textFont>
+								<IBGFont height="18"/>
+							</textFont>
+						</Properties>
+					</IBGStaticEx>
+				</Children>
+			</IBGRegionPanel>
+		</Children>
+	</IBGRegionPanel>
+	<IBGRegionPanel sizeAsParent="true" name="nmPanelContainer" size="320,140" ncHitTest="1">
+		<Children>
+		</Children>
+	</IBGRegionPanel>
+</UI>

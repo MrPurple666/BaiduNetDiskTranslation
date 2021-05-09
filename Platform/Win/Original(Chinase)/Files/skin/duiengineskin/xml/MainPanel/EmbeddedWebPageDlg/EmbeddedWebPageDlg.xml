@@ -6,10 +6,10 @@
       <webbrowser name="browser_webpage" pos="0,1,-0,-34" use_ie="0" load_ignore_cache="1" show="1"/>
       <!-- 网络连接错误面板 -->
       <dlg name="NetworkErrorPanel" pos="0,1,-0,-34" show="0">
-        <dlg name="netErrTipPanel" pos="|-90,|-100" width="180" height="200">
-          <img pos="|-52,0" skin="doc_dlg_load_error" width="103" height="93" />
-          <text pos="0,110,-0,130" class="cls_txt_red">%str3453%</text>
-          <imgbtn name="btn_retry" class="defultbtn" pos="|-48,162" width="96" height="34" cursor="arrow">%str3454%</imgbtn>
+        <dlg name="netErrTipPanel" pos="|-100,|-110,@181,@170">
+          <img pos="0,0,@181,@127" skin="mainpanel_emptyview_error"/>
+          <text pos="55,130" crtext="636D7E">%str3504%</text>
+          <link name="link_retry" pos="65,152" font="0002:微软雅黑" crtext="06A7FF" cursor="hand">%str3513%</link>
         </dlg>
       </dlg>
       <dlg name="file_container_status_panel" pos="0,-34,-0,-0">

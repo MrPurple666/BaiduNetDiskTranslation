@@ -234,10 +234,12 @@
 
   <!-- 虚拟盘符-->
   <String id="IDS_VIRTUALFOLDER_NAME" value="百度网盘" />
+  <String id="IDS_DESKTOP_VIRTUALFOLDER_NAME" value="工作空间" />
   <String id="IDS_VIRTUALFOLDER_INFOTIP" value="双击运行百度网盘" />
 
   <!--文件类型面板-->
   <String id="IDS_FILETYPEPANEL_ALL" value="全部文件" />
+  <String id="IDS_FILETYPEPANEL_WORKSPACE" value="工作空间" />
   
   <!--传输面板 -->
   <String id="IDS_TRANPANEL_AUTOBACKUP_FOLDER_TEXT" value="自动备份文件夹" />
@@ -645,11 +647,11 @@
   <!--历史版本窗口 -->
   <String id="IDS_FILEVERSIONDLG_TITLENAME_FORQA"  value="文档历史版本" />
   <String id="IDS_FILEVERSIONDLG_TITLENAME"  value="文档历史版本" />
-  <String id="IDS_FILEVERSIONDLG_HISVERSION"  value="文档历史版本" />
-  <String id="IDS_FILEVERSIONDLG_HISVERSION_VIP"  value="文档历史版本" />
+  <String id="IDS_FILEVERSIONDLG_HISVERSION"  value="历史版本" />
+  <String id="IDS_FILEVERSIONDLG_HISVERSION_VIP"  value="历史版本" />
   <String id="IDS_FILEVERSIONDLG_FILESIZE"  value="大小" />
   <String id="IDS_FILEVERSIONDLG_FILEMTIME"  value="修改时间" />
-  <String id="IDS_FILEVERSIONDLG_OP"  value="操作" />
+  <String id="IDS_FILEVERSIONDLG_OP"  value="恢复" />
   <String id="IDS_FILEVERSIONDLG_RESUME"  value="恢复" />
   <String id="IDS_FILEVERSIONDLG_CLOSE"  value="关闭" />
   <String id="IDS_FILEVERSIONDLG_CURVERSION"  value="(当前)" />
@@ -715,6 +717,9 @@
   <String id="IDS_MENUID_COMMON_LOCK" value="锁定网盘" />
   <String id="IDS_MENUID_COMMON_UNLOCK" value="解除锁定" />
   <String id="IDS_MENUID_UPLOAD_LOG" value="一键反馈" />
+  <String id="IDS_WORKSPACE_OPEN" value="打开网盘工作空间" />
+  <String id="IDS_WORKSPACE_STOP_SYNC" value="暂停同步" />
+  <String id="IDS_WORKSPACE_RESTART_SYNC" value="开启同步" />
 
     <!--托盘提示-->
   <String id="IDS_COMMON_INSTALL" value="安装" />
@@ -731,7 +736,12 @@
   <String id="IDS_TRAYICON_TIP_UPLOADING" value="%.1f%% 正在上传" />
   <String id="IDS_TRAYICON_TIP_DOWNLOADING" value="%.1f%% 正在下载" />
   <String id="IDS_TRAYICON_TIP_TRANSERROR" value="传输失败" />
-  
+  <String id="IDS_TRAYICON_TIP_SYNC_SUCCEED" value="同步成功" />
+  <String id="IDS_TRAYICON_TIP_SYNC_FAILD" value="同步失败" />
+  <String id="IDS_TRAYICON_TIP_SYNC_STOP" value="同步暂停" />
+  <String id="IDS_TRAYICON_TIP_SYNC_DOING" value="正在同步" />
+
+
   <String id="IDS_NO_PROMPT" value="不再提示" />
   <String id="IDS_NO_SPACE" value="网盘空间不足！" />
   <String id="IDS_FILE_PATH_INVALID" value="文件路径非法！" />
@@ -1345,4 +1355,13 @@
   <String id="IDS_EXPORTONLINEDOC_NOTIFY_FAIL_TITLE" value="导出失败" />
   <String id="IDS_EXPORTONLINEDOC_NOTIFY_FAIL_RETRY" value="重试" />
   <String id="IDS_EXPORTONLINEDOC_NOTIFY_FAIL_EXISTEXPORTING" value="有文件正在导出，请完成后再试" />
+
+  <!--工作盘-->
+  <String id="IDS_WORKSPACE_SETTING" value="工作空间" />
+  <String id="IDS_WORKSPACE_SYNC_TRAY_TITLE" value="通知：" />
+  <String id="IDS_WORKSPACE_SYNC_TRAY_TIP" value="开启同步消息提醒" />
+  <String id="IDS_WORKSPACE_VIRTUAL_FOLDER_SHOW" value="显示工作空间虚拟盘符" />
+  <String id="IDS_WORKSPACE_SAVE_LOCAL_PATH" value="本地同步目录：" />
+  <String id="IDS_WORKSPACE_TRAY_NAME" value="网盘工作空间" />
+  <String id="IDS_WORKSPACE_FILEVERSIONDLG_TITLENAME"  value="历史版本" />
 </StringTable>
