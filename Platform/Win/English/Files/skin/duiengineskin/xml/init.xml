@@ -1,6 +1,7 @@
 ﻿<DuiEngine>
     <font face="Tahoma" size="11"/>
 
+
     <skins>
         <imgframe name="dlg_frame" src="IDP_MAIN_DLG_FRAME" left="5" right="5" top="40" bottom="60"/>
         <imgframe name="img_login_logo" src="IDP_LOGIN_LOGO" />
@@ -64,6 +65,7 @@
         <!--列表控件皮肤定义-->
         <imglst name="listhead_bkg" src="IDP_LISTHEAD_BKG"/>
         <imgframe name="listhead_btn" src="IDP_LISTHEAD_BTN" subwidth="14" left="2" right="2"/>
+        <imgframe name="listhead_btn_two" src="IDP_LISTHEAD_BTN_TWO" subwidth="14" left="2" right="2"/>
         <imglst name="listhead_check" src="IDP_LISTHEAD_CHECK" subwidth="20"/>
         <imglst name="listhead_arrow" src="IDP_LISTHEAD_ARROW" subwidth="18"/>
         <imgframe name="listitem_hover_bkg" src="IDP_LISTITEM_HOVER_BKG" left="3" top="3" right="3" bottom="3"/>
@@ -87,6 +89,8 @@
 
         <!--Logo皮肤定义-->
         <imgframe name="common_logo_main" src="IDP_COMMON_LOGO_MAIN" />
+        <imgframe name="workspace_logo_main" src="IDP_WORKSPACE_LOGO_MAIN" />
+        
 
         <!--对话框皮肤-->
         <imgframe name="message_box_background" src="IDP_MESSAGEBOX_BACKGROUND_FRAME" left="10" top="40" right="10" bottom="35"/>
@@ -600,8 +604,18 @@
         <imglst name="usercard_priv_outdate_line" src="IDP_USERCARD_OUTDATE_LINE"/>
         <imglst name="usercard_priv_outdate_line_reverse" src="IDP_USERCARD_OUTDATE_LINE_REVERSE"/>
         <imglst name="usercard_channel_info_bgk" src="IDP_USERCARD_CHANNEL_INFO_BGK" />
+        <imglst name="usercard_priv_workpackage_sync" src="IDP_USERCARD_WORKPACKAGE_SYNC"/>
+        <imglst name="usercard_priv_workpackage_flow" src="IDP_USERCARD_WORKPACKAGE_FLOW" />
+        <imglst name="usercard_priv_workpackage_unzip" src="IDP_USERCARD_WORKPACKAGE_UNZIP" />
+        <imglst name="usercard_priv_workpackage_upload" src="IDP_USERCARD_WORKPACKAGE_UPLOAD" />
+        <imglst name="usercard_priv_workpackage_line" src="IDP_USERCARD_WORKPACKAGE_LINE"/>
+        <imglst name="usercard_priv_workpackage_line_reverse" src="IDP_USERCARD_WORKPACKAGE_LINE_REVERSE"/>
+        <imglst name="usercard_workpackage_bkg" src="IDP_USERCARD_WORKPACKAGE_BKG"/>
         <imglst name="usercard_channel_arrow" src="IDP_USERCARD_CHANNEL_ARROW"/>
         <imglst name="usercard_svip_arrow" src="IDP_USERCARD_SVIP_ARROW" />
+        <imglst name="usercard_workpackage_btn" src="IDP_USERCARD_WORKPACKAGE_BTN" subwidth="119" top="10" left="50" right="50" bottom="10"/>
+        <imglst name="usercard_workpackage_buy_btn" src="IDP_USERCARD_WORKPACKAGE_BUY_BTN" subwidth="60"/>
+        <imglst name="usercard_workpackage_btnbg" src="IDP_USERCARD_WORKPACKAGE_BTNBG" subwidth="96"/>
         <imglst name="member_center_card_bgk" src="IDP_MEMBER_CENTER_CARD_BGK" />
         <imgframe name="member_center_card_qr_bgk" src="IDP_MEMBER_CENTER_CARD_QR_BGK" />
 
@@ -1045,7 +1059,68 @@
         <imgframe name="lightblue_bg_btn" src="IDP_DUI_SAMENAMEFILEOP_DLG_BTN" subwidth="120"/>
         <imgframe name="same_name_frame" src="IDP_DUI_SAMENAMEFILEOP_DLG_FRAME"/>
         <imgframe name="same_name_content_frame" src="IDP_DUI_SAMENAMEFILEOP_DLG_CONTENT_FRAME"/>
+        <!--工作空间-->
+        <imgframe name="workspace_navigate_file" src="IDP_DUI_WORKSPACE_NAVIGATE_FILE" subwidth="42"/>
+        <imgframe name="workspace_navigate_record" src="IDP_DUI_WORKSPACE_NAVIGATE_RECORD" subwidth="40"/>
+        <imgframe name="workspace_entrance" src="IDP_DUI_WORKSPACE_ENTRANCE" subwidth="32"/>
+        <imgframe name="workspace_error" src="IDP_DUI_WORKSPACE_ERROR"/>
+        <imgframe name="workspace_success" src="IDP_DUI_WORKSPACE_SUCCESS"/>
+        <imgframe name="workspace_svip" src="IDP_DUI_WORKSPACE_SVIP"/>
+        <imgframe name="workspace_svip_expired" src="IDP_DUI_WORKSPACE_SVIP_EXPIRED"/>
+        <imgframe name="workspace_sync" src="IDP_DUI_WORKSPACE_SYNC"/>
+        <imgframe name="workspace_vip" src="IDP_DUI_WORKSPACE_VIP"/>
+        <imgframe name="workspace_vip_expired" src="IDP_DUI_WORKSPACE_VIPEXPIRED"/>
+        <imgframe name="workspace_guid" src="IDP_DUI_WORKSPACE_GUIDE" subwidth="16"/>
+        <imgframe name="workspace_pause" src="IDP_DUI_WORKSPACE_PAUSE" subwidth="16"/>
+        <imgframe name="workspace_recycle" src="IDP_DUI_WORKSPACE_RECYCLE" subwidth="16"/>
+        <imgframe name="workspace_start" src="IDP_DUI_WORKSPACE_START" subwidth="16"/>
+        <imgframe name="workspace_logo" src="IDP_DUI_WORKSPACE_LOGO"/>
+        <gif name="workspace_file_record_load_item" src="IDP_DUI_WORKSPACE_RECORD_LOADING_ITEM"/>
+
+        <imgframe name="workspace_file_btn_import" src="IDP_DUI_WORKSPACE_FILE_BTN_IMPORT" subwidth="14"/>
+        <imgframe name="workspace_file_btn_upload" src="IDP_DUI_WORKSPACE_FILE_BTN_UPLOAD" subwidth="14"/>
+        <imgframe name="workspace_file_btn_newfolder" src="IDP_DUI_WORKSPACE_FILE_BTN_NEWFOLDER" subwidth="14"/>
+        <imgframe name="workspace_file_sync_status_failed" src="IDP_DUI_WORKSPACE_FILE_SYNC_STATUS_FAILED"/>
+        <imgframe name="workspace_file_sync_status_syncing" src="IDP_DUI_WORKSPACE_FILE_SYNC_STATUS_SYNCING"/>
+        <imgframe name="workspace_file_sync_status_uptodate" src="IDP_DUI_WORKSPACE_FILE_SYNC_STATUS_UPTODATE"/>
+        <imgframe name="workspace_file_sync_status_pause" src="IDP_DUI_WORKSPACE_FILE_SYNC_STATUS_PAUSE"/>
+        <imgframe name="workspace_file_empty" src="IDP_DUI_WORKSPACE_FILE_EMPTY"/>
+        <imgframe name="workspace_bg_normal" src="IDP_DUI_WORKSPACE_BG_NORMAL"/>
+        <imgframe name="workspace_bg_wide" src="IDP_DUI_WORKSPACE_BG_WIDE"/>
+        <imgframe name="workspace_status_empty_file" src="IDP_DUI_WORKSPACE_STATUS_EMPTY_FILE"/>
+        <imgframe name="workspace_title_lightning" src="IDP_DUI_WORKSPACE_TITLE_LIGHTNING"/>
+        <imgframe name="workspace_title_workpackage_lightning" src="IDP_DUI_WORKSPACE_TITLE_WORKPACKAGE_LIGHTNING"/>
+        <gif name="gif_workspace_guide_backup" src="IDP_DUI_WORKSPACE_GIF_GUIDE_BACKUP" minframedelay="30"/>
+        <imgframe name="workspace_guide_bkg_two" src="IDP_DUI_WORKSPACE_GUIDE_BKG_TWO"/>
+        <imgframe name="workspace_guide_img" src="IDP_DUI_WORKSPACE_GUIDE_IMG"/>
+        <gif name="gif_workspace_guide_upload" src="IDP_DUI_WORKSPACE_GIF_GUIDE_UPLOAD" minframedelay="30"/>
+        <gif name="gif_workspace_guide_history" src="IDP_DUI_WORKSPACE_GIF_GUIDE_HISTORY" minframedelay="30"/>
+        <gif name="gif_workspace_guide_viptest" src="IDP_DUI_WORKSPACE_GIF_GUIDE_VIPTEST" minframedelay="30"/>
         
+        <imgframe name="workspace_guide_backup_select" src="IDP_DUI_WORKSPACE_GUIDE_BACKUP_SELECT"/>
+        <imgframe name="workspace_guide_viptest_select" src="IDP_DUI_WORKSPACE_GUIDE_VIPTEST_SELECT"/>
+        <imgframe name="workspace_guide_history_select" src="IDP_DUI_WORKSPACE_GUIDE_HISTORY_SELECT"/>
+        <imgframe name="workspace_guide_upload_select" src="IDP_DUI_WORKSPACE_GUIDE_UPLOAD_SELECT"/>
+        <imgframe name="workspace_guide_backup_normal" src="IDP_DUI_WORKSPACE_GUIDE_BACKUP_NORMAL"/>
+        <imgframe name="workspace_guide_viptest_normal" src="IDP_DUI_WORKSPACE_GUIDE_VIPTEST_NORMAL"/>
+        <imgframe name="workspace_guide_history_normal" src="IDP_DUI_WORKSPACE_GUIDE_HISTORY_NORMAL"/>
+        <imgframe name="workspace_guide_upload_normal" src="IDP_DUI_WORKSPACE_GUIDE_UPLOAD_NORMAL"/>
+        
+        <imgframe name="workspace_file_toolbar_darkblue_btn" src="IDP_DUI_WORKSPACE_FILE_TOOLBAR_DARKBLUE_BTN" left="30" right="30"/>
+        <imgframe name="workspace_file_toolbar_lightblue_btn" src="IDP_DUI_WORKSPACE_FILE_TOOLBAR_LIGHTBLUE_BTN" left="30" right="30"/>
+        <imgframe name="workspace_file_toolbar_bg_transparent" src="IDP_DUI_WORKSPACE_FILE_TOOLBAR_BG_TRANSPARENT"/>
+        <imgframe name="workspace_file_toolbar_bg_search" src="IDP_DUI_WORKSPACE_FILE_TOOLBAR_BG_SEARCH" left="30" right="30"/>
+        <imgframe name="workspace_file_guide_icon" src="IDP_DUI_WORKSPACE_FILE_GUIDE_ICON"/>
+        <imgframe name="workspace_file_thumb_item_bg_hover" src="IDP_DUI_WORKSPACE_FILE_THUMB_ITEM_BG_HOVER" left="8" right="8" top="8" bottom="8"/>
+        <imgframe name="workspace_file_thumb_item_bg_check" src="IDP_DUI_WORKSPACE_FILE_THUMB_ITEM_BG_CHECK" left="8" right="8" top="8" bottom="8"/>
+        <imgframe name="workspace_guide_bkg" src="IDP_DUI_WORKSPACE_GUIDE_BKG"/>
+        <imgframe name="workspace_guide_frame" src="IDP_DUI_WORKSPACE_GUIDE_FRAME"/>
+        <imgframe name="workspace_guide_left_frame" src="IDP_DUI_WORKSPACE_GUIDE_LEFT_FRAME"/>
+        <imgframe name="workspace_guide_mask" src="IDP_DUI_WORKSPACE_GUIDE_MASK"/>
+        <imgframe name="workspace_status_panel" src="IDP_DUI_WORKSPACE_STATUS_PANEL" subwidth="20"/>
+        <imgframe name="workspace_status_guide" src="IDP_DUI_WORKSPACE_FILE_THUMB_ITEM_STATUS_GUIDE"/>
+        <imgframe name="workspace_feedback" src="IDP_DUI_WORKSPACE_FEEDBACK" subwidth="15"/>
+        <gif name="workspace_syncing_gif" src="IDP_DUI_WORKSPACE_SYNCING_GIF" minframedelay="30"></gif>
     </skins>
 
     <style>
@@ -1324,6 +1399,9 @@
         <!--同名文件操作-->
         <class name="cls_samename_file_cancel_btn" skin="lightblue_bg_btn" font="0200:微软雅黑" crtext="06A7FF" textmode="25"/>
         <class name="cls_samename_file_confirm_btn" skin="wechatbackup_guide_dlg_btn" font="0200:微软雅黑" crtext="ffffff" textmode="25"/>
+        
+        <!--操作记录-->
+        <class name="cls_operation_record_filename" crtext="03081A" font="0000:微软雅黑" hoverfont="0000:微软雅黑" align="left"/>
   </style>
 
     <objattr>

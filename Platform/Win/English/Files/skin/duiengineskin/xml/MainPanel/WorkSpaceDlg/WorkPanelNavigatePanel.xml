@@ -1,0 +1,15 @@
+<dlg name="WorkSpaceNavigatePanel" pos="0,0,-0,-0" crbg="F5F6FA">
+  <dlg pos="0,0,-13,-0">
+    <!--文件-->
+    <imgbtn name="btn_home" pos="14,16,@42,@42" skin="workspace_bg_normal" crtext="636D7E"
+     font="0000:微软雅黑" icoskin="workspace_navigate_file" txtxoffset="9" cursor="arrow" tip="%str4501%"></imgbtn>
+    <!--记录-->
+    <imgbtn name="btn_record" pos="14,72,@40,@40" skin="titlepanel_translucent" crtext="636D7E"
+     font="0000:微软雅黑" icoskin="workspace_navigate_record" txtxoffset="9" tip="%str4502%" cursor="arrow"></imgbtn>
+      
+    <!--新手引导-->
+    <imgbtn name="btn_resident_guide" pos="27,-72,@16,@16" skin="workspace_guid" cursor="arrow" tip="%str4650%"></imgbtn>
+    <!--回收站-->
+    <imgbtn name="btn_recycle" pos="27,-37,@16,@16" skin="workspace_recycle" cursor="arrow" tip="%str4503%"></imgbtn>
+  </dlg>
+</dlg>

@@ -810,7 +810,7 @@
   <s id="1549">Manage automatic renewal</s>
   <s id="1550">2T space</s>
   <s id="1551">Download card to:</s>
-
+  <s id="1552">Work Package to:</s>
 
   <!--Main Panel-->
   <s id="1600">Welcome to use Baidu Netdisk</s>
@@ -976,7 +976,8 @@
   <s id="2211">/Other</s>
   <s id="2212">/Torrent</s>
   <s id="2213">Refresh</s>
- 
+  <s id="2214">Search work space files</s>
+
   <!--隐藏空间-->
   <s id="2250">Enable the Safe Box to save your private files to it~</s>
   <s id="2251">Enable Safe Box</s>
@@ -1307,7 +1308,8 @@
   <s id="3510">Currently does not support computer online preview，</s>
   <s id="3511">Please use your mobile phone to scan or download and view</s>
   <s id="3512">(Please use 10.1.60 and above)</s>
- 
+  <s id="3513">Click to refresh</s>
+
   <!--Automatic folder backup-->
   <s id="3520">Automatic folder backup</s>
   <s id="3522">Files in the designated folder on the computer will be backed up to the network disk</s>
@@ -1318,11 +1320,12 @@
   <s id="3527">Local folders will be automatically backed up to the network disk</s>
   <s id="3528">Number of folders that can be synchronized：%d A</s>
   <s id="3529">File size that can be backed up this month：%s</s>
+  <s id="3530">You can enjoy the folder automatic backup unlimited amount</s>
   <s id="3531">You enjoy unlimited privileges of automatic backup</s>
   
   <s id="3532">Traffic used this month</s>
   <s id="3533">0G/10G</s>
-  <s id="3534">Unlimited membership backup></s>
+  <s id="3534">Open super member backup is not limited></s>
   <s id="3535">Folder backed up（%d/5）</s>
   <s id="3536">View backup progress度></s>
   <s id="3537">+addAdd backup file夹</s>
@@ -1577,6 +1580,7 @@
   <s id="4266">Mobile</s>
   <s id="4267">Rename</s>
   <s id="4268">There are currently unfinished tasks, which can only be operated after they are completed</s>
+  <s id="4269">Currently do not support import online documentation</s>
 
   <!--Video tag-->
    <s id="4210">Open a super member and enjoy 31 privileges such as video tagging</s>
@@ -1639,5 +1643,168 @@
     <!--Rename -->
   <s id="4402">Batch renaming</s>
   <s id="4403">The number of selected files cannot exceed 1000!</s>
+
+  <!--Workspace-->
+  <s id="4500">Workspace</s>
+  <s id="4501">Synchronous file</s>
+  <s id="4502">Operation record</s>
+  <s id="4503">Recycle bin</s>
+  <s id="4504">Synchronous traffic this month is over, beyond the synchronization</s>
+  <s id="4505">This month is full of traffic, please feel free to use</s>
+  <s id="4506">SVIP user synchronization unlimited amount</s>
+  <s id="4507">Unlimited synchronization</s>
+  <s id="4508">%dAfter the day, the expiration of the day is about to lose infinite synchronization privileges.</s>
+  <s id="4509">Copy to work space</s>
+  <s id="4510">Synchronous traffic</s>
+  <s id="4511">Super member unlimited synchronization</s>
+  <s id="4512">Super Member Enjoy Unlimited Synchronous Traffic</s>
+  <s id="4513">SVIP exclusive high-speed download traffic</s>
+  <s id="4514">Synchronous traffic this month is insufficient</s>
+  <s id="4515">Have used</s>
+  <s id="4516">Initialization loading</s>
+  <s id="4517">No synchronization file</s>
+  <s id="4518">Synchronization has been completed</s>
+  <s id="4519">Synchronize</s>
+  <s id="4520">time out</s>
+  <s id="4521">Insufficient network disk space</s>
+  <s id="4522">Insufficient local space, automatically synchronize after cleaning</s>
+  <s id="4523">Network abnormal network, please check the network</s>
+  <s id="4524">Synchronous completion, where%dFailure failed</s>
+  <s id="4525">Synchronization</s>
+  <s id="4526">Synchronization</s>
+  <s id="4527">Synchronous exception</s>
+  <s id="4528">Be synchronized</s>
+  <s id="4530">Click to pause synchronization</s>
+  <s id="4531">Click to open synchronization</s>
+  <s id="4532">Confirm that the suspension is synchronized?\r\nThe current file is being synchronized, and the synchronization will be stopped after it is determined.</s>
+  <s id="4533">Network disk workspace</s>
+  <s id="4534">Automatic synchronization, office artifact</s>
+  <s id="4535">File automatic upload</s>
+  <s id="4536">Import into workspace, install right</s>
+  <s id="4537">Multiple computer phones View anytime, anywhere</s>
+  <s id="4538">File changes, synchronize to all devices</s>
+  <s id="4539">historic version Never lose</s>
+  <s id="4540">Super Member retain 100 historical versions</s>
+  <s id="4541">Free use Member more rights</s>
+  <s id="4542">Super Member Enjoy Unlimited Synchronous Traffic</s>
+  <s id="4543">There is currently not synchronized file.~</s>
+  <s id="4544">There is currently no file with abnormal synchronization.~</s>
+  <s id="4545">Currently no synchronous record</s>
+  <s id="4546">View reason ></s>
+  <s id="4547">Open SVIP ></s>
+  <s id="4548">Purchase capacity package ></s>
+  <s id="4549">To be deleted</s>
+  <s id="4550">customer feedback</s>
+  <s id="4551">Unlimited synchronization</s>
+  <s id="4552">Enjoy unlimited synchronization privilege</s>
+  <s id="4553">Speed synchronization</s>
+  <s id="4554">Synchronous traffic</s>
+  <s id="4555">Online decompression</s>
+  <s id="4556">PDF Tool</s>
+  <s id="4557">Enjoy the work package 11 privileges</s>
+  <s id="4558">Renewal work package</s>
+
+  <!-- File page -->
+  <s id="4559">What can I do?</s>
+  <s id="4600">Add a network disk file</s>
+  <s id="4601">Copy to network disk</s>
+  <s id="4602">View local location</s>
+  <s id="4603">Selected%dFile to Baidu network disk</s>
+  <s id="4604">historic version</s>
+  <s id="4605">will“%s”Move it to Baidu盘</s>
+  <s id="4606">After the file is moved to Baidu network disk, all devices [network disk workspace] this file will be deleted synchronously, do you continue?</s>
+  <s id="4607">The file in the computer local [network disk workspace] will also be deleted, please take carefully</s>
+  <s id="4608">Remove in network disk and all devices“%s”</s>
+  <s id="4609">Remove selected in network disk and all devices%d个文件</s>
+  <s id="4610">Deposit work space</s>
+  <s id="4611">Click</s>
+  <s id="4612">Add local files</s>
+  <s id="4613">Or click</s>
+  <s id="4614">Your office assistant</s>
+  <s id="4615">Keep in your own multiple computers, mobile phone workspace</s>
+  <s id="4616">Return to the original page</s>
+  <s id="4617">In your work space, I didn't find the corresponding content.</s>
+  <s id="4618">The consistency of the file, any change is real-time synchronization</s>
+  <s id="4619">Synchronous traffic this month has been used</s>
+
+  <s id="4650">Function boot</s>
+  <s id="4651">View local file location</s>
+  <s id="4652">This file has not completed synchronization, please try again later</s>
+  <s id="4653">Select the location you want to export</s>
+  <s id="4654">Desktop "Network Disk Workspace" folder has been created</s>
+  <s id="4655">Infault, delete, change, etc. in the folder will be automatically synchronized</s>
+  <s id="4656">Cloud and other equipment</s>
+  <s id="4657">Look at</s>
+  <s id="4658">Import</s>
+  <s id="4659">Export</s>
+  <s id="4660">Click here to view the file synchronization status</s>
+  <s id="4661">Tip: Click the right button to synchronize the exception file.</s>
+  <s id="4662">Resynchronize</s>
+
+  <!-- tray -->
+  <s id="4700">Synchronous traffic is insufficient</s>
+  <s id="4701">The traffic has been used</s>
+  <s id="4702">The remaining synchronous traffic this month is less than 20%Just stop synchronization</s>
+  <s id="4703">The synchronization traffic has been used this month, and the synchronization has stopped</s>
+  <s id="4704">SVIP enjoys unlimited synchronous traffic</s>
+  <s id="4705">Open SVIP></s>
+  <s id="4708">Synchronization has been suspended</s>
+  <s id="4709">The current file synchronization has stopped</s>
+  <s id="4710">Synchronization has recovered</s>
+  <s id="4711">Synchronization for you</s>
+  <s id="4712">The remaining synchronization traffic:</s>
+  <s id="4713">Synchronous success</s>
+  <s id="4714">%dSynchronous file功</s>
+  <s id="4715">Insufficient cloud space</s>
+  <s id="4716">The cloud is available in the cloud, and the SVIP is opened to enjoy 5T cloud space.</s>
+  <s id="4717">Local space</s>
+  <s id="4718">Local space, automatically resynchronize after cleaning</s>
+  <s id="4719">Synchronous exception</s>
+  <s id="4720">%dSynchronization of files，%dFailure failed</s>
+  <s id="4721">successfully deleted</s>
+  <s id="4722">Remove from the cloud and all synchronization equipment"</s>
+  <s id="4723">"file</s>
+  <s id="4724">"Wait%dFile</s>
+  <s id="4725">The remaining synchronous traffic this month is insufficient, soon to stop synchronization</s>
+
+  <!-- Synchronous disk operation record-->
+  <s id="4750">Operating type</s>
+  <s id="4751">Operate</s>
+  <s id="4752">Operating time</s>
+  <s id="4753">Baidu network disk workspace shortcut</s>
+
+  <s id="4754">New file</s>
+  <s id="4755">Update file</s>
+  <s id="4756">Recovery file</s>
+  <s id="4757">Mobile file</s>
+  <s id="4758">Delete Files</s>
+  <s id="4760">Rename</s>
+  <s id="4761">Review only at this stage%dOperation record~</s>
+  <s id="4762">Load failed, click</s>
+  <s id="4763">The original local synchronization directory has been lost, will be recreated and file synchronization!</s>
+  <s id="4764">The cloud synchronization directory has been lost, and the file has been synchronized!</s>
+  <s id="4765">File (clip) path error Unable to continue synchronization, open the error folder</s>
+  <s id="4766">The file has not been synchronized to the local or deleted</s>
+  <s id="4768">Loading, please wait...</s>
+  <s id="4769">Open an error folder</s>
+  <s id="4770">Synchronous path error</s>
+
+  <s id="4801">The file is too large, more than%dG upload size limit</s>
+  <s id="4802">The file is too large, and the member supports uploading the largest%dGtext.件</s>
+  <s id="4803">The file is too large, non-member supports uploading a largest %dG file</s>
+  <s id="4804">upload failed</s>
+  <s id="4805">download failed</s>
+  <s id="4808">Cloud deletion failed</s>
+  <s id="4809">Movement failure</s>
+  <s id="4810">Rename failure</s>
+  <s id="4813">Local deletion failed</s>
+  <s id="4815">Synchronous failure</s>
+  <s id="4816">The network disk space is full</s>
+  <s id="4817">Reading files</s>
+  <s id="4818">Synchronous failure【%d】</s>
+  <s id="4819">The local directory does not exist, please click the right button to restart synchronization</s>
+  <s id="4820">Workspace synchronous abnormalities</s>
+  <s id="4821">Workspace local synchronous path creation failed!</s>
+  <s id="4822">Local deletion failed, files are occupied</s>
 
 </string>

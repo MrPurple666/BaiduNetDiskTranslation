@@ -3,8 +3,63 @@
     <dlg name="dlg_main" pos="0,0,-0,-0" skin="usercard_notvip_bg">
 	  <dlg pos="15,26,-15,-15">
 	    <!--顶部面板-->
+	    <dlg name="dlg_top" pos="0,0,-0,@94">
+		  <dlg name="dlg_user" pos="0,0,-0,@48">
+			<link name="link_username" pos="20,14" crtext="03081A" font="0200:微软雅黑" crhover="696969" hoverfont="0200:微软雅黑" maxwidth="250" cursor="hand" dotted="1"/>
+		    <imgbtn name="btn_crown" pos="[4,14,@38,@18" skin="titlepanel_translucent" icoskin="titlepanel_vipclose" cursor="hand"/>
+		  </dlg>   
+          <!--用户到期时间区域-->          
+          <dlg name="dlg_endtime_info" pos="18,[0,@282,@42" skin="usercard_member_notvip_bkg">
+			<link name="link_endtime" pos="12,14" multilines="0" dotted="1" maxwidth="172" crtext="64360D" font="0000:微软雅黑" align="left">%str1532%</link>
+			<imgbtn name="btn_buy" pos="-100,8,@90,@28" skin="usercard_svip_btn" crtext="64360D" font="0000:微软雅黑">%str831%</imgbtn>
+            <img name="img_svip_arror" pos="-20,19,@8,@5" skin="usercard_svip_arrow" show="0"/>          
+		  </dlg>		
+		</dlg>
+	  
+	    <!--中间面板-->
+		<dlg name="dlg_middle" pos="0,[0,-0,@120">
+          <dlg name="dlg_privilege_tip" pos="0,0,-0,@44">
+			<img name="img_line_fre" pos="10,18,@64,@1" skin="usercard_svip_line" />
+			<text name="text_priv_num" pos="74,10,-74,@20" font="0000:微软雅黑" align="center" crtext="C99E47">%str1535%</text>
+			<img name="img_line_tail" pos="-74,18,@64,@1" skin="usercard_svip_line_reverse"/>
+		  </dlg>
+		  <!--特权按钮-->
+		  <dlg name="dlg_privilege" pos="0,[0,-0,@36">
+			<imgbtn name="btn_priv_5t_quota" pos="36,0,@36,@36" skin="titlepanel_translucent" icoskin="usercard_priv_5t_quota" cursor="arrow"/>
+			<imgbtn name="btn_priv_speed_download" pos="105,0,@36,@36" skin="titlepanel_translucent" icoskin="usercard_priv_speed_download" cursor="arrow" />
+            <imgbtn name="btn_priv_file_save_as" pos="105,0,@36,@36" skin="titlepanel_translucent" icoskin="usercard_priv_file_save_as" cursor="arrow" show="0"/>
+			<imgbtn name="btn_priv_vedio_overspeed" pos="174,0,@36,@36" skin="titlepanel_translucent" icoskin="usercard_priv_vedio_overspeed" cursor="arrow" />
+            <imgbtn name="btn_priv_yun_unzip" pos="174,0,@36,@36" skin="titlepanel_translucent" icoskin="usercard_priv_yun_unzip" cursor="arrow" show="0"/>
+			<imgbtn name="btn_priv_more" pos="243,0,@36,@36" skin="titlepanel_translucent" icoskin="usercard_priv_svip_more" cursor="hand" />
+		  </dlg>
+          <!--特权文字描述-->
+		  <dlg name="dlg_privilege_introduction" pos="0,[8,-0,@40">
+			<text name="text_priv_5t_quota" pos="34,0" class="cls_usercard_priv_txt">%str1522%</text>
+			<text name="text_priv_speed_download" pos="102,0" class="cls_usercard_priv_txt">%str1523%</text>
+			<text name="text_priv_vedio_speedup" pos="168,0" class="cls_usercard_priv_txt">%str1524%</text>
+			<text name="text_priv_more" pos="238,0" class="cls_usercard_priv_txt">%str1404%</text>
+		  </dlg>
+		</dlg>
 
-
+        <!--渠道信息-->
+        <dlg name="dlg_channel_list_panel" pos="0,[0,@274,@144" show="0">
+           <dlg name="dlg_channel_list1" pos="18,0,@274,@68" skin="usercard_channel_info_bgk" >
+             <imgbtn name="btn_channel1" pos="0,0,-1,-1" class="cls_usercard_table_btn" cursor="hand"></imgbtn>
+             <img name="icon_channel1" pos="12,12,@42,@42"></img>
+             <text name="text_channel_title1" pos="66,16" class="cls_usercard_channel_title_txt"></text>
+             <text name="text_channel_subtitle1" pos="66,36" class="cls_usercard_channel_subtitle_txt"></text>
+             <img pos="240,28,@14,@14" skin="usercard_channel_arrow"></img>
+           </dlg>
+           <dlg name="dlg_channel_list2" pos="18,[8,@274,@68" skin="usercard_channel_info_bgk" >
+             <imgbtn name="btn_channel2" pos="0,0,-1,-1" class="cls_usercard_table_btn" cursor="hand"></imgbtn>
+             <img name="icon_channel2" pos="12,12,@42,@42"></img>
+             <text name="text_channel_title2" pos="66,16" class="cls_usercard_channel_title_txt"></text>
+             <text name="text_channel_subtitle2" pos="66,36" class="cls_usercard_channel_subtitle_txt"></text>
+             <img pos="240,28,@14,@14" skin="usercard_channel_arrow"></img>
+           </dlg>
+        </dlg>        
+      
+	    <!--底部面板-->
 	    <dlg name="dlg_bottom" pos="0,-40,-0,-0">
             <hr pos="10,0,@290,@1" crbg="F1F2F4" size="1"/>	
             <imgbtn name="btn_personal_center" pos="0,0,@130,@40" class="cls_usercard_table_btn">%str1512%</imgbtn>
