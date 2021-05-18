@@ -193,6 +193,7 @@
   <String id="IDS_SHARE_PUBLIC_LINK_EXPIRE_7DAYS" value="7天" />
   <String id="IDS_SHARE_PUBLIC_LINK_EXPIRE_1DAYS" value="1天" />
   <String id="IDS_SHARE_PUBLIC_LINK_DAYS_EXPIRE" value="链接%d天后失效" />
+  <String id="IDS_SHARE_PUBLIC_LINK_ENT_TICKET_NUM" value="，带%d张极速下载券" />
 
   <String id="IDS_SHARE_LINK_TYPE_SYSTEM_GENERATED_PWD" value="系统随机生成提取码" />
   <String id="IDS_SHARE_LINK_TYPE_SYSTEM_GENERATED_PWD_DECS" value="每次自动随机生成新提取码" />
@@ -201,6 +202,21 @@
   <String id="IDS_SHARE_LINK_TYPE_USER_DEFINED_PWD_DECS" value="支持4位字母或数字" />
   <String id="IDS_SHARE_LINK_TYPE_PRIVATE_WITH_NO_PWD_WARNNING" value="无需提取码即可查看，公司文件和私密文件建议勿选此项" />
   <String id="IDS_SHARE_LINK_TYPE_USER_DEFINED_PWD_PLEASE_INPUT" value="仅可输入4位字母或数字" />
+
+  <String id="IDS_SHARE_LINK_ENT_PRIV" value="企业权益："/>
+  <String id="IDS_SHARE_LINK_ENT_PRIV_ADD_DOWNLOAD_TICKET" value="添加极速下载券"/>
+  <String id="IDS_SHARE_LINK_ENT_PRIV_USE_DOWNLOAD_TICKET_NUM" value="使用数量"/>
+  <String id="IDS_SHARE_LINK_ENT_PRIV_TOTAL_DOWNLOAD_TICKET_NUM" value="可用%d张"/>
+  <String id="IDS_SHARE_LINK_ENT_PRIV_DOWNLOAD_TICKET_EXPIRY" value="其中%d张券有效期至%s(优先使用)"/>
+  <String id="IDS_SHARE_LINK_ENT_PRIV_NONE_DOWNLOAD_TICKET" value="暂无可用极速下载券"/>
+  <String id="IDS_SHARE_LINK_ENT_PRIV_BUY_DESC" value="给我的客户发放极速下载券，畅享快速保存与下载"/>
+  <String id="IDS_SHARE_LINK_ENT_PRIV_DESC_TIP" value="1、极速下载券包含哪些权益？包括链接内文件支持极速下载、单次转存文件数提升及微信预览完整视频3项权益。 
+  2、极速下载券使用期限？购买之日起1年，过期未使不予退还。
+  3、在分享中添加极速下载券后，对方如何领取权益？对方收到分享链接后，进行保存、下载或预览即视为领取，自分享之日起1年内，接收者针对该链接下的文件均可享受相应权益。
+  4、下载券如何追加？网盘App-我的-我的分享-分享详情，可查看券使用情况并可追加同类型券。
+  5、分享过期极速下载券如何处理？若分享过期，添加的券未被用完，可在分享详情中恢复已过期分享，券可恢复。"/>
+  <String id="IDS_SHARE_LINK_ENT_PRIV_BUY" value="去购买>"/>
+  <String id="IDS_SHARE_LINK_ENT_PRIV_TICKET_TIP" value="--来自企业帐号【%s】的极速畅享链接"/>
   
   <!-- 批量创建链接-->
   <String id="IDS_SHARE_LINK_ACCESS_NUMBER" value="访问人数:" />
@@ -1364,4 +1380,10 @@
   <String id="IDS_WORKSPACE_SAVE_LOCAL_PATH" value="本地同步目录：" />
   <String id="IDS_WORKSPACE_TRAY_NAME" value="网盘工作空间" />
   <String id="IDS_WORKSPACE_FILEVERSIONDLG_TITLENAME"  value="历史版本" />
+  <String id="IDS_WORKSPACE_CHANGE_LOCAL_SYNC_PACH"  value="更换同步目录" />
+  <String id="IDS_WORKSPACE_CHANGE_LOCAL_SYNC_PACH_INVALID_TIP"  value="路径无效，请重新选择" />
+  <String id="IDS_WORKSPACE_CHANGE_LOCAL_SYNC_PACH_IS_SUBDIR_TIP"  value="不能选择自身的子目录，请重新选择" />
+  <String id="IDS_WORKSPACE_CHANGE_LOCAL_SYNC_PACH_ACCESS_DENY_TIP"  value="文件夹无写入权限，请重新选择" />
+  <String id="IDS_WORKSPACE_CHANGE_LOCAL_SYNC_PACH_QUOTA_LESS_TIP"  value="磁盘剩余空间不足，请重新选择" />
+  <String id="IDS_WORKSPACE_CHANGE_LOCAL_SYNC_PACH_SAME_TIP"  value="原同步路径和所选同步路径相同，请重新选择" />
 </StringTable>

@@ -104,7 +104,7 @@
          <check name="check_enable_mulversion" pos="0,0,@130,@20" font="0200:微软雅黑" crtext="000000" skin="btncheckbox">%str1155%</check>
          <text name="txt_mulversion_introduction" pos="[6,0,@210,@20" font="0200:微软雅黑" crtext="999999">%str3538%</text>
          <text name="txt_mulversion_tip" pos="350,0,@210,@20" font="0200:微软雅黑" crtext="333333" show="0">%str3551%</text>
-         <buttonex name="btn_open_vip_mulvision" pos="350,0,@100,@20" font="0200:微软雅黑" hoverfont="0202:微软雅黑" cursor="hand" show="0" crtext="C9A566">%str3552%</buttonex>
+         <buttonex name="btn_open_vip_mulvision" pos="350,0,@128,@20" font="0200:微软雅黑" hoverfont="0202:微软雅黑" cursor="hand" show="0" crtext="C9A566">%str3552%</buttonex>
       </dlg>
     </dlg>
 </dlg>

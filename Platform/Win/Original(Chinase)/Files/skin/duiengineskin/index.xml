@@ -1289,3 +1289,12 @@
 <resid type="IMGX" name="IDP_DUI_WORKSPACE_STATUS_PANEL" file="image\WorkSpaceDlg\workspace_status_panel.png"/>
 <resid type="IMGX" name="IDP_DUI_WORKSPACE_FEEDBACK" file="image\WorkSpaceDlg\workspace_feedback.png"/>
 <resid type="IMGX" name="IDP_DUI_WORKSPACE_SYNCING_GIF" file="image\WorkSpaceDlg\syncing.gif"/>
+
+<!-- 工作空间目录迁移 -->
+<resid type="XML" name="IDR_DUI_WORKSPACE_FILECOPY_PROGRESS_DLG" layer="1" file="xml\MainPanel\WorkSpaceDlg\WorkspaceFileCopyProgressDlg\WorkspaceFileCopyProgressDlg.xml"/>
+<resid type="IMGX" name="IDP_DUI_WORKSPACE_FILECOPY_PROGRESS_BG_DLG" file="image\WorkspaceFileCopyDlg\bg_dlg.png"/>
+<resid type="IMGX" name="IDP_DUI_WORKSPACE_FILECOPY_PROGRESS_FILE_COPY" file="image\WorkspaceFileCopyDlg\file_copy.png"/>
+<resid type="IMGX" name="IDP_DUI_WORKSPACE_FILECOPY_PROGRESS_ICON_ERROR" file="image\WorkspaceFileCopyDlg\icon_error.png"/>
+<resid type="IMGX" name="IDP_DUI_WORKSPACE_FILECOPY_PROGRESS_ICON_SUCCESS" file="image\WorkspaceFileCopyDlg\icon_success.png"/>
+<resid type="IMGX" name="IDP_DUI_WORKSPACE_FILECOPY_PROGRESS_BTN_CANCEL" file="image\WorkspaceFileCopyDlg\btn_cancel.png"/>
+<resid type="IMGX" name="IDP_DUI_WORKSPACE_FILECOPY_PROGRESS_PROCESS_GIF" file="image\WorkspaceFileCopyDlg\process.gif"/>

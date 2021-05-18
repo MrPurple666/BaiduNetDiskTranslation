@@ -1120,6 +1120,15 @@
         <imgframe name="workspace_status_guide" src="IDP_DUI_WORKSPACE_FILE_THUMB_ITEM_STATUS_GUIDE"/>
         <imgframe name="workspace_feedback" src="IDP_DUI_WORKSPACE_FEEDBACK" subwidth="15"/>
         <gif name="workspace_syncing_gif" src="IDP_DUI_WORKSPACE_SYNCING_GIF" minframedelay="30"></gif>
+
+        <!-- 工作空间目录迁移 -->
+        <imgframe name="workspace_filecopy_progress_bg_dlg" src="IDP_DUI_WORKSPACE_FILECOPY_PROGRESS_BG_DLG" left="50" right="50" top="80" bottom="80"/>
+        <imgframe name="workspace_filecopy_progress_file_copy" src="IDP_DUI_WORKSPACE_FILECOPY_PROGRESS_FILE_COPY"/>
+        <imgframe name="workspace_filecopy_progress_icon_error" src="IDP_DUI_WORKSPACE_FILECOPY_PROGRESS_ICON_ERROR"/>
+        <imgframe name="workspace_filecopy_progress_icon_success" src="IDP_DUI_WORKSPACE_FILECOPY_PROGRESS_ICON_SUCCESS"/>
+        <imgframe name="workspace_filecopy_progress_btn_cancel" src="IDP_DUI_WORKSPACE_FILECOPY_PROGRESS_BTN_CANCEL" subwidth="64" left="30" right="30"/>
+        <gif name="workspace_filecopy_progress_process_gif" src="IDP_DUI_WORKSPACE_FILECOPY_PROGRESS_PROCESS_GIF" minframedelay="30"></gif>
+
     </skins>
 
     <style>
