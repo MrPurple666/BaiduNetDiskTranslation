@@ -469,6 +469,54 @@
       <IBGVeins file="Resource:MainFrame\MainPanel\GuidePanel\guidenextbtn_down.png" transparent="true" changeLight="false" />
     </Property>
   </Config>
+    
+  <Config name="shareEntTicketAddBtn" interface="IBGButton">
+    <Property name="normalDraw">
+      <IBGVeins file="Resource:MainFrame\ShareDlg\add.png" transparent="true" changeLight="false" />
+    </Property>
+    <Property name="onDraw">
+      <IBGVeins file="Resource:MainFrame\ShareDlg\add.png" transparent="true" changeLight="false" />
+    </Property>
+    <Property name="downDraw">
+      <IBGVeins file="Resource:MainFrame\ShareDlg\add.png" transparent="true" changeLight="false" />
+    </Property>
+  </Config>
+  
+  <Config name="shareEntTicketAddGrayBtn" interface="IBGButton">
+    <Property name="normalDraw">
+      <IBGVeins file="Resource:MainFrame\ShareDlg\add_gray.png" transparent="true" changeLight="false" />
+    </Property>
+    <Property name="onDraw">
+      <IBGVeins file="Resource:MainFrame\ShareDlg\add_gray.png" transparent="true" changeLight="false" />
+    </Property>
+    <Property name="downDraw">
+      <IBGVeins file="Resource:MainFrame\ShareDlg\add_gray.png" transparent="true" changeLight="false" />
+    </Property>
+  </Config>
+  
+  <Config name="shareEntTicketSubstractBtn" interface="IBGButton">
+    <Property name="normalDraw">
+      <IBGVeins file="Resource:MainFrame\ShareDlg\subtract.png" transparent="true" changeLight="false" />
+    </Property>
+    <Property name="onDraw">
+      <IBGVeins file="Resource:MainFrame\ShareDlg\subtract.png" transparent="true" changeLight="false" />
+    </Property>
+    <Property name="downDraw">
+      <IBGVeins file="Resource:MainFrame\ShareDlg\subtract.png" transparent="true" changeLight="false" />
+    </Property>
+  </Config>
+  
+    <Config name="shareEntTicketSubstractGrayBtn" interface="IBGButton">
+    <Property name="normalDraw">
+      <IBGVeins file="Resource:MainFrame\ShareDlg\subtract_gray.png" transparent="true" changeLight="false" />
+    </Property>
+    <Property name="onDraw">
+      <IBGVeins file="Resource:MainFrame\ShareDlg\subtract_gray.png" transparent="true" changeLight="false" />
+    </Property>
+    <Property name="downDraw">
+      <IBGVeins file="Resource:MainFrame\ShareDlg\subtract_gray.png" transparent="true" changeLight="false" />
+    </Property>
+  </Config>
   
   <Config name="StartBackupButton" interface="IBGArrowButton">
 		<Property name="font">
@@ -1302,11 +1350,25 @@
     </Property>
   </Config>
   
-    <Config name="share_pwd_edit" interface="IBGEdit">
+  <Config name="share_pwd_edit" interface="IBGEdit">
   	<Property name="font">
 		<IBGFont height="14" width="0" orientation="0" italic="false" underline="false" strikeout="false" charSet="1" facename="宋体"/>
 	</Property>
     <Property name="editPadding" value="12,8,10,1"/>
+    <Property name="staticBkColor" value="0xffffff"/>
+    <Property name="staticTextColor" value="0x000000"/>
+    <Property name="editBkColor" value="0xffffff"/>
+    <Property name="editTextColor" value="0x000000"/>
+    <Property name="bkground">
+      <IBGVeins drawStyle="DRAWMODE_33Mesh_TILE" file="Resource:\Texture\Edit\editBkg.png" transparent="true" veinsRect="0, 2, 44, 27" stretchArea="7,7,29,24" changeLight="false"/>
+    </Property>
+  </Config>
+  
+  <Config name="ent_priv_ticket_num_edit" interface="IBGEdit">
+  	<Property name="font">
+		<IBGFont height="12" width="0" orientation="0" italic="false" underline="false" strikeout="false" charSet="1" facename="宋体"/>
+	</Property>
+    <Property name="editPadding" value="10,2,10,2"/>
     <Property name="staticBkColor" value="0xffffff"/>
     <Property name="staticTextColor" value="0x000000"/>
     <Property name="editBkColor" value="0xffffff"/>

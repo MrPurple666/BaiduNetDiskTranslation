@@ -706,7 +706,13 @@
 <resid type="IMGX" name="IDP_TITLEPANEL_CERT_STATUS_ICON" file="image\MainPanel\TitlePanel\enterprise_cert_icon.png"/>
 <resid type="IMGX" name="IDP_TITLEPANEL_BGK" file="image\MainPanel\TitlePanel\title_bkg.png"/>
 <resid type="IMGX" name="IDP_TITLEPANEL_VIPRENEW_CORNEL" file="image\MainPanel\TitlePanel\cornel.png"/>
-
+<resid type="IMGX" name="IDP_WORKSPACE_TITLEPANEL_HEADFRAME" file="image\WorkSpaceDlg\TitlePanel\head_frame.png"/>
+<resid type="IMGX" name="IDP_WORKSPACE_TITLEPANEL_CLOSE_BTN" file="image\WorkSpaceDlg\TitlePanel\btn_close.png"/>
+<resid type="IMGX" name="IDP_WORKSPACE_TITLEPANEL_MAXIMIZE_BTN" file="image\WorkSpaceDlg\TitlePanel\btn_maximize.png"/>
+<resid type="IMGX" name="IDP_WORKSPACE_TITLEPANEL_RESTORE_BTN" file="image\WorkSpaceDlg\TitlePanel\btn_restore.png"/>
+<resid type="IMGX" name="IDP_WORKSPACE_TITLEPANEL_MINIMIZE_BTN" file="image\WorkSpaceDlg\TitlePanel\btn_minimize.png"/>
+<resid type="IMGX" name="IDP_WORKSPACE_TITLEPANEL_SETTING_BTN" file="image\WorkSpaceDlg\TitlePanel\btn_setting.png"/>
+<resid type="IMGX" name="IDP_WORKSPACE_TITLEPANEL_SVIP_BTN" file="image\WorkSpaceDlg\TitlePanel\workspace_svip_btn.png"/>
 <!--用户卡片-->
 <resid type="IMGX" name="IDP_USERCARD_NOTVIP_BKG" file="image\MainPanel\UserCard\notvip_bg.png"/>
 <resid type="IMGX" name="IDP_USERCARD_VIP_BKG" file="image\MainPanel\UserCard\vip_bg.png"/>
@@ -1237,6 +1243,7 @@
 <resid type="IMGX" name="IDP_DUI_WORKSPACE_RECYCLE" file="image\WorkSpaceDlg\recycle.png"/>
 <resid type="IMGX" name="IDP_DUI_WORKSPACE_START" file="image\WorkSpaceDlg\start_sync.png"/>
 <resid type="IMGX" name="IDP_DUI_WORKSPACE_LOGO" file="image\WorkSpaceDlg\workspace_logo.png"/>
+<resid type="IMGX" name="IDP_DUI_WORKSPACE_RIGHT_BKG" file="image\WorkSpaceDlg\TitlePanel\workspace_right_bkg.png"/>
 <resid type="IMGX" name="IDP_DUI_WORKSPACE_RECORD_LOADING_ITEM" file="image\WorkSpaceDlg\loading_item.gif"/>
 
 <!-- 文件页 -->
