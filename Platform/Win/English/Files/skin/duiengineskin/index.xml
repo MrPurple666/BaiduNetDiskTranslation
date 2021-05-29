@@ -706,7 +706,13 @@
 <resid type="IMGX" name="IDP_TITLEPANEL_CERT_STATUS_ICON" file="image\MainPanel\TitlePanel\enterprise_cert_icon.png"/>
 <resid type="IMGX" name="IDP_TITLEPANEL_BGK" file="image\MainPanel\TitlePanel\title_bkg.png"/>
 <resid type="IMGX" name="IDP_TITLEPANEL_VIPRENEW_CORNEL" file="image\MainPanel\TitlePanel\cornel.png"/>
-
+<resid type="IMGX" name="IDP_WORKSPACE_TITLEPANEL_HEADFRAME" file="image\WorkSpaceDlg\TitlePanel\head_frame.png"/>
+<resid type="IMGX" name="IDP_WORKSPACE_TITLEPANEL_CLOSE_BTN" file="image\WorkSpaceDlg\TitlePanel\btn_close.png"/>
+<resid type="IMGX" name="IDP_WORKSPACE_TITLEPANEL_MAXIMIZE_BTN" file="image\WorkSpaceDlg\TitlePanel\btn_maximize.png"/>
+<resid type="IMGX" name="IDP_WORKSPACE_TITLEPANEL_RESTORE_BTN" file="image\WorkSpaceDlg\TitlePanel\btn_restore.png"/>
+<resid type="IMGX" name="IDP_WORKSPACE_TITLEPANEL_MINIMIZE_BTN" file="image\WorkSpaceDlg\TitlePanel\btn_minimize.png"/>
+<resid type="IMGX" name="IDP_WORKSPACE_TITLEPANEL_SETTING_BTN" file="image\WorkSpaceDlg\TitlePanel\btn_setting.png"/>
+<resid type="IMGX" name="IDP_WORKSPACE_TITLEPANEL_SVIP_BTN" file="image\WorkSpaceDlg\TitlePanel\workspace_svip_btn.png"/>
 <!--用户卡片-->
 <resid type="IMGX" name="IDP_USERCARD_NOTVIP_BKG" file="image\MainPanel\UserCard\notvip_bg.png"/>
 <resid type="IMGX" name="IDP_USERCARD_VIP_BKG" file="image\MainPanel\UserCard\vip_bg.png"/>
@@ -1237,6 +1243,7 @@
 <resid type="IMGX" name="IDP_DUI_WORKSPACE_RECYCLE" file="image\WorkSpaceDlg\recycle.png"/>
 <resid type="IMGX" name="IDP_DUI_WORKSPACE_START" file="image\WorkSpaceDlg\start_sync.png"/>
 <resid type="IMGX" name="IDP_DUI_WORKSPACE_LOGO" file="image\WorkSpaceDlg\workspace_logo.png"/>
+<resid type="IMGX" name="IDP_DUI_WORKSPACE_RIGHT_BKG" file="image\WorkSpaceDlg\TitlePanel\workspace_right_bkg.png"/>
 <resid type="IMGX" name="IDP_DUI_WORKSPACE_RECORD_LOADING_ITEM" file="image\WorkSpaceDlg\loading_item.gif"/>
 
 <!-- 文件页 -->
@@ -1289,3 +1296,12 @@
 <resid type="IMGX" name="IDP_DUI_WORKSPACE_STATUS_PANEL" file="image\WorkSpaceDlg\workspace_status_panel.png"/>
 <resid type="IMGX" name="IDP_DUI_WORKSPACE_FEEDBACK" file="image\WorkSpaceDlg\workspace_feedback.png"/>
 <resid type="IMGX" name="IDP_DUI_WORKSPACE_SYNCING_GIF" file="image\WorkSpaceDlg\syncing.gif"/>
+
+<!-- 工作空间目录迁移 -->
+<resid type="XML" name="IDR_DUI_WORKSPACE_FILECOPY_PROGRESS_DLG" layer="1" file="xml\MainPanel\WorkSpaceDlg\WorkspaceFileCopyProgressDlg\WorkspaceFileCopyProgressDlg.xml"/>
+<resid type="IMGX" name="IDP_DUI_WORKSPACE_FILECOPY_PROGRESS_BG_DLG" file="image\WorkspaceFileCopyDlg\bg_dlg.png"/>
+<resid type="IMGX" name="IDP_DUI_WORKSPACE_FILECOPY_PROGRESS_FILE_COPY" file="image\WorkspaceFileCopyDlg\file_copy.png"/>
+<resid type="IMGX" name="IDP_DUI_WORKSPACE_FILECOPY_PROGRESS_ICON_ERROR" file="image\WorkspaceFileCopyDlg\icon_error.png"/>
+<resid type="IMGX" name="IDP_DUI_WORKSPACE_FILECOPY_PROGRESS_ICON_SUCCESS" file="image\WorkspaceFileCopyDlg\icon_success.png"/>
+<resid type="IMGX" name="IDP_DUI_WORKSPACE_FILECOPY_PROGRESS_BTN_CANCEL" file="image\WorkspaceFileCopyDlg\btn_cancel.png"/>
+<resid type="IMGX" name="IDP_DUI_WORKSPACE_FILECOPY_PROGRESS_PROCESS_GIF" file="image\WorkspaceFileCopyDlg\process.gif"/>

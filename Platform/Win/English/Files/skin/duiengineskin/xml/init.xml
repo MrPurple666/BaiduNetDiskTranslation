@@ -1,6 +1,5 @@
 ﻿<DuiEngine>
-    <font face="Tahoma" size="11"/>
-
+    <font face="Segoe UI" size="12"/>
 
     <skins>
         <imgframe name="dlg_frame" src="IDP_MAIN_DLG_FRAME" left="5" right="5" top="40" bottom="60"/>
@@ -570,7 +569,14 @@
         <imgframe name="titlepanel_cert_status_icon" src="IDP_TITLEPANEL_CERT_STATUS_ICON" />     
         <imgframe name="titlepanel_bgk" src="IDP_TITLEPANEL_BGK"/>
         <imgframe name="titlepanel_vipcenter_cornel" src="IDP_TITLEPANEL_VIPRENEW_CORNEL" left="10" top="0" right="10" bottom="0"/>
-
+        <imglst name="workspace_titlepanel_headframe" src="IDP_WORKSPACE_TITLEPANEL_HEADFRAME"/>
+        <imglst name="workspace_titlepanel_close_btn" src="IDP_WORKSPACE_TITLEPANEL_CLOSE_BTN" subwidth="15"/>
+        <imglst name="workspace_titlepanel_maximize_btn" src="IDP_WORKSPACE_TITLEPANEL_MAXIMIZE_BTN" subwidth="15"/>
+        <imglst name="workspace_titlepanel_restore_btn" src="IDP_WORKSPACE_TITLEPANEL_RESTORE_BTN" subwidth="15"/>
+        <imglst name="workspace_titlepanel_minmize_btn" src="IDP_WORKSPACE_TITLEPANEL_MINIMIZE_BTN" subwidth="15"/>
+        <imglst name="workspace_titlepanel_setting_btn" src="IDP_WORKSPACE_TITLEPANEL_SETTING_BTN" subwidth="15"/>
+        <imgframe name="workspace_titlepanel_svip_btn" src="IDP_WORKSPACE_TITLEPANEL_SVIP_BTN" subwidth="60" top="4" left="10" right="10" bottom="4"/>
+        
         <!--用户卡片-->
         <imgframe name="usercard_notvip_bg" src="IDP_USERCARD_NOTVIP_BKG" left="20" top="50" right="20" bottom="20"/>
         <imgframe name="usercard_vip_bg" src="IDP_USERCARD_VIP_BKG" left="20" top="50" right="20" bottom="20"/>
@@ -1075,6 +1081,7 @@
         <imgframe name="workspace_recycle" src="IDP_DUI_WORKSPACE_RECYCLE" subwidth="16"/>
         <imgframe name="workspace_start" src="IDP_DUI_WORKSPACE_START" subwidth="16"/>
         <imgframe name="workspace_logo" src="IDP_DUI_WORKSPACE_LOGO"/>
+        <imgframe name="workspace_right_bkg" src="IDP_DUI_WORKSPACE_RIGHT_BKG"/>
         <gif name="workspace_file_record_load_item" src="IDP_DUI_WORKSPACE_RECORD_LOADING_ITEM"/>
 
         <imgframe name="workspace_file_btn_import" src="IDP_DUI_WORKSPACE_FILE_BTN_IMPORT" subwidth="14"/>
@@ -1121,6 +1128,15 @@
         <imgframe name="workspace_status_guide" src="IDP_DUI_WORKSPACE_FILE_THUMB_ITEM_STATUS_GUIDE"/>
         <imgframe name="workspace_feedback" src="IDP_DUI_WORKSPACE_FEEDBACK" subwidth="15"/>
         <gif name="workspace_syncing_gif" src="IDP_DUI_WORKSPACE_SYNCING_GIF" minframedelay="30"></gif>
+
+        <!-- 工作空间目录迁移 -->
+        <imgframe name="workspace_filecopy_progress_bg_dlg" src="IDP_DUI_WORKSPACE_FILECOPY_PROGRESS_BG_DLG" left="50" right="50" top="80" bottom="80"/>
+        <imgframe name="workspace_filecopy_progress_file_copy" src="IDP_DUI_WORKSPACE_FILECOPY_PROGRESS_FILE_COPY"/>
+        <imgframe name="workspace_filecopy_progress_icon_error" src="IDP_DUI_WORKSPACE_FILECOPY_PROGRESS_ICON_ERROR"/>
+        <imgframe name="workspace_filecopy_progress_icon_success" src="IDP_DUI_WORKSPACE_FILECOPY_PROGRESS_ICON_SUCCESS"/>
+        <imgframe name="workspace_filecopy_progress_btn_cancel" src="IDP_DUI_WORKSPACE_FILECOPY_PROGRESS_BTN_CANCEL" subwidth="64" left="30" right="30"/>
+        <gif name="workspace_filecopy_progress_process_gif" src="IDP_DUI_WORKSPACE_FILECOPY_PROGRESS_PROCESS_GIF" minframedelay="30"></gif>
+
     </skins>
 
     <style>
