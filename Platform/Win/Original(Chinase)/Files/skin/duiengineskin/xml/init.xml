@@ -569,7 +569,14 @@
         <imgframe name="titlepanel_cert_status_icon" src="IDP_TITLEPANEL_CERT_STATUS_ICON" />     
         <imgframe name="titlepanel_bgk" src="IDP_TITLEPANEL_BGK"/>
         <imgframe name="titlepanel_vipcenter_cornel" src="IDP_TITLEPANEL_VIPRENEW_CORNEL" left="10" top="0" right="10" bottom="0"/>
-
+        <imglst name="workspace_titlepanel_headframe" src="IDP_WORKSPACE_TITLEPANEL_HEADFRAME"/>
+        <imglst name="workspace_titlepanel_close_btn" src="IDP_WORKSPACE_TITLEPANEL_CLOSE_BTN" subwidth="15"/>
+        <imglst name="workspace_titlepanel_maximize_btn" src="IDP_WORKSPACE_TITLEPANEL_MAXIMIZE_BTN" subwidth="15"/>
+        <imglst name="workspace_titlepanel_restore_btn" src="IDP_WORKSPACE_TITLEPANEL_RESTORE_BTN" subwidth="15"/>
+        <imglst name="workspace_titlepanel_minmize_btn" src="IDP_WORKSPACE_TITLEPANEL_MINIMIZE_BTN" subwidth="15"/>
+        <imglst name="workspace_titlepanel_setting_btn" src="IDP_WORKSPACE_TITLEPANEL_SETTING_BTN" subwidth="15"/>
+        <imgframe name="workspace_titlepanel_svip_btn" src="IDP_WORKSPACE_TITLEPANEL_SVIP_BTN" subwidth="60" top="4" left="10" right="10" bottom="4"/>
+        
         <!--用户卡片-->
         <imgframe name="usercard_notvip_bg" src="IDP_USERCARD_NOTVIP_BKG" left="20" top="50" right="20" bottom="20"/>
         <imgframe name="usercard_vip_bg" src="IDP_USERCARD_VIP_BKG" left="20" top="50" right="20" bottom="20"/>
@@ -1074,6 +1081,7 @@
         <imgframe name="workspace_recycle" src="IDP_DUI_WORKSPACE_RECYCLE" subwidth="16"/>
         <imgframe name="workspace_start" src="IDP_DUI_WORKSPACE_START" subwidth="16"/>
         <imgframe name="workspace_logo" src="IDP_DUI_WORKSPACE_LOGO"/>
+        <imgframe name="workspace_right_bkg" src="IDP_DUI_WORKSPACE_RIGHT_BKG"/>
         <gif name="workspace_file_record_load_item" src="IDP_DUI_WORKSPACE_RECORD_LOADING_ITEM"/>
 
         <imgframe name="workspace_file_btn_import" src="IDP_DUI_WORKSPACE_FILE_BTN_IMPORT" subwidth="14"/>
