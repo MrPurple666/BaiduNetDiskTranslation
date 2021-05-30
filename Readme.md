@@ -1,4 +1,4 @@
-﻿# BaiduNetDisk
+# BaiduNetDisk
 
 Localization of the **BaiduNetDisk** program for PC in
 
@@ -46,19 +46,17 @@ The version portable does not require installation. Does not leave the tracks sy
 <details>
   <summary>Russian</summary>
 
+[![rusUI.th.jpg](https://fastpic.co/images/rusUI.th.jpg)](https://fastpic.co/image/AO8nHI)
 
+[![rusUIset.th.jpg](https://fastpic.co/images/rusUIset.th.jpg)](https://fastpic.co/image/AO8Wld)
 
-
-
-[![imageban](https://i2.imageban.ru/thumbs/2020.10.30/ff7e66d0b1de2ec70d9e5a4487aad4bb.png)](https://imageban.ru/show/2020/10/30/ff7e66d0b1de2ec70d9e5a4487aad4bb/png)
-[![imageban](https://i2.imageban.ru/thumbs/2020.10.30/054d89f1be84fc0ce8ca3e9d7dff0f2d.png)](https://imageban.ru/show/2020/10/30/054d89f1be84fc0ce8ca3e9d7dff0f2d/png)
-[![imageban](https://i2.imageban.ru/thumbs/2020.10.30/441799021a04f0e6b4931c78a364f16e.png)](https://imageban.ru/show/2020/10/30/441799021a04f0e6b4931c78a364f16e/png)
 </details>
 <details>
   <summary>English</summary>
 
-[![imageban](https://i1.imageban.ru/thumbs/2020.10.30/640a18a71d7fdbe0060c0966591185a3.png)](https://imageban.ru/show/2020/10/30/640a18a71d7fdbe0060c0966591185a3/png)
-[![imageban](https://i3.imageban.ru/thumbs/2020.10.30/768f38333bbbeff776643021293df959.png)](https://imageban.ru/show/2020/10/30/768f38333bbbeff776643021293df959/png)
+[![englishUI.th.jpg](https://fastpic.co/images/englishUI.th.jpg)](https://fastpic.co/image/AO86Zq)
+
+[![englishUIse.th.jpg](https://fastpic.co/images/englishUIse.th.jpg)](https://fastpic.co/image/AO8Eh2)
 </detail>
 </details>
 </details>
