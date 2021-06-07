@@ -153,9 +153,9 @@
   <s id="324">Delete friend</s>
   <s id="325">Blacklist</s>
   <s id="326">You haven't added any friends yet. First build a group and then invite friends to join ～</s>
-  <s id="327">You don't have a friend yet. Add a friend to share the file</s>
-    <s id="328">You haven't joined the group yet～</s>
-  <s id="329">Choose a friend on the left and start sharing files ～</s>
+  <s id="327">Add a friend to share the file</s>
+  <s id="328">You haven't joined the group yet</s>
+  <s id="329">Choose a friend on the left and start sharing files </s>
   <s id="330">After joining the blacklist, you will no longer receive messages from the other party. Do you want to continue? (the blacklist can be removed on the webpage)</s>
   <s id="331">Click add note</s>
   <s id="332">Exit group</s>
@@ -475,7 +475,7 @@
   <s id="931">WPS打开文档更便捷，支持多种格式文档查看和编辑</s>
   <s id="932">下载WPS</s>
   <s id="933">直接打开</s>
-  
+
   <!--帐号异常提示-->
   <s id="951">The exception prompt</s>
 
@@ -532,7 +532,7 @@
   <s id="1157">Save document to the web</s>
   <s id="1158">Document history version function is turned on</s>
   <s id="1159">Historical version can be enabled in settings</s>
-  
+
   <!--垃圾清理对话框-->
    <s id="1200">Junk File Cleaner</s>
   <s id="1202">Scan duplicate files</s>
@@ -1242,7 +1242,7 @@
   <s id="3319">1080P</s>
   <s id="3320">2K</s>
   <s id="3321">4K</s>
-    
+
   <!--File Uploadtip-->
   <s id="3400">Save to Baidu Net Disk</s>
   <s id="3401">Uploading to(%s) folder</s>
@@ -1252,7 +1252,7 @@
 
     <!--Device logout-->
   <s id="3410">This device has been logged out</s>
-  <s id="3411">This device has been logged out! If not operated by yourself, please change the password in time to avoid the loss of stored data.</s> 
+  <s id="3411">This device has been logged out! If not operated by yourself, please change the password in time to avoid the loss of stored data.</s>
   <s id="3412"> OK </s>
 
     <!--Mutual assistance speed-up function-->
@@ -1274,7 +1274,7 @@
   <!--Function treasure chest-->
   <s id="3435">Equipment management</s>
   <s id="3436">Manage login devices to protect account security</s>
-  
+
   <!--Batch share links-->
   <s id="3437">You set a limit on the number of visitors, and the number of visitors per link is limited to %d</s>
   <s id="3438">Number of links created</s>
@@ -1322,7 +1322,7 @@
   <s id="3529">File size that can be backed up this month：%s</s>
   <s id="3530">You can enjoy the folder automatic backup unlimited amount</s>
   <s id="3531">You enjoy unlimited privileges of automatic backup</s>
-  
+
   <s id="3532">Traffic used this month</s>
   <s id="3533">0G/10G</s>
   <s id="3534">Open super member backup is not limited></s>
@@ -1665,7 +1665,7 @@
   <s id="4517">No synchronization file</s>
   <s id="4518">Synchronization has been completed</s>
   <s id="4519">Synchronize</s>
-  <s id="4520">time out</s>
+  <s id="4520">Automatic synchronization has been paused, click the button on the right to restart</s>
   <s id="4521">Insufficient network disk space</s>
   <s id="4522">Insufficient local space, automatically synchronize after cleaning</s>
   <s id="4523">Network abnormal network, please check the network</s>
@@ -1695,7 +1695,7 @@
   <s id="4548">Purchase capacity package ></s>
   <s id="4549">To be deleted</s>
   <s id="4550">customer feedback</s>
-  <s id="4551">Unlimited synchronization</s>
+  <s id="4551">Unlimited synchronization is in effect</s>
   <s id="4552">Enjoy unlimited synchronization privilege</s>
   <s id="4553">Speed synchronization</s>
   <s id="4554">Synchronous traffic</s>
@@ -1726,6 +1726,7 @@
   <s id="4617">In your work space, I didn't find the corresponding content.</s>
   <s id="4618">The consistency of the file, any change is real-time synchronization</s>
   <s id="4619">Synchronous traffic this month has been used</s>
+  <s id="4620">Unlimited sync privilege has expired</s>
 
   <s id="4650">Function boot</s>
   <s id="4651">View local file location</s>
@@ -1740,6 +1741,11 @@
   <s id="4660">Click here to view the file synchronization status</s>
   <s id="4661">Tip: Click the right button to synchronize the exception file.</s>
   <s id="4662">Resynchronize</s>
+  <s id="4663">The current account is ongoing data migration</s>
+  <s id="4664">Select the download directory</s>
+  <s id="4665">Select synchronization directory</s>
+  <s id="4666">Tip: Click on the right button to re-sync the task</s>
+  <s id="4667">Reset synchronization</s>
 
   <!-- tray -->
   <s id="4700">Synchronous traffic is insufficient</s>
@@ -1766,6 +1772,7 @@
   <s id="4723">"file</s>
   <s id="4724">"Wait%dFile</s>
   <s id="4725">The remaining synchronous traffic this month is insufficient, soon to stop synchronization</s>
+  <s id="4726">Synchronous information comparison, please wait patiently</s>
 
   <!-- Synchronous disk operation record-->
   <s id="4750">Operating type</s>
@@ -1788,6 +1795,7 @@
   <s id="4768">Loading, please wait...</s>
   <s id="4769">Open an error folder</s>
   <s id="4770">Synchronous path error</s>
+  <s id="4771">Machine</s>
 
   <s id="4801">The file is too large, more than%dG upload size limit</s>
   <s id="4802">The file is too large, and the member supports uploading the largest%dGtext.件</s>
@@ -1804,7 +1812,24 @@
   <s id="4818">Synchronous failure【%d】</s>
   <s id="4819">The local directory does not exist, please click the right button to restart synchronization</s>
   <s id="4820">Workspace synchronous abnormalities</s>
-  <s id="4821">Workspace local synchronous path creation failed!</s>
+  <s id="4821">Failed to create the local synchronization path of the workspace! Please set a valid path in "Settings-Workspace-Change Synchronization Directory"!</s>
   <s id="4822">Local deletion failed, files are occupied</s>
+
+  <s id="4850">data migration</s>
+  <s id="4851">Migrating data, please be patient...</s>
+  <s id="4852">Data migration is successful</s>
+  <s id="4853">Data migration failed</s>
+  <s id="4854">Retry</s>
+  <s id="4855">cancel</s>
+  <s id="4856">determine</s>
+  <s id="4857">Save your file in a new directory, the files in the old directory are no longer updated, and the release computer space can be removed.</s>
+  <s id="4858">If the disk remains in the disk, please re-select</s>
+  <s id="4859">Calculate disk size, please wait patiently...</s>
+
+  <!-- blank page -->
+  <s id="4900">Mushing your computer file into</s>
+  <s id="4901">Local work space folder</s>
+  <s id="4902">That's in sync</s>
+  <s id="4903">This document in the computer will also be deleted synchronously. Please take carefully\r\nTip: I am deleting files in synchronization, such as deleting failed, please try again later</s>
 
 </string>

@@ -29,7 +29,7 @@
   <String id="IDS_CRT_GRP_NO_RT_DETAIL" value="View Details" />
   <String id="IDS_SYSMSG_TITLE" value="Prompted" />
   <String id="IDS_SONG_TYPEFACE" value="Times New Roman" />
-  
+
   <!--主面板 -->
   <String id="IDS_TITLEBAR_MENUBTN_SETTING" value="Settings" />
   <String id="IDS_TITLEBAR_BTN_USERHELP" value="Help" />
@@ -50,8 +50,8 @@
   <String id="IDS_HOTRESVIEW_LOAD_FAILED" value="There was a problem loading resource. Please wait a moment and then try again~" />
   <String id="IDS_HOTRESVIEW_TIP_NETWORK_ERROR" value="Please check network connection" />
   <String id="IDS_HOTRESVIEW_TIP_RETRY" value="retry" />
-  
-  <!--主面板标题栏--> 
+
+  <!--主面板标题栏-->
   <String id="IDS_TIPTEXT_INVALID_UPLOADINGFILES" value="Does not support this type of file uploads" />
   <String id="IDS_TIPTEXT_EXIT_WITHTASKRUNNING" value="Task is still running. Exit anyway?" />
   <String id="IDS_TIPTEXT_EXIT_WITHTASKRUNNING_GENERATING" value="After exiting, the task being transferred cannot be performed, and the queued tasks may be lost. Are you sure you want to exit?" />
@@ -178,6 +178,7 @@
   <String id="IDS_SHARE_NETWORK_FAIL" value="Network connection failed, please try again later" />
   <String id="IDS_SHARE_CREATE_LINK" value="Create Link" />
   <String id="IDS_SHARE_CREATING_LINK" value="Creating sharing link, please wait ..." />
+  <String id="IDS_SHARE_CREATING_DOWNLOAD_SPEEDUP_LINK" value="Please wait,creating sharing link..." />
   <String id="IDS_SHARE_COPY_LINK_SUCCESS" value="Copy successful" />
   <String id="IDS_SHARE_LINK_SHARE" value="Share with friends via QQ, WeChat, Weibo, QQ " />
   <String id="IDS_SHARE_TABBUTTON_LINKSHARE" value="Share Link" />
@@ -196,15 +197,31 @@
   <String id="IDS_SHARE_PUBLIC_LINK_EXPIRE_7DAYS" value="7 day" />
   <String id="IDS_SHARE_PUBLIC_LINK_EXPIRE_1DAYS" value="1 day" />
   <String id="IDS_SHARE_PUBLIC_LINK_DAYS_EXPIRE" value="Link %d Days expired" />
-  
+  <String id="IDS_SHARE_PUBLIC_LINK_ENT_TICKET_NUM" value="，With %d speed download coupons" />
+
   <String id="IDS_SHARE_LINK_TYPE_SYSTEM_GENERATED_PWD" value="The system randomly generates an extraction code" />
   <String id="IDS_SHARE_LINK_TYPE_SYSTEM_GENERATED_PWD_DECS" value="Generate a new extraction code randomly every time" />
   <String id="IDS_SHARE_LINK_TYPE_USER_DEFINED_PWD" value="Custom extraction code" />
   <String id="IDS_SHARE_LINK_TYPE_USER_DEFINED_PWD_WARNNING" value="Repeated use of the same extraction code has the risk of leakage, please exercise caution" />
   <String id="IDS_SHARE_LINK_TYPE_USER_DEFINED_PWD_DECS" value="Support 4 letters or numbers" />
   <String id="IDS_SHARE_LINK_TYPE_PRIVATE_WITH_NO_PWD_WARNNING" value="You can view without extracting the code, it is recommended not to select this option for company documents and private documents" />
-  <String id="IDS_SHARE_LINK_TYPE_USER_DEFINED_PWD_PLEASE_INPUT" value="Only 4 letters or numbers can be entered" /> 
-    
+  <String id="IDS_SHARE_LINK_TYPE_USER_DEFINED_PWD_PLEASE_INPUT" value="Only 4 letters or numbers can be entered" />
+
+  <String id="IDS_SHARE_LINK_ENT_PRIV" value="Corporate Rights:"/>
+  <String id="IDS_SHARE_LINK_ENT_PRIV_ADD_DOWNLOAD_TICKET" value="Add speed download coupon"/>
+  <String id="IDS_SHARE_LINK_ENT_PRIV_USE_DOWNLOAD_TICKET_NUM" value="usage amount"/>
+  <String id="IDS_SHARE_LINK_ENT_PRIV_TOTAL_DOWNLOAD_TICKET_NUM" value="Available%dOpen"/>
+  <String id="IDS_SHARE_LINK_ENT_PRIV_DOWNLOAD_TICKET_EXPIRY" value="among them%dTickets are valid until%s(Priority use)"/>
+  <String id="IDS_SHARE_LINK_ENT_PRIV_NONE_DOWNLOAD_TICKET" value="No speed download voucher"/>
+  <String id="IDS_SHARE_LINK_ENT_PRIV_BUY_DESC" value="Give my customers to send speed download coupons, enjoy fast save and download"/>
+  <String id="IDS_SHARE_LINK_ENT_PRIV_DESC_TIP" value="1、What is the equity of speed download coupons?Including the file within the link supports speed download, single transition file number increase and WeChat preview full video 3 rights。
+  2、Speed download coupon use period?1 year from the date of purchase, the expired did not retreat。
+  3、How does the other party receive the rights and interests after adding a speed download voucher?After receiving the sharing link, the other party is saved, downloaded or previewed, and within 1 year from the date of share, the recipient can enjoy the corresponding rights for the files under the link.。
+  4、How to add a download ticket?Network Disk App - My - My Sharing - Share Details, View Voucher Use and Additional Voucher。
+  5、How to handle the expiration speed download ticket?If you share an expiration, the added coupon is not running, you can restore expired sharing in the sharing details, and the coupon can recover."/>
+  <String id="IDS_SHARE_LINK_ENT_PRIV_BUY" value="Buy>"/>
+  <String id="IDS_SHARE_LINK_ENT_PRIV_TICKET_TIP" value="-- from enterprise account (%s)Speed enjoys link"/>
+
 
       <!-- 批量创建链接-->
   <String id="IDS_SHARE_LINK_ACCESS_NUMBER" value="Number of visitors:" />
@@ -263,7 +280,7 @@
   <String id="IDS_TRANPANEL_PORTABLEDEV_PAUSE" value="Portable Device Pause" />
   <String id="IDS_TRANPANEL_PORTABLEDEV_START" value="Portable Device Start" />
   <String id="IDS_TRANPANEL_PORTABLEDEV_DELETE" value="Portable Device Delete" />
-  
+
  <String id="IDS_TRANPANEL_OPENBTN" value="open" />
   <String id="IDS_TRANPANEL_CLEARHISBTN" value="Clear history" />
   <String id="IDS_TRANPANEL_TOTALHISCOUNT_TIP1" value="Total transfers complete " />
@@ -330,7 +347,7 @@
   <String id="IDS_TRANPANEL_UPLOAD_REQUESTING_TIP" value="Upload request..." />
   <String id="IDS_TRANPANEL_REQUESTING_TIP" value="Request..." />
   <!--传输面板错误提示 -->
-  
+
   <!--传输错误解决方案链接-->
   <String id="IDS_RESOLUTION_LOCAL_FILE_SIZE_TOO_BIG" value="File too big" />
   <String id="IDS_RESOLUTION_LOCAL_FILE_SIZE_SUPER_BIG" value="File to Super big" />
@@ -383,7 +400,7 @@
   <String id="IDS_ERRORTIP_CLOUDTASK_PATH_INVALID" value="Other device download path is invalid" />
   <String id="IDS_ERRORTIP_CLOUDTASK_FILE_OCCUPIED" value="Other device push fail, file in use" />
   <String id="IDS_ERRORTIP_CLOUDTASK_NO_USB_PLUGED_INBOXORTV" value="No USB plugged in Box/TV" />
-  
+
   <!--加速服务提示 -->
   <String id="IDS_ERRORTIP_EXPERIENCE_SPEEDUP_FAIL" value="Experience Speed Up Failure" />
   <String id="IDS_ERRORTIP_SPEEDUPSERVICE_BINDED" value="Speed up service for current account is over" />
@@ -544,7 +561,7 @@
 
  <String id="IDS_STATIC_PASSWORD_PROTECT"   value=" Password protection" />
   <String id="IDS_STATIC_TRANSFER_COMPLETE_TIP"   value=" transfer is complete" />
-  
+
   <String id="IDS_STATIC_SPACE_USED"   value="Capacity Used %s/Total space %s" />
   <String id="IDS_STATIC_CHANGE_DIR"   value="Change directory" />
   <String id="IDS_STATIC_QUIT_CURRENT_ACCOUNT"   value="Are you sure you want to quit the current account?" />
@@ -598,7 +615,7 @@
   <String id="IDS_BACKUP_STATIC_TIP2" value="2.Occasional updates, photos"/>
   <String id="IDS_BACKUP_STATIC_TOAST_TEXT" value="Success"/>
   <String id="IDS_BACKUP_SAFEBOX_TIP" value="Safe box does not support multiple versions"/>
-  
+
   <!--新用户引导窗口 -->
   <String id="IDS_USERGUIDEPAGE_TITLE_FORQA"    value="Beginners guide" />
   <String id="IDS_USERGUIDEPAGE_TITLE"    value="Beginners guide" />
@@ -606,7 +623,7 @@
   <String id="IDS_USERGUIDEPAGE_FOREWARD_STEP" value="Previous" />
   <String id="IDS_USERGUIDEPAGE_NEXT_STEP"     value="Next" />
   <String id="IDS_USERGUIDEPAGE_FINISH"        value="Complete" />
-  
+
   <!--代理设置 -->
   <String id="IDS_PROXYSETTING_TITLE" value="Proxy settings" />
   <String id="IDS_PROXYSETTING_TITLE_NET_SETTING" value=" Network settings" />
@@ -773,7 +790,7 @@
   <String id="IDS_BUTTON_REDOWNLOAD" value="Download Baidu NetDisk" />
   <String id="IDS_BUTTON_EXIT" value="Exit" />
   <String id="IDS_TIP_CAPTION" value="Prompt" />
- 
+
   <!-- 列表视图相关字符串资源 -->
   <String id="IDS_LISTVIEW_COLUMN_FILENAME" value="File Name" />
   <String id="IDS_LISTVIEW_COLUMN_FILESIZE" value="File Size" />
@@ -829,13 +846,13 @@
   <String id="IDS_MUTLTIFOLDERDLG_SELECT_DIR" value="Frequently used files folder not detected, manually select it" />
   <String id="IDS_MUTLTIFOLDERDLG_BAOHE_WARNNING" value="The selected directory contains the synchronization disk directory. It will be repeated to continue to back up the network disk files. \r\nContinue?" />
 
-  
+
   <!--标题栏vip提示 -->
   <String id="IDS_TITLE_VIP_CLOSE_TIP" value="Upgrade Member" />
   <String id="IDS_TITLE_VIP_OPEN_TIP" value="Open Member" />
   <String id="IDS_TITLE_SVIP_OPEN_TIP" value="Super member opened" />
   <String id="IDS_TITLE_BUY_SPACE_TIP" value="Click to expand" />
-  
+
   <!--网络加速提示 -->
   <String id="IDS_SPEEDUP_BTN_TRY" value="Try it now" />
   <String id="IDS_SPEEDUP_BTN_BUY" value="Buy now" />
@@ -858,7 +875,7 @@
    <String id="IDS_CARDSPEEDUP_OPEN_TIP" value="Purchase the free download card, enjoy extremely fast downloading" />
    <String id="IDS_CARDSPEEDUP_USING_TIP" value="High speed download has been turned on for you" />
    <String id="IDS_CARDSPEEDUP_END_TIP" value="Common download will resume soon" />
-  
+
   <!--极速下载券提示 -->
   <String id="IDS_SPEEDUP_BTN_EXTEND" value="Continue to accelerate" />
   <String id="IDS_SPEEDUPTICKET_REMINDING_1_TIP" value="(%d hours remaining)" />
@@ -888,7 +905,7 @@
   <String id="IDS_SPEEDUPCARD_MSGBOX_TITLE_TIP" value="提示" />
   <String id="IDS_SPEEDUPCARD_MSGBOX_OKBTN_TIP" value="购买成功" />
   <String id="IDS_SPEEDUPCARD_MSGBOX_CANCELBTN_TIP" value="支付遇到问题" />
-  
+
     <!--Select the directory server-->
   <String id="IDS_STATIC_SERVERDIRDLG_INFO_TOOMUCHLEVEL" value="Limit exceeded: %d level directory supported." />
   <String id="IDS_STATIC_GET_SERVER_SUBDIR_FAIL"   value="Get Server Folder failed" />
@@ -1148,7 +1165,7 @@
   <String id="IDS_SPEEDFEECBACKDLG_STATIC_TEXT_THANK_TIP" value="Thank you for your feedback!" />
   <String id="IDS_SPEEDFEECBACKDLG_BUTTON_SUBMIT" value="Submit" />
   <String id="IDS_SPEEDFEECBACKDLG_BUTTON_FINISH" value="Finish" />
-  
+
   <!--速度慢提示-->
   <String id="IDS_SPEEDFEECBACKTIP_SPEEDSLOW" value="Transfer speed is slow?" />
   <String id="IDS_SPEEDFEECBACKTIP_FEEDBACK" value="Please leave feedback" />
@@ -1220,7 +1237,7 @@
   <String id="IDS_ONLINEDIT_APPLOCKED_TEXT" value="Your network disk is locked. You cannot update uploaded files during the lock period. \r\nPlease unlock the network disk first" />
   <String id="IDS_ONLINEDIT_APPLOCKED_OK" value="OK" />
   <String id="IDS_ONLINEDIT_DOWNLOADED_AUTOOPEN" value="Already in download, opens automatically when completed" />
-          
+
   <!--垃圾清理引导弹窗-->
   <String id="IDS_GARBAGE_FILE_CLEAN_TEXT_LINE1" value="There are a lot of duplicate files in your network drive" />
   <String id="IDS_GARBAGE_FILE_CLEAN_TEXT_LINE2" value="Free up %s space after cleaning" />
@@ -1314,7 +1331,7 @@
    <!--New version of automatic backup-->
   <String id="IDS_AUTOBACKUP_GUIDE_TIP" value="No need to upload manually! Turn on automatic folder backup to view frequently used files on your computer anytime, anywhere." />
   <String id="IDS_AUTOBACKUP_GUIDE_TIP_BTN" value="Go see" />
-    
+
   <!--Cross-terminal transmission path setting-->
   <String id="IDS_SETTING_STATIC_TEXT_TRANSFERDIR" value=" Fast file transfer location selection:" />
   <String id="IDS_SETTING_STATIC_TEXT_TRANSFER_DEFAULTDIR" value="Fast file transfer" />
@@ -1367,5 +1384,12 @@
   <String id="IDS_WORKSPACE_SAVE_LOCAL_PATH" value="Local synchronization directory:" />
   <String id="IDS_WORKSPACE_TRAY_NAME" value="Network disk workspace" />
   <String id="IDS_WORKSPACE_FILEVERSIONDLG_TITLENAME"  value="historic version" />
+
+  <String id="IDS_WORKSPACE_CHANGE_LOCAL_SYNC_PACH"  value="Replace synchronization directory" />
+  <String id="IDS_WORKSPACE_CHANGE_LOCAL_SYNC_PACH_INVALID_TIP"  value="If the path is invalid, please select" />
+  <String id="IDS_WORKSPACE_CHANGE_LOCAL_SYNC_PACH_IS_SUBDIR_TIP"  value="You can not choose your own subdirectory, please re-selectе" />
+  <String id="IDS_WORKSPACE_CHANGE_LOCAL_SYNC_PACH_ACCESS_DENY_TIP"  value="If the folder is not written, please select" />
+  <String id="IDS_WORKSPACE_CHANGE_LOCAL_SYNC_PACH_QUOTA_LESS_TIP"  value="If the disk remains on the disk, please select" />
+  <String id="IDS_WORKSPACE_CHANGE_LOCAL_SYNC_PACH_SAME_TIP"  value="The original synchronization path is the same as the selected synchronization path, please select" />
 
 </StringTable>
