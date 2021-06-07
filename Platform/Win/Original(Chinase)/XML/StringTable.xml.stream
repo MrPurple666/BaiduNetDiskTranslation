@@ -175,6 +175,7 @@
   <String id="IDS_SHARE_NETWORK_FAIL" value="网络连接失败，请稍后重试" />
   <String id="IDS_SHARE_CREATE_LINK" value="创建链接" />
   <String id="IDS_SHARE_CREATING_LINK" value="正在创建分享链接，请稍候..." />
+  <String id="IDS_SHARE_CREATING_DOWNLOAD_SPEEDUP_LINK" value="正在创建极速畅享分享链接，请稍候..." /> 
   <String id="IDS_SHARE_COPY_LINK_SUCCESS" value="复制成功" />
   <String id="IDS_SHARE_LINK_SHARE" value="通过QQ、微信、微博、QQ空间等分享给好友吧" />
   <String id="IDS_SHARE_TABBUTTON_LINKSHARE" value="私密链接分享" />
@@ -341,6 +342,7 @@
   <String id="IDS_TRANPANEL_DOWNLOAD_REQUESTING_TIP" value="下载请求中..." />
   <String id="IDS_TRANPANEL_UPLOAD_REQUESTING_TIP" value="上传请求中..." />
   <String id="IDS_TRANPANEL_REQUESTING_TIP" value="请求中..." />
+  <String id="IDS_TRANPANEL_ENT_DOWNLOAD_SPEEDUP_TEXT" value="企业极速畅享" />
   <!--传输面板错误提示 -->
   
   <!--传输错误解决方案链接-->

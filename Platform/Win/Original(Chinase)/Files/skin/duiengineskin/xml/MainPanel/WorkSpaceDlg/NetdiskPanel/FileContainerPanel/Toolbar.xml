@@ -1,6 +1,6 @@
 <dlg name="Toolbar" pos="0,0,-0,-0">
-  <imgbtn name="btn_upload" pos="24,24,@92,@30" skin="workspace_file_toolbar_darkblue_btn" icoskin="workspace_file_btn_upload" icoxoffset="24" icoyoffset="8" txtxoffset="44" font="0000:微软雅黑" hoverfont="0004:微软雅黑" crtext="ffffff" crdisabled="AFB3BF" textmode="40824" cursor="arrow">%str2150%</imgbtn>
-  <dlg name="dlg_buttons" pos="[6,24,-210,@30" skin="workspace_file_toolbar_lightblue_btn">
+  <!-- <imgbtn name="btn_upload" pos="24,24,@92,@30" skin="workspace_file_toolbar_darkblue_btn" icoskin="workspace_file_btn_upload" icoxoffset="24" icoyoffset="8" txtxoffset="44" font="0000:微软雅黑" hoverfont="0004:微软雅黑" crtext="ffffff" crdisabled="AFB3BF" textmode="40824" cursor="arrow">%str2150%</imgbtn> -->
+  <dlg name="dlg_buttons" pos="24,24,-210,@30" skin="workspace_file_toolbar_lightblue_btn">
     <imgbtn name="btn_createdir" pos="0,0,@116,@30" skin="workspace_file_toolbar_bg_transparent" icoskin="workspace_file_btn_newfolder" icoxoffset="24" icoyoffset="8" txtxoffset="44" font="0000:微软雅黑" hoverfont="0004:微软雅黑" crtext="06A7FF" crdisabled="AFB3BF" textmode="40824" cursor="arrow">%str2154%</imgbtn>
     <imgbtn name="btn_import" pos="[0,0,@128,@30" skin="workspace_file_toolbar_bg_transparent" icoskin="workspace_file_btn_import" icoxoffset="12" icoyoffset="8" txtxoffset="32" font="0000:微软雅黑" hoverfont="0004:微软雅黑" crtext="06A7FF" crdisabled="AFB3BF" textmode="40824" cursor="arrow">%str4600%</imgbtn>
   </dlg>
