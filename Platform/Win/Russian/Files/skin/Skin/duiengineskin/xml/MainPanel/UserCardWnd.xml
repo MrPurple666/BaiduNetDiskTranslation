@@ -1,14 +1,14 @@
-<layer name="UserCardWnd" width="380" height="92" appwin="0" toolwindow="1" ncRect="5,5,5,5" translucent="1" nomaxsize="1">
+<layer name="UserCardWnd" width="390" height="92" appwin="0" toolwindow="1" ncRect="5,5,5,5" translucent="1" nomaxsize="1">
   <body>
     <dlg name="dlg_main" pos="0,0,-0,-0" skin="usercard_notvip_bg">
 	  <dlg pos="15,26,-15,-15">
 	    <dlg name="dlg_bottom" pos="0,-40,-0,-0">
-            <hr pos="25,0,@200,@1" crbg="F1F2F4" size="1"/>	
-            <imgbtn name="btn_personal_center" pos="0,0,@150,@40" class="cls_usercard_table_btn">%str1512%</imgbtn>
-            <hr pos="125,10,@1,@22" crbg="F1F2F4" size="1"/>	
-            <imgbtn name="btn_help_center" pos="125,0,@110,@40" class="cls_usercard_table_btn">%str1513%</imgbtn>
-            <hr pos="212,10,@1,@22" crbg="F1F2F4" size="1"/>	
-            <imgbtn name="btn_logout" pos="212,0,@110,@40" class="cls_usercard_table_btn">%str1514%</imgbtn>
+            <hr pos="10,0,@290,@1" crbg="F1F2F4" size="1"/>	
+            <imgbtn name="btn_personal_center" pos="5,0,@140,@40" class="cls_usercard_table_btn">%str1512%</imgbtn>
+            <hr pos="143,10,@1,@22" crbg="F1F2F4" size="1"/>	
+            <imgbtn name="btn_help_center" pos="134,0,@120,@40" class="cls_usercard_table_btn">%str1513%</imgbtn>
+            <hr pos="243,10,@1,@22" crbg="F1F2F4" size="1"/>	
+            <imgbtn name="btn_logout" pos="243,0,@120,@40" class="cls_usercard_table_btn">%str1514%</imgbtn>
 	    </dlg>
 	  </dlg>
 	</dlg>

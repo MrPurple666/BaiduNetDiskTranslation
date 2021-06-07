@@ -27,7 +27,7 @@
   <String id="IDS_CRT_GRP_NO_RT_DETAIL" value="Подробно" />
   <String id="IDS_SYSMSG_TITLE" value="Состояние" />
   <String id="IDS_SONG_TYPEFACE" value="Arial" />
-  
+
   <!--Основная панель -->
   <String id="IDS_TITLEBAR_MENUBTN_SETTING" value="Настройки" />
   <String id="IDS_TITLEBAR_BTN_USERHELP" value="Помощь" />
@@ -48,7 +48,7 @@
   <String id="IDS_HOTRESVIEW_LOAD_FAILED" value="Загрузка не удалось" />
   <String id="IDS_HOTRESVIEW_TIP_NETWORK_ERROR" value="Пожалуйста, проверьте подключение к сети" />
   <String id="IDS_HOTRESVIEW_TIP_RETRY" value="Повтор" />
-  
+
   <!--Строка заголовка главной панели-->
   <String id="IDS_TIPTEXT_INVALID_UPLOADINGFILES" value="Тип файла не поддерживается" />
   <String id="IDS_TIPTEXT_EXIT_WITHTASKRUNNING" value="После закрытия, все задачи будут остановлены. Выйти?" />
@@ -176,6 +176,12 @@
   <String id="IDS_SHARE_NETWORK_FAIL" value="Не удалось подключиться к сети, повторите попытку позже" />
   <String id="IDS_SHARE_CREATE_LINK" value="Создать ссылку" />
   <String id="IDS_SHARE_CREATING_LINK" value="Создайте ссылку для обмена, пожалуйста, подождите ..." />
+<<<<<<< Updated upstream
+  <String id="IDS_SHARE_CREATING_DOWNLOAD_SPEEDUP_LINK" value="Создание быстрой ссылки для обмена, подождите..." /> 
+=======
+  <String id="IDS_TRANPANEL_ENT_DOWNLOAD_SPEEDUP_TEXT" value="Предприятия наслаждаются скоростью" />
+  
+>>>>>>> Stashed changes
   <String id="IDS_SHARE_COPY_LINK_SUCCESS" value="Копирование успешно" />
   <String id="IDS_SHARE_LINK_SHARE" value="Поделиться с друзьями через QQ, WeChat, Weibo, QQ" />
   <String id="IDS_SHARE_TABBUTTON_LINKSHARE" value="Поделиться ссылкой" />
@@ -195,15 +201,15 @@
   <String id="IDS_SHARE_PUBLIC_LINK_EXPIRE_1DAYS" value="1д" />
   <String id="IDS_SHARE_PUBLIC_LINK_DAYS_EXPIRE" value=" Ссылка истечет  через %d дней" />
   <String id="IDS_SHARE_PUBLIC_LINK_ENT_TICKET_NUM" value="，билет на экспресс с %d" />
- 
+
   <String id="IDS_SHARE_LINK_TYPE_SYSTEM_GENERATED_PWD" value="Система случайным образом генерирует код потверждения" />
   <String id="IDS_SHARE_LINK_TYPE_SYSTEM_GENERATED_PWD_DECS" value="Генерация нового кода потверждения случайным образом каждый раз" />
   <String id="IDS_SHARE_LINK_TYPE_USER_DEFINED_PWD" value="Пользовательский код потверждения" />
   <String id="IDS_SHARE_LINK_TYPE_USER_DEFINED_PWD_WARNNING" value="Повторное использование одного и того же кода потверждения может привести к утечке" />
   <String id="IDS_SHARE_LINK_TYPE_USER_DEFINED_PWD_DECS" value="Поддержка 4 буквы или цифры" />
   <String id="IDS_SHARE_LINK_TYPE_PRIVATE_WITH_NO_PWD_WARNNING" value="Вы можете просматривать без потверждения кода, рекомендуется не выбирать эту опцию для документов компании и личных документов" />
-  <String id="IDS_SHARE_LINK_TYPE_USER_DEFINED_PWD_PLEASE_INPUT" value="Можно ввести только 4 буквы или цифры" /> 
-    
+  <String id="IDS_SHARE_LINK_TYPE_USER_DEFINED_PWD_PLEASE_INPUT" value="Можно ввести только 4 буквы или цифры" />
+
   <String id="IDS_SHARE_LINK_ENT_PRIV" value="Права предприятия:"/>
   <String id="IDS_SHARE_LINK_ENT_PRIV_ADD_DOWNLOAD_TICKET" value="Добавить скорость Скачать купон"/>
   <String id="IDS_SHARE_LINK_ENT_PRIV_USE_DOWNLOAD_TICKET_NUM" value="Сумма использования"/>
@@ -211,14 +217,14 @@
   <String id="IDS_SHARE_LINK_ENT_PRIV_DOWNLOAD_TICKET_EXPIRY" value="среди них%dБилеты действительны до%s(Приоритетное использование)"/>
   <String id="IDS_SHARE_LINK_ENT_PRIV_NONE_DOWNLOAD_TICKET" value="Нет скорости Скачать ваучер"/>
   <String id="IDS_SHARE_LINK_ENT_PRIV_BUY_DESC" value="Дайте своим клиентам отправлять скорость скачать купоны, наслаждайтесь быстрой сохранением и скачать"/>
-  <String id="IDS_SHARE_LINK_ENT_PRIV_DESC_TIP" value="1. Какие права у вас есть? Включение файла в ссылку поддерживает скорость загрузки, количество файлов с разовой передачей и предварительный просмотр WeChat 3. 
+  <String id="IDS_SHARE_LINK_ENT_PRIV_DESC_TIP" value="1. Какие права у вас есть? Включение файла в ссылку поддерживает скорость загрузки, количество файлов с разовой передачей и предварительный просмотр WeChat 3.
   2. Как долго действует купон? Через год с даты покупки, если она просрочена, она не возвращается.
   3. Как может другая сторона заявить права и интересы после добавления купона быстрой загрузки в совместное использование? После получения ссылки для совместного использования другая сторона сохранит, загрузит или предварительно просмотрит ее. В течение одного года с момента отправки получатель может пользоваться соответствующими правами и интересами в отношении файлов по ссылке.
   4. Как добавить купон на скачивание? Онлайн-приложение - моя - моя доля - поделитесь подробностями. Вы можете проверить использование купонов и добавить похожие купоны.
   5. Что делать с просроченными купонами на скачивание? Если срок действия акции истек, а добавленный купон не был израсходован, вы можете восстановить истекшую долю в деталях акции, и купон может быть восстановлен."/>
   <String id="IDS_SHARE_LINK_ENT_PRIV_BUY" value="Перейти к покупке>"/>
   <String id="IDS_SHARE_LINK_ENT_PRIV_TICKET_TIP" value="- от корпоративного счета【%s】Скорость наслаждается ссылкой"/>
-    
+
   <!-- Создавайте ссылки оптом-->
   <String id="IDS_SHARE_LINK_ACCESS_NUMBER" value="Количество посетителей:" />
   <String id="IDS_SHARE_LINK_ACCESS_NO_LIMIT" value="Неограниченный" />
@@ -344,7 +350,7 @@
   <String id="IDS_TRANPANEL_UPLOAD_REQUESTING_TIP" value="Загужаю ответ ..." />
   <String id="IDS_TRANPANEL_REQUESTING_TIP" value="Запрос..." />
   <!--Сообщение об ошибке на панели передачи -->
-  
+
   <!--Ссылка на решение об ошибке передачи-->
   <String id="IDS_RESOLUTION_LOCAL_FILE_SIZE_TOO_BIG" value="Файл слишком большой" />
   <String id="IDS_RESOLUTION_LOCAL_FILE_SIZE_SUPER_BIG" value="Файл супер большой" />
@@ -739,7 +745,7 @@
   <String id="IDS_WORKSPACE_STOP_SYNC" value="Синхронизация паузы" />
   <String id="IDS_WORKSPACE_RESTART_SYNC" value="Открытая синхронизация" />
 
-  
+
   <!--Подносы-->
   <String id="IDS_COMMON_INSTALL" value="Устанавливать" />
   <String id="IDS_COMMON_CANCEL" value="Отмена" />
@@ -872,7 +878,7 @@
   <String id="IDS_CARDSPEEDUP_OPEN_TIP" value="Купите карту загрузки, наслаждайтесь безлимитной загрузкой" />
   <String id="IDS_CARDSPEEDUP_USING_TIP" value="Для вас включена безлимитная загрузка" />
   <String id="IDS_CARDSPEEDUP_END_TIP" value="Обычная скорость загрузка" />
-  
+
 
   <!--Советы по быстрой загрузке купонов -->
   <String id="IDS_SPEEDUP_BTN_EXTEND" value="Продолжайте ускоряться" />
@@ -904,7 +910,7 @@
   <String id="IDS_SPEEDUPCARD_MSGBOX_TITLE_TIP" value="Внимание" />
   <String id="IDS_SPEEDUPCARD_MSGBOX_OKBTN_TIP" value="Покупка прошла успешно" />
   <String id="IDS_SPEEDUPCARD_MSGBOX_CANCELBTN_TIP" value="Возникли проблемы с оплатой" />
-  
+
   <!--Выбор каталога на стороне сервера-->
   <String id="IDS_STATIC_SERVERDIRDLG_INFO_TOOMUCHLEVEL" value="Превышен лимит: поддерживается каталог уровня d%." />
   <String id="IDS_STATIC_GET_SERVER_SUBDIR_FAIL" value="Ошибка получения папки" />
@@ -1163,7 +1169,7 @@
   <String id="IDS_SPEEDFEECBACKDLG_STATIC_TEXT_THANK_TIP" value="感谢您的反馈！百度网盘会尽快解决。" />
   <String id="IDS_SPEEDFEECBACKDLG_BUTTON_SUBMIT" value="提交" />
   <String id="IDS_SPEEDFEECBACKDLG_BUTTON_FINISH" value="完成" />
-  
+
   <!--Медленная скорость-->
   <String id="IDS_SPEEDFEECBACKTIP_SPEEDSLOW" value="Скорость передачи медленная?" />
   <String id="IDS_SPEEDFEECBACKTIP_FEEDBACK" value="Пожалуйста, оставьте отзыв" />
@@ -1307,7 +1313,7 @@
   <String id="IDS_UPLOADLOG_NOTIFY_FAIL_NETWORK_TIP" value="Неправильное подключение к сети, пожалуйста, ответьте позже" />
   <String id="IDS_UPLOADLOG_NOTIFY_START_TITLE" value="Обработка обратной связи" />
   <String id="IDS_UPLOADLOG_NOTIFY_START_TIP" value="Ваш отзыв получен, пожалуйста, будьте терпеливы~" />
-  
+
 
    <!--Взаимо помощь-->
    <String id="IDS_HELP_EACHOTHER_TITLE" value="Ускорение загрузки：" />
@@ -1329,7 +1335,7 @@
    <!--Новая версия автоматического резервного копирования-->
   <String id="IDS_AUTOBACKUP_GUIDE_TIP" value="Не нужно загружать вручную! Включите автоматическое резервное копирование папок, чтобы просматривать часто используемые файлы на вашем компьютере в любое время и в любом месте." />
   <String id="IDS_AUTOBACKUP_GUIDE_TIP_BTN" value="Пойти посмотреть" />
-    
+
   <!--Настройка кросс-терминального тракта передачи-->
   <String id="IDS_SETTING_STATIC_TEXT_TRANSFERDIR" value=" Выбор места для быстрой передачи файлов：" />
   <String id="IDS_SETTING_STATIC_TEXT_TRANSFER_DEFAULTDIR" value="Быстрая передача файлов" />

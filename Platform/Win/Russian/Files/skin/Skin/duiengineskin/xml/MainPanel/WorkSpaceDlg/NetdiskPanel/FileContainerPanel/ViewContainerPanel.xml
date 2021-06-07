@@ -27,12 +27,10 @@
       <text name="txt_empty_tip" pos="0,0,-0,@22" crtext="333333" font="0200:微软雅黑" align="center">%str2307%</text>
       <link name="txt_empty_tip_line2" pos="0,[0,-0,@22" crtext="06A7FF" font="0202:微软雅黑" align="center" cursor="hand" show="0"></link>
     </dlg>
-    <dlg name="dlg_tip_with_links" pos="|-74,|0,@128,@44">
-      <text pos="0,0" crtext="333333" font="0200:微软雅黑">%str4611%</text>
-      <link name="lnk_empty_upload" pos="[4,0" crtext="06A7FF" font="0202:微软雅黑" cursor="hand">%str2150%</link>
-      <text pos="[4,0" crtext="333333" font="0200:微软雅黑">%str4612%</text>
-      <text pos="0,22" crtext="333333" font="0200:微软雅黑">%str4613%</text>
-      <link name="lnk_empty_import" pos="[4,22" crtext="06A7FF" font="0202:微软雅黑" cursor="hand">%str4600%</link>
+    <dlg name="dlg_tip_with_links" pos="|-112,|0,@224,@44">
+      <text pos="0,0" crtext="333333" font="0200:微软雅黑">%str4900%</text>
+      <link name="lnk_open_local_dir" pos="[0,0" crtext="06A7FF" font="0202:微软雅黑" cursor="hand">%str4901%</link>
+      <text pos="0,22,-0,-0" crtext="333333" font="0200:微软雅黑" align="center">%str4902%</text>
     </dlg>
   </dlg>
 

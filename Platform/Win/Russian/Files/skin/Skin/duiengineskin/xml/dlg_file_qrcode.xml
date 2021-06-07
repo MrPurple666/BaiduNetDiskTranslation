@@ -32,7 +32,7 @@
           <img name="img_file_qrcode" pos="0,0,-0,-0"/>
         </dlg>
         <dlg name="panel_file_qrcode_loading" pos="6,15,@120,@120" skin="fileqrcodedlg_qrcode_bg">
-          <gifplayer name="gif_loading" pos="77,66,@54,@54" width="54" height="54" skin="fileqrcodedlg_loading_gif"/>
+          <gifplayer name="gif_loading" pos="33,22,@54,@54" width="54" height="54" skin="fileqrcodedlg_loading_gif"/>
           <text pos="40,81" crtext="333333">%str3507%</text>
         </dlg>
         <dlg name="panel_file_qrcode_fail" pos="6,15,@120,@150">
