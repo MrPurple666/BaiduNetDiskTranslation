@@ -194,7 +194,8 @@
   <String id="IDS_SHARE_PUBLIC_LINK_EXPIRE_7DAYS" value="7д" />
   <String id="IDS_SHARE_PUBLIC_LINK_EXPIRE_1DAYS" value="1д" />
   <String id="IDS_SHARE_PUBLIC_LINK_DAYS_EXPIRE" value=" Ссылка истечет  через %d дней" />
-
+  <String id="IDS_SHARE_PUBLIC_LINK_ENT_TICKET_NUM" value="，билет на экспресс с %d" />
+ 
   <String id="IDS_SHARE_LINK_TYPE_SYSTEM_GENERATED_PWD" value="Система случайным образом генерирует код потверждения" />
   <String id="IDS_SHARE_LINK_TYPE_SYSTEM_GENERATED_PWD_DECS" value="Генерация нового кода потверждения случайным образом каждый раз" />
   <String id="IDS_SHARE_LINK_TYPE_USER_DEFINED_PWD" value="Пользовательский код потверждения" />
@@ -202,6 +203,21 @@
   <String id="IDS_SHARE_LINK_TYPE_USER_DEFINED_PWD_DECS" value="Поддержка 4 буквы или цифры" />
   <String id="IDS_SHARE_LINK_TYPE_PRIVATE_WITH_NO_PWD_WARNNING" value="Вы можете просматривать без потверждения кода, рекомендуется не выбирать эту опцию для документов компании и личных документов" />
   <String id="IDS_SHARE_LINK_TYPE_USER_DEFINED_PWD_PLEASE_INPUT" value="Можно ввести только 4 буквы или цифры" /> 
+    
+  <String id="IDS_SHARE_LINK_ENT_PRIV" value="Права предприятия:"/>
+  <String id="IDS_SHARE_LINK_ENT_PRIV_ADD_DOWNLOAD_TICKET" value="Добавить скорость Скачать купон"/>
+  <String id="IDS_SHARE_LINK_ENT_PRIV_USE_DOWNLOAD_TICKET_NUM" value="Сумма использования"/>
+  <String id="IDS_SHARE_LINK_ENT_PRIV_TOTAL_DOWNLOAD_TICKET_NUM" value="Использовано %d"/>
+  <String id="IDS_SHARE_LINK_ENT_PRIV_DOWNLOAD_TICKET_EXPIRY" value="среди них%dБилеты действительны до%s(Приоритетное использование)"/>
+  <String id="IDS_SHARE_LINK_ENT_PRIV_NONE_DOWNLOAD_TICKET" value="Нет скорости Скачать ваучер"/>
+  <String id="IDS_SHARE_LINK_ENT_PRIV_BUY_DESC" value="Дайте своим клиентам отправлять скорость скачать купоны, наслаждайтесь быстрой сохранением и скачать"/>
+  <String id="IDS_SHARE_LINK_ENT_PRIV_DESC_TIP" value="1. Какие права у вас есть? Включение файла в ссылку поддерживает скорость загрузки, количество файлов с разовой передачей и предварительный просмотр WeChat 3. 
+  2. Как долго действует купон? Через год с даты покупки, если она просрочена, она не возвращается.
+  3. Как может другая сторона заявить права и интересы после добавления купона быстрой загрузки в совместное использование? После получения ссылки для совместного использования другая сторона сохранит, загрузит или предварительно просмотрит ее. В течение одного года с момента отправки получатель может пользоваться соответствующими правами и интересами в отношении файлов по ссылке.
+  4. Как добавить купон на скачивание? Онлайн-приложение - моя - моя доля - поделитесь подробностями. Вы можете проверить использование купонов и добавить похожие купоны.
+  5. Что делать с просроченными купонами на скачивание? Если срок действия акции истек, а добавленный купон не был израсходован, вы можете восстановить истекшую долю в деталях акции, и купон может быть восстановлен."/>
+  <String id="IDS_SHARE_LINK_ENT_PRIV_BUY" value="Перейти к покупке>"/>
+  <String id="IDS_SHARE_LINK_ENT_PRIV_TICKET_TIP" value="- от корпоративного счета【%s】Скорость наслаждается ссылкой"/>
     
   <!-- Создавайте ссылки оптом-->
   <String id="IDS_SHARE_LINK_ACCESS_NUMBER" value="Количество посетителей:" />
@@ -1360,11 +1376,18 @@
   <String id="IDS_EXPORTONLINEDOC_NOTIFY_FAIL_EXISTEXPORTING" value="Некоторые файлы экспортируются, попробуйте еще раз" />
   <!--Рабочий диск-->
   <String id="IDS_WORKSPACE_SETTING" value="Рабочая среда" />
-  <String id="IDS_WORKSPACE_SYNC_TRAY_TITLE" value="Уведомление:" />
+  <String id="IDS_WORKSPACE_SYNC_TRAY_TITLE" value="Рабочая среда:" />
   <String id="IDS_WORKSPACE_SYNC_TRAY_TIP" value="Показывать состояния синхронизации" />
   <String id="IDS_WORKSPACE_VIRTUAL_FOLDER_SHOW" value="Показывать виртуальный диска" />
   <String id="IDS_WORKSPACE_SAVE_LOCAL_PATH" value="Каталог локальной синхронизации:" />
   <String id="IDS_WORKSPACE_TRAY_NAME" value="Рабочее пространство" />
   <String id="IDS_WORKSPACE_FILEVERSIONDLG_TITLENAME"  value="История версий" />
+
+  <String id="IDS_WORKSPACE_CHANGE_LOCAL_SYNC_PACH"  value="Заменить каталог синхронизации" />
+  <String id="IDS_WORKSPACE_CHANGE_LOCAL_SYNC_PACH_INVALID_TIP"  value="Если путь недействителен, пожалуйста, выберите" />
+  <String id="IDS_WORKSPACE_CHANGE_LOCAL_SYNC_PACH_IS_SUBDIR_TIP"  value="Вы не можете выбрать свой собственный подкаталог, пожалуйста, повторно выберите" />
+  <String id="IDS_WORKSPACE_CHANGE_LOCAL_SYNC_PACH_ACCESS_DENY_TIP"  value="Если папка не написана, пожалуйста, повторно выберите" />
+  <String id="IDS_WORKSPACE_CHANGE_LOCAL_SYNC_PACH_QUOTA_LESS_TIP"  value="Если диск остается на диске, пожалуйста, выберите" />
+  <String id="IDS_WORKSPACE_CHANGE_LOCAL_SYNC_PACH_SAME_TIP"  value="Оригинальный путь синхронизации такой же, как выбранный путь синхронизации, пожалуйста, выберите" />
 
 </StringTable>
