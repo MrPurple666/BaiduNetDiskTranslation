@@ -238,6 +238,7 @@
         <imgframe name="function_phone_addressbook_img"  src="IDP_IMG_FUNTION_PHONE_ADDRESSBOOK" subwidth="31"/>
         <imgframe name="function_phonecall_records_img"  src="IDP_IMG_FUNTION_PHONECALL_RECORDS" subwidth="31"/>
         <imgframe name="function_phone_message_img"  src="IDP_IMG_FUNTION_PHONE_MESSAGE" subwidth="31"/>
+        <imgframe name="function_game_center_img" src="IDP_IMG_FUNTION_GAME_CENTER" subwidth="31"/>
 
       <!--视频清晰度皮肤定义-->
         <imgframe name="definition_sviponly_script" src="IDP_IMG_DEFINITION_SVIPONLY_SCRIPT" />
@@ -565,6 +566,7 @@
         <imgframe name="titlepanel_sviprenew_btn" src="IDP_TITLEPANEL_SVIPRENEW_BTN" subwidth="40" left="15" right="15"/>
         <imgframe name="titlepanel_quotatip_bg" src="IDP_TITLEPANEL_QUOTATIP_BKG" left="20" top="15" right="124" bottom="20"/>
         <imgframe name="titlepanel_ad_skin" src="IDP_TITLEPANEL_AD_SKIN" subwidth="28"/>
+        <imgframe name="titlepanel_game_center_skin" src="IDP_TITLEPANEL_GAME_CENTER_SKIN" subwidth="28"/>
         <imgframe name="titlepanel_textad_bgk" src="IDP_TITLEPANEL_TEXTAD_BGK" left="30" top="40" right="30" bottom="30"/>
         <imgframe name="titlepanel_cert_status_icon" src="IDP_TITLEPANEL_CERT_STATUS_ICON" />     
         <imgframe name="titlepanel_bgk" src="IDP_TITLEPANEL_BGK"/>
@@ -988,6 +990,16 @@
         <imgframe name="navigatepanel_transfer_pause_gray" src="IDP_NAVIGATEPANEL_PAUSE_TRANSFER_GRAY"/>
         <imgframe name="navigatepanel_bg" src="IDP_NAVIGATEPANEL_BG" left="10" right="20" top="5" bottom="5"/>
 
+        <!-- 企业空间 -->
+        <imglst name="enterprise_up_btn" src="IDP_ENTERPRISE_BTN_UP" subwidth="12" />
+        <imglst name="enterprise_down_btn" src="IDP_ENTERPRISE_BTN_DOWN" subwidth="12" />
+        <imglst name="enterprise_select_btn" src="IDP_ENTERPRISE_BTN_SELECT" subwidth="14" />
+        <imglst name="enterprise_select_head_frame" src="IDP_ENTERPRISE_HEAD_FRAME_SELECT" subwidth="30" />
+        <imglst name="enterprise_item_hover" src="IDP_ENTERPRISE_ITEM_HOVER" subwidth="10" />
+        <imglst name="enterprise_head_frame" src="IDP_ENTERPRISE_HEAD_FRAME" subwidth="30" />
+        <imglst name="enterprise_hover_head_frame" src="IDP_ENTERPRISE_HEAD_FRAME_HOVER" subwidth="30" />
+        <imglst name="enterprise_vip_mark" src="IDP_ENTERPRISE_VIP_MARK" subwidth="12" />
+      
         <!-- 微信QQ备份 -->
         <imgframe name="wechat_backup_dlg_bg" src="IDP_WECHAT_BACKUP_DLG_TITLE_BG"/>
         <imgframe name="wechat_backup_dlg_ico_wechat" src="IDP_WECHAT_BACKUP_DLG_ICO_WECHAT"/>

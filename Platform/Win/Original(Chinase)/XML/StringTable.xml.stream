@@ -342,6 +342,7 @@
   <String id="IDS_TRANPANEL_DOWNLOAD_REQUESTING_TIP" value="下载请求中..." />
   <String id="IDS_TRANPANEL_UPLOAD_REQUESTING_TIP" value="上传请求中..." />
   <String id="IDS_TRANPANEL_REQUESTING_TIP" value="请求中..." />
+  <String id="IDS_TRANPANEL_ENT_DOWNLOAD_SPEEDUP_TEXT" value="企业极速畅享" />
   <!--传输面板错误提示 -->
   
   <!--传输错误解决方案链接-->
