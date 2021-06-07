@@ -176,7 +176,12 @@
   <String id="IDS_SHARE_NETWORK_FAIL" value="Не удалось подключиться к сети, повторите попытку позже" />
   <String id="IDS_SHARE_CREATE_LINK" value="Создать ссылку" />
   <String id="IDS_SHARE_CREATING_LINK" value="Создайте ссылку для обмена, пожалуйста, подождите ..." />
+<<<<<<< Updated upstream
   <String id="IDS_SHARE_CREATING_DOWNLOAD_SPEEDUP_LINK" value="Создание быстрой ссылки для обмена, подождите..." /> 
+=======
+  <String id="IDS_TRANPANEL_ENT_DOWNLOAD_SPEEDUP_TEXT" value="Предприятия наслаждаются скоростью" />
+  
+>>>>>>> Stashed changes
   <String id="IDS_SHARE_COPY_LINK_SUCCESS" value="Копирование успешно" />
   <String id="IDS_SHARE_LINK_SHARE" value="Поделиться с друзьями через QQ, WeChat, Weibo, QQ" />
   <String id="IDS_SHARE_TABBUTTON_LINKSHARE" value="Поделиться ссылкой" />
