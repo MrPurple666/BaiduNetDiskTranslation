@@ -527,7 +527,7 @@
   <s id="1152">To view the historical version of the document, it is recommended to open the "document historical version"</s>
   <s id="1153">Features.</s>
   <s id="1154">No longer remind</s>
-  <s id="1155">Open document history version</s>
+  <s id="1155">Expired</s>
   <s id="1156">Overwrite update</s>
   <s id="1157">Save document to the web</s>
   <s id="1158">Document history version function is turned on</s>
@@ -1485,6 +1485,9 @@
   <s id="4087">Remote collection, unified management</s>
   <s id="4088">Thesis check</s>
   <s id="4089">Multi-brand safe, accurate, fast and low price</s>
+  <s id="4090">Game Center</s>
+  <s id="4091">Popular games</s>
+
   <!-- Navigation bar widget -->
   <s id="4100">File cleanup</s>
   <s id="4101">Automatic backup</s>
@@ -1496,7 +1499,9 @@
   <s id="4132">Purchase accelerated coupons</s>
   <s id="4133">Purchase free download card</s>
   <s id="4134">Purchase members</s>
-
+  <!-- 好友选择页 -->
+  <s id="4135">Select friends</s>
+  
   <!-- WeChat QQ backup -->
   <s id="4140">Open now</s>
   <s id="4141">WeChat backup</s>
@@ -1814,6 +1819,7 @@
   <s id="4820">Workspace synchronous abnormalities</s>
   <s id="4821">Failed to create the local synchronization path of the workspace! Please set a valid path in "Settings-Workspace-Change Synchronization Directory"!</s>
   <s id="4822">Local deletion failed, files are occupied</s>
+  <s id="4823">The target position file already exists, the operation failed</s>
 
   <s id="4850">data migration</s>
   <s id="4851">Migrating data, please be patient...</s>

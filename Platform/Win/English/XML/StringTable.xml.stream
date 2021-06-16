@@ -346,7 +346,8 @@
   <String id="IDS_TRANPANEL_DOWNLOAD_REQUESTING_TIP" value="Download request..." />
   <String id="IDS_TRANPANEL_UPLOAD_REQUESTING_TIP" value="Upload request..." />
   <String id="IDS_TRANPANEL_REQUESTING_TIP" value="Request..." />
-  <!--传输面板错误提示 -->
+  <String id="IDS_TRANPANEL_ENT_DOWNLOAD_SPEEDUP_TEXT" value="Enterprises enjoy speed" />
+   <!--传输面板错误提示 -->
 
   <!--传输错误解决方案链接-->
   <String id="IDS_RESOLUTION_LOCAL_FILE_SIZE_TOO_BIG" value="File too big" />
