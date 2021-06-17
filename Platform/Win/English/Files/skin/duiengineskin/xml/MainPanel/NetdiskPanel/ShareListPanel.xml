@@ -51,7 +51,7 @@
     </dlg>
     <!--空视图-->
     <dlg name="sharelistpanel_empty" pos="0,0,-0,-38" show="0">
-      <img pos="|-90,|-64,@181,@128" skin="sharelist_empty_img"/>
+      <img pos="|-90,|-64,@250,@128" skin="sharelist_empty_img"/>
       <text pos="|-136,|70" crtext="333333" font="0200:微软雅黑">%str2022%</text>
     </dlg>
 

@@ -1,4 +1,4 @@
-﻿<layer name="MembershipOrQuotaExpireWnd" width="240" height="130" appwin="0" toolwindow="1" ncRect="5,5,5,5" translucent="1" nomaxsize="1">
+﻿<layer name="MembershipOrQuotaExpireWnd" width="0" height="0" appwin="0" toolwindow="1" ncRect="5,5,5,5" translucent="1" nomaxsize="1">
   <body>
     <dlg pos="0,0,-0,-0" skin="titlepanel_quotatip_bg">
       <dlg pos="5,9,-5,-5" font="0000:微软雅黑" x-margin="0">

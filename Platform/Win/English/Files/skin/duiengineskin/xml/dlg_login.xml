@@ -134,7 +134,7 @@
 		  
 		  <!-- EULA LINK Baiud -->
 		  <dlg name="dlg_smsdpass_protocol" pos="|-145,[8,@290,@16" show="0">
-			<text pos="|-182,0" crtext="666666" height="20" align="right" valign="middle">%str2816%</text>
+			<text pos="|-182,0" crtext="666666" height="16" align="right" valign="middle">%str2816%</text>
 			<link name="link_user_protocol" pos="[1,0" height="16" class="cls_btn_weblink" align="left" valign="middle" maxwidth="220" dotted="1">%str2817%</link>
 		  </dlg>
 		  

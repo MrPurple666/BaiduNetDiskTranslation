@@ -11,7 +11,7 @@
   <imgbtn name="btn_pdftoword" class="toolbarbtn" icoskin="mainpanel_toolbar_pdftoword" icoxoffset="10" icoyoffset="5" txtxoffset="18" pos="350,7,@120,@32" cursor="arrow" show="0">%str2181%</imgbtn>
   <imgbtn name="btn_mobileview" class="toolbarbtn" icoskin="mainpanel_toolbar_mobileview" icoxoffset="10" icoyoffset="5" txtxoffset="18" pos="465,7,@163,@32" cursor="arrow" show="0">%str2186%</imgbtn>
   <imgbtn name="btn_export_onlinedoc" class="toolbarbtn" icoskin="mainpanel_toolbar_export_onlinedoc" icoxoffset="10" icoyoffset="5" txtxoffset="18" pos="85,7,@75,@32" show="0" cursor="arrow">%str2363%</imgbtn>
-  <dropbutton name="btn_offlinedownload" class="toolbarbtn" icoskin="mainpanel_toolbar_offlinedownload" drop-skin="mainpanel_toolbar_drop_arrow" icoxoffset="10" icoyoffset="5" txtxoffset="8" pos="465,7,@160,@32" cursor="arrow" show="0">%str2155%</dropbutton>
+  <dropbutton name="btn_offlinedownload" class="toolbarbtn" icoskin="mainpanel_toolbar_offlinedownload" drop-skin="mainpanel_toolbar_drop_arrow" icoxoffset="10" icoyoffset="5" txtxoffset="8" pos="465,7,@110,@32" cursor="arrow" show="0">%str2155%</dropbutton>
   <dropbutton name="btn_more" class="toolbarbtn" icoskin="mainpanel_toolbar_more" drop-skin="mainpanel_toolbar_drop_arrow" icoxoffset="10" icoyoffset="5" txtxoffset="8" pos="[5,7,@87,@32" cursor="arrow" show="0">%str2159%</dropbutton>
   <imgbtn name="btn_batch_rename" class="toolbarbtn" icoskin="mainpanel_toolbar_batch_rename" icoxoffset="10" icoyoffset="5" txtxoffset="18" pos="[5,7,@167,@32" cursor="arrow" show="0">%str2194%</imgbtn>
   <img name="img_badge_batch_rename" pos="[-29,2,@29,@14" skin="mainpanel_toolbar_badge_new_func" cursor="arrow" show="0"/>
