@@ -70,6 +70,7 @@
 <resid type="XML" name="IDR_DUI_MASKSVIPGUIDE_DIALOG" layer="1" file="xml\GarbageCleanDlg\MaskSvipGuideDlg.xml"/>
 <resid type="XML" name="IDR_DUI_ONEKEYCLEAN_PANEL" file="xml\GarbageCleanDlg\OneKeyCleanPanel.xml"/>
 <resid type="XML" name="IDR_DUI_USERCARD_WND" layer="1" file="xml\MainPanel\UserCardWnd.xml"/>
+<resid type="XML" name="IDR_DUI_ENTERPRISESPACECARD_WND" layer="1" file="xml\MainPanel\EnterpriseSpaceCard.xml"/>
 <resid type="XML" name="IDR_DUI_MEMBER_CENTER_CARD_WND" layer="1" file="xml\MainPanel\MemberCenterCardWnd.xml"/>
 <resid type="XML" name="IDR_DUI_ADCARD_WND" layer="1" file="xml\MainPanel\AdCardWnd.xml"/>
 <resid type="XML" name="IDR_DUI_IMAGEVIEW_DIALOG" layer="1" file="xml\ImageViewDlg\ImageViewDlg.xml"/>
@@ -123,6 +124,8 @@
 <resid type="XML" name="IDR_DUI_LEFTCATEGORYFLOATING" layer="1" file="xml\MainPanel\NetdiskPanel\LeftCategoryPanel\LeftCategoryFloatingLayer.xml"/>
 <!-- 网盘购买页 -->
 <resid type="XML" name="IDR_DUI_BUY_PAGE_DLG" layer="1" file="xml\BuyPageDlg\BuyPageDlg.xml"/>
+<!-- 好友选择页 -->
+<resid type="XML" name="IDR_DUI_SELECT_FRIEND_DLG" layer="1" file="xml\FriendSelectDlg\FriendSelectDlg.xml"/>
 <!--窗口背景资源-->
 <resid type="IMGX" name="IDP_MAIN_DLG_FRAME" file="image\common\window\windowBkg.png"  />
 <resid type="IMGX" name="IDP_MESSAGEBOX_BACKGROUND_FRAME" file="image\common\window\MsgBxBk_New.png"  />
@@ -378,6 +381,7 @@
 <resid type="IMGX" name="IDP_IMG_FUNTION_PHONE_ADDRESSBOOK" file="image\MainPanel\FunctionalBoxPanel\PhoneAddressBook.png" />
 <resid type="IMGX" name="IDP_IMG_FUNTION_PHONECALL_RECORDS" file="image\MainPanel\FunctionalBoxPanel\PhoneCallRecords.png" />
 <resid type="IMGX" name="IDP_IMG_FUNTION_PHONE_MESSAGE" file="image\MainPanel\FunctionalBoxPanel\PhoneMessage.png" />
+<resid type="IMGX" name="IDP_IMG_FUNTION_GAME_CENTER" file="image\MainPanel\FunctionalBoxPanel\GameCenter.png" />
 
 <!--文件类型相关资源-->
 <resid type="IMGX" name="IDP_IMG_FILETYPE_MIDDLE_VIDEO" file="image\FileType\Middle\VideoType.png" />
@@ -702,6 +706,7 @@
 <resid type="IMGX" name="IDP_TITLEPANEL_SVIPRENEW_BTN" file="image\MainPanel\TitlePanel\btn_sviprenew.png"/>
 <resid type="IMGX" name="IDP_TITLEPANEL_QUOTATIP_BKG" file="image\MainPanel\TitlePanel\quota_tip_bg.png"/>
 <resid type="IMGX" name="IDP_TITLEPANEL_AD_SKIN" file="image\MainPanel\TitlePanel\ad_skin.png"/>
+<resid type="IMGX" name="IDP_TITLEPANEL_GAME_CENTER_SKIN" file="image\MainPanel\TitlePanel\game_center.png"/>
 <resid type="IMGX" name="IDP_TITLEPANEL_TEXTAD_BGK" file="image\MainPanel\TitlePanel\title_textad_bgk.png"/>
 <resid type="IMGX" name="IDP_TITLEPANEL_CERT_STATUS_ICON" file="image\MainPanel\TitlePanel\enterprise_cert_icon.png"/>
 <resid type="IMGX" name="IDP_TITLEPANEL_BGK" file="image\MainPanel\TitlePanel\title_bkg.png"/>
@@ -1113,6 +1118,16 @@
 <resid type="IMGX" name="IDP_LEFTPANEL_IMG_ADD" file="image\MainPanel\LeftPanel\ic_add.png"/>
 <resid type="IMGX" name="IDP_LEFTPANEL_SHORTCUT_BTN_BG" file="image\MainPanel\LeftPanel\shortcut_btn_bg.png"/>
 <resid type="IMGX" name="IDP_LEFTPANEL_SHORTCUT_REMOVE" file="image\MainPanel\LeftPanel\shortcut_remove.png"/>
+
+<!-- 企业空间 -->
+<resid type="IMGX" name="IDP_ENTERPRISE_BTN_UP" file="image\MainPanel\TitlePanel\Enterprise\enterprise_up.png"/>
+<resid type="IMGX" name="IDP_ENTERPRISE_BTN_DOWN" file="image\MainPanel\TitlePanel\Enterprise\enterprise_down.png"/>
+<resid type="IMGX" name="IDP_ENTERPRISE_BTN_SELECT" file="image\MainPanel\TitlePanel\Enterprise\enterprise_select.png"/>
+<resid type="IMGX" name="IDP_ENTERPRISE_HEAD_FRAME_SELECT" file="image\MainPanel\TitlePanel\Enterprise\enterprise_head_frame_select.png"/>
+<resid type="IMGX" name="IDP_ENTERPRISE_ITEM_HOVER" file="image\MainPanel\TitlePanel\Enterprise\enterprise_ItemHoverBkg.png"/>
+<resid type="IMGX" name="IDP_ENTERPRISE_HEAD_FRAME" file="image\MainPanel\TitlePanel\Enterprise\enterprise_head_frame.png"/>
+<resid type="IMGX" name="IDP_ENTERPRISE_HEAD_FRAME_HOVER" file="image\MainPanel\TitlePanel\Enterprise\enterprise_head_hover_frame.png"/>
+<resid type="IMGX" name="IDP_ENTERPRISE_VIP_MARK" file="image\MainPanel\TitlePanel\Enterprise\enterprise_vip_mark.png"/>
 
 <!-- 一级导航栏 -->
 <resid type="IMGX" name="IDP_NAVIGATEPANEL_BTN_HOME" file="image\MainPanel\NavigatePanel\ic_home.png"/>
