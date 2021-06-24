@@ -389,13 +389,19 @@
   <string name="add_lable_privacy_set">其它用户可通过标签找到你，可在 隐私设置 处修改该设置</string>
 
   <string name="add_local_image">添加本机照片</string>
-
+  
+  <string name="add_notes">Нажмите, чтобы войти</string>
+  
+  <string name="add_notes_prefix">Примечания:</string>
+ 
   <string name="add_number">输入号码(使用回车来分割号码)</string>
 
   <string name="add_one_repeat_recipients">\"%1$s\"被重复添加</string>
 
   <string name="add_path_button">添加要备份的文件夹</string>
-
+  
+  <string name="add_personal_file">Личный файл</string>
+ 
   <string name="add_remark_name">添加备注</string>
 
   <string name="add_remote_collection">远程收集</string>
@@ -439,6 +445,8 @@
   <string name="add_shelf_success">加入书架成功</string>
 
   <string name="add_some_repeat_recipients">%1$s位联系人被重复添加</string>
+  
+  <string name="add_staff_over_limit">Добавление ряда людей</string>
 
   <string name="add_to_blacklist">加入黑名单</string>
 
@@ -1167,7 +1175,11 @@
   <string name="album_travel_tips">上传旅途照片&amp;视频，记录旅途美好时光</string>
 
   <string name="album_tv_loowerpower">备份暂停，电量20%以上后继续备份</string>
-
+  
+  <string name="album_unbackup_header_guide">Приложение не работает автоматически в фоновом состоянии?</string>
+  
+  <string name="album_unbackup_header_guide_link"><u>Оптимизировать немедленно</u></string>
+  
   <string name="album_yike_guide_button">查看</string>
 
   <string name="album_yike_guide_close_btn">立即查看</string>
@@ -1905,7 +1917,9 @@
   <string name="backup_preparing">备份准备中…</string>
 
   <string name="backup_privilege_hint">您正在尊享百度网盘会员%s备份特权</string>
-
+  
+  <string name="backup_privilege_setting">Настройки разрешения резервного копирования</string>
+ 
   <string name="backup_screenshots">\u0009| 屏幕截图</string>
 
   <string name="backup_security_tips">备份安全吗？</string>
@@ -3293,10 +3307,13 @@
   <string name="bottom_btn_not_change_account">已登录帐号：%s</string>
 
   <string name="bottom_sheet_behavior">com.google.android.material.bottomsheet.BottomSheetBehavior</string>
+  
+  <string name="bottomsheet_action_expand_halfway">Expand halfway</string>
 
   <string name="bound_account">去绑定</string>
 
   <string name="browserFrameFormResubmitLabel">确认</string>
+  
   <string name="browserFrameFormResubmitMessage">你尝试查看的网页中包含已经提交的数据（“POSTDATA”）。如果你重新发送这些数据，系统会重复该网页上的表单所执行过的一切操作（如搜索或在线购买）。</string>
 
   <string name="browser_loading_video">加载视频</string>
@@ -3353,7 +3370,9 @@
 
   <string name="btn_ding_manager_title_bar_refresh">刷新</string>
 
-  <string name="btn_not_change_account">使用已登录帐号查看</string>
+  <string name="btn_not_change_account">Используйте запись в системе для просмотра</string>
+
+  <string name="bulk_upload_over_limit">Не поддерживается массовыми загрузками%1$dФайл</string>
 
   <string name="business_audio_speed_up_guide_title">成为超级会员，即可享受音频倍速播放</string>
 
@@ -3469,9 +3488,7 @@
 
   <string name="business_platform_download_mutil_cnt">%d个</string>
 
-  <string name="business_platform_open_svip">开通超级会员</string>
-
-  <string name="business_platform_open_vip">开通会员</string>
+  <!-- <string name="business_platform_open_svip">开通超级会员</string> -->
 
   <string name="business_platform_svip_guide_desc">成为超级会员在线解压%s内压缩包</string>
 
@@ -3535,6 +3552,8 @@
 
   <string name="button_update">升级</string>
 
+  <string name="buy_enterprise_product">Купить пакет компании ></string>
+ 
   <string name="buy_now">立即购买</string>
 
   <string name="buy_singkil_btn_text">办卡</string>
@@ -3726,6 +3745,8 @@
   <string name="capacity_is_full">容量已满，快去扩容吧！</string>
 
   <string name="capacity_will_full">容量将满，快去扩容吧！</string>
+ 
+  <string name="car_qr_account_not_valid">[Пожалуйста, используйте версию автомобиля, чтобы войти в код сканирования учетной записи]</string>
 
   <string name="card_detection_carmera_failed">摄像头初始化失败</string>
 
@@ -5468,7 +5489,11 @@
 
   <string name="copy_success">复制成功</string>
 
+  <string name="copy_to_here">Скопируйте здесь</string>
+
   <string name="copy_to_property_dir_failed">复制失败，目标文件夹文件数超限</string>
+  
+  <string name="copy_to_space">Cкопировать в</string>
 
   <string name="core_permission_go_setting">开通权限</string>
 
@@ -5692,6 +5717,12 @@
   <string name="default_nickname">请输入昵称</string>
 
   <string name="default_red_flag">HOT</string>
+
+  <string name="default_self_starting_guide_1" />
+  
+  <string name="default_self_starting_guide_2">Откройте разрешения корреляции самозапуска</string>
+  
+  <string name="default_self_starting_guide_name">Самозарядка</string>
 
   <string name="define_roundedimageview"/>
 
@@ -7546,17 +7577,56 @@
 
   <string name="enter_probationary_activity_button_title">立即领取</string>
 
+  <string name="enterprise_auth">Непосредственная сертификация</string>
+
+  <string name="enterprise_auth_expire">Сертификация истекла, пожалуйста, своевременно аутентификация</string>
+
+  <string name="enterprise_contact_invite_failed">Не удалось приглашение, пожалуйста, попробуйте позже позже</string>
+
+  <string name="enterprise_contact_invite_sended">Послал приглашение</string>
+
+  <string name="enterprise_contact_manager">Пожалуйста, свяжитесь с администратором, чтобы приобрести функцию разблокировки товара</string>
+
+  <string name="enterprise_create">Новое строительство</string>
+
+  <string name="enterprise_flagship_video_hd_title">Купить эксклюзивную версию, вы можете разблокировать все определения</string>
+
+  <string name="enterprise_flagship_video_speedup_title">Наслаждайтесь видео умножение</string>
+
+  <string name="enterprise_free_space">Космос предприятия%1$s/%2$s，</string>
+
+  <string name="enterprise_innovation">Бизнес-пространство</string>
+
+
   <string name="enterprise_link_invalid">已失效</string>
 
-  <string name="enterprise_no_tickets">所有下载券已被消耗</string>
+  <string name="enterprise_no_tickets">Все скачать купоны были потреблены</string>
+
+  <string name="enterprise_pdf_save_success_tips_content">Вы можете просматривать файлы напрямую</string>
 
   <string name="enterprise_person_more">•\u0009•\u0009•</string>
 
-  <string name="enterprise_persons_count">使用极速下载券的客户 (%d人)</string>
+  <string name="enterprise_persons_count">Используйте клиентов со скоростью Скачать купоны (%d人)</string>
+
+  <string name="enterprise_privilege_audio">Наслаждайтесь воспроизведением звука частоты</string>
+
+  <string name="enterprise_privilege_buy">Заплатить сейчас</string>
+
+  <string name="enterprise_privilege_expire">Пакет истек, пожалуйста, оплатите больше времени на покупку</string>
+
+  <string name="enterprise_privilege_support_later">Не поддерживается, пожалуйста, с нетерпением ждем</string>
+
+  <string name="enterprise_qi">Предприятие</string>
 
   <string name="enterprise_rights">企业权益</string>
 
-  <string name="enterprise_share_function_name">企业极速畅享</string>
+  <string name="enterprise_search_box_hint_text">Поиск бизнес пространственных файлов</string>
+
+  <string name="enterprise_share_function_name">Предприятия наслаждаются скоростью</string>
+
+  <string name="enterprise_space">Бизнес-пространство</string>
+
+  <string name="enterprise_space_full_text">недостаточно пространства</string>
 
   <string name="enterprise_tickets_append">追加</string>
 
@@ -7587,6 +7657,14 @@
   <string formatted="false" name="enterprise_tickets_use_count">%d/%d</string>
 
   <string name="enterprise_tickets_used">无可用下载券，请购买后重试</string>
+
+  <string name="enterprise_tool_tip_btn_text">я знаю</string>
+  
+  <string name="enterprise_tool_tip_main_title">Космос предприятия онлайн.~</string>
+  
+  <string name="enterprise_tool_tip_second_title">Нажмите, чтобы переключить место, испытать его прямо сейчас</string>
+  
+  <string name="enterprise_unzip_buy_title" formatted="false">开通%s企业会员，在线解压%dG内压缩包</string>
 
   <string name="entrance_free_for_limit">限免</string>
 
@@ -8240,7 +8318,13 @@
 
   <string name="filemanager_i_know">知道了</string>
 
-  <string name="filemanager_move">移动</string>
+  <string name="filemanager_import">Импортировать</string>
+
+  <string name="filemanager_import_failed_title">Ошибка импорта файла</string>
+
+  <string name="filemanager_import_success_tip">Документ копией успеха</string>
+
+  <string name="filemanager_move">мобильный</string>
 
   <string name="filemanager_move__running_tip">正在移动文件…</string>
 
@@ -8266,6 +8350,8 @@
 
   <string name="filemanager_restore_failed">还原操作失败了%d个文件</string>
 
+  <string name="filemanager_restore_running_tip">Восстановить файл...</string>
+
   <string name="filemanager_same_operations_left">为其余%d个文件执行相同操作</string>
 
   <string name="filemanager_src_copy_file_desc">正在复制的文件：</string>
@@ -8275,6 +8361,8 @@
   <string name="filemanager_src_file_desc">正在移动的文件：</string>
 
   <string name="filemanager_src_folder_desc">正在移动的文件夹：</string>
+
+  <string name="filemanager_store">Cнижение</string>
 
   <string name="filemanager_success_safe_box">文件%s成功，可到隐藏空间查看</string>
 
@@ -8455,6 +8543,8 @@
   <string name="found_album_title">发现相簿</string>
 
   <string name="fourteen">14</string>
+
+  <string name="fourteen_days">14день</string>
 
   <string name="fourteen_days_share_tip">分享将在14天后失效，无法继续访问</string>
 
@@ -8718,6 +8808,8 @@
 
   <string name="get_more_points">领取更多积分</string>
 
+  <string name="get_more_space">Развернуть сейчас</string>
+  
   <string name="get_orderinfo_fail">订单过多，请稍后再试</string>
 
   <string name="get_push_id_fail">执行失败，请检查网络连接后重试</string>
@@ -8749,6 +8841,8 @@
   <string name="go_to_album">去相册</string>
 
   <string name="go_to_appeal">点击申诉</string>
+
+  <string name="got_it">ОК</string>
 
   <string name="goto_friend_tab_manage_shares">全部分享可在消息Tab，或在【我的】-【我的分享】中查看及管理  </string>
 
@@ -9443,7 +9537,13 @@ progress: %d%%"</string>
 
   <string name="install_video_player_plug_title">百度媒体云视频播放器</string>
 
-  <string name="installed">已安装</string>
+  <string name="installation_cancelled">Installation cancelled.</string>
+
+  <string name="installation_failed">Installation failed.</string>
+
+  <string name="installed">Это было установлено</string>
+
+  <string name="installing_module">Installing module:</string>
 
   <string name="interflow_login_tip">%s 登录中，可一键登录</string>
 
@@ -9593,6 +9693,8 @@ progress: %d%%"</string>
   <string name="is_refreshing_try_later">正在刷新，请稍后再试</string>
 
   <string name="item_view_role_description">Tab</string>
+
+  <string name="jkeng_activity_authenticator">Страница синхронизации учетной записи</string>
 
   <string name="judge_category_content">更改文件类型可能导致文件不可用,是否继续？</string>
 
@@ -10083,10 +10185,36 @@ progress: %d%%"</string>
 
   <string name="marked_text">已标注</string>
 
+  <string name="material_clock_display_divider">:</string>
+
+  <string name="material_clock_toggle_content_description">Select AM or PM</string>
+
+  <string name="material_hour_selection">Select hour</string>
+
+  <string name="material_hour_suffix">"%1$s o'clock"</string>
+
+  <string name="material_minute_selection">Select minutes</string>
+
+  <string name="material_minute_suffix">%1$s minutes</string>
+
   <string name="material_slider_range_end">Range end,</string>
 
   <string name="material_slider_range_start">Range start,</string>
-
+  
+  <string name="material_timepicker_am">AM</string>
+  
+  <string name="material_timepicker_clock_mode_description">Switch to clock mode for the time input.</string>
+  
+  <string name="material_timepicker_hour">Hour</string>
+  
+  <string name="material_timepicker_minute">Minute</string>
+  
+  <string name="material_timepicker_pm">PM</string>
+  
+  <string name="material_timepicker_select_time">Select time</string>
+  
+  <string name="material_timepicker_text_input_mode_description">Switch to text input mode for the time input.</string>
+  
   <string name="max_photo_num">999+</string>
 
   <string name="media_library_empty_text">"暂无使用记录
@@ -10279,8 +10407,12 @@ progress: %d%%"</string>
   <string name="move_success">移动成功</string>
 
   <string name="move_tag_num_overflow">移动失败，最多同时移动%d个文件夹</string>
+  
+  <string name="move_to_here">Перейти к этому</string>
 
   <string name="move_to_property_dir_failed">移动失败，目标文件夹文件数超限</string>
+
+  <string name="move_to_space">перейти к</string>
 
   <string name="msg_code_countdown">重新获取%ss</string>
 
@@ -10563,6 +10695,10 @@ progress: %d%%"</string>
 
   <string name="nas_uploading">正在上传(%1$s)</string>
 
+  <string name="nav_app_bar_navigate_up_description">Navigate up</string>
+  
+  <string name="nav_app_bar_open_drawer_description">Open navigation drawer</string>
+  
   <string name="navigation_bar_category">Категория</string>
 
   <string name="navigation_bar_upload">Загрузка</string>
@@ -10593,7 +10729,22 @@ progress: %d%%"</string>
 
   <string name="net_wrong">网络异常，请查检查网络后再试</string>
 
-  <string name="netdisk">百度网盘</string>
+  <string name="netcheck_checking_context">Убедитесь, что сеть занимает некоторое время, пожалуйста, подожди терпеливо</string>
+  <string name="netcheck_checking_error_context">Для лучшего позиционирования ваших вопросов рекомендуется, чтобы одна кнопка сообщается.</string>
+  <string name="netcheck_checking_error_title">Сервер имеет небольшую разницу.</string>
+  <string name="netcheck_checking_none_subtitle">Текущая сеть недоступна, рекомендуется подключаться к другим сетям</string>
+  <string name="netcheck_checking_none_title">Сеть недоступна</string>
+  <string name="netcheck_checking_title">Проверка сети(%d%%)…</string>
+  <string name="netcheck_copy">Скопируйте результаты диагностики, найдите обслуживание клиентов для решения проблем</string>
+  <string name="netcheck_copy_highlight">Скопировать диагноз</string>
+  <string name="netcheck_network_error">Нет сетевого подключения, нажмите на диагностику сети, запросить настройки сети</string>
+  <string name="netcheck_none_context">В оборудовании<font color="#F5F6FA">\"设置\"</font>-<font color="#F5F6FA">\"WI-Fi网络\"</font>"设置面板中选择一个可用的Wi-Fi热点接入；
+在设备的"<font color="#F5F6FA">\"设置\"</font>-<font color="#F5F6FA">\"百度网盘\"</font>设置面板开启<font color="#F5F6FA">蜂窝数据</font>。</string>
+  <string name="netcheck_none_context_pre">Если вам нужно подключиться к Интернету, пожалуйста, обратитесь к следующему способу:</string>
+  <string name="netcheck_none_subtitle">Ваша сеть не подключена, пожалуйста, проверьте настройки сети</string>
+  <string name="netcheck_none_title">Сеть не подключена</string>
+
+  <string name="netdisk">Baidu Net Disk</string>
 
   <string name="netdisk_battery_privilege_content">为了给您带来更好的自动备份体验,现申请获取您的忽略电池优化权限,以保证您的相册可以持续备份</string>
 
@@ -10694,6 +10845,10 @@ progress: %d%%"</string>
   <string name="new_person">新建人物 %s</string>
 
   <string name="new_player_guide_words">上滑查看下条视频</string>
+
+  <string name="new_self_starting_battery_privilege_desc">Избегайте автоматических резервных копий прерываются</string>
+  
+  <string name="new_self_starting_guide_title">Прерывание сервиса резервного копирования резервного копирования прерывается, убедитесь, что вы включили следующие разрешения</string>
 
   <string name="new_solution_first_step_one">① 较早系统版本：请访问 设置-搜索“小米帐号”，在进入的帐号页底部点击“退出帐号”；</string>
 
@@ -10840,6 +10995,8 @@ progress: %d%%"</string>
 
   <string name="normal_name">用户</string>
 
+  <string name="normal_space">Обычное пространство</string>
+
   <string name="normal_tag">基础券</string>
 
   <string name="not_bind_email_or_mobile">未绑定邮箱或手机</string>
@@ -10856,7 +11013,13 @@ progress: %d%%"</string>
 
   <string name="not_login_or_account_not_exist">请重新登录再试</string>
 
+  <string name="not_support_large_file">Загрузка не поддерживается %1$dGB Выше</string>
+
+  <string name="not_support_save_to_enterprise">Количество файлов превышает предел, а передача не поддерживается.</string>
+
   <string name="not_support_type_error">暂不支持播放当前文件格式</string>
+
+  <string name="not_support_unzip_size">暂不支持查看%1$dGB以上的压缩包</string>
 
   <string name="not_use_now">暂不使用</string>
 
@@ -10881,6 +11044,10 @@ progress: %d%%"</string>
   <string name="note_share_weixin">微信</string>
 
   <string name="note_share_weixin_quan">朋友圈</string>
+
+  <string name="notes_count">%1$d/%2$d</string>
+
+  <string name="notes_no_count">0/16</string>
 
   <string name="notification_album_no_longer_appear">不再提醒</string>
 
@@ -12134,6 +12301,8 @@ progress: %d%%"</string>
 
   <string name="open_file_title">打开文件</string>
 
+  <string name="open_flagship_version">Откройте флагманскую версию</string>
+
   <string name="open_gift_page">查看奖品</string>
 
   <string name="open_histroy_private_mode">搜索历史</string>
@@ -12152,11 +12321,15 @@ progress: %d%%"</string>
 
   <string name="open_personal_face">去开启</string>
 
+  <string name="open_professional_version">Откройте профессиональную версию</string>
+
   <string name="open_push_success">开启成功</string>
 
   <string name="open_recently">开启人脸分组</string>
 
   <string name="open_share_failed_tips">开启分享失败，请重试</string>
+  
+  <string name="open_standard_version">Открыть стандартную версию</string>
 
   <string name="open_storage_permission_content">为了正常使用图像搜索、下载、文件上传、阅读小说等服务，请开启百度APP存储权限</string>
 
@@ -12892,7 +13065,9 @@ progress: %d%%"</string>
 
   <string name="permission_location">位置信息</string>
 
-  <string name="permission_location_des">拍照时记录照片位置信息</string>
+  <string name="permission_location_des">Запишите информацию о местоположении фото во время фотографирования</string>
+
+  <string name="permission_location_desc">Разрешения на местоположение: Рекомендуется выбрать «Разрешить», чтобы убедиться, что фото автоматической резервной функции используются нормально, ваша личная информация о местоположении не будет использована и собрана.</string>
 
   <string name="permission_location_function">手机找回、照片位置等</string>
 
@@ -13002,6 +13177,8 @@ progress: %d%%"</string>
 
   <string name="personal_info">Обо мне</string>
 
+  <string name="personal_info_audio_visual_package_overdue">Развлекательный пакет：%sзрелость</string>
+
   <string name="personal_info_backup_package_overdue">备份套餐：%s到期</string>
 
   <string name="personal_info_buy_vip">Купить</string>
@@ -13013,6 +13190,8 @@ progress: %d%%"</string>
   <string name="personal_info_title_no_vip">VIP статус не активирован</string>
 
   <string name="personal_info_vip_overdue">VIP: %s осталось</string>
+
+  <string name="personal_info_work_package_overdue">Комплекс работ:%sзрелость</string>
 
   <string name="personal_label">个性标签</string>
 
@@ -13264,6 +13443,8 @@ progress: %d%%"</string>
 
   <string name="playlist_remove_success">Удален из устройства</string>
 
+  <string name="please_add_notes">Пожалуйста, введите записку</string>
+
   <string name="please_choice">Выберите</string>
 
   <string name="please_choice_cover_image">Выберите любимое изображение в качестве обложки.</string>
@@ -13439,6 +13620,8 @@ OPPO
 
   <string name="privilege_continue_buying">购买更多</string>
 
+  <string name="privilege_count_more_than_view_count">Предел%dЛюди, скачать купоны не будут потребляться</string>
+
   <string formatted="false" name="privilege_expired">%d张极速下载券即将于%s后过期</string>
 
   <string formatted="false" name="privilege_expired_more">其中%d张极速下载券有效期至%s(优先使用)</string>
@@ -13487,6 +13670,8 @@ OPPO
 
   <string name="privilege_to_upgrade_svip">升级超级会员</string>
 
+  <string name="privilege_use">Установите количество ваучеров загрузки</string>
+
   <string name="privilege_video">Видео</string>
 
   <string name="probationary_activity_end">活动已结束 下次再说吧</string>
@@ -13514,6 +13699,10 @@ OPPO
   <string name="probationary_running_tips">帐号试用提速中！剩余%d秒</string>
 
   <string name="product_expiring_today">今日到期</string>
+
+  <string name="product_noble_display">Вы ищете пакет</string>
+
+  <string name="progress">Progress:</string>
 
   <string name="progress_percent">%d%%</string>
 
@@ -13875,6 +14064,10 @@ OPPO
 
   <string name="quick_one_click_authorization">Авторизация одним кликом</string>
 
+  <string name="quick_permission_location_desc">"Рекомендуется выбрать «Всегда разрешать», чтобы обеспечить фото автоматическое
+Функция резервного копирования используется нормально, ваше личное местоположение
+Информация не будет использоваться и собрана."</string>
+
   <string name="quick_send_popup_title">Вы можете обмениваться фотографиями:</string>
 
   <string name="quick_setting_backup_tips">Резервное копирование свободно настраивается только в среде WiFi и не потребляет трафик сотовой связи</string>
@@ -13926,6 +14119,8 @@ OPPO
   <string name="quick_text_d">Разрешения для контактов</string>
 
   <string name="quick_text_e">Функция подбора контактов для друзей может быть отключена в настройках конфиденциальности</string>
+ 
+  <string name="quick_text_f">Разрешение местоположения</string>
 
   <string name="quick_title_text">Требуются следующие разрешения</string>
 
@@ -14221,7 +14416,7 @@ OPPO
 
   <string name="recycle_bin_album">Фото и видео</string>
 
-  <string name="recycle_bin_album_alert">Уважаемый SVip, удаленное содержимое может храниться до %1$s дней</string>
+  <string name="recycle_bin_album_alert">Удаленное содержимое может быть сохранено до%1$sдень</string>
 
   <string name="recycle_bin_album_empty_msg">Изображения или видео, которые еще не удалены</string>
 
@@ -15294,9 +15489,13 @@ OPPO
 
   <string name="save_to_dcim">保存至手机相册</string>
 
+  <string name="save_to_here">Сохранить здесь</string>
+
   <string name="save_to_netdisk">保存到百度网盘</string>
 
   <string name="save_to_pdf">另存为PDF</string>
+
+    <string name="save_to_space">Сохранить в</string>
 
   <string name="saved_at">已保存到：百度网盘%s</string>
 
@@ -15361,6 +15560,8 @@ OPPO
   <string name="sdk_name">lebo</string>
 
   <string name="search_aladdin_result_title">Изображение (%d)</string>
+
+  <string name="search_box_enterprise_hint_text">Поиск бизнес пространственных файлов</string>
 
   <string name="search_box_hint_text">Найти файл</string>
 
@@ -15471,6 +15672,8 @@ OPPO
   <string name="sec_tip_btn_refuse">Мусор</string>
 
   <string name="sec_tip_title">Подсказка</string>
+  
+  <string name="second_pwd_face_stop">Обновление обслуживания, логин для щетки для лица приостановлен</string>
 
   <string name="second_pwd_remand">Пароль уровня 2 используется для защиты скрытых пространств и пакета My Card</string>
 
@@ -15530,6 +15733,8 @@ OPPO
 
   <string name="select_folder_button">Выберите папку</string>
 
+  <string name="select_folder_is_empty">Вот пусто</string>
+
   <string name="select_from_small_plane">/来自：小飞机/</string>
 
   <string name="select_image_msg">Выбрано %d файлов</string>
@@ -15586,11 +15791,23 @@ OPPO
 
   <string name="selecte_default_download_position">Путь для сохр</string>
 
+  <string name="selected_file_count">выбранный%dФайл</string>
+
   <string name="selected_file_to_edit">Выбрано: %d</string>
 
   <string name="selected_path_not_exists">Папка была удалена</string>
 
   <string name="selection">Выбрать</string>
+
+  <string name="self_space">личное пространство</string>
+
+  <string name="self_starting_desc">Резервное копирование резервного копирования более своевременно</string>
+
+  <string name="self_starting_guide_desc">Метод настройки разрешения фона выглядит следующим образом:</string>
+
+  <string name="self_starting_guide_toast" />
+
+  <string name="self_starting_title_defalut">Разрешение самозапуска</string>
 
   <string name="send">Отправить</string>
 
@@ -15828,6 +16045,8 @@ OPPO
 
   <string name="seven_day_share_title">7天内有效</string>
 
+  <string name="seven_days">7天</string>
+
   <string name="share">Поделиться</string>
 
   <string name="share_add_album">Добавить фото/видео</string>
@@ -15856,7 +16075,15 @@ OPPO
 
   <string name="share_content">%1$s %2$s (Поделитесь с @Music)</string>
 
-  <string name="share_copy_privacy_link">复制链接</string>
+  <string name="share_copy_privacy_link">копировать ссылку</string>
+
+  <string name="share_cover_camera">Фотографировать</string>
+
+  <string name="share_cover_cancel">отменить</string>
+
+  <string name="share_cover_gallery">Выберите из альбомов</string>
+
+  <string name="share_cover_snapshot">Используйте снимок файла</string>
 
   <string name="share_create_cover_fail">Не удалось создать</string>
 
@@ -15960,6 +16187,8 @@ OPPO
 
   <string name="share_email">Отправить Email</string>
 
+  <string name="share_enterprise_tip">Поделиться, кроме [COPY LINK], кроме этой обложки</string>
+
   <string name="share_error">Передача не удалась</string>
 
   <string name="share_error_msg">发送地址为无效地址，请重新输入</string>
@@ -16025,6 +16254,8 @@ OPPO
   <string name="share_guide">共享怎么用？</string>
 
   <string name="share_include_illegal_words">共享名含有敏感词，请检查后再试</string>
+    
+  <string name="share_limit_count">%dлюди</string>
 
   <string name="share_link">复制链接</string>
 
@@ -16088,6 +16319,8 @@ OPPO
 
   <string name="share_link_simple">链接分享</string>
 
+  <string name="share_link_user_name">%1$s　%2$s</string>
+
   <string formatted="false" name="share_link_visited_limit">链接限%1d人访问，已有%2d人访问</string>
 
   <string name="share_link_without_code">%1$s 链接:%2$s </string>
@@ -16097,6 +16330,10 @@ OPPO
   <string name="share_mms">短信分享</string>
 
   <string name="share_my_image">分享我的照片</string>
+
+    <string name="share_no_limit">не ограничен</string>
+
+    <string name="share_notes_show">Примечания Информация Показать здесь</string>
 
   <string name="share_other">其他应用</string>
 
@@ -16180,9 +16417,17 @@ OPPO
 
   <string name="share_save_too_long">保存失败，图片长度超过限制</string>
 
-  <string name="share_saving">保存中</string>
+  <string name="share_saving">Быть спасенным</string>
 
-  <string name="share_secrete_link">复制链接</string>
+  <string name="share_secrete_link">копировать ссылку</string>
+
+  <string name="share_set_cover">Установить карту крышки</string>
+
+  <string name="share_set_limit">Ограничивать посетителей</string>
+
+  <string name="share_set_period">Установите срок действия</string>
+
+  <string name="share_settings">Настройки обмена</string>
 
   <string name="share_settings_tip">分享相关消息设置已移动至 分享动态 服务号中</string>
 
@@ -16207,6 +16452,8 @@ OPPO
   <string name="share_time_expire">设定有效期已过，请重新设置</string>
 
   <string name="share_time_unknown">***</string>
+
+  <string name="share_tips_certification_staff">%1$sРаботник</string>
 
   <string name="share_tips_certification_user_suffix">--来自企业帐号：%s</string>
 
@@ -16558,6 +16805,14 @@ OPPO
   <string name="sort_by_time_text">По дате</string>
 
   <string name="source_file_not_found">Файл не существует</string>
+
+  <string name="space_copy_to">скопировать в:</string>
+
+  <string name="space_copy_to_enterprise">Скопируйте в: предприятие</string>
+
+  <string name="space_move_to">перейти к：</string>
+
+  <string name="space_quota_info">Пространственная емкость：%1$s/%2$s</string>
 
   <string name="space_recycle_default_text">Вас небыло более 1 года,по этому мы уменьшили ваш диск до100G</string>
 
@@ -17351,7 +17606,9 @@ OPPO
 
   <string name="switch_loading">切换中..</string>
 
-  <string name="switch_property_fail">切换相册属性失败</string>
+  <string name="switch_property_fail">Ошибка атрибута коммутатора альбома</string>]
+
+  <string name="switch_space">Переключатель пространства</string>
 
   <string name="switch_user">切换帐号</string>
 
@@ -17382,6 +17639,8 @@ OPPO
   <string name="sync_smsmms_cloud_count_lab">云端：</string>
 
   <string name="sync_smsmms_local_count_lab">本机：</string>
+
+  <string name="sync_to_advice_description">Загрузка и новое строительство будут синхронизированы для каждого устройства</string>
 
   <string name="system_contact_error_text">系统通讯录读取失败，请稍后再试</string>
 
@@ -17421,9 +17680,13 @@ OPPO
 
   <string name="tab_document_last">全部文档</string>
 
-  <string name="tab_document_more_backup_file">文档备份设置</string>
+  <string name="tab_document_more_backup_file">Резервное копирование документов</string>
 
-  <string name="tab_document_more_choose_file">选择文件</string>
+  <string name="tab_document_more_choose_file">Выберите документ</string>
+
+  <string name="tab_enterprise_center">Корпоративный центр</string>
+
+  <string name="tab_enterprise_file">Корпоративный документ</string>
 
   <string name="tab_feedlist">Друзья</string>
 
@@ -17457,7 +17720,7 @@ OPPO
 
   <string name="tab_share_confirm">Подтверждение</string>
 
-  <string name="tab_sns">生活记</string>
+  <!-- <string name="tab_sns">生活记</string> -->
 
   <string name="tab_story">История</string>
 
@@ -17559,9 +17822,13 @@ OPPO
 
   <string name="think_more">Подумайте еще раз</string>
 
-  <string name="third_login_certification_title">第三方登录</string>
-
+  <string name="third_login_certification_title">Войти в систему с</string>
+  
+  <string name="third_party_info">Сторонняя SDK ситуация</string>
+  
   <string name="thirty">30</string>
+
+  <string name="thirty_days">30день</string>
 
   <string name="thirty_days_share_tip">分享将在30天后失效，无法继续访问</string>
 
@@ -17840,6 +18107,10 @@ OPPO
   <string name="toolbox_see_more_app">Другие инструменты для рекомендаций Baidu Cloud</string>
 
   <string name="total_scan_file">Всего найдено %d</string>
+
+  <string name="trade_platform_server_error">Ошибка сервера</string>
+
+  <string name="trade_platform_url_error">Ошибка анализа данных</string>
 
   <string name="trade_tips_content">Загружайте все карты высокой четкости после покупки.</string>
 
@@ -18775,7 +19046,7 @@ OPPO
 
   <string name="trans_dialog_restore_flow_title">部分文件转存失败</string>
 
-  <string name="trans_dialog_restore_ok">购买会员</string>
+  <string name="trans_dialog_restore_ok">Купить супер-член</string>
 
   <string name="trans_dialog_send_content">你发送给好友的文件有%d个发送失败，是否重试</string>
 
@@ -19783,9 +20054,13 @@ OPPO
 
   <string name="upload_to_cloud">上传到网盘</string>
 
+  <string name="upload_to_here">Загрузить к этому</string>
+
   <string name="upload_to_netdisk">上传至百度网盘</string>
 
   <string name="upload_to_property_dir_failed">上传失败，目标文件夹文件数超限</string>
+
+  <string name="upload_to_space">загрузить на</string>
 
   <string name="upload_trans_assistant_dest_notice">成功发送的本地文件会同步到文件夹\"好友分享\"</string>
 
@@ -20082,6 +20357,12 @@ OPPO
 
   <string name="video_page_play_start_install_text">点击安装视频插件</string>
 
+  <string name="video_pic_in_pic_enable_cancel">отменить</string>
+
+  <string name="video_pic_in_pic_enable_ok">Открыть</string>
+
+  <string name="video_pic_in_pic_enable_tip">Я не открыл картину системы в системе. Вы можете использовать его.</string>
+  
   <string name="video_play">视频播放</string>
 
   <string name="video_play_error">无法读取此视频</string>
@@ -20269,6 +20550,8 @@ OPPO
 
   <string name="videoplayer_login_action_hint">登录后才能观看全部的哦~</string>
 
+  <string name="videoplayer_pip_flow_alert_2g3g">Мобильная сетевая среда, пожалуйста, вернитесь к странице воспроизведения сетевого диска, чтобы подтвердить игру</string>
+
   <string name="videoplayer_recorder_prompt">已定位到上次浏览位置</string>
 
   <string name="videoplayer_save_action_title">保存</string>
@@ -20296,6 +20579,8 @@ OPPO
   <string name="view_calendar_not_available">您的设备不支持查看日历</string>
 
   <string name="view_collect_toast">收藏成功，可在我的收藏中查看</string>
+
+  <string name="view_count_less_than_privilege_count">Скачать купоны были добавлены%dЧжан, не будет употреблен</string>
 
   <string name="view_gift_path">路径：我的 &gt; 活动中心 &gt; 我的奖品</string>
 
@@ -20331,7 +20616,7 @@ OPPO
 
   <string name="vip_high_speed_tip_second">高速播放通道</string>
 
-  <string name="vip_invalid">该功能为会员功能，请开通会员后尝试</string>
+  <string name="vip_invalid">Эта функция - функция супер-члена, пожалуйста, откройте Super-член и попробуйте</string>
 
   <string name="vip_name">会员</string>
 
@@ -20444,6 +20729,8 @@ OPPO
   <string name="vip_wap_normal_title">VIP</string>
 
   <string name="vip_wap_vip_title">Обновление VIP</string>
+  
+  <string name="visit_settings">Настройки доступа</string>
 
   <string name="voice_backup_item_check_title">Просмотр резервного копирования аудио</string>
 
@@ -21131,7 +21418,9 @@ OPPO
 
   <string name="webview_error_desc_sub_text">该网站可能会给您的手机造成威胁，建议立即关闭此页面!</string>
 
-  <string name="webview_loading">正在加载…</string>
+  <string name="webview_loading">Загрузка ...</string>
+
+  <string name="wechat_android11_tips">Android 11 или выше ограничен, не поддерживается / резервное копирование видео WECHAT</string>
 
   <string name="wechat_auto_backup_authorization_btn">立即体验</string>
 
@@ -21404,6 +21693,10 @@ OPPO
   <string name="word_scan_ticket_content">Организуйте счета и никогда не беспокойтесь о том, что вы больше не найдете квитанции~</string>
 
   <string name="word_switch_pdf_tips_vip_tip2">Преобразованный PDF-файл находится в том же каталоге, что и исходный Word.</string>
+
+  <string name="workspace_create_new">Новое строительство</string>
+
+  <string name="workspace_dir_name">Рабочая среда</string>
 
   <string name="wp_convert_tips">После успешного преобразования он будет автоматически сохранен в каталог, где находится исходный файл.</string>
 
