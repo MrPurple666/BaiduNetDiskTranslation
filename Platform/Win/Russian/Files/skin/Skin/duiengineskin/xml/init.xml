@@ -991,8 +991,8 @@
         <imgframe name="navigatepanel_bg" src="IDP_NAVIGATEPANEL_BG" left="10" right="20" top="5" bottom="5"/>
 
         <!-- 企业空间 -->
-        <imglst name="enterprise_up_btn" src="IDP_ENTERPRISE_BTN_UP" subwidth="12" />
-        <imglst name="enterprise_down_btn" src="IDP_ENTERPRISE_BTN_DOWN" subwidth="12" />
+        <imglst name="enterprise_up_btn" src="IDP_ENTERPRISE_BTN_UP"/>
+        <imglst name="enterprise_down_btn" src="IDP_ENTERPRISE_BTN_DOWN"/>
         <imglst name="enterprise_select_btn" src="IDP_ENTERPRISE_BTN_SELECT" subwidth="14" />
         <imglst name="enterprise_select_head_frame" src="IDP_ENTERPRISE_HEAD_FRAME_SELECT" subwidth="30" />
         <imglst name="enterprise_item_hover" src="IDP_ENTERPRISE_ITEM_HOVER" subwidth="10" />
