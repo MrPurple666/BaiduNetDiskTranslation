@@ -1,4 +1,4 @@
-<layer name="EnterpriseSpaceCardWnd" width="340" height="352" appwin="0" toolwindow="1" ncRect="5,5,5,5" translucent="1">
+<layer name="EnterpriseSpaceCardWnd" width="0" height="0" appwin="0" toolwindow="1" ncRect="5,5,5,5" translucent="1">
   <body>
     <dlg name="dlg_enterprise_space" pos="0,0,-0,-0" skin="usercard_notvip_bg">
       <listboxex name="list_enterprise_space" pos="14,34,-15,-14" itemheight="70" virtual="1" sbenable="2" show="1">
