@@ -13,7 +13,7 @@
   </img>
  
   <!--用户昵称-->
-  <text name="txt_nickname" pos="-450,|-8" crtext="333333" font="0000:微软雅黑" align="left" cursor="arrow" maxwidth="200" dotted="1"></text>
+  <text name="txt_nickname" pos="-450,|-8" crtext="333333" font="0000:Segoe UI" align="left" cursor="arrow" maxwidth="200" dotted="1"></text>
   <!--会员身份标识-->
   <imgbtn name="btn_crown" pos="-9999,|-9999,@0,@0" skin="titlepanel_translucent" icoskin="titlepanel_vipclose" maxwidth="0" show="0" cursor="hand"/>
   
@@ -21,6 +21,7 @@
   <dlg name="dlg_enterprise" pos="-9999,|-9999,@0,@0">
   <link name="link_enterprise_authentication" pos="-9999,|-9999,@1,@1" font="Segoe UI" crtext="0065DD" cursor="hand" show="0">%str1553%</link>
     <imgbtn name="btn_enterprise_arrow" pos="-9999,|-9999,@0,@0" skin="enterprise_down_btn" cursor="arrow" show="0"></imgbtn>
+        <!--btn_icon_ad  Present  ico  remove change  ad_skin ->  enterprise_down_bt -->
     <imgbtn name="btn_icon_ad" pos="-9999,|-9999,@0,@0" skin="enterprise_down_bt" cursor="hand" show="0"></imgbtn> 
    <link name="link_header_ad" pos="-9999,|-9999,@0,@0" crtext="C9A566" font="Segoe UI" align="left" maxwidth="0" cursor="hand" dotted="1" show="0"></link>
 
@@ -29,7 +30,7 @@
   <!--会员中心-->
   <imgbtn name="btn_vipcenter" pos="-9999,|-9999,@0,@0" class="cls_titlepanel_vipcenter_btn" txtyoffset="2"  show="0">%str1505%</imgbtn>
   <dlg name="dlg_coupon" pos="-9999,|-9999,@0,@0" skin="titlepanel_vipcenter_cornel" show="0">
-    <text name="text_coupon" pos="6,0" font2="facename:微软雅黑;adding:-2" crtext="ffffff"></text>
+    <text name="text_coupon" pos="6,0" font2="facename:Segoe UI;adding:-2" crtext="ffffff"></text>
   </dlg>
   <text name="text_vipcenter"  class="cls_titlepanel_vipcenter_btn" show="0"></text>
 
