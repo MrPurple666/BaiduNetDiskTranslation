@@ -7,9 +7,6 @@
   
   <!--icon广告-->
   <imgbtn name="btn_icon_ad" pos="-588,|-14,@28,@28" skin="titlepanel_ad_skin" cursor="hand" show="0"></imgbtn> 
-
-  <!--游戏icon-->
-  <imgbtn name="btn_game_icon_ad" pos="-544,|-14,@28,@28" skin="titlepanel_game_center_skin" cursor="hand" ></imgbtn> 
  
   <!--用户头像-->
   <img name="img_userhead" pos="-504,|-15,@30,@30" skin="titlepanel_default_head">
@@ -29,11 +26,14 @@
   </dlg>
   
   <!--会员中心-->
-  <imgbtn name="btn_vipcenter" pos="-252,|-20,@84,@40" class="cls_titlepanel_vipcenter_btn" txtyoffset="2">%str1505%</imgbtn>
+  <imgbtn name="btn_vipcenter" pos="-302,|-20,@84,@40" class="cls_titlepanel_vipcenter_btn" txtyoffset="2">%str1505%</imgbtn>
   <dlg name="dlg_coupon" pos="[-28,|-22,@34,@15" skin="titlepanel_vipcenter_cornel" show="0">
     <text name="text_coupon" pos="6,0" font2="facename:微软雅黑;adding:-2" crtext="ffffff"></text>
   </dlg>
   <text name="text_vipcenter" class="cls_titlepanel_vipcenter_btn" show="0"></text>
+
+  <!--游戏icon-->
+  <imgbtn name="btn_game_icon_ad" pos="-208,|-14,@28,@28" skin="titlepanel_game_center_skin" cursor="hand" ></imgbtn>
 
   <dlg name="title_right_region" pos="-179,10,-119,-10">
     <!--消息-->

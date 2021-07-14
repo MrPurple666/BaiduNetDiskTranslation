@@ -1,5 +1,5 @@
 <UI version="1.0">
-	<IBGCommonWin name="settingDialog" rect="0,0,645,470" sysBtnConfig="mainPanel_CapButton" selfDrawCaption="true" unvariedSize="true" showCloseButton="true" showMinButton="true" showMaxButton="false" config="mainPanel">
+	<IBGCommonWin name="settingDialog" rect="0,0,750,570" sysBtnConfig="mainPanel_CapButton" selfDrawCaption="true" unvariedSize="true" showCloseButton="true" showMinButton="true" showMaxButton="false" config="mainPanel">
 		<Children>
 			<IBGRegionPanel sizeAsParent="true">
 				<Children>
