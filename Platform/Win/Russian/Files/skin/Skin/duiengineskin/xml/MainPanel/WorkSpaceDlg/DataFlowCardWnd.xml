@@ -5,7 +5,7 @@
                 <!--顶部名字显示-->
                 <dlg name="dlg_top" pos="0,0,-0,@30">
                     <dlg name="dlg_user" pos="0,0,-0,@28">
-                        <link name="link_username" pos="99,22" crtext="03081A" font="0200:微软雅黑" crhover="696969" hoverfont="0200:微软雅黑" maxwidth="250" cursor="hand" dotted="1"/>
+                        <link name="link_username" pos="99,22" crtext="03081A" font="0200:Segoe UI" crhover="696969" hoverfont="0200:Segoe UI" maxwidth="250" cursor="hand" dotted="1"/>
                         <imgbtn name="btn_crown" pos="[8,14,@38,@18" skin="titlepanel_translucent" icoskin="titlepanel_vipclose" cursor="hand"/>
                     </dlg>
                 </dlg>
@@ -15,13 +15,13 @@
                     <dlg name="progress_bkg" pos="0,20,@200,@6" class="cls_leftpanel_progress_bkg">
                         <dlg name="progress_frg" pos="0,0,0,-0" class="cls_leftpanel_progress_frg_green"/>
                     </dlg>
-                    <text name="txt_used_flow" font="0000:微软雅黑" pos="[14,14" crtext="454D5A" align="left"></text>
-                    <text name="txt_toal_flow" font="0000:微软雅黑" pos="[0,14" crtext="454D5A" align="left"></text>
-                    <link name="link_dataflow" pos="0,-22" multilines="0" dotted="1" show="1" crtext="64360D" font="0000:微软雅黑" align="left"></link>
+                    <text name="txt_used_flow" font="0000:Segoe UI" pos="[14,14" crtext="454D5A" align="left"></text>
+                    <text name="txt_toal_flow" font="0000:Segoe UI" pos="[0,14" crtext="454D5A" align="left"></text>
+                    <link name="link_dataflow" pos="0,-22" multilines="0" dotted="1" show="1" crtext="64360D" font="0000:Segoe UI" align="left"></link>
                 </dlg>
                 <dlg name="dlg_vip_guide" pos="18,-56,@274,@42" skin="usercard_member_notvip_bkg">
                     <text name="txt_svip_guide" pos="14,15" crtext="64360D"></text>
-                    <imgbtn name="btn_buy" pos="-97,8,@90,@28" skin="usercard_svip_btn" crtext="64360D" font="0000:微软雅黑" cursor="hand"></imgbtn>
+                    <imgbtn name="btn_buy" pos="-97,8,@90,@28" skin="usercard_svip_btn" crtext="64360D" font="0000:Segoe UI" cursor="hand"></imgbtn>
                 </dlg>
             </dlg>
         </dlg>

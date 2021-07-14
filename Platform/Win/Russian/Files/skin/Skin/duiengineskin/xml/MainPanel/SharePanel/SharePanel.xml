@@ -114,7 +114,7 @@
                   <dlg name="PureTextPanel" pos="0,0,-0,-0" show="0">
                     <!--消息体-->
                     <chatrichedit name="edit_msg_content" show="1" number="0" enabledragdrop="0" autowordsel="0"
-                       font="0600:微软雅黑" inset="0,0,0,0" wordwrap="1"
+                       font="0600:Segoe UI" inset="0,0,0,0" wordwrap="1"
                        pos="11,5,-4,-5" multilines="1" wantreturn="1" vscrollbar="0" readonly="1"
                        autovscroll="0" crtext="333333" align="left" hscrollbar="0"
                        autohscroll="0" transparent="1" show_caret="0">
@@ -163,7 +163,7 @@
                   <dlg name="SelfPureTextPanel" pos="0,0,-0,-0" show="0">
                     <!--消息体-->
                     <chatrichedit name="self_edit_msg_content" show="1" number="0" enabledragdrop="0" autowordsel="0"
-                       font="0600:微软雅黑" inset="0,0,0,0" wordwrap="1"
+                       font="0600:Segoe UI" inset="0,0,0,0" wordwrap="1"
                        pos="5,5,-10,-5" multilines="1" wantreturn="1" vscrollbar="0" readonly="1"
                        autovscroll="0" crtext="333333" align="left" hscrollbar="0"
                        autohscroll="0" transparent="1" show_caret="0">
@@ -206,12 +206,12 @@
           <!--计算消息体显示区域面板-->
           <dlg name="CalcMsgSizePanel" pos="40,0,400,-0" show="0">
             <chatrichedit name="edit_calc_size" show="1" number="0" enabledragdrop="0" autowordsel="0"
-              font="0600:微软雅黑" inset="0,0,0,0" wordwrap="1"
+              font="0600:Segoe UI" inset="0,0,0,0" wordwrap="1"
               pos="11,5,-4,-5" multilines="1" wantreturn="1" vscrollbar="0" readonly="1"
               autovscroll="0" crtext="333333" align="left" hscrollbar="0"
               autohscroll="0" transparent="1" show_caret="0">
             </chatrichedit>
-            <text name="text_calc_msg_size" pos="30,0" multilines="0" font="0000:微软雅黑"></text>
+            <text name="text_calc_msg_size" pos="30,0" multilines="0" font="0000:Segoe UI"></text>
             <text name="text_calc_sysmsg_size" pos="30,0" maxwidth="360" multilines="1" class="share_msg_time_text"></text>
             <link name="link_calc_file_name" pos="30,30" class="share_file_name_text"/>
             <text name="text_calc_file_size" pos="30,50" class="share_msg_name_text"/>
@@ -241,9 +241,9 @@
           <!--分割线-->
           <hr pos="0,0,-0,0" crbg="e5e5e5"/>
           <imgbtn name="msg_file_btn" pos="24,|-17" width="86" height="34" class="share_file_btn">%str323%</imgbtn>
-          <richedit name="msg_input_edit" pos="122,12,-102,46" class="cls_edit_set" font="0400:微软雅黑" password="0" show="1"
+          <richedit name="msg_input_edit" pos="122,12,-102,46" class="cls_edit_set" font="0400:Segoe UI" password="0" show="1"
                 deftext="%str363%" crdeftext="999999" maxbuf="1000" inset="4,3,0,2" align="left" valign="middle"
-                multilines="1" wantreturn="1" vscrollbar="1" autovscroll="1" hscrollbar="0" deffont="0200:微软雅黑"
+                multilines="1" wantreturn="1" vscrollbar="1" autovscroll="1" hscrollbar="0" deffont="0200:Segoe UI"
                 defleftmargin="4"></richedit>
           <imgbtn name="msg_send_btn" pos="-90,|-17" width="66" height="34" class="share_file_btn">%str364%</imgbtn>
         </dlg>

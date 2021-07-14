@@ -24,7 +24,7 @@
         <dlg name="dlg_progress_bg" pos="|-165,-122,@330,@11" skin="compresspackage_progress_bg">
           <dlg name="dlg_progress_fg" pos="0,0,0,-0" skin="compresspackage_progress_fg"/>
         </dlg>
-        <text name="txt_progress" pos="|-36,[12"  font="0000:微软雅黑" crtext="666666" textmode="25"/>
+        <text name="txt_progress" pos="|-36,[12"  font="0000:Segoe UI" crtext="666666" textmode="25"/>
       </dlg>
 
       <!--压缩包展开视图-->
@@ -79,20 +79,20 @@
         <!--空列表视图-->
         <dlg name="dlg_empty" pos="0,38,-0,-41" skin="compresspackage_list_bg" show="0">
           <img pos="|-54,64,@108,@122" skin="compresspackage_unziplist_empty_img"/>
-          <text pos="|-40,[5" crtext="3c6889" cursor="arrow" font="0200:微软雅黑" textmode="25">%str853%</text>
+          <text pos="|-40,[5" crtext="3c6889" cursor="arrow" font="0200:Segoe UI" textmode="25">%str853%</text>
         </dlg>
 
         <!--正在加载视图-->
         <dlg name="dlg_loading" pos="0,38,-0,-41" skin="compresspackage_list_bg" show="0">
           <gifplayer name="gif_loading" pos="190,120,@18,@18" width="18" height="18" skin="loading_gif"/>
-          <text name="text_loading" pos="218,118,@150,@20" crtext="3c6889" cursor="arrow" align="left" font="0200:微软雅黑">%str886%</text>
+          <text name="text_loading" pos="218,118,@150,@20" crtext="3c6889" cursor="arrow" align="left" font="0200:Segoe UI">%str886%</text>
         </dlg>
 
         <!--加载失败视图-->
         <dlg name="dlg_load_error" pos="0,38,-0,-41" skin="compresspackage_list_bg" show="0">
           <img pos="|-54,64,@108,@122" skin="compresspackage_unziplist_empty_img"/>
-          <text name="text_load_error" pos="|-150,[5,@300,@18" crtext="3c6889" cursor="arrow" textmode="25" font="0200:微软雅黑">%str887%</text>
-          <imgbtn name="btn_retry_load" pos="|-40,[10,@80,@30" font="0200:微软雅黑" class="defultbtn" tip="%str888%">%str888%</imgbtn>
+          <text name="text_load_error" pos="|-150,[5,@300,@18" crtext="3c6889" cursor="arrow" textmode="25" font="0200:Segoe UI">%str887%</text>
+          <imgbtn name="btn_retry_load" pos="|-40,[10,@80,@30" font="0200:Segoe UI" class="defultbtn" tip="%str888%">%str888%</imgbtn>
         </dlg>
 
         <!--foot-->

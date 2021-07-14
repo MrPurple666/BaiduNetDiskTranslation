@@ -24,29 +24,29 @@
   <dlg name="dlg_empty_view" pos="0,0,-0,-0" show="0">
     <img name="empty_view_bg" pos="|-90,|-127,@181,@127" skin="workspace_file_empty"></img>
     <dlg name="dlg_tips" pos="0,|0,-0,@44" show="0">
-      <text name="txt_empty_tip" pos="0,0,-0,@22" crtext="333333" font="0200:微软雅黑" align="center">%str2307%</text>
-      <link name="txt_empty_tip_line2" pos="0,[0,-0,@22" crtext="06A7FF" font="0202:微软雅黑" align="center" cursor="hand" show="0"></link>
+      <text name="txt_empty_tip" pos="0,0,-0,@22" crtext="333333" font="0200:Segoe UI" align="center">%str2307%</text>
+      <link name="txt_empty_tip_line2" pos="0,[0,-0,@22" crtext="06A7FF" font="0202:Segoe UI" align="center" cursor="hand" show="0"></link>
     </dlg>
     <dlg name="dlg_tip_with_links" pos="|-112,|0,@224,@44">
-      <text pos="0,0" crtext="333333" font="0200:微软雅黑">%str4900%</text>
-      <link name="lnk_open_local_dir" pos="[0,0" crtext="06A7FF" font="0202:微软雅黑" cursor="hand">%str4901%</link>
-      <text pos="0,22,-0,-0" crtext="333333" font="0200:微软雅黑" align="center">%str4902%</text>
+      <text pos="0,0" crtext="333333" font="0200:Segoe UI">%str4900%</text>
+      <link name="lnk_open_local_dir" pos="[0,0" crtext="06A7FF" font="0202:Segoe UI" cursor="hand">%str4901%</link>
+      <text pos="0,22,-0,-0" crtext="333333" font="0200:Segoe UI" align="center">%str4902%</text>
     </dlg>
   </dlg>
 
   <!--正在加载视图-->
   <dlg name="dlg_loading_view" pos="0,0,-0,-0" show="1">
 	<gifplayer name="loading_view_gif" pos="|-16,|-16,@32,@32" skin="gif_statuspanel_loading"/>
-    <text name="txt_loading_tip" pos="|-150,[12,@300,@18" crtext="333333" font="0200:微软雅黑" align="center">%str2311%</text>
+    <text name="txt_loading_tip" pos="|-150,[12,@300,@18" crtext="333333" font="0200:Segoe UI" align="center">%str2311%</text>
   </dlg>
 
   <!--加载失败视图-->
   <dlg name="dlg_error_view" pos="0,0,-0,-0" show="0">
     <img name="error_view_bg" pos="|-90,|-127,@181,@127" skin="mainpanel_emptyview_error"></img>
-    <text name="txt_error_tip" pos="0,220,-0,@22" crtext="333333" font="0200:微软雅黑" align="center">%str2312%</text>
+    <text name="txt_error_tip" pos="0,220,-0,@22" crtext="333333" font="0200:Segoe UI" align="center">%str2312%</text>
     <dlg name="dlg_tip_with_lnk" pos="|-50,[0,-0,@22">
-      <text pos="0,0" crtext="333333" font="0200:微软雅黑">%str4613%</text>
-      <link name="lnk_error_refresh" pos="[4,0" crtext="06A7FF" font="0202:微软雅黑" cursor="hand">%str217%</link>
+      <text pos="0,0" crtext="333333" font="0200:Segoe UI">%str4613%</text>
+      <link name="lnk_error_refresh" pos="[4,0" crtext="06A7FF" font="0202:Segoe UI" cursor="hand">%str217%</link>
     </dlg>
   </dlg>
 </dlg>

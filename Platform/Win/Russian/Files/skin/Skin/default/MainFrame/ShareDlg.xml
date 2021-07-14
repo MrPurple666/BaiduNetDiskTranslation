@@ -178,7 +178,7 @@
 															<IBGStaticEx size="65,25" name="linkCopySucceedTip" textClr="0xFFA806" text="$2211" margin="0,0,0,0" dock="DOCK_TOP">
 																<Properties>
 																	<textFont>
-																		<IBGFont height="20" facename="微软雅黑"/>
+																		<IBGFont height="20" facename="Segoe UI"/>
 																	</textFont>
 																</Properties>
 															</IBGStaticEx>

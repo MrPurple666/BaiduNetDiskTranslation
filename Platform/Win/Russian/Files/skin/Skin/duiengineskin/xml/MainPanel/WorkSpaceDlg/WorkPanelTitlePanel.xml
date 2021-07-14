@@ -1,7 +1,7 @@
 <caption name="CaptionPanel" pos="0,0,-0,-0" crbg="06A7FF">
     <!--logo-->
     <img pos="21,10,@30,@30" skin="workspace_logo"></img>
-    <text pos="64,15,@90,@20" crtext="FFFFFF" font="0204:微软雅黑">%str4533%</text>
+    <text pos="64,15,@90,@20" crtext="FFFFFF" font="0204:Segoe UI">%str4533%</text>
     <img pos="-173,0,@173,@50" skin="workspace_right_bkg"></img>
 
     <!--用户头像-->
@@ -15,12 +15,12 @@
     <dlg name="dlg_dataflow_progress" pos="-298,10,@140,@50">
         <dlg name="dlg_no_svip" pos="10,0,-0,-0" show="0">
             <dlg name="dlg_normal" pos="0,0,-0,-0">
-                <text name="txt_flow_available" font="0000:微软雅黑" pos="10,7" crtext="FFFFFF"></text>
-                <text name="txt_used_flow" font="0000:微软雅黑" pos="[8,7" crtext="FFFFFF" align="left"></text>
-                <text name="txt_toal_flow" font="0000:微软雅黑" pos="[0,7" crtext="FFFFFF" align="left"></text>
+                <text name="txt_flow_available" font="0000:Segoe UI" pos="10,7" crtext="FFFFFF"></text>
+                <text name="txt_used_flow" font="0000:Segoe UI" pos="[8,7" crtext="FFFFFF" align="left"></text>
+                <text name="txt_toal_flow" font="0000:Segoe UI" pos="[0,7" crtext="FFFFFF" align="left"></text>
             </dlg>
             <dlg name="dlg_workpackage" pos="15,0,-0,-0">
-                <text name="txt_workpackage" font="0000:微软雅黑" pos="10,7" crtext="FFFFFF">%str4551%</text>
+                <text name="txt_workpackage" font="0000:Segoe UI" pos="10,7" crtext="FFFFFF">%str4551%</text>
             </dlg>
         </dlg>
         <dlg name="dlg_svip" pos="0,0,-0,-0" show="0">

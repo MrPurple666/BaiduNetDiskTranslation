@@ -9,7 +9,7 @@
         <dlg name="netErrTipPanel" pos="|-100,|-110,@181,@170">
           <img pos="0,0,@181,@127" skin="mainpanel_emptyview_error"/>
           <text pos="55,130" crtext="636D7E">%str3504%</text>
-          <link name="link_retry" pos="65,152" font="0002:微软雅黑" crtext="06A7FF" cursor="hand">%str3513%</link>
+          <link name="link_retry" pos="65,152" font="0002:Segoe UI" crtext="06A7FF" cursor="hand">%str3513%</link>
         </dlg>
       </dlg>
       <dlg name="file_container_status_panel" pos="0,-34,-0,-0">

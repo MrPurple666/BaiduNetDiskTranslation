@@ -4,9 +4,9 @@
         <dlg name="dlg_list_status" pos="0,0,-0,-0" show="1" skin="main_panel_frame">
             <hr pos="0,1,-0,1" size="2" crbg="F5F6FA" shadow="1"/>
             <dlg name="dlg_title_panel" pos="0,0,-0,48">
-                <imgbtn name="btn_syncing" pos="24,14,@56,@20" crtext="06A7FF" font="0200:微软雅黑" skin="titlepanel_translucent" cursor="hand">%str4519%</imgbtn>
+                <imgbtn name="btn_syncing" pos="24,14,@56,@20" crtext="06A7FF" font="0200:Segoe UI" skin="titlepanel_translucent" cursor="hand">%str4519%</imgbtn>
                 <hr name="hr_syncing" pos="24,46,@56,@2" crbg="06A7FF" show="1"></hr>
-                <imgbtn name="btn_sync_error" pos="120,14,@56,@20" crtext="03081A" font="0200:微软雅黑" skin="titlepanel_translucent" cursor="hand">%str4527%</imgbtn>
+                <imgbtn name="btn_sync_error" pos="120,14,@56,@20" crtext="03081A" font="0200:Segoe UI" skin="titlepanel_translucent" cursor="hand">%str4527%</imgbtn>
                 <hr name="hr_syn_error" pos="120,47,@56,@2" crbg="06A7FF" show="0"></hr>
                 <dlg name="dlg_error_num" pos="120,5,@56,@20" msgtransparent="1">
                     <img name="img_errornum" pos="55,0,@28,@16" skin="titlepanel_redbg" show="0">
@@ -24,19 +24,19 @@
                 <template>
                     <dlg name="dlg_file_item" pos="0,0,-0,-0">
                         <img name="img_file_icon" pos="22,21,@30,@30"></img>
-                        <link name="link_file_name" pos="68,19" align="left" hight="16" maxwidth="180" dotted="1" font="0000:微软雅黑"></link>
-                        <text name="txt_file_size" pos="68,41" crtext="AFB3BF" font="0000:微软雅黑"/>
-                        <text name="txt_file_error_time" pos="[12,41" crtext="AFB3BF" font="0000:微软雅黑"/>
+                        <link name="link_file_name" pos="68,19" align="left" hight="16" maxwidth="180" dotted="1" font="0000:Segoe UI"></link>
+                        <text name="txt_file_size" pos="68,41" crtext="AFB3BF" font="0000:Segoe UI"/>
+                        <text name="txt_file_error_time" pos="[12,41" crtext="AFB3BF" font="0000:Segoe UI"/>
                         <dlg name="dlg_syncing_file" show="1" pos="-232,0,-0,-0">
                             <dlg name="progress_bkg" pos="0,36,-104,@4" class="cls_leftpanel_progress_bkg">
                                 <dlg name="progress_frg" pos="0,0,0,-0" class="cls_leftpanel_progress_frg_green"/>
                             </dlg>
-                            <text name="txt_speed" pos="-96,30" crtext="AFB3BF" font="0000:微软雅黑"/>
-                            <text name="txt_file_status" pos="-60,30" crtext="AFB3BF" font="0000:微软雅黑"/>
+                            <text name="txt_speed" pos="-96,30" crtext="AFB3BF" font="0000:Segoe UI"/>
+                            <text name="txt_file_status" pos="-60,30" crtext="AFB3BF" font="0000:Segoe UI"/>
                         </dlg>
                         <dlg name="dlg_sync_error_file" show="0" pos="-355,10,-0,-0">
-                            <text name="txt_error_msg" pos="95,20,@240,@12" crtext="FF436A" align="right" font="0000:微软雅黑"/>
-                            <imgbtn name="btn_error_svip" pos="-97,12,@90,@30" crtext="C99E47" font="0000:微软雅黑" skin="titlepanel_translucent"></imgbtn>
+                            <text name="txt_error_msg" pos="95,20,@240,@12" crtext="FF436A" align="right" font="0000:Segoe UI"/>
+                            <imgbtn name="btn_error_svip" pos="-97,12,@90,@30" crtext="C99E47" font="0000:Segoe UI" skin="titlepanel_translucent"></imgbtn>
                         </dlg>
                     </dlg>
                 </template>
@@ -44,7 +44,7 @@
             <!--空界面-->
             <dlg name="dlg_empaty_panel" pos="0,48,-0,-0" show="1">
                 <img name="img_empty" pos="|-80,|-70,@181,@127" skin="workspace_status_empty_file"></img>
-                <text name="txt_empty" pos="|-70,|40" crtext="636D7E" font="0000:微软雅黑"></text>
+                <text name="txt_empty" pos="|-70,|40" crtext="636D7E" font="0000:Segoe UI"></text>
             </dlg>
         </dlg>
     </body>

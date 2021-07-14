@@ -6,10 +6,10 @@
         <text name="txt_title" pos="39,9" width="400" dotted="1" align="left" class="cls_dlg_title_text">%str2600%</text>
       </caption>
       <img pos="1,38,-1,162" skin="autoupdate_header"/>
-      <text name="txt_update_version" pos="40,100" font="0800:微软雅黑" crtext="ffffff" cursor="arrow" textmode="25">%str2602%</text>
-      <text pos="24,170" name="txt_update_desc" font="0000:微软雅黑" crtext="000000" cursor="arrow" textmode="25" multilines="1"></text>
-      <text pos="24,[24" name="txt_update_content" font="0000:微软雅黑" crtext="000000" cursor="arrow" textmode="25" multilines="1"></text>
-      <imgbtn name="btn_start_update" pos="|-50,-48,|50,-16" skin="btn_default" crtext="ffffff" crdisabled="ffffff" cursor="arrow" font="0200:微软雅黑" textmode="25">%str2601%</imgbtn>
+      <text name="txt_update_version" pos="40,100" font="0800:Segoe UI" crtext="ffffff" cursor="arrow" textmode="25">%str2602%</text>
+      <text pos="24,170" name="txt_update_desc" font="0000:Segoe UI" crtext="000000" cursor="arrow" textmode="25" multilines="1"></text>
+      <text pos="24,[24" name="txt_update_content" font="0000:Segoe UI" crtext="000000" cursor="arrow" textmode="25" multilines="1"></text>
+      <imgbtn name="btn_start_update" pos="|-50,-48,|50,-16" skin="btn_default" crtext="ffffff" crdisabled="ffffff" cursor="arrow" font="0200:Segoe UI" textmode="25">%str2601%</imgbtn>
     </dlg>
   </body>
 </layer>

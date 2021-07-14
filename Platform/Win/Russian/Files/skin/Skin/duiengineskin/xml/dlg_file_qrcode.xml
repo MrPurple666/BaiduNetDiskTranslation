@@ -24,7 +24,7 @@
           <text pos="158,72" crtext="999999">%str3512%</text>
         </dlg>
         <hr pos="3,103,280,103" size="1" crbg="f2f5fd"/>
-        <link name="text_file_name" pos="3,112" maxwidth="300" font2="facename:微软雅黑;bold:1;italic:0;underline:0;adding:2" textmode="40024" crtext="333333"></link>
+        <link name="text_file_name" pos="3,112" maxwidth="300" font2="facename:Segoe UI;bold:1;italic:0;underline:0;adding:2" textmode="40024" crtext="333333"></link>
         <text name="text_file_size" pos="3,136" crtext="999999">%str3503%</text>
       </dlg>
       <dlg pos="332,49,-0,-0">

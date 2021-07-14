@@ -11,10 +11,10 @@
 				  <dlg pos="107,18,-0,84">
             <dlg pos="0,0,-0,20">
                <dlg name="dlg_remark_panel" pos="0,0,-0,-0" show="0">
-                   <text name="text_remark" pos="0,2" font="0004:微软雅黑"></text>
+                   <text name="text_remark" pos="0,2" font="0004:Segoe UI"></text>
                    <imgbtn name="btn_update_remark" pos="[10,0,@20,@20" skin="share_update_btn" tip="%str346%"/>
                </dlg>
-               <link name="link_add_remark" pos="0,2" font="0004:微软雅黑" hoverfont="0006:微软雅黑" class="cls_btn_weblink" show="1">%str331%</link>
+               <link name="link_add_remark" pos="0,2" font="0004:Segoe UI" hoverfont="0006:Segoe UI" class="cls_btn_weblink" show="1">%str331%</link>
             </dlg>
             <dlg name="dlg_nickname_panel" pos="0,22,-0,42">
                <text pos="0,2">%str704%</text>

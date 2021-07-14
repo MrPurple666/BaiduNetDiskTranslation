@@ -7,7 +7,7 @@
                 <imgbtn name="btn_close" skin="btn_sys_close" pos="-34,1,-2,21" cursor="arrow" tip="%str250%" animate="1"/>
             </caption>
             <dlg pos="0,39,-0,-0" crtext="000000">
-                <text pos="34,25" font="0200:微软雅黑" crtext="06a8ff">%str506%</text>
+                <text pos="34,25" font="0200:Segoe UI" crtext="06a8ff">%str506%</text>
                 <dlg name="dlg_search_input" pos="34,58,@290,@33" skin="share_addfriend_searchbox_input_bkg">
                     <embedbutton name="btn_delete_search_text" pos="-38,0,@38,@34" skin="share_addfriend_delete_btn" show="0"/>
                     <embededit name="edit_search_text" pos="12,3,-38,-3" font="0000:Arial" textmode="24" deftext="%str515%"/>

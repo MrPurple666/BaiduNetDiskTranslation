@@ -2,11 +2,11 @@
   <body>
     <dlg pos="0,0,-0,-0" skin="workspace_guide_bkg_two">
       <imgbtn name="btn_close" skin="wechatbackup_guide_dlg_close" pos="-62,46,@16,@16" cursor="arrow" tip="%str250%"/>
-      <text pos="38,46,-30,66" align="center" crtext="03081A" font="0200:微软雅黑" >%str4614%</text>
-      <text pos="38,74,-30,94" align="center" crtext="636D7E" font="0200:微软雅黑" >%str4615%</text>
-      <text pos="38,100,-30,120" align="center" crtext="636D7E" font="0200:微软雅黑" >%str4618%</text>
+      <text pos="38,46,-30,66" align="center" crtext="03081A" font="0200:Segoe UI" >%str4614%</text>
+      <text pos="38,74,-30,94" align="center" crtext="636D7E" font="0200:Segoe UI" >%str4615%</text>
+      <text pos="38,100,-30,120" align="center" crtext="636D7E" font="0200:Segoe UI" >%str4618%</text>
       <img pos="38,120,@320,@94" skin="workspace_guide_img"/>
-      <imgbtn name="btn_ok" skin="wechatbackup_guide_dlg_btn" pos="134,-81,@128,@36" align="center" crtext="FFFFFF" font="0200:微软雅黑">%str4202%</imgbtn>
+      <imgbtn name="btn_ok" skin="wechatbackup_guide_dlg_btn" pos="134,-81,@128,@36" align="center" crtext="FFFFFF" font="0200:Segoe UI">%str4202%</imgbtn>
     </dlg>
   </body>
 </layer>
