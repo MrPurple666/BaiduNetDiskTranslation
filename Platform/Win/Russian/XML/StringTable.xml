@@ -177,7 +177,6 @@
   <String id="IDS_SHARE_CREATE_LINK" value="Создать ссылку" />
   <String id="IDS_SHARE_CREATING_LINK" value="Создайте ссылку для обмена, пожалуйста, подождите ..." />
   <String id="IDS_SHARE_CREATING_DOWNLOAD_SPEEDUP_LINK" value="Создание быстрой ссылки для обмена, подождите..." /> 
-  <String id="IDS_TRANPANEL_ENT_DOWNLOAD_SPEEDUP_TEXT" value="Предприятия наслаждаются скоростью" />
   <String id="IDS_SHARE_COPY_LINK_SUCCESS" value="Копирование успешно" />
   <String id="IDS_SHARE_LINK_SHARE" value="Поделиться с друзьями через QQ, WeChat, Weibo, QQ" />
   <String id="IDS_SHARE_TABBUTTON_LINKSHARE" value="Поделиться ссылкой" />
@@ -345,6 +344,7 @@
   <String id="IDS_TRANPANEL_DOWNLOAD_REQUESTING_TIP" value="Ожидаем ответ ..." />
   <String id="IDS_TRANPANEL_UPLOAD_REQUESTING_TIP" value="Загужаю ответ ..." />
   <String id="IDS_TRANPANEL_REQUESTING_TIP" value="Запрос..." />
+  <String id="IDS_TRANPANEL_ENT_DOWNLOAD_SPEEDUP_TEXT" value="Предприятия наслаждаются скоростью" />
   <!--Сообщение об ошибке на панели передачи -->
 
   <!--Ссылка на решение об ошибке передачи-->
@@ -1323,6 +1323,7 @@
    <String id="IDS_QUIT_CLOSE_P2P" value="Используйте это снова"/>
    <String id="IDS_P2P_NON_SVIP_SPEEDUP_TIP" value="Ускорение загрузки %s"/>
    <String id="IDS_P2P_SVIP_SPEEDUP_TIP" value="SVIP ускорить %s"/>
+   <String id="IDS_DOWNLOADCARD_SPEEDUP_TIP" value="Скачать скорость карты %s"/>
    <String id="IDS_HELP_EACHOTHER_FUNCTION" value="Ускорение загрузки" />
    <String id="IDS_P2P_SVIP_SPEEDUP_SLOW_TIP" value="SVIP Ускорение получения ссылки..."/>
    <String id="IDS_HELP_EACHOTHER_CLOSE" value="Отключить ускорение" />
@@ -1391,5 +1392,4 @@
   <String id="IDS_WORKSPACE_CHANGE_LOCAL_SYNC_PACH_ACCESS_DENY_TIP"  value="Если папка не написана, пожалуйста, повторно выберите" />
   <String id="IDS_WORKSPACE_CHANGE_LOCAL_SYNC_PACH_QUOTA_LESS_TIP"  value="Если диск остается на диске, пожалуйста, выберите" />
   <String id="IDS_WORKSPACE_CHANGE_LOCAL_SYNC_PACH_SAME_TIP"  value="Оригинальный путь синхронизации такой же, как выбранный путь синхронизации, пожалуйста, выберите" />
-
 </StringTable>
