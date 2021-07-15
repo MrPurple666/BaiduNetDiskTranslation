@@ -1,4 +1,4 @@
-# BaiduNetDisk
+# BaiduNetDisk ☁
 
 Localization of the **BaiduNetDisk** program for PC in
 
@@ -7,23 +7,23 @@ Localization of the **BaiduNetDisk** program for PC in
 
 
 
-# Download 🔻
+# Download 
 
-## 📤︎ Installation over
+## 💽 Installation over
 
 Unpack the contents of the archive to the folder:
 `C:\Users\[[**UserName**]]\AppData\Roaming\Baidu\BaiduNetDisk`
 
 > [Download localization](https://bit.ly/3fYH54o)
 
-## 📦 Modified installer
+## 🛠 Modified installer
 
 The modified installer is the ability to select the language installed for the program, the possibility of a quiet installation. Nothing needs to be copied and replaced everything in the installer.
 
 > [Download a modified installer with a choice of localization language](https://bit.ly/2BtHzR2)
 
 
-## 🗳 Portable version
+## 📦 Portable version
 The version portable does not require installation. Does not leave the tracks system. Unpack and use the language change (after the first launch), in the `Data / BaiduNetDiskportable.ini` file
 `Language =` Register the desired language:
 
@@ -33,10 +33,10 @@ The version portable does not require installation. Does not leave the tracks sy
 
 > [Download portable](http://bit.ly/2OznleI)
 
-# Screen 💻
+# Screen 🖼
 
 <details>
- <summary>Windows Client <img src="https://i5.imageban.ru/out/2020/07/19/1a0b8eefe55876cb5c367aca2fb846fd.png" width="35" height="35" />
+ <summary>Windows Client🖥
 
 </summary>
 
@@ -46,32 +46,28 @@ The version portable does not require installation. Does not leave the tracks sy
 <details>
   <summary>Russian</summary>
 
-[![rusUI.th.jpg](https://fastpic.co/images/rusUI.th.jpg)](https://fastpic.co/image/AO8nHI)
-
-[![rusUIset.th.jpg](https://fastpic.co/images/rusUIset.th.jpg)](https://fastpic.co/image/AO8Wld)
-
+[![imageban](https://i2.imageban.ru/thumbs/2021.07.15/0fba51466562e1d68da2a761a5826d55.jpg)](https://imageban.ru/show/2021/07/15/0fba51466562e1d68da2a761a5826d55/jpg) [![imageban](https://i6.imageban.ru/thumbs/2021.07.15/60a8bbabe79ca5912e772e5e9071825d.jpg)](https://imageban.ru/show/2021/07/15/60a8bbabe79ca5912e772e5e9071825d/jpg)
+[![imageban](https://i5.imageban.ru/thumbs/2021.07.15/86593fd172f48f8947a14ae0ef539b5c.jpg)](https://imageban.ru/show/2021/07/15/86593fd172f48f8947a14ae0ef539b5c/jpg)
+[![imageban](https://i5.imageban.ru/thumbs/2021.07.15/06a738b170539b43fe049f98bcce2f8b.jpg)](https://imageban.ru/show/2021/07/15/06a738b170539b43fe049f98bcce2f8b/jpg)
 </details>
 <details>
   <summary>English</summary>
 
-[![englishUI.th.jpg](https://fastpic.co/images/englishUI.th.jpg)](https://fastpic.co/image/AO86Zq)
-
-[![englishUIse.th.jpg](https://fastpic.co/images/englishUIse.th.jpg)](https://fastpic.co/image/AO8Eh2)
+  [![imageban](https://i4.imageban.ru/thumbs/2021.07.15/ae47f30197b4cf70def46af7245eb266.jpg)](https://imageban.ru/show/2021/07/15/ae47f30197b4cf70def46af7245eb266/jpg) [![imageban](https://i4.imageban.ru/thumbs/2021.07.15/ca8c07f7442ffadebc1ea272bf0cb754.jpg)](https://imageban.ru/show/2021/07/15/ca8c07f7442ffadebc1ea272bf0cb754/jpg) [![imageban](https://i1.imageban.ru/thumbs/2021.07.15/d24636428baf9b7995501056b20419f7.jpg)](https://imageban.ru/show/2021/07/15/d24636428baf9b7995501056b20419f7/jpg)[![imageban](https://i4.imageban.ru/thumbs/2021.07.15/c111052156a01d5f13c7f39cc673b628.jpg)](https://imageban.ru/show/2021/07/15/c111052156a01d5f13c7f39cc673b628/jpg)
 </detail>
+
 </details>
+
 </details>
 
 
 
 <details>
- <summary>Linux  Client<img src="https://i3.imageban.ru/out/2020/07/25/aa480b9a63792a9b1c97131560d994ff.png" width="35" height="35" />
+ <summary>Linux  Client 🐧</summary>
 
-</summary>
-
-
-
-<details>
-  <summary>Chinese</summary>
-
-  </details>
+  Empty 🎴
 </details>
+<details>
+ <summary>Android Clinet </summary>
+
+  Empty 🎴
