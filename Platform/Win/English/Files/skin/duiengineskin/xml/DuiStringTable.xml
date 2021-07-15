@@ -811,7 +811,9 @@
   <s id="1550">2T space</s>
   <s id="1551">Download card to:</s>
   <s id="1552">Work Package to:</s>
-
+  <s id="1553">Enterprise Certification</s>
+  <s id="1554">Business space</s>
+  <s id="1555">Expired</s>
   <!--Main Panel-->
   <s id="1600">Welcome to use Baidu Netdisk</s>
 
@@ -1822,6 +1824,7 @@
   <s id="4821">Failed to create the local synchronization path of the workspace! Please set a valid path in "Settings-Workspace-Change Synchronization Directory"!</s>
   <s id="4822">Local deletion failed, files are occupied</s>
   <s id="4823">The target position file already exists, the operation failed</s>
+  <s id="4824">The synchronization engine is invalid, please check the network status</s>
 
   <s id="4850">data migration</s>
   <s id="4851">Migrating data, please be patient...</s>
@@ -1839,5 +1842,20 @@
   <s id="4901">Local work space folder</s>
   <s id="4902">That's in sync</s>
   <s id="4903">This document in the computer will also be deleted synchronously. Please take carefully\r\nTip: I am deleting files in synchronization, such as deleting failed, please try again later</s>
+
+  <!-- Business space -->
+  <s id="4950">Copy to "%s" Enterprise space</s>
+  <s id="4951">personal space</s>
+  <s id="4952">Ordinary space</s>
+  <s id="4953">Workspace</s>
+  <s id="4954">Business space</s>
+  <s id="4955">Space switching...</s>
+  <s id="4956">Switch failed, please try again</s>
+  <s id="4957">Folder creation failed!</s>
+  <s id="4958">Personal storage space：%s/%s</s>
+  <s id="4959">Enterprise storage space：%s/%s</s>
+
+  <!-- game -->
+  <s id="4970">Network disk game center</s>
 
 </string>
