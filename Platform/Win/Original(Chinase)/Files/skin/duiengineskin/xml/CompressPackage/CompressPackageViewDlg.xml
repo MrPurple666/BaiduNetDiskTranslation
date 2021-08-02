@@ -20,6 +20,9 @@
           <img pos="132,0,@24,@20" skin="compresspackage_supervip_img"/>
           <text pos="[4,2" class="preparedlg_vip_font">%str852%</text>
         </dlg>
+        <dlg name="dlg_nonvip_info" pos="0,170,-0,@40" show="0">
+          <text pos="144,2" class="preparedlg_vip_font">%str4989%</text>
+        </dlg>
         <!--进度条-->
         <dlg name="dlg_progress_bg" pos="|-165,-122,@330,@11" skin="compresspackage_progress_bg">
           <dlg name="dlg_progress_fg" pos="0,0,0,-0" skin="compresspackage_progress_fg"/>

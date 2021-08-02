@@ -615,15 +615,24 @@
         <imglst name="usercard_priv_workpackage_sync" src="IDP_USERCARD_WORKPACKAGE_SYNC"/>
         <imglst name="usercard_priv_workpackage_flow" src="IDP_USERCARD_WORKPACKAGE_FLOW" />
         <imglst name="usercard_priv_workpackage_unzip" src="IDP_USERCARD_WORKPACKAGE_UNZIP" />
-        <imglst name="usercard_priv_workpackage_upload" src="IDP_USERCARD_WORKPACKAGE_UPLOAD" />
+        <imglst name="usercard_priv_workpackage_pdf" src="IDP_USERCARD_WORKPACKAGE_PDF" />
         <imglst name="usercard_priv_workpackage_line" src="IDP_USERCARD_WORKPACKAGE_LINE"/>
         <imglst name="usercard_priv_workpackage_line_reverse" src="IDP_USERCARD_WORKPACKAGE_LINE_REVERSE"/>
         <imglst name="usercard_workpackage_bkg" src="IDP_USERCARD_WORKPACKAGE_BKG"/>
         <imglst name="usercard_channel_arrow" src="IDP_USERCARD_CHANNEL_ARROW"/>
-        <imglst name="usercard_svip_arrow" src="IDP_USERCARD_SVIP_ARROW" />
         <imglst name="usercard_workpackage_btn" src="IDP_USERCARD_WORKPACKAGE_BTN" subwidth="119" top="10" left="50" right="50" bottom="10"/>
         <imglst name="usercard_workpackage_buy_btn" src="IDP_USERCARD_WORKPACKAGE_BUY_BTN" subwidth="60"/>
         <imglst name="usercard_workpackage_btnbg" src="IDP_USERCARD_WORKPACKAGE_BTNBG" subwidth="96"/>
+      
+        <imglst name="usercard_blue_open_arrow" src="IDP_USERCARD_BLUE_OPEN_ARROW"/>
+        <imglst name="usercard_blue_close_arrow" src="IDP_USERCARD_BLUE_CLOSE_ARROW" />
+        <imglst name="usercard_blue_auto_backup" src="IDP_USERCARD_BLUE_AUTO_BACKUP"/>
+        <imglst name="usercard_blue_more" src="IDP_USERCARD_BLUE_MORE"/>
+        <imglst name="usercard_blue_recycle" src="IDP_USERCARD_BLUE_RECYCLE" />
+        <imglst name="usercard_blue_space" src="IDP_USERCARD_BLUE_SPACE" />
+        <imglst name="usercard_blue_video_high_speed" src="IDP_USERCARD_BLUE_VIDEO_HIGH_SPEED" />
+        <imglst name="usercard_blue_video_overspeed" src="IDP_USERCARD_BLUE_VIDEO_OVERSPEED" />     
+        <imglst name="usercard_blue_file_save_as" src="IDP_USERCARD_BLUE_FILE_SAVE_AS" />      
         <imglst name="member_center_card_bgk" src="IDP_MEMBER_CENTER_CARD_BGK" />
         <imgframe name="member_center_card_qr_bgk" src="IDP_MEMBER_CENTER_CARD_QR_BGK" />
 
@@ -1150,6 +1159,9 @@
         <imgframe name="workspace_feedback" src="IDP_DUI_WORKSPACE_FEEDBACK" subwidth="15"/>
         <gif name="workspace_syncing_gif" src="IDP_DUI_WORKSPACE_SYNCING_GIF" minframedelay="30"></gif>
 
+        <imgframe name="enterprise_guide_img" src="IDP_DUI_ENTERPRISE_GUIDE_IMG"/>
+        <imgframe name="enterprise_guide_dlg_btn" src="IDP_DUI_ENTERPRISE_GUIDE_BTN_IMG"/>
+
         <!-- 工作空间目录迁移 -->
         <imgframe name="workspace_filecopy_progress_bg_dlg" src="IDP_DUI_WORKSPACE_FILECOPY_PROGRESS_BG_DLG" left="50" right="50" top="80" bottom="80"/>
         <imgframe name="workspace_filecopy_progress_file_copy" src="IDP_DUI_WORKSPACE_FILECOPY_PROGRESS_FILE_COPY"/>
@@ -1349,7 +1361,7 @@
         <class name="cls_usercard_user_point_txt" crtext="1e78d5" font="0000:微软雅黑" cursor="arrow" textmode="40824"/>
         <class name="cls_usercard_svip_txt" crtext="946738" font="0000:微软雅黑" cursor="arrow"/>
         <class name="cls_usercard_member_endtime_txt" crtext="64360D" font="0000:微软雅黑" cursor="arrow"/>
-        <class name="cls_usercard_priv_txt" crtext="03081A" font="0000:微软雅黑" cursor="arrow"/>
+        <class name="cls_usercard_priv_txt" crtext="03081A" font="0000:微软雅黑" align="center" cursor="arrow"/>
         <class name="cls_usercard_channel_title_txt" crtext="454D5A" font="0000:微软雅黑" cursor="arrow"/>
         <class name="cls_usercard_channel_subtitle_txt" crtext="AFB3BF" font="0000:微软雅黑" cursor="arrow"/>
       

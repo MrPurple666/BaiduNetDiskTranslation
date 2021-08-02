@@ -3,18 +3,26 @@
     <dlg name="dlg_main" pos="0,0,-0,-0" skin="usercard_notvip_bg">
 	  <dlg pos="15,26,-15,-15">
 	    <!--顶部面板-->
-	    <dlg name="dlg_top" pos="0,0,-0,@94">
-		  <dlg name="dlg_user" pos="0,0,-0,@48">
-			<link name="link_username" pos="20,14" crtext="03081A" font="0200:微软雅黑" crhover="696969" hoverfont="0200:微软雅黑" maxwidth="250" cursor="hand" dotted="1"/>
-		    <imgbtn name="btn_crown" pos="[4,14,@38,@18" skin="titlepanel_translucent" icoskin="titlepanel_vipclose" cursor="hand"/>
-		  </dlg>   
-          <!--用户到期时间区域-->          
-          <dlg name="dlg_endtime_info" pos="18,[0,@282,@42" skin="usercard_member_notvip_bkg">
-			<link name="link_endtime" pos="12,14" multilines="0" dotted="1" maxwidth="172" crtext="64360D" font="0000:微软雅黑" align="left">%str1532%</link>
-			<imgbtn name="btn_buy" pos="-100,8,@90,@28" skin="usercard_svip_btn" crtext="64360D" font="0000:微软雅黑">%str831%</imgbtn>
-            <img name="img_svip_arror" pos="-20,19,@8,@5" skin="usercard_svip_arrow" show="0"/>          
-		  </dlg>		
-		</dlg>
+		<dlg name="dlg_user" pos="0,0,-0,@48">
+	      <link name="link_username" pos="20,14" crtext="03081A" font="0200:微软雅黑" crhover="696969" hoverfont="0200:微软雅黑" maxwidth="120" cursor="hand" dotted="1"/>
+		  <imgbtn name="btn_crown" pos="[4,14,@38,@18" skin="titlepanel_translucent" icoskin="titlepanel_vipclose" cursor="hand"/>
+          <imgbtn name="btn_buy" pos="-116,10,@104,@28" skin="usercard_svip_btn" crtext="64360D" font="0000:微软雅黑">%str831%</imgbtn>
+		</dlg>   
+        <!--用户到期时间区域-->          
+        <dlg name="dlg_endtime_info" pos="16,[0,@280,@40" skin="usercard_member_notvip_bkg" >
+			<link name="link_endtime" pos="12,13" multilines="0" dotted="1" maxwidth="172" crtext="64360D" font="0000:微软雅黑" align="left">%str1532%</link>
+            <listboxex name="list_package" pos="0,0,-0,-0" itemheight="40" virtual="1" show="0" >
+              <template>
+                <dlg name="col_1">
+                  <text name="txt_endtime" pos="14,12,@180,@16" crtext="06A7FF" align="left" show="1" dotted="0"></text>
+                </dlg>  
+                
+                <dlg name="col_2">
+                  <imgbtn name="imgbtn_open" pos="220,12,@40,@16" crtext="06A7FF" textmode="40824" skin="titlepanel_translucent" icoxoffset="30" icoyoffset="4" icoskin="usercard_blue_open_arrow">%str2159%</imgbtn>
+                </dlg>                  
+              </template>
+            </listboxex>
+		</dlg>		
 	  
 	    <!--中间面板-->
 		<dlg name="dlg_middle" pos="0,[0,-0,@120">
@@ -25,19 +33,17 @@
 		  </dlg>
 		  <!--特权按钮-->
 		  <dlg name="dlg_privilege" pos="0,[0,-0,@36">
-			<imgbtn name="btn_priv_5t_quota" pos="36,0,@36,@36" skin="titlepanel_translucent" icoskin="usercard_priv_5t_quota" cursor="arrow"/>
-			<imgbtn name="btn_priv_speed_download" pos="105,0,@36,@36" skin="titlepanel_translucent" icoskin="usercard_priv_speed_download" cursor="arrow" />
-            <imgbtn name="btn_priv_file_save_as" pos="105,0,@36,@36" skin="titlepanel_translucent" icoskin="usercard_priv_file_save_as" cursor="arrow" show="0"/>
-			<imgbtn name="btn_priv_vedio_overspeed" pos="174,0,@36,@36" skin="titlepanel_translucent" icoskin="usercard_priv_vedio_overspeed" cursor="arrow" />
-            <imgbtn name="btn_priv_yun_unzip" pos="174,0,@36,@36" skin="titlepanel_translucent" icoskin="usercard_priv_yun_unzip" cursor="arrow" show="0"/>
-			<imgbtn name="btn_priv_more" pos="243,0,@36,@36" skin="titlepanel_translucent" icoskin="usercard_priv_svip_more" cursor="hand" />
+			<imgbtn name="btn_priv_1" pos="36,0,@36,@36" skin="titlepanel_translucent" icoskin="usercard_priv_5t_quota" cursor="arrow"/>
+			<imgbtn name="btn_priv_2" pos="105,0,@36,@36" skin="titlepanel_translucent" icoskin="usercard_priv_speed_download" cursor="arrow" />
+            <imgbtn name="btn_priv_3" pos="174,0,@36,@36" skin="titlepanel_translucent" icoskin="usercard_priv_file_save_as" cursor="arrow" />
+			<imgbtn name="btn_priv_4" pos="243,0,@36,@36" skin="titlepanel_translucent" icoskin="usercard_priv_vedio_overspeed" cursor="arrow" />
 		  </dlg>
           <!--特权文字描述-->
 		  <dlg name="dlg_privilege_introduction" pos="0,[8,-0,@40">
-			<text name="text_priv_5t_quota" pos="34,0" class="cls_usercard_priv_txt">%str1522%</text>
-			<text name="text_priv_speed_download" pos="102,0" class="cls_usercard_priv_txt">%str1523%</text>
-			<text name="text_priv_vedio_speedup" pos="168,0" class="cls_usercard_priv_txt">%str1524%</text>
-			<text name="text_priv_more" pos="238,0" class="cls_usercard_priv_txt">%str1404%</text>
+			<text name="text_priv_1" pos="22,0,@68,@20" class="cls_usercard_priv_txt">%str1522%</text>
+			<text name="text_priv_2" pos="90,0,@68,@20" class="cls_usercard_priv_txt">%str1523%</text>
+			<text name="text_priv_3" pos="158,0,@68,@20" class="cls_usercard_priv_txt">%str1524%</text>
+			<text name="text_priv_4" pos="226,0,@68,@20" class="cls_usercard_priv_txt">%str1404%</text>
 		  </dlg>
 		</dlg>
 

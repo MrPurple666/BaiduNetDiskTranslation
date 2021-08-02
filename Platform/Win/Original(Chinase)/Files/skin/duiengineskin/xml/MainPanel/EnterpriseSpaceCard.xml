@@ -5,7 +5,7 @@
         <template>
           <img name="enterprise_bkg" pos="0,0,-0,-0" skin="enterprise_item_hover" show="0"/>
           <text name="enterprise_head" pos="16,13,@44,@44" font="0804:微软雅黑" crtext="FFFFFF" align="center" crbg="0065DD" translucent="0"/>
-          <text name="enterprise_head_expire" pos="16,13,@44,@44" font2="facename:微软雅黑;bold:1;adding:-2" crtext="FFFFFF" align="center" translucent="0">%str1555%</text>
+          <img name="enterprise_head_image" pos="16,13,@44,@44" show="0"/>
           <img name="personal_space_head" pos="16,13,@44,@44" skin="titlepanel_default_head" show="0"/>
           <img name="img_enterprise_head_frame" pos="16,13,@44,@44" skin="enterprise_head_frame"/>
           <img name="enterprise_vip" pos="[-16,[-16,@18,@18" skin="enterprise_vip_mark" show="1"/>

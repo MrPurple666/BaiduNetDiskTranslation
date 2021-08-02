@@ -32,7 +32,7 @@
 		<Property name="underline" value="true"/>
 		<Property name="strikeout" value="false"/>
 		<Property name="charSet" value="1"/>
-		<Property name="facename" value="Segoe UI"/>
+		<Property name="facename" value="微软雅黑"/>
 	</Config>
   
 	<Config name="splitterH" interface="IBGSplitter">
@@ -47,20 +47,20 @@
 	
 	<Config name="staticEx" interface="IBGStaticEx">
     <Property name="textFont">
-      <IBGFont height="18" facename="Segoe UI" weight="400" width="0" orientation="0" italic="false" underline="false" strikeout="false" charSet="1"/>
+      <IBGFont height="18" facename="微软雅黑" weight="400" width="0" orientation="0" italic="false" underline="false" strikeout="false" charSet="1"/>
     </Property>
   </Config>
 
   <Config name="messageBoxText" interface="IBGStaticEx">
     <Property name="textFont">
-      <IBGFont height="18" facename="Segoe UI" width="0" orientation="0" italic="false" underline="false" strikeout="false" charSet="1"/>
+      <IBGFont height="18" facename="微软雅黑" width="0" orientation="0" italic="false" underline="false" strikeout="false" charSet="1"/>
     </Property>
     <Property name="textClr" value="0x636363"/>
   </Config>
 
   <Config name="messageBoxTextTip" interface="IBGStaticEx">
     <Property name="textFont">
-      <IBGFont height="18" facename="Segoe UI" width="0" orientation="0" italic="false" underline="false" strikeout="false" charSet="1"/>
+      <IBGFont height="18" facename="微软雅黑" width="0" orientation="0" italic="false" underline="false" strikeout="false" charSet="1"/>
     </Property>
     <Property name="textClr" value="0x999999"/>
   </Config>
@@ -102,7 +102,7 @@
 	<Property name="border" value="0, 0, 0, 0"/>
 	<Property name="ncRegion" value="0, 50, 0, 2"/>
 	<Property name="captionTxtFont">
-			<IBGFont height="18" width="0" orientation="0" italic="false" underline="false" strikeout="false" charSet="1" facename="Segoe UI"/>
+			<IBGFont height="18" width="0" orientation="0" italic="false" underline="false" strikeout="false" charSet="1" facename="微软雅黑"/>
 	</Property>
 	<Property name="alphaWin" value="false"/>
 	<Property name="showMaxButton" value="false"/>
@@ -207,25 +207,25 @@
 	</Config>
 	<Config name="hyperLink" interface="IBGLinkItem">
 		<Property name="font">
-			<IBGFont height="18" width="0" orientation="0" weight="400" italic="false" underline="false" strikeout="false" charSet="1" facename="Segoe UI"/>
+			<IBGFont height="18" width="0" orientation="0" weight="400" italic="false" underline="false" strikeout="false" charSet="1" facename="微软雅黑"/>
 		</Property>
 		<Property name="onFont">
-			<IBGFont height="18" width="0" orientation="0" weight="400" italic="false" underline="true" strikeout="false" charSet="1" facename="Segoe UI"/>
+			<IBGFont height="18" width="0" orientation="0" weight="400" italic="false" underline="true" strikeout="false" charSet="1" facename="微软雅黑"/>
 		</Property>
 		<Property name="downFont">
-			<IBGFont height="18" width="0" orientation="0" weight="400" italic="false" underline="true" strikeout="false" charSet="1" facename="Segoe UI"/>
+			<IBGFont height="18" width="0" orientation="0" weight="400" italic="false" underline="true" strikeout="false" charSet="1" facename="微软雅黑"/>
 		</Property>
 	</Config>
 	
 	<Config name="link" interface="IBGLinkItem">
 		<Property name="font">
-			<IBGFont height="18" width="0" orientation="0" weight="400" italic="false" underline="true" strikeout="false" charSet="1" facename="Segoe UI"/>
+			<IBGFont height="18" width="0" orientation="0" weight="400" italic="false" underline="true" strikeout="false" charSet="1" facename="微软雅黑"/>
 		</Property>
 		<Property name="onFont">
-			<IBGFont height="18" width="0" orientation="0" weight="400" italic="false" underline="true" strikeout="false" charSet="1" facename="Segoe UI"/>
+			<IBGFont height="18" width="0" orientation="0" weight="400" italic="false" underline="true" strikeout="false" charSet="1" facename="微软雅黑"/>
 		</Property>
 		<Property name="downFont">
-			<IBGFont height="18" width="0" orientation="0" weight="400" italic="false" underline="true" strikeout="false" charSet="1" facename="Segoe UI"/>
+			<IBGFont height="18" width="0" orientation="0" weight="400" italic="false" underline="true" strikeout="false" charSet="1" facename="微软雅黑"/>
 		</Property>
 	</Config>
 	<Config name="underlineLink" interface="IBGLinkItem">
@@ -241,7 +241,7 @@
 	</Config>
 	<Config name="static" interface="IBGStatic">
 		<Property name="textFont">
-			<IBGFont height="18" width="0" orientation="0" weight="400" italic="false" underline="false" strikeout="false" charSet="1" facename="Segoe UI"/>
+			<IBGFont height="18" width="0" orientation="0" weight="400" italic="false" underline="false" strikeout="false" charSet="1" facename="微软雅黑"/>
 		</Property>
 		<Property name="color" value="0x946847"/>
 		<Property name="colorHilight" value="0x946847"/>
@@ -249,7 +249,7 @@
 	</Config>
 	<Config name="static_default_font" interface="IBGStatic">
 		<Property name="textFont">
-			<IBGFont height="18" width="0" orientation="0" weight="400" italic="false" underline="false" strikeout="false" charSet="1" facename="Segoe UI"/>
+			<IBGFont height="18" width="0" orientation="0" weight="400" italic="false" underline="false" strikeout="false" charSet="1" facename="微软雅黑"/>
 		</Property>
 		<Property name="color" value="0x946847"/>
 		<Property name="colorHilight" value="0x946847"/>
@@ -257,7 +257,7 @@
 	</Config>	
 	<Config name="dynamicLink" interface="IBGStatic">
 		<Property name="textFont">
-			<IBGFont height="18" width="0" orientation="0" italic="false" underline="true" strikeout="false" charSet="1" facename="Segoe UI"/>
+			<IBGFont height="18" width="0" orientation="0" italic="false" underline="true" strikeout="false" charSet="1" facename="微软雅黑"/>
 		</Property>
 		<Property name="color" value="0xFFFFFF"/>
 		<Property name="colorHilight" value="0xFFFFFF"/>
@@ -269,7 +269,7 @@
 	</Config>
 	<Config name="staticLink" interface="IBGStatic">
 		<Property name="textFont">
-			<IBGFont height="18" width="0" orientation="0" italic="false" underline="true" strikeout="false" charSet="1" facename="Segoe UI"/>
+			<IBGFont height="18" width="0" orientation="0" italic="false" underline="true" strikeout="false" charSet="1" facename="微软雅黑"/>
 		</Property>
 		<Property name="color" value="0xFF0000"/>
 		<Property name="colorHilight" value="0xFFA0A0"/>
@@ -361,7 +361,7 @@
 			<IBGVeins file="Resource:\Texture\Button\button_down.png" transparent="TRUE" drawStyle="DRAWMODE_33Mesh_TILE" veinsRect="0,0,15,27" stretchArea="2,2,13,25" changeLight="false" />
 		</Property>
 		<Property name="font">
-			<IBGFont height="18" facename="Segoe UI" width="0" orientation="0" italic="false" underline="false" strikeout="false" charSet="1"/>
+			<IBGFont height="18" facename="微软雅黑" width="0" orientation="0" italic="false" underline="false" strikeout="false" charSet="1"/>
 		</Property>
 	</Config>
 	<Config name="defaultBtn" interface="IBGButton">
@@ -384,7 +384,7 @@
         </IBGVeins>
 	  </Property>
 	  	<Property name="font">
-			<IBGFont height="18" facename="Segoe UI" width="0" orientation="0" italic="false" underline="false" strikeout="false" charSet="1"/>
+			<IBGFont height="18" facename="微软雅黑" width="0" orientation="0" italic="false" underline="false" strikeout="false" charSet="1"/>
 		</Property>
 	</Config>
 	<Config name="redColorBtn" interface="IBGButton">
@@ -407,7 +407,7 @@
         </IBGVeins>
 	  </Property>
 	  	<Property name="font">
-			<IBGFont height="18" facename="Segoe UI" width="0" orientation="0" italic="false" underline="false" strikeout="false" charSet="1"/>
+			<IBGFont height="18" facename="微软雅黑" width="0" orientation="0" italic="false" underline="false" strikeout="false" charSet="1"/>
 		</Property>
 	</Config>
   <Config name="msgbox_button" interface="IBGButton">
@@ -427,13 +427,13 @@
       <IBGVeins file="Resource:\Texture\Button\msgbox_btn.png" transparent="TRUE" drawStyle="DRAWMODE_33Mesh_TILE" veinsRect="144,0,216,25" stretchArea="148,4,212,21" changeLight="false" />
     </Property>
 	<Property name="font">
-		<IBGFont height="18" facename="Segoe UI" width="0" orientation="0" italic="false" underline="false" strikeout="false" charSet="1"/>
+		<IBGFont height="18" facename="微软雅黑" width="0" orientation="0" italic="false" underline="false" strikeout="false" charSet="1"/>
 	</Property>
   </Config>
   
 	<Config name="iconButton" interface="IBGButton">
 		<Property name="font">
-			<IBGFont height="18" facename="Segoe UI" width="0" orientation="0" italic="false" underline="false" strikeout="false" charSet="1"/>
+			<IBGFont height="18" facename="微软雅黑" width="0" orientation="0" italic="false" underline="false" strikeout="false" charSet="1"/>
 		</Property>
 		<Property name="textColorize" value="false"/>
 		<Property name="normalClr" value="0xffffff"/>
@@ -834,7 +834,7 @@
 		<Property name="border" value="5, 5, 5, 5"/>
 		<Property name="ncRegion" value="-3, 22, -3, -3"/>
 		<Property name="captionTxtFont">
-			<IBGFont height="18" width="0" orientation="0" italic="false" underline="false" strikeout="false" charSet="1" facename="Segoe UI"/>
+			<IBGFont height="18" width="0" orientation="0" italic="false" underline="false" strikeout="false" charSet="1" facename="微软雅黑"/>
 		</Property>
 	</Config>
 	<Config name="verticalScrollBar" interface="IBGScrollBar">

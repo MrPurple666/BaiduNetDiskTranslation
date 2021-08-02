@@ -4,13 +4,13 @@
       <dlg name="content" pos="0,0,-0,-0">
         <caption name="titlebar" pos="1,1,-1,@48">
           <img pos="26,10,@28,@28" skin="titlepanel_game_center_skin"/>
-          <text pos="64,14" name="txt_title" crtext="030B1A" font="0200:微软雅黑" show="0">%str4970%</text>
-          <listboxex name="tab_headers" pos="64,0,@176,@48" itemwidth="176" horizontal="1" virtual="1" sbwid="10">
+          <text pos="64,14" name="txt_title" crtext="030B1A" font="0200:微软雅黑">%str4970%</text>
+          <listboxex name="tab_headers" pos="172,0,@176,@48" itemwidth="176" horizontal="1" virtual="1" sbwid="10">
             <template>
               <dlg name="dlg_item" pos="0,0,-0,-0" crbg="ffffff">
+                <hr pos="0,|-12,@1,@24" size="1" crbg="DCDFE6"/>
                 <link name="txt_item" pos="16,18,-42,30" dotted="1" crtext="030B1A" font="0000:微软雅黑" align="left" cursor="arrow"></link>
                 <imgbtn name="btn_item_close" pos="-30,|-8,@15,@16" skin="titlepanel_close_btn" cursor="arrow" show="0"/>
-                <hr pos="-1,|-12,@1,@24" size="1" crbg="DCDFE6"/>
               </dlg>
             </template>
           </listboxex>
@@ -23,8 +23,20 @@
         </caption>
         <dlg name="dlg_pages" pos="1,[0,-1,-1">
           <tabctrl name="tab_pages" pos="0,0,-0,-0" tabalign="top" cursel="0">
-            <tab pos="0,0,-0,-0">
-              <webbrowser name="game_page" pos="0,0,-0,-0" use_ie="0"/>
+            <tab pos="0,0,-0,-0" title="%str4970%">
+              <hr pos="0,0,-0,@1" size="1" crbg="F1F3F8"/>
+              <listboxex name="tab_second_headers" pos="0,[0,-0,@40" itemwidth="72" horizontal="1" virtual="1">
+                <template>
+                  <dlg pos="0,0,-0,-0">
+                    <link name="txt_item" pos="0,14,-0,@12" crtext="030B1A" font="0000:微软雅黑" align="center" cursor="hand"></link>
+                    <hr name="hr_select" pos="|-6,-6,@12,@2" crbg="FF6600"/>
+                  </dlg>
+                </template>
+              </listboxex>
+              <tabctrl name="tab_second_pages" pos="0,[0,-0,-0" tabalign="top" cursel="0">
+                <tab pos="0,0,-0,-0">
+                </tab>
+              </tabctrl>
             </tab>
           </tabctrl>
         </dlg>
