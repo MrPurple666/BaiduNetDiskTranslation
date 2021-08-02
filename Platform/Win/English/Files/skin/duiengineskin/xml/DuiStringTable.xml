@@ -793,10 +793,10 @@
   <s id="1532">You are not a super member yet</s>
   <s id="1533">One ​​step away from 5T</s>
   <s id="1534">One ​​click away from speed download</s>
-  <s id="1535">Unlock 31 privileges for super members</s>
-  <s id="1536">31 privileges for super members have been enjoyed</s>
+  <s id="1535">Unlock 38 privileges for super members</s>
+  <s id="1536">38 privileges for super members have been enjoyed</s>
   <s id="1537">21 privileges have been enjoyed by members</s>
-  <s id="1538">31 privileges to retain super members</s>
+  <s id="1538">38 privileges to retain super members</s>
   <s id="1539">21 privileges to retain members</s>
   <s id="1540">Super member to:</s>
   <s id="1541">Member to:</s>
@@ -804,8 +804,8 @@
   <s id="1543">File export</s>
   <s id="1544">Lost privilege %d days</s>
   <s id="1545">Expires in %d days and will lose 21 privileges</s>
-  <s id="1546">Expires in %d days and will lose 31 privileges</s>
-  <s id="1547">Regain 31 privileges of super member</s>
+  <s id="1546">Expires in %d days and will lose 38 privileges</s>
+  <s id="1547">Regain 38 privileges of super member</s>
   <s id="1548">Renewal</s>
   <s id="1549">Manage automatic renewal</s>
   <s id="1550">2T space</s>
@@ -1590,7 +1590,7 @@
   <s id="4269">Currently do not support import online documentation</s>
 
   <!--Video tag-->
-   <s id="4210">Open a super member and enjoy 31 privileges such as video tagging</s>
+   <s id="4210">Open a super member and enjoy 38 privileges such as video tagging</s>
    <s id="4211">Tags</s>
    <s id="4212">Automatic display</s>
    <s id="4213">Add a tag</s>
@@ -1611,7 +1611,7 @@
    <s id="4228">Adding tags...</s>
    <s id="4229">Deleting tags...</s>
    <s id="4230">Editing tag...</s>
-   <s id="4231">Upgrade Super Member to enjoy 31 privileges including video tagging</s>
+   <s id="4231">Upgrade Super Member to enjoy 38 privileges including video tagging</s>
 
    <s id="4290">Learn more about privileges></s>
    <!--Large file upload guide-->
@@ -1707,10 +1707,13 @@
   <s id="4553">Speed synchronization</s>
   <s id="4554">Synchronous traffic</s>
   <s id="4555">Online decompression</s>
-  <s id="4556">PDF Tool</s>
+  <s id="4556">Transport number 3000</s>
   <s id="4557">Enjoy the work package 11 privileges</s>
   <s id="4558">Renewal work package</s>
-
+  <s id="4560">3T space</s>
+  <s id="4561">Mobile phone backup</s>
+  <s id="4562">Recycle bin 15 days</s>
+  <s id="4564">High-speed play</s>
   <!-- File page -->
   <s id="4559">What can I do?</s>
   <s id="4600">Add a network disk file</s>
@@ -1805,6 +1808,7 @@
   <s id="4769">Open an error folder</s>
   <s id="4770">Synchronous path error</s>
   <s id="4771">Machine</s>
+  <s id="4772">Restore historical documents</s>
 
   <s id="4801">The file is too large, more than%dG upload size limit</s>
   <s id="4802">The file is too large, and the member supports uploading the largest%dGtext.件</s>
@@ -1854,8 +1858,22 @@
   <s id="4957">Folder creation failed!</s>
   <s id="4958">Personal storage space：%s/%s</s>
   <s id="4959">Enterprise storage space：%s/%s</s>
+  <s id="4960">Tips</s>
+  <s id="4961">The current account is inconsistent with the web account. Please confirm the account and upload again</s>
+  <s id="4962">I got it!</s>
 
   <!-- game -->
   <s id="4970">Network disk game center</s>
+  <!-- 套餐 -->
+  <s id="4980">Video speed doubling privilege: opened for you</s>
+  <s id="4981">HD image quality privilege: switching to</s>
+  <s id="4982">Cloud decompression privilege</s>
+  <s id="4983">Upgrade to super member</s>
+  <s id="4984">fold</s>
+  <s id="4985">more  many</s>
+  <s id="4986">Enjoy 10 privileges of entertainment package</s>
+  <s id="4987">Enjoy 4 privileges of backup package</s>
+  <s id="4988">Enjoy multiple privileges of the package</s>
+  <s id="4989">Dear Baidu network disk users, you are enjoying the privilege of cloud decompression..</s>
 
 </string>

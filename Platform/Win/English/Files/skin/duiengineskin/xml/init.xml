@@ -1,5 +1,5 @@
 ﻿<DuiEngine>
-    <font face="Segoe UI" size="11"/>
+    <face="Segoe UI" size="11"/>
 
     <skins>
         <imgframe name="dlg_frame" src="IDP_MAIN_DLG_FRAME" left="5" right="5" top="40" bottom="60"/>
@@ -615,15 +615,24 @@
         <imglst name="usercard_priv_workpackage_sync" src="IDP_USERCARD_WORKPACKAGE_SYNC"/>
         <imglst name="usercard_priv_workpackage_flow" src="IDP_USERCARD_WORKPACKAGE_FLOW" />
         <imglst name="usercard_priv_workpackage_unzip" src="IDP_USERCARD_WORKPACKAGE_UNZIP" />
-        <imglst name="usercard_priv_workpackage_upload" src="IDP_USERCARD_WORKPACKAGE_UPLOAD" />
+        <imglst name="usercard_priv_workpackage_pdf" src="IDP_USERCARD_WORKPACKAGE_PDF" />
         <imglst name="usercard_priv_workpackage_line" src="IDP_USERCARD_WORKPACKAGE_LINE"/>
         <imglst name="usercard_priv_workpackage_line_reverse" src="IDP_USERCARD_WORKPACKAGE_LINE_REVERSE"/>
         <imglst name="usercard_workpackage_bkg" src="IDP_USERCARD_WORKPACKAGE_BKG"/>
         <imglst name="usercard_channel_arrow" src="IDP_USERCARD_CHANNEL_ARROW"/>
-        <imglst name="usercard_svip_arrow" src="IDP_USERCARD_SVIP_ARROW" />
         <imglst name="usercard_workpackage_btn" src="IDP_USERCARD_WORKPACKAGE_BTN" subwidth="119" top="10" left="50" right="50" bottom="10"/>
         <imglst name="usercard_workpackage_buy_btn" src="IDP_USERCARD_WORKPACKAGE_BUY_BTN" subwidth="60"/>
         <imglst name="usercard_workpackage_btnbg" src="IDP_USERCARD_WORKPACKAGE_BTNBG" subwidth="96"/>
+      
+        <imglst name="usercard_blue_open_arrow" src="IDP_USERCARD_BLUE_OPEN_ARROW"/>
+        <imglst name="usercard_blue_close_arrow" src="IDP_USERCARD_BLUE_CLOSE_ARROW" />
+        <imglst name="usercard_blue_auto_backup" src="IDP_USERCARD_BLUE_AUTO_BACKUP"/>
+        <imglst name="usercard_blue_more" src="IDP_USERCARD_BLUE_MORE"/>
+        <imglst name="usercard_blue_recycle" src="IDP_USERCARD_BLUE_RECYCLE" />
+        <imglst name="usercard_blue_space" src="IDP_USERCARD_BLUE_SPACE" />
+        <imglst name="usercard_blue_video_high_speed" src="IDP_USERCARD_BLUE_VIDEO_HIGH_SPEED" />
+        <imglst name="usercard_blue_video_overspeed" src="IDP_USERCARD_BLUE_VIDEO_OVERSPEED" />     
+        <imglst name="usercard_blue_file_save_as" src="IDP_USERCARD_BLUE_FILE_SAVE_AS" />      
         <imglst name="member_center_card_bgk" src="IDP_MEMBER_CENTER_CARD_BGK" />
         <imgframe name="member_center_card_qr_bgk" src="IDP_MEMBER_CENTER_CARD_QR_BGK" />
 
@@ -631,6 +640,11 @@
             bgdown="ffffff" bguphover="eef0f6" bgdownhover="eef0f6"
             bguppush="eef0f6" bgdownpush="eef0f6"/>
         <imgframe name="usercard_tip_mask" src="IDP_USERCARD_TIP_MASK" left="3" top="3" right="3" bottom="3"/>
+        
+        <!--游戏中心卡片-->
+        <imgframe name="game_center_bg" src="IDP_GAME_CENTER_BKG" left="20" top="50" right="20" bottom="20"/>
+        <imgframe name="game_center_btn_bg" src="IDP_GAME_CENTER_BTN_BKG" left="20" top="50" right="20" bottom="20"/>
+        <imgframe name="game_center_listitem_default_bg" src="IDP_GAME_CENTER_LISTITEM_DEFAULT_BKG" left="20" top="50" right="20" bottom="20"/>
 
         <!--主面板侧边栏皮肤-->
         <imglst name="leftpanel_myshare_normal" src="IDP_LEFTPANEL_MYSHARE_NORMAL"/>
@@ -687,34 +701,37 @@
         <!--主面板工具栏-->
         <imgframe name="mainpanel_toolbar_bkg" src="IDP_MAINPANEL_TOOLBAR_BKG" left="2" top="2" right="2" bottom="2"/>
         <imgframe name="mainpanel_toolbar_button" src="IDP_MAINPANEL_TOOLBAR_BUTTON_BKG" subwidth="18" left="2" top="2" right="2" bottom="2"/>
-        <imgframe name="mainpanel_toolbar_upload" src="IDP_MAINPANEL_TOOLBAR_UPLOAD" subwidth="20"/>
-        <imgframe name="mainpanel_toolbar_download" src="IDP_MAINPANEL_TOOLBAR_DOWNLOAD" subwidth="20"/>
-        <imgframe name="mainpanel_toolbar_createshare" src="IDP_MAINPANEL_TOOLBAR_CREATESHARE" subwidth="20"/>
-        <imgframe name="mainpanel_toolbar_delete" src="IDP_MAINPANEL_TOOLBAR_DELETE" subwidth="20"/>
-        <imgframe name="mainpanel_createonlinedoc" src="IDP_MAINPANEL_TOOLBAR_CREATEONLINEDOC" subwidth="20"/>
-        <imgframe name="mainpanel_toolbar_doc_to_onlinedoc" src="IDP_MAINPANEL_TOOLBAR_DOC_TO_ONLINEDOC" subwidth="20"/>
-        <imgframe name="mainpanel_toolbar_createdir" src="IDP_MAINPANEL_TOOLBAR_CREATEDIR" subwidth="20"/>
-        <imgframe name="mainpanel_toolbar_pdftoword" src="IDP_MAINPANEL_TOOLBAR_PDFTOWORD" subwidth="20"/>
-        <imgframe name="mainpanel_toolbar_mobileview" src="IDP_MAINPANEL_TOOLBAR_MOBILEVIEW" subwidth="20"/>
-        <imgframe name="mainpanel_toolbar_drop_arrow" src="IDP_MAINPANEL_TOOLBAR_DROPDOWN" subwidth="20"/>
-        <imgframe name="mainpanel_toolbar_offlinedownload" src="IDP_MAINPANEL_TOOLBAR_OFFLINEDOWNLOAD" subwidth="20"/>
-        <imgframe name="mainpanel_toolbar_more" src="IDP_MAINPANEL_TOOLBAR_MORE" subwidth="20"/>
-        <imgframe name="mainpanel_toolbar_safebox" src="IDP_MAINPANEL_TOOLBAR_SAFEBOX" subwidth="20"/>
-        <imgframe name="mainpanel_toolbar_add" src="IDP_MAINPANEL_TOOLBAR_ADD" subwidth="20"/>
-        <imgframe name="mainpanel_toolbar_moveout" src="IDP_MAINPANEL_TOOLBAR_MOVEOUT" subwidth="20"/>
+        <imgframe name="mainpanel_toolbar_upload" src="IDP_MAINPANEL_TOOLBAR_UPLOAD" subwidth="16"/>
+        <imgframe name="mainpanel_toolbar_download" src="IDP_MAINPANEL_TOOLBAR_DOWNLOAD" subwidth="16"/>
+        <imgframe name="mainpanel_toolbar_createshare" src="IDP_MAINPANEL_TOOLBAR_CREATESHARE" subwidth="16"/>
+        <imgframe name="mainpanel_toolbar_delete" src="IDP_MAINPANEL_TOOLBAR_DELETE" subwidth="16"/>
+        <imgframe name="mainpanel_createonlinedoc" src="IDP_MAINPANEL_TOOLBAR_CREATEONLINEDOC" subwidth="16"/>
+        <imgframe name="mainpanel_toolbar_doc_to_onlinedoc" src="IDP_MAINPANEL_TOOLBAR_DOC_TO_ONLINEDOC" subwidth="16"/>
+        <imgframe name="mainpanel_toolbar_createdir" src="IDP_MAINPANEL_TOOLBAR_CREATEDIR" subwidth="16"/>
+        <imgframe name="mainpanel_toolbar_pdftoword" src="IDP_MAINPANEL_TOOLBAR_PDFTOWORD" subwidth="16"/>
+        <imgframe name="mainpanel_toolbar_mobileview" src="IDP_MAINPANEL_TOOLBAR_MOBILEVIEW" subwidth="16"/>
+        <imgframe name="mainpanel_toolbar_drop_arrow" src="IDP_MAINPANEL_TOOLBAR_DROPDOWN" subwidth="16"/>
+        <imgframe name="mainpanel_toolbar_offlinedownload" src="IDP_MAINPANEL_TOOLBAR_OFFLINEDOWNLOAD" subwidth="16"/>
+        <imgframe name="mainpanel_toolbar_more" src="IDP_MAINPANEL_TOOLBAR_MORE" subwidth="16"/>
+        <imgframe name="mainpanel_toolbar_safebox" src="IDP_MAINPANEL_TOOLBAR_SAFEBOX" subwidth="14"/>
+        <imgframe name="mainpanel_toolbar_add" src="IDP_MAINPANEL_TOOLBAR_ADD" subwidth="16"/>
+        <imgframe name="mainpanel_toolbar_moveout" src="IDP_MAINPANEL_TOOLBAR_MOVEOUT" subwidth="16"/>
         <imgframe name="mainpanel_toolbar_lock" src="IDP_MAINPANEL_TOOLBAR_LOCK" subwidth="20"/>
         <imgframe name="mainpanel_toolbar_thumb" src="IDP_MAINPANEL_TOOLBAR_THUMB" subwidth="16"/>
         <imgframe name="mainpanel_toolbar_list" src="IDP_MAINPANEL_TOOLBAR_LIST" subwidth="16"/>
         <imgframe name="mainpanel_toolbar_sort" src="IDP_MAINPANEL_TOOLBAR_SORT" subwidth="16"/>
-        <imgframe name="mainpanel_toolbar_clear" src="IDP_MAINPANEL_TOOLBAR_CLEAR" subwidth="20"/>
-        <imgframe name="mainpanel_toolbar_openfolder" src="IDP_MAINPANEL_TOOLBAR_OPENFOLDER" subwidth="20"/>
-        <imgframe name="mainpanel_toolbar_export_onlinedoc" src="IDP_MAINPANEL_TOOLBAR_EXPORT_ONLINEDOC" subwidth="20"/>
+        <imgframe name="mainpanel_toolbar_clear" src="IDP_MAINPANEL_TOOLBAR_CLEAR" subwidth="16"/>
+        <imgframe name="mainpanel_toolbar_openfolder" src="IDP_MAINPANEL_TOOLBAR_OPENFOLDER" subwidth="16"/>
+        <imgframe name="mainpanel_toolbar_export_onlinedoc" src="IDP_MAINPANEL_TOOLBAR_EXPORT_ONLINEDOC" subwidth="16"/>
+        <imgframe name="mainpanel_toolbar_darkblue_btn" src="IDP_MAINPANEL_TOOLBAR_DARKBLUE_BTN" left="30" right="30"/>
+        <imgframe name="mainpanel_toolbar_lightblue_btn" src="IDP_MAINPANEL_TOOLBAR_LIGHTBLUE_BTN" left="30" right="30"/>
+        <imgframe name="mainpanel_toolbar_bg_transparent" src="IDP_MAINPANEL_TOOLBAR_BG_TRANSPARENT" left="30" right="30"/>
         <imgframe name="safebox_quota_detail_btn" src="IDP_SAFEBOX_QUOTA_DETAIL" subwidth="10"/>
         <imgframe name="safebox_quota_buy_vip_btn" src="IDP_SAFEBOX_QUOTA_BUY_VIP" subwidth="183" left="12" right="12"/>
         <imgframe name="safebox_quota_buy_svip_btn" src="IDP_SAFEBOX_QUOTA_BUY_SVIP" subwidth="183" left="12" right="12"/>
         <imgframe name="safebox_quota_buy_vip_icon" src="IDP_SAFEBOX_QUOTA_BUY_VIP_ICON"/>
         <imgframe name="safebox_quota_buy_svip_icon" src="IDP_SAFEBOX_QUOTA_BUY_SVIP_ICON"/>
-        <imgframe name="safebox_arrow_drop_down" src="IDP_SAFEBOX_ARROW_DROP_DOWN" subwidth="20"/>
+        <imgframe name="safebox_arrow_drop_down" src="IDP_SAFEBOX_ARROW_DROP_DOWN" subwidth="32"/>
         <imgframe name="safebox_arrow_drop_up" src="IDP_SAFEBOX_ARROW_DROP_UP" subwidth="20"/>
         <imglst name="template_new" src="IDP_ONLINEDOC_TEMPLATE_NEW"/>
         <imglst name="template_empty" src="IDP_ONLINEDOC_TEMPLATE_EMPTY"/>
@@ -723,7 +740,7 @@
         <imgframe name="mainpanel_toolbar_badge_new_func" src="IDP_MAINPANEL_TOOLBAR_BADGE_NEW_FUNC"/>
         <imgframe name="mainpanel_toolbar_badge_limited_free" src="IDP_MAINPANEL_TOOLBAR_BADGE_LIMITED_FREE"/>
         <imgframe name="mainpanel_toolbar_badge_svip_only" src="IDP_MAINPANEL_TOOLBAR_BADGE_SVIP_ONLY"/>
-        <imgframe name="mainpanel_toolbar_batch_rename" src="IDP_MAINPANEL_TOOLBAR_BATCH_RENAME" subwidth="20"/>
+        <imgframe name="mainpanel_toolbar_batch_rename" src="IDP_MAINPANEL_TOOLBAR_BATCH_RENAME" subwidth="16"/>
         
 
         <!--主面板地址栏-->
@@ -994,10 +1011,11 @@
         <imglst name="enterprise_up_btn" src="IDP_ENTERPRISE_BTN_UP"/>
         <imglst name="enterprise_down_btn" src="IDP_ENTERPRISE_BTN_DOWN"/>
         <imglst name="enterprise_select_btn" src="IDP_ENTERPRISE_BTN_SELECT" subwidth="14" />
-        <imglst name="enterprise_select_head_frame" src="IDP_ENTERPRISE_HEAD_FRAME_SELECT" subwidth="30" />
-        <imglst name="enterprise_item_hover" src="IDP_ENTERPRISE_ITEM_HOVER" subwidth="10" />
-        <imglst name="enterprise_head_frame" src="IDP_ENTERPRISE_HEAD_FRAME" subwidth="30" />
-        <imglst name="enterprise_hover_head_frame" src="IDP_ENTERPRISE_HEAD_FRAME_HOVER" subwidth="30" />
+        <imglst name="enterprise_select_head_frame" src="IDP_ENTERPRISE_HEAD_FRAME_SELECT"/>
+        <imglst name="enterprise_item_hover" src="IDP_ENTERPRISE_ITEM_HOVER"/>
+        <imglst name="enterprise_item_select" src="IDP_ENTERPRISE_ITEM_SELECT"/>
+        <imglst name="enterprise_head_frame" src="IDP_ENTERPRISE_HEAD_FRAME"/>
+        <imglst name="enterprise_hover_head_frame" src="IDP_ENTERPRISE_HEAD_FRAME_HOVER"/>
         <imglst name="enterprise_vip_mark" src="IDP_ENTERPRISE_VIP_MARK" subwidth="12" />
       
         <!-- 微信QQ备份 -->
@@ -1141,6 +1159,9 @@
         <imgframe name="workspace_feedback" src="IDP_DUI_WORKSPACE_FEEDBACK" subwidth="15"/>
         <gif name="workspace_syncing_gif" src="IDP_DUI_WORKSPACE_SYNCING_GIF" minframedelay="30"></gif>
 
+        <imgframe name="enterprise_guide_img" src="IDP_DUI_ENTERPRISE_GUIDE_IMG"/>
+        <imgframe name="enterprise_guide_dlg_btn" src="IDP_DUI_ENTERPRISE_GUIDE_BTN_IMG"/>
+
         <!-- 工作空间目录迁移 -->
         <imgframe name="workspace_filecopy_progress_bg_dlg" src="IDP_DUI_WORKSPACE_FILECOPY_PROGRESS_BG_DLG" left="50" right="50" top="80" bottom="80"/>
         <imgframe name="workspace_filecopy_progress_file_copy" src="IDP_DUI_WORKSPACE_FILECOPY_PROGRESS_FILE_COPY"/>
@@ -1149,6 +1170,8 @@
         <imgframe name="workspace_filecopy_progress_btn_cancel" src="IDP_DUI_WORKSPACE_FILECOPY_PROGRESS_BTN_CANCEL" subwidth="64" left="30" right="30"/>
         <gif name="workspace_filecopy_progress_process_gif" src="IDP_DUI_WORKSPACE_FILECOPY_PROGRESS_PROCESS_GIF" minframedelay="30"></gif>
 
+        <!-- 游戏中心 -->
+        <imgframe name="gamecenter_dlg_btn_refresh" src="IDP_DUI_GAMECENTER_BTN_REFRESH" subwidth="15"/>
     </skins>
 
     <style>
@@ -1338,7 +1361,7 @@
         <class name="cls_usercard_user_point_txt" crtext="1e78d5" font="0000:微软雅黑" cursor="arrow" textmode="40824"/>
         <class name="cls_usercard_svip_txt" crtext="946738" font="0000:微软雅黑" cursor="arrow"/>
         <class name="cls_usercard_member_endtime_txt" crtext="64360D" font="0000:微软雅黑" cursor="arrow"/>
-        <class name="cls_usercard_priv_txt" crtext="03081A" font="0000:微软雅黑" cursor="arrow"/>
+        <class name="cls_usercard_priv_txt" crtext="03081A" font="0000:微软雅黑" align="center" cursor="arrow"/>
         <class name="cls_usercard_channel_title_txt" crtext="454D5A" font="0000:微软雅黑" cursor="arrow"/>
         <class name="cls_usercard_channel_subtitle_txt" crtext="AFB3BF" font="0000:微软雅黑" cursor="arrow"/>
       

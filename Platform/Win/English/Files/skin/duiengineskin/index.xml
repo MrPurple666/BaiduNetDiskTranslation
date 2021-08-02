@@ -71,6 +71,7 @@
 <resid type="XML" name="IDR_DUI_ONEKEYCLEAN_PANEL" file="xml\GarbageCleanDlg\OneKeyCleanPanel.xml"/>
 <resid type="XML" name="IDR_DUI_USERCARD_WND" layer="1" file="xml\MainPanel\UserCardWnd.xml"/>
 <resid type="XML" name="IDR_DUI_ENTERPRISESPACECARD_WND" layer="1" file="xml\MainPanel\EnterpriseSpaceCard.xml"/>
+<resid type="XML" name="IDR_DUI_GAMECENTERCARD_WND" layer="1" file="xml\MainPanel\GameCenterCard.xml"/>
 <resid type="XML" name="IDR_DUI_MEMBER_CENTER_CARD_WND" layer="1" file="xml\MainPanel\MemberCenterCardWnd.xml"/>
 <resid type="XML" name="IDR_DUI_ADCARD_WND" layer="1" file="xml\MainPanel\AdCardWnd.xml"/>
 <resid type="XML" name="IDR_DUI_IMAGEVIEW_DIALOG" layer="1" file="xml\ImageViewDlg\ImageViewDlg.xml"/>
@@ -756,14 +757,29 @@
 <resid type="IMGX" name="IDP_USERCARD_WORKPACKAGE_SYNC" file="image\MainPanel\UserCard\workpackage_sync.png"/>
 <resid type="IMGX" name="IDP_USERCARD_WORKPACKAGE_FLOW" file="image\MainPanel\UserCard\workpackage_flow.png"/>
 <resid type="IMGX" name="IDP_USERCARD_WORKPACKAGE_UNZIP" file="image\MainPanel\UserCard\workpackage_unzip.png"/>
-<resid type="IMGX" name="IDP_USERCARD_WORKPACKAGE_UPLOAD" file="image\MainPanel\UserCard\workpackage_upload.png"/>
+<resid type="IMGX" name="IDP_USERCARD_WORKPACKAGE_PDF" file="image\MainPanel\UserCard\workpackage_pdf.png"/>
 <resid type="IMGX" name="IDP_USERCARD_WORKPACKAGE_BKG" file="image\MainPanel\UserCard\workpackage_bkg.png"/>
 <resid type="IMGX" name="IDP_USERCARD_WORKPACKAGE_BTN" file="image\MainPanel\UserCard\workpackage_btn.png"/>
 <resid type="IMGX" name="IDP_USERCARD_WORKPACKAGE_BUY_BTN" file="image\MainPanel\UserCard\workpackage_buy_btn.png"/>
 <resid type="IMGX" name="IDP_USERCARD_WORKPACKAGE_BTNBG" file="image\MainPanel\UserCard\workpackage_btnbg.png"/>
 <resid type="IMGX" name="IDP_USERCARD_CHANNEL_INFO_BGK" file="image\MainPanel\UserCard\channel_info_bgk.png"/>
 <resid type="IMGX" name="IDP_USERCARD_CHANNEL_ARROW" file="image\MainPanel\UserCard\ad_arrow.png"/>
-<resid type="IMGX" name="IDP_USERCARD_SVIP_ARROW" file="image\MainPanel\UserCard\svip_arrow.png"/>
+
+<resid type="IMGX" name="IDP_USERCARD_BLUE_OPEN_ARROW" file="image\MainPanel\UserCard\blue_open_arrow.png"/>
+<resid type="IMGX" name="IDP_USERCARD_BLUE_CLOSE_ARROW" file="image\MainPanel\UserCard\blue_close_arrow.png"/>
+<resid type="IMGX" name="IDP_USERCARD_BLUE_AUTO_BACKUP" file="image\MainPanel\UserCard\blue_auto_backup.png"/>
+<resid type="IMGX" name="IDP_USERCARD_BLUE_MORE" file="image\MainPanel\UserCard\blue_more.png"/>
+<resid type="IMGX" name="IDP_USERCARD_BLUE_RECYCLE" file="image\MainPanel\UserCard\blue_recycle.png"/>
+<resid type="IMGX" name="IDP_USERCARD_BLUE_SPACE" file="image\MainPanel\UserCard\blue_space.png"/>
+<resid type="IMGX" name="IDP_USERCARD_BLUE_VIDEO_HIGH_SPEED" file="image\MainPanel\UserCard\blue_video_high_speed.png"/>
+<resid type="IMGX" name="IDP_USERCARD_BLUE_VIDEO_OVERSPEED" file="image\MainPanel\UserCard\blue_video_overspeed.png"/>
+<resid type="IMGX" name="IDP_USERCARD_BLUE_FILE_SAVE_AS" file="image\MainPanel\UserCard\blue_file_save_as.png"/>
+
+<!--游戏中心卡片-->
+<resid type="IMGX" name="IDP_GAME_CENTER_BKG" file="image\MainPanel\TitlePanel\GameCenter\game_center_bk.png"/>
+<resid type="IMGX" name="IDP_GAME_CENTER_BTN_BKG" file="image\MainPanel\TitlePanel\GameCenter\game_center_btn_bk.png"/>
+<resid type="IMGX" name="IDP_GAME_CENTER_LISTITEM_DEFAULT_BKG" file="image\MainPanel\TitlePanel\GameCenter\game_center_listitem_default_bk.png"/>
+
 <!--会员中心卡片-->
 <resid type="IMGX" name="IDP_MEMBER_CENTER_CARD_BGK" file="image\MainPanel\UserCard\member_center_card_bg.png"/>
 <resid type="IMGX" name="IDP_MEMBER_CENTER_CARD_QR_BGK" file="image\MainPanel\UserCard\qrcode_bg.png"/>
@@ -844,6 +860,9 @@
 <resid type="IMGX" name="IDP_MAINPANEL_TOOLBAR_CLEAR" file="image\MainPanel\NetdiskPanel\Toolbar\clear.png"/>
 <resid type="IMGX" name="IDP_MAINPANEL_TOOLBAR_OPENFOLDER" file="image\MainPanel\NetdiskPanel\Toolbar\openfolder.png"/>
 <resid type="IMGX" name="IDP_MAINPANEL_TOOLBAR_EXPORT_ONLINEDOC" file="image\MainPanel\NetdiskPanel\Toolbar\export_onlinedoc_word.png"/>
+<resid type="IMGX" name="IDP_MAINPANEL_TOOLBAR_DARKBLUE_BTN" file="image\MainPanel\NetdiskPanel\Toolbar\blue_dark_btn.png"/>
+<resid type="IMGX" name="IDP_MAINPANEL_TOOLBAR_LIGHTBLUE_BTN" file="image\MainPanel\NetdiskPanel\Toolbar\blue_light_btn.png"/>
+<resid type="IMGX" name="IDP_MAINPANEL_TOOLBAR_BG_TRANSPARENT" file="image\MainPanel\NetdiskPanel\ToolBar\bg_transparent.png"/>
 <resid type="IMGX" name="IDP_SAFEBOX_QUOTA_DETAIL" file="image\MainPanel\NetdiskPanel\Toolbar\safebox_quota_detail.png"/>
 <resid type="IMGX" name="IDP_SAFEBOX_QUOTA_BUY_VIP" file="image\MainPanel\NetdiskPanel\Toolbar\safebox_quota_buy_vip.png"/>
 <resid type="IMGX" name="IDP_SAFEBOX_QUOTA_BUY_SVIP" file="image\MainPanel\NetdiskPanel\Toolbar\safebox_quota_buy_svip.png"/>
@@ -1125,6 +1144,7 @@
 <resid type="IMGX" name="IDP_ENTERPRISE_BTN_SELECT" file="image\MainPanel\TitlePanel\Enterprise\enterprise_select.png"/>
 <resid type="IMGX" name="IDP_ENTERPRISE_HEAD_FRAME_SELECT" file="image\MainPanel\TitlePanel\Enterprise\enterprise_head_frame_select.png"/>
 <resid type="IMGX" name="IDP_ENTERPRISE_ITEM_HOVER" file="image\MainPanel\TitlePanel\Enterprise\enterprise_ItemHoverBkg.png"/>
+<resid type="IMGX" name="IDP_ENTERPRISE_ITEM_SELECT" file="image\MainPanel\TitlePanel\Enterprise\enterprise_ItemSelectBkg.png"/>
 <resid type="IMGX" name="IDP_ENTERPRISE_HEAD_FRAME" file="image\MainPanel\TitlePanel\Enterprise\enterprise_head_frame.png"/>
 <resid type="IMGX" name="IDP_ENTERPRISE_HEAD_FRAME_HOVER" file="image\MainPanel\TitlePanel\Enterprise\enterprise_head_hover_frame.png"/>
 <resid type="IMGX" name="IDP_ENTERPRISE_VIP_MARK" file="image\MainPanel\TitlePanel\Enterprise\enterprise_vip_mark.png"/>
@@ -1241,6 +1261,7 @@
 <resid type="XML" name="IDR_DUI_WORKSPACE_FILE_VIEW_PANEL" file="xml\MainPanel\WorkSpaceDlg\NetdiskPanel\FileContainerPanel\ViewContainerPanel.xml"/>
 <resid type="XML" name="IDR_DUI_WORKSPACE_FILE_STATUS_PANEL" file="xml\MainPanel\WorkSpaceDlg\NetdiskPanel\FileContainerPanel\StatusPanel.xml"/>
 
+<resid type="XML" name="IDR_DUI_ENTERPRISE_FUNC_GUIDE_DLG" layer="1" file="xml\MainPanel\EnterpriseFuncGuideDlg.xml"/>
 
 <resid type="IMGX" name="IDP_DUI_WORKSPACE_NAVIGATE_FILE" file="image\WorkSpaceDlg\workspace_file.png"/>
 <resid type="IMGX" name="IDP_DUI_WORKSPACE_NAVIGATE_RECORD" file="image\WorkSpaceDlg\workspace_record.png"/>
@@ -1302,6 +1323,8 @@
 <resid type="IMGX" name="IDP_DUI_WORKSPACE_FILE_THUMB_ITEM_BG_CHECK" file="image\WorkSpaceDlg\FilePanel\FileView\ThumbView\item_bg_check.png"/>
 <resid type="IMGX" name="IDP_DUI_WORKSPACE_FILE_THUMB_ITEM_STATUS_GUIDE" file="image\WorkSpaceDlg\FilePanel\FileView\ThumbView\workspace_status_guide.png"/>
 
+<resid type="IMGX" name="IDP_DUI_ENTERPRISE_GUIDE_IMG" file="image\MainPanel\TitlePanel\Enterprise\enterprise_guide_img.png"/>
+<resid type="IMGX" name="IDP_DUI_ENTERPRISE_GUIDE_BTN_IMG" file="image\MainPanel\TitlePanel\Enterprise\enterprise_guide_btn_img.png"/>
 
 <resid type="XML" name="IDR_DUI_BATCHRENAME_DLG" layer="1" file="xml\BatchRename\BatchRenameDlg.xml"/>
 <resid type="IMGX" name="IDP_DUI_WORKSPACE_GUIDE_BKG" file="image\WorkSpaceDlg\guide_bkg.png"/>
@@ -1320,3 +1343,7 @@
 <resid type="IMGX" name="IDP_DUI_WORKSPACE_FILECOPY_PROGRESS_ICON_SUCCESS" file="image\WorkspaceFileCopyDlg\icon_success.png"/>
 <resid type="IMGX" name="IDP_DUI_WORKSPACE_FILECOPY_PROGRESS_BTN_CANCEL" file="image\WorkspaceFileCopyDlg\btn_cancel.png"/>
 <resid type="IMGX" name="IDP_DUI_WORKSPACE_FILECOPY_PROGRESS_PROCESS_GIF" file="image\WorkspaceFileCopyDlg\process.gif"/>
+
+<!-- 游戏中心 -->
+<resid type="XML" name="IDR_DUI_GAMECENTER_DLG" layer="1" file="xml\GameCenterDlg\GameCenterDlg.xml"/>
+<resid type="IMGX" name="IDP_DUI_GAMECENTER_BTN_REFRESH" file="image\GameCenterDlg\btn_refresh.png"/>
