@@ -140,6 +140,19 @@
 													</IBGRegionPanel>
 												</Children>
 											</IBGRegionPanel>
+											<!-- 商品推荐设置 -->
+											<IBGRegionPanel name="productRecommendPanel" size="530,40" margin="0,0,0,0" dock="DOCK_TOP">
+												<Children>
+													<IBGStaticEx size="90,15" text="$3224" margin="20,20,0,0" dock="DOCK_LEFT"/>
+													<IBGRegionPanel size="470,20" margin="3,16,0,0" dock="DOCK_FILL">
+														<Children>
+															<IBGRadioLogic name="productRecommend"/>
+															<IBGCheckButton name="openProductRecommend" text="$2551" size="70,16" config="radioButton" check="true" radio="true" margin="5,0,0,0" dock="DOCK_LEFT"/>
+															<IBGCheckButton name="closeProductRecommend" text="$2752" size="70,16" config="radioButton" check="false" radio="true" margin="30,0,0,0" dock="DOCK_LEFT"/>
+														</Children>
+													</IBGRegionPanel>
+												</Children>
+											</IBGRegionPanel>
 										</Children>
 									</IBGRegionPanel>
 									<!-- 传输区域-->

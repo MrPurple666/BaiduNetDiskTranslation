@@ -1392,4 +1392,8 @@
   <String id="IDS_WORKSPACE_CHANGE_LOCAL_SYNC_PACH_ACCESS_DENY_TIP"  value="Если папка не написана, пожалуйста, повторно выберите" />
   <String id="IDS_WORKSPACE_CHANGE_LOCAL_SYNC_PACH_QUOTA_LESS_TIP"  value="Если диск остается на диске, пожалуйста, выберите" />
   <String id="IDS_WORKSPACE_CHANGE_LOCAL_SYNC_PACH_SAME_TIP"  value="Оригинальный путь синхронизации такой же, как выбранный путь синхронизации, пожалуйста, выберите" />
+
+  <!--Коммерциализация-->
+  <String id="IDS_PRODUCT_RECOMMEND_SETTING" value="Настройка рекомендации продукта:" />
+
 </StringTable>
