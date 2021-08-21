@@ -1393,4 +1393,7 @@
   <String id="IDS_WORKSPACE_CHANGE_LOCAL_SYNC_PACH_QUOTA_LESS_TIP"  value="If the disk remains on the disk, please select" />
   <String id="IDS_WORKSPACE_CHANGE_LOCAL_SYNC_PACH_SAME_TIP"  value="The original synchronization path is the same as the selected synchronization path, please select" />
 
+  <!--商业化-->
+  <String id="IDS_PRODUCT_RECOMMEND_SETTING" value="Product recommendation setting:" />
+
 </StringTable>
