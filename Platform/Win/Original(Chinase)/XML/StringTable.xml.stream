@@ -1388,4 +1388,7 @@
   <String id="IDS_WORKSPACE_CHANGE_LOCAL_SYNC_PACH_ACCESS_DENY_TIP"  value="文件夹无写入权限，请重新选择" />
   <String id="IDS_WORKSPACE_CHANGE_LOCAL_SYNC_PACH_QUOTA_LESS_TIP"  value="磁盘剩余空间不足，请重新选择" />
   <String id="IDS_WORKSPACE_CHANGE_LOCAL_SYNC_PACH_SAME_TIP"  value="原同步路径和所选同步路径相同，请重新选择" />
+
+  <!--商业化-->
+  <String id="IDS_PRODUCT_RECOMMEND_SETTING" value="商品推荐设置：" />
 </StringTable>
