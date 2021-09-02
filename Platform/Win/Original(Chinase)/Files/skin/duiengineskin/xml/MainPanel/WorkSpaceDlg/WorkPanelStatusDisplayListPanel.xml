@@ -28,11 +28,11 @@
                         <text name="txt_file_size" pos="68,41" crtext="AFB3BF" font="0000:微软雅黑"/>
                         <text name="txt_file_error_time" pos="[12,41" crtext="AFB3BF" font="0000:微软雅黑"/>
                         <dlg name="dlg_syncing_file" show="1" pos="-232,0,-0,-0">
-                            <dlg name="progress_bkg" pos="0,36,-104,@4" class="cls_leftpanel_progress_bkg">
+                            <dlg name="progress_bkg" pos="-168,25,-24,@4" class="cls_leftpanel_progress_bkg">
                                 <dlg name="progress_frg" pos="0,0,0,-0" class="cls_leftpanel_progress_frg_green"/>
                             </dlg>
-                            <text name="txt_speed" pos="-96,30" crtext="AFB3BF" font="0000:微软雅黑"/>
-                            <text name="txt_file_status" pos="-60,30" crtext="AFB3BF" font="0000:微软雅黑"/>
+                            <text name="txt_file_status" pos="-168,40" crtext="AFB3BF" font="0000:微软雅黑"/>                           
+                            <text name="txt_speed" pos="[8,40" crtext="AFB3BF" font="0000:微软雅黑"/>
                         </dlg>
                         <dlg name="dlg_sync_error_file" show="0" pos="-355,10,-0,-0">
                             <text name="txt_error_msg" pos="95,20,@240,@12" crtext="FF436A" align="right" font="0000:微软雅黑"/>

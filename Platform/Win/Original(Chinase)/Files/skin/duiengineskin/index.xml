@@ -62,8 +62,7 @@
 <resid type="XML" name="IDR_DUI_VIDEOPLAYSDK_DIALOG" layer="1" file="xml\VideoPlaySDKDlg\VideoPlaySDKDlg.xml"/>
 <resid type="XML" name="IDR_DUI_VIDEODISPLAY_DIALOG" layer="1" file="xml\VideoPlaySDKDlg\VideoDisplayDlg.xml"/>
 <resid type="XML" name="IDR_DUI_VIDEOOPERATION_DIALOG" layer="1" file="xml\VideoPlaySDKDlg\VideoOperationDlg.xml"/>
-<resid type="XML" name="IDR_DUI_OVERSPEED_GUIDE_DIALOG" layer="1" file="xml\VideoPlaySDKDlg\OverspeedGuideDlg.xml"/>
-<resid type="XML" name="IDR_DUI_DEFINITION_GUIDE_DIALOG" layer="1" file="xml\VideoPlaySDKDlg\DefinitionGuideDlg.xml"/>
+<resid type="XML" name="IDR_DUI_VIDEO_GUIDE_DIALOG" layer="1" file="xml\VideoPlaySDKDlg\VideoGuideDlg.xml"/>
 <resid type="XML" name="IDR_DUI_NOTE_GUIDE_DIALOG" layer="1" file="xml\VideoPlaySDKDlg\NoteGuideDlg.xml"/>
 <resid type="XML" name="IDR_DUI_NOTE_EDIT_WND" layer="1" file="xml\VideoPlaySDKDlg\NoteEditWnd.xml"/>
 <resid type="XML" name="IDR_DUI_NEXTBATCH_PANEL" file="xml\GarbageCleanDlg\NextBatchPanel.xml"/>
@@ -103,7 +102,7 @@
 <resid type="XML" name="IDR_DUI_LOGIN_DEVICE_STATUS_DIALOG" layer="1" file="xml\dlg_login_device_status.xml"/>
 <resid type="XML" name="IDR_DUI_ONLINEDOC_TEMPLATE_DIALOG" layer="1" file="xml\MainPanel\NetdiskPanel\FileContainerPanel\OnlineDocTemplate.xml"/>
 <resid type="XML" name="IDR_DUI_PRIVILEGE_GUIDE_DIALOG" layer="1" file="xml\PrivilegeGuideDlg\PrivilegeGuideDlg.xml"/>
-
+<resid type="XML" name="IDR_DUI_PRIVILEGE_GUIDE_DIALOG_V2" layer="1" file="xml\PrivilegeGuideDlg\PrivilegeGuideDlgV2.xml"/>
 <!--自动登录挽留-->
 <resid type="XML" name="IDR_DUI_LOGIN_RETENTION_DIALOG" layer="1" file="xml\dlg_login_retention.xml"/>
 <!--文件夹自动备份-->
@@ -654,9 +653,6 @@
 <resid type="IMGX" name="IDP_VIDEO_OVERSPEED_SVIP_BTN" file="image\VideoPlayDlg\overspeed\btn_overspeed_open_svip.png"/>
 <resid type="IMGX" name="IDP_VIDEO_OVERSPEED_SVIP_IMG" file="image\VideoPlayDlg\overspeed\overspeed_svip.png"/>
 <resid type="IMGX" name="IDP_VIDEO_OVERSPEED_NEW_IMG" file="image\VideoPlayDlg\new.png"/>
-<resid type="IMGX" name="IDP_VIDEO_OVERSPEED_GUIDE_RED_BTN" file="image\VideoPlayDlg\overspeed\btn_overspeed_guidedlg_red.png"/>
-<resid type="IMGX" name="IDP_VIDEO_OVERSPEED_GUIDE_GRAY_BTN" file="image\VideoPlayDlg\overspeed\btn_overspeed_guidedlg_gray.png"/>
-<resid type="IMGX" name="IDP_VIDEO_OVERSPEED_GUIDE_IMG" file="image\VideoPlayDlg\overspeed\overspeed_guidedlg_image.png"/>
 <resid type="IMGX" name="IDP_VIDEO_PLAYLIST_EMPTY" file="image\VideoPlayDlg\empty.png"/>
 <resid type="IMGX" name="IDP_VIDEO_UNDERLINE_NORMAL" file="image\VideoPlayDlg\underline_normal.png"/>
 <resid type="IMGX" name="IDP_VIDEO_UNDERLINE_HOVER" file="image\VideoPlayDlg\underline_hover.png"/>
@@ -679,6 +675,13 @@
 <resid type="IMGX" name="IDP_VIDEO_NOTE_PROCESS_BAR_POINT_IMG"  file="image\VideoPlayDlg\videonote\process_bar_point.png" />
 <resid type="IMGX" name="IDP_VIDEO_NOTE_PROCESS_BAR_BIG_POINT_IMG"  file="image\VideoPlayDlg\videonote\process_bar_big_point.png" />
 <resid type="IMGX" name="IDP_VIDEO_NOTE_ADD_ICON"  file="image\VideoPlayDlg\videonote\add_note_icon.png" />
+<!--视频特权引导-->
+<resid type="IMGX" name="IDP_VIDEO_GUIDE_IMG" file="image\VideoPlayDlg\guide\video_guide_img.png" />
+<resid type="IMGX" name="IDP_VIDEO_GUIDE_BTN_YELLOW" file="image\VideoPlayDlg\guide\video_guide_btn_yellow.png" />
+<resid type="IMGX" name="IDP_VIDEO_GUIDE_BTN_CLOSE" file="image\VideoPlayDlg\guide\video_guide_btn_close.png"/>
+<resid type="IMGX" name="IDP_VIDEO_GUIDE_BUBBLE" file="image\VideoPlayDlg\guide\video_guide_bubble.png"/>
+<resid type="IMGX" name="IDP_VIDEO_GUIDE_LOADING" file="image\VideoPlayDlg\guide\video_guide_loading.gif"/>
+<resid type="IMGX" name="IDP_VIDEO_GUIDE_MASK_IMG" file="image\VideoPlayDlg\guide\video_guide_mask.png" />
 
 <!--标题栏-->
 <resid type="IMGX" name="IDP_TITLEPANEL_HEAD" file="image\MainPanel\TitlePanel\head.png"/>
@@ -1041,7 +1044,6 @@
 <resid type="IMGX" name="IDP_IMG_DEFINITION_FREE_SCRIPT" file="image\MainPanel\FunctionalBoxPanel\Free.png" />
 <resid type="IMGX" name="IDP_IMG_DEFINITION_SCRIPT" file="image\VideoPlayDlg\definition\image_bg.png" />
 <resid type="IMGX" name="IDP_IMG_DEFINITION_GUIDE_BUTTON" file="image\VideoPlayDlg\definition\svip_button.png" />
-<resid type="IMGX" name="IDP_VIDEO_DEFINITION_GUIDE_IMG" file="image\VideoPlayDlg\definition\ic_video.png"/>
 <resid type="IMGX" name="IDP_VIDEO_TASKBAR_YELLOW_BTN_WORDS"   file="image\VideoPlayDlg\definition\yellow_words_btn.png" />
 
 <!--p2p互助提速-->
@@ -1254,6 +1256,11 @@
 <resid type="XML" name="IDR_DUI_WORKSPACE_STATUSLIST_PANEL" layer="1" file="xml\MainPanel\WorkSpaceDlg\WorkPanelStatusDisplayListPanel.xml"/>
 <resid type="XML" name="IDR_DUI_WORKSPACE_DATAFLOWCARD_PANEL" layer="1" file="xml\MainPanel\WorkSpaceDlg\DataFlowCardWnd.xml"/>
 <resid type="XML" name="IDR_DUI_WORKSPACE_RESIDENTGUIDE_DLG" layer="1" file="xml\MainPanel\WorkSpaceDlg\WorkSpaceResidentGuide.xml"/>
+<resid type="XML" name="IDR_DUI_WORKSPACE_INIT_SETTING_DLG" layer="1" file="xml\MainPanel\WorkSpaceDlg\WorkSpaceResidentGuide\WorkSpaceInitSettingDlg.xml"/>
+<resid type="XML" name="IDR_DUI_DIR_CONFLICT_DLG" layer="1" file="xml\MainPanel\WorkSpaceDlg\WorkSpaceResidentGuide\SyncDirConflictDlg.xml"/>
+<resid type="XML" name="IDR_DUI_FILE_IMPORT_GUIDE_DLG" layer="1" file="xml\MainPanel\WorkSpaceDlg\WorkSpaceResidentGuide\FileImportGuideDlg.xml"/>
+<resid type="XML" name="IDR_DUI_WORKSPACE_FUNC_GUIDE_DLG" layer="1" file="xml\MainPanel\WorkSpaceDlg\WorkSpaceResidentGuide\WorkSpaceFunctionGuideDlg.xml"/>
+<resid type="XML" name="IDR_DUI_SYNC_DIR_FIRST_GUIDE_DLG" layer="1" file="xml\MainPanel\WorkSpaceDlg\WorkSpaceResidentGuide\SyncDirFirstGuideDlg.xml"/>
 <resid type="XML" name="IDR_DUI_WORKSPACE_LEFT_FUNC_GUIDE_DLG" layer="1" file="xml\MainPanel\FuncGuideDlg\WorkspaceLeftFuncGuideWnd.xml"/>
 
 <resid type="XML" name="IDR_DUI_WORKSPACE_FILE_TOOLBAR_PANEL" file="xml\MainPanel\WorkSpaceDlg\NetdiskPanel\FileContainerPanel\Toolbar.xml"/>
@@ -1281,6 +1288,8 @@
 <resid type="IMGX" name="IDP_DUI_WORKSPACE_LOGO" file="image\WorkSpaceDlg\workspace_logo.png"/>
 <resid type="IMGX" name="IDP_DUI_WORKSPACE_RIGHT_BKG" file="image\WorkSpaceDlg\TitlePanel\workspace_right_bkg.png"/>
 <resid type="IMGX" name="IDP_DUI_WORKSPACE_RECORD_LOADING_ITEM" file="image\WorkSpaceDlg\loading_item.gif"/>
+<resid type="IMGX" name="IDP_WORKSPACE_RECORD_OP_LOCAL" file="image\WorkSpaceDlg\op_local.png"/>
+<resid type="IMGX" name="IDP_WORKSPACE_RECORD_OP_CLOUD" file="image\WorkSpaceDlg\op_cloud.png"/>
 
 <!-- 文件页 -->
 <resid type="IMGX" name="IDP_DUI_WORKSPACE_FILE_BTN_IMPORT" file="image\WorkSpaceDlg\FilePanel\ToolBar\Import.png"/>
@@ -1297,10 +1306,21 @@
 <resid type="IMGX" name="IDP_DUI_WORKSPACE_STATUS_EMPTY_FILE" file="image\WorkSpaceDlg\empty_document.png"/>
 <resid type="IMGX" name="IDP_DUI_WORKSPACE_TITLE_LIGHTNING" file="image\WorkSpaceDlg\lightning.png"/>
 <resid type="IMGX" name="IDP_DUI_WORKSPACE_TITLE_WORKPACKAGE_LIGHTNING" file="image\WorkSpaceDlg\workpackage_lightning.png"/>
+<resid type="IMGX" name="IDP_DUI_WORKSPACE_SYNC_DIR" file="image\WorkSpaceDlg\workpackage_sync_dir.png"/>
 
 <resid type="IMGX" name="IDP_DUI_WORKSPACE_GIF_GUIDE_BACKUP" file="image\WorkSpaceDlg\GuideGifPanel\guide_backup.gif"/>
 <resid type="IMGX" name="IDP_DUI_WORKSPACE_GUIDE_BKG_TWO" file="image\WorkSpaceDlg\GuidePanel\guide_bkg_two.png"/>
 <resid type="IMGX" name="IDP_DUI_WORKSPACE_GUIDE_IMG" file="image\WorkSpaceDlg\GuidePanel\guide_img.png"/>
+<resid type="IMGX" name="IDP_DUI_WORKSPACE_FUNC_GUIDE" file="image\WorkSpaceDlg\GuidePanel\workspace_func_guide.png"/>
+<resid type="IMGX" name="IDP_DUI_WORKSPACE_GUIDE_BTN_BKG_ONE" file="image\WorkSpaceDlg\GuidePanel\guide_btn_bkg_one.png"/>
+<resid type="IMGX" name="IDP_DUI_WORKSPACE_GUIDE_BTN_BKG_TWO" file="image\WorkSpaceDlg\GuidePanel\guide_btn_bkg_two.png"/>
+<resid type="IMGX" name="IDP_DUI_WORKSPACE_GUIDE_BTN_BKG_THREE" file="image\WorkSpaceDlg\GuidePanel\guide_btn_bkg_three.png"/>
+<resid type="IMGX" name="IDP_DUI_WORKSPACE_GUIDE_BTN_BKG_FOUR" file="image\WorkSpaceDlg\GuidePanel\guide_btn_bkg_four.png"/>
+<resid type="IMGX" name="IDP_DUI_WORKSPACE_GUIDE_EDIT_BKG" file="image\WorkSpaceDlg\GuidePanel\guide_edit_bkg.png"/>
+<resid type="IMGX" name="IDP_DUI_WORKSPACE_GUIDE_TEXT_BKG" file="image\WorkSpaceDlg\GuidePanel\guide_text_bkg.png"/>
+<resid type="IMGX" name="IDP_DUI_WORKSPACE_GUIDE_WARNING_BKG" file="image\WorkSpaceDlg\GuidePanel\guide_warning.png"/>
+<resid type="IMGX" name="IDP_DUI_WORKSPACE_GUIDE_FILE_IMPORT" file="image\WorkSpaceDlg\GuidePanel\guide_file_import.png"/>
+<resid type="IMGX" name="IDP_NAVIGATEPANEL_SYNC_DIR_ICON_BG_BUBBLE" file="image\WorkSpaceDlg\GuidePanel\sync_dir_icon_bubble_bg.png"/>
 
 <resid type="IMGX" name="IDP_DUI_WORKSPACE_GIF_GUIDE_UPLOAD" file="image\WorkSpaceDlg\GuideGifPanel\guide_upload.gif"/>
 <resid type="IMGX" name="IDP_DUI_WORKSPACE_GIF_GUIDE_HISTORY" file="image\WorkSpaceDlg\GuideGifPanel\guide_history.gif"/>
