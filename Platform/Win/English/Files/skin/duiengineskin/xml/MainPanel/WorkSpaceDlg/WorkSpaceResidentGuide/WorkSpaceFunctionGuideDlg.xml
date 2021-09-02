@@ -1,0 +1,16 @@
+<layer name="FunctionGuide" width="660" height="665" appwin="0" toolwindow="1" ncRect="5,5,5,5" translucent="1" nomaxsize="1">
+    <body>
+        <dlg skin="workspace_guide_mask" pos="0,0,-0,-0">
+            <dlg name="dlg_main" pos="16,108,@628,@449" skin="workspace_guide_frame">
+                <dlg pos="10,10,-10,-10">
+                    <text pos="24,34" font2="facename:微软雅黑;bold:1;adding:7" crtext="03081A">%str4650%</text>
+                    <dlg pos="94,63,@420,@210" skin="workspace_func_guide_img"></dlg>
+                    <text name="text1" pos="84,[26,@456,@20" font2="facename:微软雅黑;bold:1;adding:2" crtext="03081A" align="center">%str4584%</text>
+                    <text name="text2" pos="84,[0,@456,@20" font2="facename:微软雅黑;bold:1;adding:2" crtext="03081A" align="center">%str4585%</text>
+                    <imgbtn name="btn_next_step" pos="|-100,[32,@200,@36" skin="workspace_guide_btn_bkg_one"
+                        font2="facename:微软雅黑;bold:1;adding:1" crtext="FFFFFF" align="center" cursor="arrow">%str4586%</imgbtn>
+                </dlg>    
+            </dlg>
+        </dlg>
+    </body>
+</layer>

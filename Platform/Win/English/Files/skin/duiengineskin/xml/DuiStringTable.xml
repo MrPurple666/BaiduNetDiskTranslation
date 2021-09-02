@@ -13,7 +13,7 @@
   <s id="11">Send the file</s>
   <s id="12">Successfull transfer</s>
   <s id="13">File</s>
-  <s id="14">4545Drag and drop to transfer files</s>
+  <s id="14">Drag and drop to transfer files</s>
   <s id="15">File sending failed due to possible network reasons</s>
   <s id="16">Retry</s>
   <s id="17">There are currently files being transferred. Disconnecting will stop the transfer. \r\ndo you want to disconnect?</s>
@@ -978,7 +978,7 @@
   <s id="2211">/Other</s>
   <s id="2212">/Torrent</s>
   <s id="2213">Refresh</s>
-  <s id="2214">Search work space files</s>
+  <s id="2214">Search synchronous space files</s>
 
   <!--隐藏空间-->
   <s id="2250">Enable the Safe Box to save your private files to it~</s>
@@ -1652,7 +1652,7 @@
   <s id="4403">The number of selected files cannot exceed 1000!</s>
 
   <!--Workspace-->
-  <s id="4500">Workspace</s>
+  <s id="4500">Synchronous space</s>
   <s id="4501">Synchronous file</s>
   <s id="4502">Operation record</s>
   <s id="4503">Recycle bin</s>
@@ -1661,7 +1661,7 @@
   <s id="4506">SVIP user synchronization unlimited amount</s>
   <s id="4507">Unlimited synchronization</s>
   <s id="4508">%dAfter the day, the expiration of the day is about to lose infinite synchronization privileges.</s>
-  <s id="4509">Copy to work space</s>
+  <s id="4509">Copy to synchronous space</s>
   <s id="4510">Synchronous traffic</s>
   <s id="4511">Super member unlimited synchronization</s>
   <s id="4512">Super Member Enjoy Unlimited Synchronous Traffic</s>
@@ -1684,11 +1684,11 @@
   <s id="4530">Click to pause synchronization</s>
   <s id="4531">Click to open synchronization</s>
   <s id="4532">Confirm that the suspension is synchronized?\r\nThe current file is being synchronized, and the synchronization will be stopped after it is determined.</s>
-  <s id="4533">Network disk workspace</s>
+  <s id="4533">Network disk synchronous space</s>
   <s id="4534">Automatic synchronization, office artifact</s>
-  <s id="4535">File automatic upload</s>
-  <s id="4536">Import into workspace, install right</s>
-  <s id="4537">Multiple computer phones View anytime, anywhere</s>
+  <s id="4535">Import into files, quickly upload</s>
+  <s id="4536">Import into synchronous space, install right</s>
+  <s id="4537">Document modification, automatic synchronization</s>
   <s id="4538">File changes, synchronize to all devices</s>
   <s id="4539">historic version Never lose</s>
   <s id="4540">Super Member retain 100 historical versions</s>
@@ -1714,6 +1714,29 @@
   <s id="4561">Mobile phone backup</s>
   <s id="4562">Recycle bin 15 days</s>
   <s id="4564">High-speed play</s>
+  <s id="4565">Initialization setting</s>
+  <s id="4566">Please select a local synchronization folder in location</s>
+  <s id="4567">Replace synchronization directory</s>
+  <s id="4568">Not set yet</s>
+  <s id="4569">Set synchronization folder</s>
+  <s id="4570">Modify the files in the synchronous folder on one device, which will be automatically modified, the file status is consistent on other devices.</s>
+  <s id="4571">Synchronous folder conflict prompt</s>
+  <s id="4572">Another synchronization folder already exists under this path</s>
+  <s id="4573">If you continue to use the current location, you will automatically merge files. If you don't want merge, please replace the directory.</s>
+  <s id="4574">Merged file</s>
+  <s id="4575">Return to modify</s>
+  <s id="4576">Add files to synchronous space</s>
+  <s id="4577">Open the local folder, drag the upload file\nWork space</s>
+  <s id="4578">Come up and pass your first file.</s>
+  <s id="4579">Automatically run synchronization space</s>
+  <s id="4580">How to find synchronous space on other devices?</s>
+  <s id="4581">I see</s>
+  <s id="4582">Local synchronization folder</s>
+  <s id="4583">Local synchronization folder creation</s>
+  <s id="4584">In the company did not finish the PPT, I want to take home to do it, synchronize through the synchronous space.</s>
+  <s id="4585">Never use to change the file again.</s>
+  <s id="4586">Next step</s>
+
   <!-- File page -->
   <s id="4559">What can I do?</s>
   <s id="4600">Add a network disk file</s>
@@ -1756,6 +1779,9 @@
   <s id="4665">Select synchronization directory</s>
   <s id="4666">Tip: Click on the right button to re-sync the task</s>
   <s id="4667">Reset synchronization</s>
+  <s id="4668">Open local synchronization folder</s>
+  <s id="4669">Quick access to local sync directories</s>
+  <s id="4670">Click here to turn on the computer synchronization folder</s>
 
   <!-- tray -->
   <s id="4700">Synchronous traffic is insufficient</s>
@@ -1829,6 +1855,20 @@
   <s id="4822">Local deletion failed, files are occupied</s>
   <s id="4823">The target position file already exists, the operation failed</s>
   <s id="4824">The synchronization engine is invalid, please check the network status</s>
+  <s id="4825">uploading...</s>
+  <s id="4826">Be uploaded</s>
+  <s id="4827">downloading...</s>
+  <s id="4828">To be downloaded</s>
+  <s id="4829">In heavy names...</s>
+  <s id="4830">Be renamed</s>
+  <s id="4831">deleting...</s>
+  <s id="4832">To be deleted</s>
+  <s id="4833">Movement...</s>
+  <s id="4834">To be moved</s>
+  <s id="4835">Replication...</s>
+  <s id="4836">Be replicated</s>
+  <s id="4837">Download request...</s>
+  <s id="4838">Currently no synchronization directory, click the right button to set the full function</s>
 
   <s id="4850">data migration</s>
   <s id="4851">Migrating data, please be patient...</s>
@@ -1846,12 +1886,14 @@
   <s id="4901">Local work space folder</s>
   <s id="4902">That's in sync</s>
   <s id="4903">This document in the computer will also be deleted synchronously. Please take carefully\r\nTip: I am deleting files in synchronization, such as deleting failed, please try again later</s>
-
+  <s id="4904">Home is easy to synchronize with the company's computer file, the office bid farewell to the U disk!</s>
+  <s id="4905">Support for Offic, PSD, etc., work documentation, design artwork speed synchronization!</s>
+  
   <!-- Business space -->
   <s id="4950">Copy to "%s" Enterprise space</s>
   <s id="4951">personal space</s>
   <s id="4952">Ordinary space</s>
-  <s id="4953">Workspace</s>
+  <s id="4953">Synchronous space</s>
   <s id="4954">Business space</s>
   <s id="4955">Space switching...</s>
   <s id="4956">Switch failed, please try again</s>
@@ -1875,5 +1917,10 @@
   <s id="4987">Enjoy 4 privileges of backup package</s>
   <s id="4988">Enjoy multiple privileges of the package</s>
   <s id="4989">Dear Baidu network disk users, you are enjoying the privilege of cloud decompression..</s>
+
+  <!-- Video privilege boot -->
+  <s id="5000">Become a super member, you can unlock all of the clarity</s>
+  <s id="5001">Buy an entertainment package</s>
+  <s id="5002">Free trial></s>
 
 </string>

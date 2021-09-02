@@ -1,0 +1,26 @@
+<layer name="ResidentGuide" width="660" height="665" appwin="0" toolwindow="1" ncRect="5,5,5,5" translucent="1" nomaxsize="1">
+    <body>
+        <dlg skin="workspace_guide_mask" pos="0,0,-0,-0">
+            <dlg name="dlg_main" pos="88,166,@484,@332" skin="workspace_guide_frame">
+                <dlg pos="10,10,-10,-10" alpha="155">
+                    <text name="dlg_title" pos="24,15" font="0204:微软雅黑" animate="1">%str4565%</text>
+                    <hr name="dlg_line" pos="0,48,-0,48" crbg="EEEEEE"></hr>
+                    <dlg pos="24,48,-0,-100">
+                        <text name="sync_dir_label" pos="0,24,-0,@12">%str4566%</text>
+                        <dlg pos="0,[16,@304,@32" crborder="EEEEEE">
+                            <edit name="sync_dir_edit" pos="1,1,-1,-1" font2="facename:微软雅黑;adding:5" vcenter="1"></edit>
+                        </dlg>
+                        <imgbtn name="btn_change_dir" pos="[8,[-32,@104,@32" skin="workspace_guide_btn_bkg_three" font="face:微软雅黑,adding:-3" cursor="hand">%str4567%</imgbtn>
+                        <dlg pos="0,[16,@416,@64" skin="workspace_guide_text_bkg">
+                            <text name="sync_dir_warnning" pos="16,12,-16,-12" crbg="F5F6FA" crtext="AFB3BF" multilines="1" animate="1">%str4570%</text>
+                        </dlg>
+                    </dlg>
+                    <dlg pos="0,[0,-0,-0" alpha="20" alpha="155">
+                        <imgbtn name="btn_create_dir" pos="|-90,22,@180,@36" font2="facename:微软雅黑;bold:1;adding:3" crtext="FFFFFF" skin="workspace_guide_btn_bkg_one" cursor="hand">%str4569%</imgbtn>
+                        <imgbtn name="btn_cancel" pos="|-24,[8,@48,@18" font2="facename:微软雅黑;adding:0" crtext="AFB3BF" skin="workspace_guide_btn_bkg_four" cursor="hand">%str4568%</imgbtn>                      
+                    </dlg>
+                </dlg>
+            </dlg>
+        </dlg>
+    </body>
+</layer>

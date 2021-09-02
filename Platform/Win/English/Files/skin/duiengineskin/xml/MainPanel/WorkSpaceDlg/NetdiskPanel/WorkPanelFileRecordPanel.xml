@@ -24,7 +24,8 @@
                   
                 <!--操作端列-->
                 <dlg name="col_3">
-                  <text name="txt_devide" pos="8,|-8,-0,@16" crtext="666666" align="left" dotted="1"></text>
+                  <img name="img_op_from" pos="8,|-8,@16,@16" skin="workspace_record_op_local" show="0"></img>
+                  <text name="txt_devide" pos="[8,|-8,-0,@16" crtext="666666" align="left" dotted="1"></text>
                 </dlg>  
                   
                 <!--修改时间列-->

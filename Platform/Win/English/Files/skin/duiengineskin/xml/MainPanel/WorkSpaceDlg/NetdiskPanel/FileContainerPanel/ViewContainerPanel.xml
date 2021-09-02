@@ -22,15 +22,17 @@
 
   <!--空文件列表视图-->
   <dlg name="dlg_empty_view" pos="0,0,-0,-0" show="0">
-    <img name="empty_view_bg" pos="|-90,|-127,@181,@127" skin="workspace_file_empty"></img>
-    <dlg name="dlg_tips" pos="0,|0,-0,@44" show="0">
+    <img name="empty_view_bg" pos="|-132,80,@264,@198" skin="workspace_file_empty"></img>
+    <dlg name="dlg_tips" pos="0,0,-0,@44" show="0">
       <text name="txt_empty_tip" pos="0,0,-0,@22" crtext="333333" font="0200:微软雅黑" align="center">%str2307%</text>
       <link name="txt_empty_tip_line2" pos="0,[0,-0,@22" crtext="06A7FF" font="0202:微软雅黑" align="center" cursor="hand" show="0"></link>
     </dlg>
-    <dlg name="dlg_tip_with_links" pos="|-112,|0,@224,@44">
-      <text pos="0,0" crtext="333333" font="0200:微软雅黑">%str4900%</text>
-      <link name="lnk_open_local_dir" pos="[0,0" crtext="06A7FF" font="0202:微软雅黑" cursor="hand">%str4901%</link>
-      <text pos="0,22,-0,-0" crtext="333333" font="0200:微软雅黑" align="center">%str4902%</text>
+    <dlg name="dlg_tip_with_links" pos="|-160,289,@320,@94">
+      <text pos="|-166,0,@332,@22" font2="facename:微软雅黑;bold:1;adding:4">%str4904%</text>
+      <text pos="|-172,[5,@345,@17" crtext="818999" font2="facename:微软雅黑;adding:0">%str4905%</text>
+      <text pos="|-98,[11,@84,@22" crtext="636D7E" font2="facename:微软雅黑;bold:0;adding:0">%str4900%</text>
+      <link name="lnk_open_local_dir" pos="[4,[-22,@108,@22" crtext="06A7FF" font2="facename:微软雅黑;bold:0;adding:0;underline:1;" cursor="hand">%str4901%</link>
+      <text pos="0,[0,-0,-0" crtext="636D7E" font2="facename:微软雅黑;bold:0;adding:0" align="center">%str4902%</text>
     </dlg>
   </dlg>
 
