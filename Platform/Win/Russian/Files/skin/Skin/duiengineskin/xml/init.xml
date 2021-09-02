@@ -1,5 +1,5 @@
 ﻿<DuiEngine>
-    <font face="Segoe UI" size="11"/>
+    <font face="微软雅黑" size="12"/>
 
     <skins>
         <imgframe name="dlg_frame" src="IDP_MAIN_DLG_FRAME" left="5" right="5" top="40" bottom="60"/>
@@ -509,14 +509,10 @@
         <imglst name="video_overspeed_yellow_btn" src="IDP_VIDEO_OVERSPEED_YELLOW_BTN" subwidth="200"/>
         <imglst name="video_overspeed_svip_btn" src="IDP_VIDEO_OVERSPEED_SVIP_BTN" subwidth="110"/>
         <imgframe name="video_overspeed_svip_img" src="IDP_VIDEO_OVERSPEED_SVIP_IMG"/>
-        <imgframe name="video_overspeed_new_img" src="IDP_VIDEO_OVERSPEED_NEW_IMG"/>
-        <imglst name="video_overspeed_guidedlg_red_btn" src="IDP_VIDEO_OVERSPEED_GUIDE_RED_BTN" subwidth="118"/>
-        <imglst name="video_overspeed_guidedlg_gray_btn" src="IDP_VIDEO_OVERSPEED_GUIDE_GRAY_BTN" subwidth="118"/>
-        <imgframe name="video_overspeed_guidedlg_img" src="IDP_VIDEO_OVERSPEED_GUIDE_IMG"/>
+        <imgframe name="video_overspeed_new_img" src="IDP_VIDEO_OVERSPEED_NEW_IMG"/>      
         <imgframe name="video_underline_normal" src="IDP_VIDEO_UNDERLINE_NORMAL" left="3" top="0" right="3" bottom="2"/>
         <imgframe name="video_underline_hover" src="IDP_VIDEO_UNDERLINE_HOVER" left="3" top="0" right="3" bottom="2"/>
         <scrollbar name="sb_video" src="IDP_VIDEO_SCROLL" margin="6" hasgripper="0"/>
-        <imgframe name="video_definition_guidedlg_img" src="IDP_VIDEO_DEFINITION_GUIDE_IMG"/>
         <imglst name="video_definition_guidedlg_btn" src="IDP_IMG_DEFINITION_GUIDE_BUTTON" subwidth="160"/>
         <imglst name="video_imglist_yellow_words_btn" src="IDP_VIDEO_TASKBAR_YELLOW_BTN_WORDS" subwidth="62"/>
         <!--视频标记-->
@@ -526,7 +522,6 @@
         <imglst name="video_note_list_empty_img" src="IDP_VIDEO_NOTE_LIST_EMPTY_IMG"/>
         <imgframe name="video_note_list_hover_bgk" src="IDP_VIDEO_NOTE_LIST_HOVER_BGK" left="20" top="20" right="20" bottom="20"/>
         <imgframe name="video_note_list_edit_bgk" src="IDP_VIDEO_NOTE_LIST_EDIT_BGK" left="20" top="20" right="20" bottom="20"/>
-
         <imglst name="video_note_icon" src="IDP_VIDEO_NOTE_ICON" />
         <imglst name="video_note_edit_wnd_bgk" src="IDP_VIDEO_NOTE_EDIT_WND_BGK"/>
         <imglst name="video_note_edit_wnd_skin" src="IDP_VIDEO_NOTE_EDIT_WND_SKIN"/>
@@ -538,7 +533,13 @@
         <imglst name="video_note_process_bar_point" src="IDP_VIDEO_NOTE_PROCESS_BAR_POINT_IMG"/>
         <imglst name="video_note_process_bar_big_point" src="IDP_VIDEO_NOTE_PROCESS_BAR_BIG_POINT_IMG"/>
         <imglst name="video_note_add_icon" src="IDP_VIDEO_NOTE_ADD_ICON"/>
-      
+        <!--视频特权引导-->
+        <imgframe name="video_guide_img" src="IDP_VIDEO_GUIDE_IMG"  />
+        <imgframe name="video_guide_btn_yellow" src="IDP_VIDEO_GUIDE_BTN_YELLOW" subwidth="176"/>
+        <imgframe name="video_guide_btn_close" src="IDP_VIDEO_GUIDE_BTN_CLOSE" subwidth="14"/>
+        <imgframe name="video_guide_bubble" src="IDP_VIDEO_GUIDE_BUBBLE" left="20" top="20" right="20" bottom="30"/>
+        <gif name="video_guide_loading" src="IDP_VIDEO_GUIDE_LOADING" />
+        <imgframe name="video_guide_mask_img" src="IDP_VIDEO_GUIDE_MASK_IMG" />
       <!--标题栏皮肤-->
         <imglst name="titlepanel_default_head" src="IDP_TITLEPANEL_HEAD"/>
         <imglst name="titlepanel_vipclose" src="IDP_TITLEPANEL_VIPCLOSE"/>
@@ -1000,6 +1001,7 @@
         <imglst name="navigatepanel_transfer_btn" src="IDP_NAVIGATEPANEL_BTN_TRANSFER" subwidth="42" />
         <imglst name="navigatepanel_moretools_btn" src="IDP_NAVIGATEPANEL_BTN_MORETOOLS" subwidth="42" />
         <imgframe name="navigatepanel_bubble_bg" src="IDP_NAVIGATEPANEL_BG_BUBBLE" left="50" right="50" top="50" bottom="50"/>
+        <imgframe name="navigatepanel_sync_dir_icon_bubble_bg" src="IDP_NAVIGATEPANEL_SYNC_DIR_ICON_BG_BUBBLE" left="50" right="50" top="50" bottom="50"/>
         <imgframe name="navigatepanel_bubble_content_default" src="IDP_NAVIGATEPANEL_CONTENT_BUBBLE_DEFAULT"/>
         <gif name="gif_navigatepanel_transfer_blue" src="IDP_NAVIGATEPANEL_GIF_TRANSFER_BLUE"/>
         <gif name="gif_navigatepanel_transfer_gray" src="IDP_NAVIGATEPANEL_GIF_TRANSFER_GRAY"/>
@@ -1096,7 +1098,7 @@
         <imgframe name="same_name_frame" src="IDP_DUI_SAMENAMEFILEOP_DLG_FRAME"/>
         <imgframe name="same_name_content_frame" src="IDP_DUI_SAMENAMEFILEOP_DLG_CONTENT_FRAME"/>
         <!--工作空间-->
-        <imgframe name="workspace_navigate_file" src="IDP_DUI_WORKSPACE_NAVIGATE_FILE" subwidth="42"/>
+        <imgframe name="workspace_navigate_file" src="IDP_DUI_WORKSPACE_NAVIGATE_FILE" subwidth="40"/>
         <imgframe name="workspace_navigate_record" src="IDP_DUI_WORKSPACE_NAVIGATE_RECORD" subwidth="40"/>
         <imgframe name="workspace_entrance" src="IDP_DUI_WORKSPACE_ENTRANCE" subwidth="32"/>
         <imgframe name="workspace_error" src="IDP_DUI_WORKSPACE_ERROR"/>
@@ -1108,7 +1110,7 @@
         <imgframe name="workspace_vip_expired" src="IDP_DUI_WORKSPACE_VIPEXPIRED"/>
         <imgframe name="workspace_guid" src="IDP_DUI_WORKSPACE_GUIDE" subwidth="16"/>
         <imgframe name="workspace_pause" src="IDP_DUI_WORKSPACE_PAUSE" subwidth="16"/>
-        <imgframe name="workspace_recycle" src="IDP_DUI_WORKSPACE_RECYCLE" subwidth="16"/>
+        <imgframe name="workspace_recycle" src="IDP_DUI_WORKSPACE_RECYCLE" subwidth="40"/>
         <imgframe name="workspace_start" src="IDP_DUI_WORKSPACE_START" subwidth="16"/>
         <imgframe name="workspace_logo" src="IDP_DUI_WORKSPACE_LOGO"/>
         <imgframe name="workspace_right_bkg" src="IDP_DUI_WORKSPACE_RIGHT_BKG"/>
@@ -1123,6 +1125,7 @@
         <imgframe name="workspace_file_sync_status_pause" src="IDP_DUI_WORKSPACE_FILE_SYNC_STATUS_PAUSE"/>
         <imgframe name="workspace_file_empty" src="IDP_DUI_WORKSPACE_FILE_EMPTY"/>
         <imgframe name="workspace_bg_normal" src="IDP_DUI_WORKSPACE_BG_NORMAL"/>
+        <imgframe name="workspace_sync_dir" src="IDP_DUI_WORKSPACE_SYNC_DIR" subwidth="20"/>
         <imgframe name="workspace_bg_wide" src="IDP_DUI_WORKSPACE_BG_WIDE"/>
         <imgframe name="workspace_status_empty_file" src="IDP_DUI_WORKSPACE_STATUS_EMPTY_FILE"/>
         <imgframe name="workspace_title_lightning" src="IDP_DUI_WORKSPACE_TITLE_LIGHTNING"/>
@@ -1130,6 +1133,15 @@
         <gif name="gif_workspace_guide_backup" src="IDP_DUI_WORKSPACE_GIF_GUIDE_BACKUP" minframedelay="30"/>
         <imgframe name="workspace_guide_bkg_two" src="IDP_DUI_WORKSPACE_GUIDE_BKG_TWO"/>
         <imgframe name="workspace_guide_img" src="IDP_DUI_WORKSPACE_GUIDE_IMG"/>
+        <imgframe name="workspace_func_guide_img" src="IDP_DUI_WORKSPACE_FUNC_GUIDE"/>
+        <imgframe name="workspace_guide_btn_bkg_one" src="IDP_DUI_WORKSPACE_GUIDE_BTN_BKG_ONE" left="16" right="16"/>
+        <imgframe name="workspace_guide_btn_bkg_two" src="IDP_DUI_WORKSPACE_GUIDE_BTN_BKG_TWO"/>
+        <imgframe name="workspace_guide_btn_bkg_three" src="IDP_DUI_WORKSPACE_GUIDE_BTN_BKG_THREE"/>
+        <imgframe name="workspace_guide_btn_bkg_four" src="IDP_DUI_WORKSPACE_GUIDE_BTN_BKG_FOUR"/> 
+        <imgframe name="workspace_guide_edit_bkg" src="IDP_DUI_WORKSPACE_GUIDE_EDIT_BKG"/>
+        <imgframe name="workspace_guide_text_bkg" src="IDP_DUI_WORKSPACE_GUIDE_TEXT_BKG"/>
+        <imgframe name="workspace_guide_warning_bkg" src="IDP_DUI_WORKSPACE_GUIDE_WARNING_BKG"/>
+        <imgframe name="workspace_guide_file_import" src="IDP_DUI_WORKSPACE_GUIDE_FILE_IMPORT"/>
         <gif name="gif_workspace_guide_upload" src="IDP_DUI_WORKSPACE_GIF_GUIDE_UPLOAD" minframedelay="30"/>
         <gif name="gif_workspace_guide_history" src="IDP_DUI_WORKSPACE_GIF_GUIDE_HISTORY" minframedelay="30"/>
         <gif name="gif_workspace_guide_viptest" src="IDP_DUI_WORKSPACE_GIF_GUIDE_VIPTEST" minframedelay="30"/>
@@ -1161,6 +1173,8 @@
 
         <imgframe name="enterprise_guide_img" src="IDP_DUI_ENTERPRISE_GUIDE_IMG"/>
         <imgframe name="enterprise_guide_dlg_btn" src="IDP_DUI_ENTERPRISE_GUIDE_BTN_IMG"/>
+        <imglst name="workspace_record_op_local" src="IDP_WORKSPACE_RECORD_OP_LOCAL"/>
+        <imglst name="workspace_record_op_cloud" src="IDP_WORKSPACE_RECORD_OP_CLOUD"/>
 
         <!-- 工作空间目录迁移 -->
         <imgframe name="workspace_filecopy_progress_bg_dlg" src="IDP_DUI_WORKSPACE_FILECOPY_PROGRESS_BG_DLG" left="50" right="50" top="80" bottom="80"/>

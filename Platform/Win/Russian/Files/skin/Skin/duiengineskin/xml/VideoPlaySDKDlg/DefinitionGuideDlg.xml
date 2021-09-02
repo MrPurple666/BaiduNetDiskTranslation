@@ -9,8 +9,8 @@
       </caption>
       <dlg pos="1,37,-0,-0">
         <img pos="185,23,@63,@51" name="img_guide" align="center" skin="video_definition_guidedlg_img"/>
-        <text name="definition_guide_text" pos="0,89,@420,@20" align="center" crtext="333333" font="0200:Segoe UI">%str3307%</text>   <!--3307成为超级会员，即可解锁本片所有清晰度-->
-        <imgbtn name="definition_btn_svip" pos="130,[20,@160,@36" align="center"  cursor="arrow" crtext="64360D" font="0000:Segoe UI" skin="video_definition_guidedlg_btn">%str1476%</imgbtn>
+        <text name="definition_guide_text" pos="0,89,@420,@20" align="center" crtext="333333" font="0200:微软雅黑">%str3307%</text>   <!--3307成为超级会员，即可解锁本片所有清晰度-->
+        <imgbtn name="definition_btn_svip" pos="130,[20,@160,@36" align="center"  cursor="arrow" crtext="64360D" font="0000:微软雅黑" skin="video_definition_guidedlg_btn">%str1476%</imgbtn>
       </dlg>
     </dlg>
   </body>
