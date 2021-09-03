@@ -1299,17 +1299,17 @@
   <!--Scan code to open file dialog-->
   <s id="3500">Mobile phone scan code to view</s>
   <s id="3501">Scan and view on mobile phone</s>
-  <s id="3502">turn on</s>
+  <s id="3502">Open</s>
   <s id="3503">File size：%s</s>
   <s id="3504">Network connection failed</s>
   <s id="3505">Connection failed</s>
   <s id="3506">Click retry</s>
   <s id="3507">Loading...</s>
-  <s id="3508"> Baidu Net Disk APP </s>
-  <s id="3509">scan it</s>
+  <s id="3508">Baidu Net Disk APP </s>
+  <s id="3509">and scan QR code </s>
   <s id="3510">Currently does not support computer online preview，</s>
   <s id="3511">Please use your mobile phone to scan or download and view</s>
-  <s id="3512">(Please use 10.1.60 and above)</s>
+  <s id="3512">(Please use v10.1.60 and above)</s>
   <s id="3513">Click to refresh</s>
 
   <!--Automatic folder backup-->
