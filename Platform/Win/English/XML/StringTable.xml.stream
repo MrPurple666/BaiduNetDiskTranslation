@@ -261,6 +261,7 @@
   <!--文件类型面板-->
   <String id="IDS_FILETYPEPANEL_ALL" value="All files" />
   <String id="IDS_FILETYPEPANEL_WORKSPACE" value="Workspace" />
+  <String id="IDS_FILETYPEPANEL_ENTERPRISE_PERSONAL" value="Enterprise version - personal file" />
 
   <!--传输面板 -->
   <String id="IDS_TRANPANEL_AUTOBACKUP_FOLDER_TEXT" value="Auto backup folder" />
