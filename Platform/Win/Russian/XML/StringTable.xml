@@ -259,6 +259,8 @@
   <!--Панель типов файлов-->
   <String id="IDS_FILETYPEPANEL_ALL" value="Все файлы" />
   <String id="IDS_FILETYPEPANEL_WORKSPACE" value="Синхронное пространство" />
+  <String id="IDS_FILETYPEPANEL_ENTERPRISE_PERSONAL" value="Версия предприятия - персональный файл" />
+
   <!--Панель Загрузок -->
   <String id="IDS_TRANPANEL_AUTOBACKUP_FOLDER_TEXT" value="Папка автоматического резервного копирования" />
   <String id="IDS_TRANPANEL_PORTABLEDEVBACKUP_FOLDER_TEXT" value="Папка для резервного копирования портативного устройства" />
