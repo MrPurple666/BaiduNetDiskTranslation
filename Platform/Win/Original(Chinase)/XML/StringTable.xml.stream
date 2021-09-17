@@ -257,7 +257,8 @@
   <!--文件类型面板-->
   <String id="IDS_FILETYPEPANEL_ALL" value="全部文件" />
   <String id="IDS_FILETYPEPANEL_WORKSPACE" value="同步空间" />
-  
+  <String id="IDS_FILETYPEPANEL_ENTERPRISE_PERSONAL" value="企业版-个人文件" />
+
   <!--传输面板 -->
   <String id="IDS_TRANPANEL_AUTOBACKUP_FOLDER_TEXT" value="自动备份文件夹" />
   <String id="IDS_TRANPANEL_PORTABLEDEVBACKUP_FOLDER_TEXT" value="便携式设备备份文件夹" />
