@@ -3012,7 +3012,7 @@
     <string name="default_na_value">--</string>
     <string name="default_nickname">请输入昵称</string>
     <string name="default_red_flag">HOT</string>
-    <string name="default_self_starting_guide_1" />
+    <string name="default_self_starting_guide_1">找到“百度网盘-自动管理或耗电设置”􏰹􏱻􏱼</string>
     <string name="default_self_starting_guide_2">开启自启动相关权限</string>
     <string name="default_self_starting_guide_name">自启动</string>
     <string name="define_roundedimageview" />
@@ -5690,7 +5690,6 @@ progress: %d%%"</string>
     <string name="my_share_cancel_share_link">取消分享</string>
     <string name="my_share_copy_share_link">复制链接</string>
     <string name="my_share_create">创建的共享</string>
-    <string name="my_share_create_time_tv">分享于%s</string>
     <string name="my_share_dir_dismiss_by_server_info">\"%s\"文件夹因含有非法违规内容，已被取消共享，共享成员无法继续查看</string>
     <string name="my_share_directory">共享文件夹</string>
     <string name="my_share_directory_cancel">管理该文件夹共享</string>
@@ -8484,7 +8483,7 @@ OPPO
     <string name="self_space_version">个人版</string>
     <string name="self_starting_desc">开启后备份更及时</string>
     <string name="self_starting_guide_desc">后台运行权限设置方法如下：</string>
-    <string name="self_starting_guide_toast" />
+    <string name="self_starting_guide_toast">跳转失败，请至手机设置页面开启􏱴􏳟􏳠􏲦􏰌􏰪􏰹􏱻􏱼</string>
     <string name="self_starting_title_defalut">自启动权限</string>
     <string name="send">发送</string>
     <string name="send_black_friend_msg_system_error">已经将对方加入黑名单，对方无法发消息给您</string>
@@ -10537,13 +10536,9 @@ OPPO
     <string name="tt_appdownloader_notification_waiting_download_complete_handler">处理中</string>
     <string name="tt_appdownloader_resume_in_wifi">您当前处于移动网络，是否需要在Wi-Fi环境下恢复下载？</string>
     <string name="tt_appdownloader_tip">提示</string>
-    <string name="tt_appdownloader_wifi_recommended_body">"立即开始下载此内容 (%1$s ) 可能会缩短电池的使用时间并/或导致过量使用移动数据连接流量（这可能导致移动运营商向您收费，具体取决于您的流量套餐）。
-
-触摸“%2$s”可在下次连接到 WLAN 网络时开始下载此内容。"</string>
+    <string name="tt_appdownloader_wifi_recommended_body">立即开始下载此内容 (%1$s ) 可能会缩短电池的使用时间并/或导致过量使用移动数据连接流量（这可能导致移动运营商向您收费，具体取决于您的流量套餐）。  触摸“%2$s”可在下次连接到 WLAN 网络时开始下载此内容。</string>
     <string name="tt_appdownloader_wifi_recommended_title">稍后再加入下载队列吗？</string>
-    <string name="tt_appdownloader_wifi_required_body">"您必须使用 WLAN 完成此内容 (%1$s ) 的下载。
-
-触摸“%2$s ”可在下次连接到 WLAN 网络时开始下载此内容。"</string>
+    <string name="tt_appdownloader_wifi_required_body">您必须使用 WLAN 完成此内容 (%1$s ) 的下载。  触摸“%2$s ”可在下次连接到 WLAN 网络时开始下载此内容。</string>
     <string name="tt_appdownloader_wifi_required_title">文件太大，不适于通过运营商网络下载</string>
     <string name="tt_auto_play_cancel_text">取消</string>
     <string name="tt_cancel">取消</string>
@@ -10558,8 +10553,7 @@ OPPO
     <string name="tt_confirm_download_have_app_name">准备下载%s应用</string>
     <string name="tt_dislike_comment_hint">请具体说明问题，我们将尽快处理</string>
     <string name="tt_dislike_feedback_repeat">您已成功提交反馈，请勿重复提交哦！</string>
-    <string name="tt_dislike_feedback_success">"感谢您的反馈！
-我们将为您带来更优质的广告体验"</string>
+    <string name="tt_dislike_feedback_success">感谢您的反馈！ 我们将为您带来更优质的广告体验</string>
     <string name="tt_dislike_header_tv_back">返回</string>
     <string name="tt_dislike_header_tv_title">选择</string>
     <string name="tt_dislike_other_suggest">其他建议</string>
@@ -11844,4 +11838,5 @@ OPPO
     <string name="zip_folder_empty">该文件夹为空</string>
     <string name="zxing_camera_failed">相机打开失败，请稍后再试</string>
     <string name="zxing_msg_default_status">请将二维码/条形码置于取景框内扫描</string>
+    <string name="my_share_create_time_tv">分享于%s</string>
 </resources>
