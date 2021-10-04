@@ -3,6 +3,8 @@
 <p align="center">
   <img src="https://img.shields.io/badge/platform-Windows%20%7C%20Linux%20%7C%20Android-blue.svg" alt="platform">
 </p>
+
+
 [English Docs](Readme.md) | [Докум на Русском ](Readme_ru_RU.md)
 
 Моя локализация клиента **BaiduNetDisk** для ПК и не только на Русский и Английский язык.

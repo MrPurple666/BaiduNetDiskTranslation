@@ -42,7 +42,7 @@
     <string name="about_me_more_back_text">Я</string>
     <string name="about_me_more_title">Дополнительные возможности</string>
     <string name="about_title_text">О программе</string>
-    <string name="about_user_id">"Ваш ID %d 
+    <string name="about_user_id">"Ваш ID %d
 Перевод:Maksnogin,Alexey arsenev,ZloiSupport"</string>
     <string name="about_vip_item">VIP</string>
     <string name="about_wallet_item">Кошелек</string>
@@ -8964,15 +8964,15 @@ OPPO
     <string name="title_wps">Документ Word</string>
     <string name="to_be_checked">Будет проверено</string>
     <string name="toast">Совет</string>
-    <string name="toast_added_to_transfer_list">Добавлен в список транспорта</string>
+    <string name="toast_added_to_transfer_list">Файл добавлен в список загрузок</string>
     <string name="toast_choose_contacts_failed">Не удалось открыть контакты</string>
     <string name="toast_file_begin_transfer">Начало передачи файлов</string>
-    <string name="toast_first_import_to_yike_success">领取一刻礼物</string>
+    <string name="toast_first_import_to_yike_success">Получить подарок</string>
     <string name="toast_friend_share_fail">Сбой обмена, повторите попытку позже</string>
     <string name="toast_friend_share_success">Успешно!</string>
-    <string name="toast_go_to_transfer_list">查看</string>
-    <string name="toast_import_to_yike_all_success_prefix">保存成功</string>
-    <string name="toast_import_to_yike_failed">保存失败，请重试</string>
+    <string name="toast_go_to_transfer_list">Перейти в список загрузок</string>
+    <string name="toast_import_to_yike_all_success_prefix">Сохранено</string>
+    <string name="toast_import_to_yike_failed">Сохранить не удалось, пожалуйста, попробуйте еще раз</string>
     <string name="toast_import_to_yike_mix_type_prefix">已选的%d张图片保存成功</string>
     <string name="toast_import_to_yike_success">去一刻查看</string>
     <string name="toast_import_to_yike_success_prefix">保存成功%d张图片</string>
@@ -9055,7 +9055,7 @@ OPPO
     <string name="tradeplatform_audio_play_err_not_wifi_message">Текущая среда без Wi-Fi. Если вы продолжите играть, оператор будет взимать плату за трафик данных</string>
     <string name="tradeplatform_audio_play_err_other_message">Ошибка загрузки аудио</string>
     <string name="tradeplatform_audio_play_now">Слушайте сейчас</string>
-    <string name="tradeplatform_audio_podcaster">Якорь: %s</string>
+    <string name="tradeplatform_audio_podcaster">Подкаст: %s</string>
     <string name="tradeplatform_audio_recommend">Думаю, вам это нравится</string>
     <string name="tradeplatform_audio_resume">Возобновить воспроизведение</string>
     <string name="tradeplatform_audio_resume_listen">Продолжить прослушивание</string>
