@@ -4,7 +4,6 @@
   <img src="https://img.shields.io/badge/platform-Windows%20%7C%20Linux%20%7C%20Android-blue.svg" alt="platform">
 </p>
 
-
 [English Docs](Readme.md) | [Докум на Русском ](Readme_ru_RU.md)
 
 Моя локализация клиента **BaiduNetDisk** для ПК и не только на Русский и Английский язык.
@@ -72,6 +71,10 @@ Empty 🎴
 
 </details>
 <details>
- <summary>Android Clinet </summary>
+ <summary>Клиент под Андроид 🤖</summary>
 
-Empty 🎴
+**Русский клиент**
+
+[![imageban](https://i7.imageban.ru/thumbs/2021.10.08/371b6ce4073fd673c7fa96b7ed1e09f1.png)](https://imageban.ru/show/2021/10/08/371b6ce4073fd673c7fa96b7ed1e09f1/png)
+
+[![imageban](https://i1.imageban.ru/thumbs/2021.10.08/eabea1a84fca54fe49d6d59385318500.png)](https://imageban.ru/show/2021/10/08/eabea1a84fca54fe49d6d59385318500/png)
