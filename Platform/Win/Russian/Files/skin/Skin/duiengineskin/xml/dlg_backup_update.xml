@@ -3,14 +3,14 @@
     <dlg pos="0,0,-0,-0" name="UpgradeGuidePanel" skin="backup_update_mask_bg">
       <dlg name="UpgradeContentPanel" pos="|-270,|-190,@540,@380" skin="backup_update_guide_image">
         <imgbtn name="btn_close_guide" skin="backup_update_closebtn" pos="-46,20,-22,44" cursor="arrow" tip="%str250%" animate="1"/>
-        <text name="static_guide_tip" pos="0,262,-0,@12" crtext="8c92a6" font="0000:Segoe UI" align="center">%str750%</text>
+        <text name="static_guide_tip" pos="0,262,-0,@12" crtext="8c92a6" font="0000:微软雅黑" align="center">%str750%</text>
         <dlg name="SuperMemberActvityPanel" pos="32,-83,-44,-32" show="1">
-          <imgbtn name="btn_buy_super_member" pos="0,0,266,-0" skin="backup_update_red_discount_btn" crtext="ffffff" align="middle" valign="middle" font="0000:Segoe UI" cursor="arrow" animate="1"></imgbtn>
-          <imgbtn name="btn_known" pos="-170,15,-0,-0" crtext="ffffff" skin="backup_update_grey_btn" font="0000:Segoe UI">%str752%</imgbtn>
+          <imgbtn name="btn_buy_super_member" pos="0,0,266,-0" skin="backup_update_red_discount_btn" crtext="ffffff" align="middle" valign="middle" font="0000:微软雅黑" cursor="arrow" animate="1"></imgbtn>
+          <imgbtn name="btn_known" pos="-170,15,-0,-0" crtext="ffffff" skin="backup_update_grey_btn" font="0000:微软雅黑">%str752%</imgbtn>
         </dlg> 
         <dlg name="NoneMemberActvityPanel" pos="44,-68,-44,-32" show="0">
-          <imgbtn name="btn_buy_member" pos="0,0,254,-0" skin="btn_svip" crtext="442203" align="middle" valign="middle" font="0000:Segoe UI" cursor="arrow" animate="1">%str751%</imgbtn>
-          <imgbtn name="btn_known" pos="-170,0,-0,-0" crtext="ffffff" skin="backup_update_grey_btn" font="0000:Segoe UI">%str752%</imgbtn>
+          <imgbtn name="btn_buy_member" pos="0,0,254,-0" skin="btn_svip" crtext="442203" align="middle" valign="middle" font="0000:微软雅黑" cursor="arrow" animate="1">%str751%</imgbtn>
+          <imgbtn name="btn_known" pos="-170,0,-0,-0" crtext="ffffff" skin="backup_update_grey_btn" font="0000:微软雅黑">%str752%</imgbtn>
         </dlg> 
     </dlg>
     </dlg>

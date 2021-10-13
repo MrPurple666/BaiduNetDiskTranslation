@@ -47,7 +47,6 @@
 <resid type="XML" name="IDR_DUI_DIFFERROR_TIP_DIALOG" layer="1" file="xml\dlg_diff_error_tip.xml"/>
 <resid type="XML" name="IDR_DUI_PASSWORDINPUT_DIALOG" layer="1" file="xml\CompressPackage\PasswordInputDlg.xml"/>
 <resid type="XML" name="IDR_DUI_COMPRESSPACKAGE_VIEW_DIALOG" layer="1" file="xml\CompressPackage\CompressPackageViewDlg.xml"/>
-<resid type="XML" name="IDR_DUI_COMPRESSPACKAGE_ERRORTIP_DIALOG" layer="1" file="xml\CompressPackage\ErrorTipDlg.xml"/>
 <resid type="XML" name="IDR_DUI_COMPRESSPACKAGE_CLOSETIP_DIALOG" layer="1" file="xml\CompressPackage\CloseTipDlg.xml"/>
 <resid type="XML" name="IDR_DUI_FILEPROPERTY_DIALOG" layer="1" file="xml\dlg_file_property.xml"/>
 <resid type="XML" name="IDR_DUI_FILEQRCODE_DIALOG" layer="1" file="xml\dlg_file_qrcode.xml"/>
@@ -103,6 +102,7 @@
 <resid type="XML" name="IDR_DUI_ONLINEDOC_TEMPLATE_DIALOG" layer="1" file="xml\MainPanel\NetdiskPanel\FileContainerPanel\OnlineDocTemplate.xml"/>
 <resid type="XML" name="IDR_DUI_PRIVILEGE_GUIDE_DIALOG" layer="1" file="xml\PrivilegeGuideDlg\PrivilegeGuideDlg.xml"/>
 <resid type="XML" name="IDR_DUI_PRIVILEGE_GUIDE_DIALOG_V2" layer="1" file="xml\PrivilegeGuideDlg\PrivilegeGuideDlgV2.xml"/>
+<resid type="XML" name="IDR_DUI_VIDEO_GUIDE_DIALOG" layer="1" file="xml\VideoPlaySDKDlg\VideoGuideDlg.xml"/>
 <!--自动登录挽留-->
 <resid type="XML" name="IDR_DUI_LOGIN_RETENTION_DIALOG" layer="1" file="xml\dlg_login_retention.xml"/>
 <!--文件夹自动备份-->
@@ -514,7 +514,6 @@
 <resid type="IMGX" name="IDP_INPUTPASSWORD_EYE_VISIBLE" file="image\CompressPackage\eye_visible.png"/>
 <resid type="IMGX" name="IDP_ERRORTIPDLG_BUY_BTN" file="image\CompressPackage\ErrorTipDlg\errortip_buy_btn.png"/>
 <resid type="IMGX" name="IDP_ERRORTIPDLG_UPGRADE_BTN" file="image\CompressPackage\ErrorTipDlg\errortip_upgrade_btn.png"/>
-<resid type="IMGX" name="IDP_ERRORTIPDLG_GUIDE_BUY" file="image\CompressPackage\ErrorTipDlg\errortip_guide_buy.png"/>
 <resid type="IMGX" name="IDP_ERRORTIPDLG_GUIDE_UPGRADE" file="image\CompressPackage\ErrorTipDlg\errortip_guide_upgrade.png"/>
 <resid type="IMGX" name="IDP_GIF_PREPARE_UNZIP" file="image\CompressPackage\prepare_unzip.gif"/>
 <resid type="IMGX" name="IDP_COMPRESSPACKAGE_GUIDE_IMG" file="image\CompressPackage\unzip_guide.png"/>
@@ -794,6 +793,7 @@
 <resid type="IMGX" name="IDP_LEFTPANEL_ALL_NORMAL" file="image\MainPanel\LeftPanel\all_normal.png"/>
 <resid type="IMGX" name="IDP_LEFTPANEL_ALL_HOVER" file="image\MainPanel\LeftPanel\all_hover.png"/>
 <resid type="IMGX" name="IDP_LEFTPANEL_QUOTAGUIDE_BKG" file="image\MainPanel\LeftPanel\quota_guide_bg.png"/>
+<resid type="IMGX" name="IDP_LEFTPANEL_QUOTAGUIDE_WARN_ICON" file="image\MainPanel\LeftPanel\warning.png"/>
 <resid type="IMGX" name="IDP_LEFTPANEL_OPENVIP_BTN" file="image\MainPanel\LeftPanel\btn_openvip.png"/>
 <resid type="IMGX" name="IDP_LEFTPANEL_NEWFUNC_BG" file="image\MainPanel\LeftPanel\newfunc.png"/>
 <resid type="IMGX" name="IDP_DOWNANIMATION_BG" file="image\MainPanel\DownAnimation\DownBkg.png"/>
@@ -1196,8 +1196,8 @@
 <resid type="IMGX" name="IDP_PRIVILEGE_GUIDE_BUY_VIP" file="image\PrivilegeGuideDlg\buy_vip_btn.png"/>
 <resid type="IMGX" name="IDP_PRIVILEGE_GUIDE_BUY_SVIP" file="image\PrivilegeGuideDlg\buy_svip_btn.png"/>
 <resid type="IMGX" name="IDP_PRIVILEGE_GUIDE_BUY_TICKET" file="image\PrivilegeGuideDlg\buy_ticket_btn.png"/>
-<resid type="IMGX" name="IDP_PRIVILEGE_GUIDE_BIG_FILE_UPLOAD" file="image\PrivilegeGuideDlg\big_file_upload.png"/>
 <resid type="IMGX" name="IDP_PRIVILEGE_GUIDE_COUPON" file="image\PrivilegeGuideDlg\coupon_btn.png"/>
+<resid type="IMGX" name="IDP_PRIVILEGE_GUIDE_BIG_FILE_UPLOAD" file="image\PrivilegeGuideDlg\big_file_upload.png"/>
 <resid type="IMGX" name="IDP_PRIVILEGE_GUIDE_VIP_2T_SPACE" file="image\PrivilegeGuideDlg\VipPrivilege\2t_space.png"/>
 <resid type="IMGX" name="IDP_PRIVILEGE_GUIDE_VIP_AUTOBACKUP" file="image\PrivilegeGuideDlg\VipPrivilege\autobackup.png"/>
 <resid type="IMGX" name="IDP_PRIVILEGE_GUIDE_VIP_BIG_FILE_UPLOAD" file="image\PrivilegeGuideDlg\VipPrivilege\big_file_upload.png"/>
@@ -1231,9 +1231,11 @@
 <resid type="IMGX" name="IDP_PRIVILEGE_GUIDE_SVIP_VIDEO_X_SPEED" file="image\PrivilegeGuideDlg\SVipPrivilege\video_x_speed.png"/>
 <resid type="IMGX" name="IDP_PRIVILEGE_GUIDE_SVIP_VIEW_MORE" file="image\PrivilegeGuideDlg\SVipPrivilege\view_more.png"/>
 
+<!--权益引导V2-->
+<resid type="IMGX" name="IDP_PRIVILEGE_GUIDE_SVIP_V2" file="image\PrivilegeGuideDlgV2\guide_svip_img.png"/>
+<resid type="IMGX" name="IDP_PRIVILEGE_GUIDE_DLG_BG_V2" file="image\PrivilegeGuideDlgV2\dlg_bgk_v2.png"/>
+
 <!-- 批量上传引导 -->
-<resid type="IMGX" name="IDP_PRIVILEGE_GUIDE_BATCH_UPLOAD" file="image\PrivilegeGuideDlg\batch_upload_files.png"/>
-<resid type="IMGX" name="IDP_PRIVILEGE_GUIDE_OUT_OF_SPACE" file="image\PrivilegeGuideDlg\out_of_space.png"/>
 <resid type="IMGX" name="IDP_PRIVILEGE_GUIDE_DLG_BG" file="image\PrivilegeGuideDlg\dlg_bg.png"/>
 
 <!-- 微信QQ备份气泡引导 -->
@@ -1363,7 +1365,27 @@
 <resid type="IMGX" name="IDP_DUI_WORKSPACE_FILECOPY_PROGRESS_ICON_SUCCESS" file="image\WorkspaceFileCopyDlg\icon_success.png"/>
 <resid type="IMGX" name="IDP_DUI_WORKSPACE_FILECOPY_PROGRESS_BTN_CANCEL" file="image\WorkspaceFileCopyDlg\btn_cancel.png"/>
 <resid type="IMGX" name="IDP_DUI_WORKSPACE_FILECOPY_PROGRESS_PROCESS_GIF" file="image\WorkspaceFileCopyDlg\process.gif"/>
+<resid type="IMGX" name="IDP_DUI_WORKSPACE_EXTREME_SPEED" file="image\WorkSpaceDlg\extreme_speed.png"/>
+<resid type="IMGX" name="IDP_DUI_WORKSPACE_EXSPEED_SYNC_BIG" file="image\WorkSpaceDlg\exspeed_sync_big.png"/>
+<resid type="IMGX" name="IDP_DUI_WORKSPACE_EXSPEED_SYNC_BIG_BKG" file="image\WorkSpaceDlg\exspeed_sync_big_bkg.png"/>
+<resid type="IMGX" name="IDP_DUI_WORKSPACE_PHONE" file="image\WorkSpaceDlg\workspace_phone.png"/>
+<resid type="IMGX" name="IDP_DUI_WORKSPACE_RECEIVE_FILE_BKG" file="image\WorkSpaceDlg\workspace_receive_file.png"/>
+<resid type="IMGX" name="IDP_DUI_WORKSPACE_LEFT_HOVER_BG" file="image\WorkSpaceDlg\workspace_left_hover_bg.png"/>
+<resid type="IMGX" name="IDP_DUI_WORKSPACE_LEFT_HOVER_ERROR" file="image\WorkSpaceDlg\workspace_left_hover_error.png"/>
+<resid type="IMGX" name="IDP_DUI_WORKSPACE_LEFT_HOVER_FLOW_NONE" file="image\WorkSpaceDlg\workspace_left_hover_flow_none.png"/>
+<resid type="IMGX" name="IDP_DUI_WORKSPACE_LEFT_HOVER_SUCCESS" file="image\WorkSpaceDlg\workspace_left_hover_success.png"/>
+<resid type="IMGX" name="IDP_DUI_WORKSPACE_LEFT_HOVER_SYNING" file="image\WorkSpaceDlg\workspace_left_hover_syning.png"/>
+<resid type="IMGX" name="IDP_DUI_WORKSPACE_LEFT_HOVER_EXPIRE" file="image\WorkSpaceDlg\workspace_left_hover_expire.png"/>
+<resid type="IMGX" name="IDP_DUI_WORKSPACE_STATUS_ERROR" file="image\WorkSpaceDlg\workspace_status_error.png"/>
+<resid type="IMGX" name="IDP_DUI_WORKSPACE_STATUS_EXPIRE" file="image\WorkSpaceDlg\workspace_status_expire.png"/>
+<resid type="IMGX" name="IDP_DUI_WORKSPACE_STATUS_FLOW_OUT" file="image\WorkSpaceDlg\workspace_status_flow_out_.png"/>
+<resid type="IMGX" name="IDP_DUI_WORKSPACE_STATUS_SUCCESS" file="image\WorkSpaceDlg\workspace_status_success.png"/>
+<resid type="XML" name="IDR_DUI_WORKSPACE_EXSPEED_SYNC_GUIDE_PANEL" layer="1" file="xml\MainPanel\WorkSpaceDlg\WorkspaceIncrSyncGuide.xml"/>
 
 <!-- 游戏中心 -->
 <resid type="XML" name="IDR_DUI_GAMECENTER_DLG" layer="1" file="xml\GameCenterDlg\GameCenterDlg.xml"/>
 <resid type="IMGX" name="IDP_DUI_GAMECENTER_BTN_REFRESH" file="image\GameCenterDlg\btn_refresh.png"/>
+
+<!-- 文件搜索tip资源 -->
+<resid type="IMGX" name="IDP_SEARCH_YUN_FAILED_TIP_ICON" file="image\SearchFileTip\tip_icon.png"/>
+<resid type="IMGX" name="IDP_SEARCH_YUN_FAILED_TIP_BKG" file="image\SearchFileTip\bkg.png"/>

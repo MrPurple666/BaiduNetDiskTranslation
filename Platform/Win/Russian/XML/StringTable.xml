@@ -218,7 +218,8 @@
   4. Как добавить купон на скачивание? Онлайн-приложение - моя - моя доля - поделитесь подробностями. Вы можете проверить использование купонов и добавить похожие купоны.
   5. Что делать с просроченными купонами на скачивание? Если срок действия акции истек, а добавленный купон не был израсходован, вы можете восстановить истекшую долю в деталях акции, и купон может быть восстановлен."/>
   <String id="IDS_SHARE_LINK_ENT_PRIV_BUY" value="Перейти к покупке>"/>
-  <String id="IDS_SHARE_LINK_ENT_PRIV_TICKET_TIP" value="- от корпоративного счета【%s】Скорость наслаждается ссылкой"/>
+  <String id="IDS_SHARE_LINK_ENT_PRIV_TICKET_TIP" value="--быстрая связь"/>
+  <String id="IDS_SHARE_LINK_ENT_PRIV_TICKET_TIP_CERT" value="--из номера счета предприятия [%s] быстрая и быстрая ссылка"/>
 
   <!-- Создавайте ссылки оптом-->
   <String id="IDS_SHARE_LINK_ACCESS_NUMBER" value="Количество посетителей:" />
@@ -1394,7 +1395,7 @@
   <String id="IDS_WORKSPACE_CHANGE_LOCAL_SYNC_PACH_ACCESS_DENY_TIP"  value="Если папка не написана, пожалуйста, повторно выберите" />
   <String id="IDS_WORKSPACE_CHANGE_LOCAL_SYNC_PACH_QUOTA_LESS_TIP"  value="Если диск остается на диске, пожалуйста, выберите" />
   <String id="IDS_WORKSPACE_CHANGE_LOCAL_SYNC_PACH_SAME_TIP"  value="Оригинальный путь синхронизации такой же, как выбранный путь синхронизации, пожалуйста, выберите" />
-
+  <String id="IDS_WORKSPACE_LOCAL_SYNC_SET"  value="Перейти к настройке" />
   <!--Коммерциализация-->
   <String id="IDS_PRODUCT_RECOMMEND_SETTING" value="Настройка рекомендации продукта:" />
 

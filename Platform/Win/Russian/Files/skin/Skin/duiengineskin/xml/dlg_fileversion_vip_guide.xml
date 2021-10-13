@@ -7,10 +7,10 @@
         <imgbtn name="btn_close" skin="btn_sys_close" pos="-34,1,-2,21" cursor="arrow" tip="%str250%" animate="1"/>
       </caption>
       <dlg pos="0,38,-0,-0">       
-        <text name="text_headline" pos="0,20,-0,@20" align="center" font="0600:Segoe UI" crtext="000000">%str3553%</text>
-        <text name="text_content" pos="50,[16" font="0100:Segoe UI" crtext="666666">%str3565%</text>
-        <text name="text_content2" pos="76,[4" font="0100:Segoe UI" crtext="666666">%str3566%</text>
-        <imgbtn name="btn_buy_vip" pos="110,-67,@200,@45" cursor="arrow" animate="1" font="0600:Segoe UI" skin="btn_svip_round_angle" crtext="442203">%str830%</imgbtn>      
+        <text name="text_headline" pos="0,20,-0,@20" align="center" font="0600:微软雅黑" crtext="000000">%str3553%</text>
+        <text name="text_content" pos="50,[16" font="0100:微软雅黑" crtext="666666">%str3565%</text>
+        <text name="text_content2" pos="76,[4" font="0100:微软雅黑" crtext="666666">%str3566%</text>
+        <imgbtn name="btn_buy_vip" pos="110,-67,@200,@45" cursor="arrow" animate="1" font="0600:微软雅黑" skin="btn_svip_round_angle" crtext="442203">%str830%</imgbtn>      
       </dlg>
     </dlg> 
   </body>
