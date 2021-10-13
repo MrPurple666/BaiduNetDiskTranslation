@@ -23,7 +23,7 @@
 							</downBkg>
 						</Properties>
 					</IBGButton>
-					<IBGStaticEx name="nmNotifyTitle" dock="DOCK_FILL" text="$3217" margin="1,8,0,4" textClr="0x666666">
+					<IBGStaticEx name="nmNotifyTitle" dock="DOCK_FILL" text="$3218" margin="1,8,0,4" textClr="0x666666">
 						<Properties>
 							<textFont>
 								<IBGFont weight="1000"/>
@@ -34,9 +34,9 @@
 			</IBGRegionPanel>
 			<IBGRegionPanel dock="DOCK_TOP" size="320,74" margin="0,0,0,0">
 				<Children>
-					<IBGRegionPanel dock="DOCK_LEFT" margin="0,0,0,0" size="54,74">
+					<IBGRegionPanel dock="DOCK_LEFT" margin="0,0,0,0" size="54,84">
 						<Children>
-							<IBDGuiCell name="trayNotifyIcon" size="24,24" margin="16,20,14,22" dock="DOCK_TOP">
+							<IBDGuiCell name="trayNotifyIcon" size="24,24" margin="16,30,14,12" dock="DOCK_TOP">
 								<Properties>
 									<bkground>
 										<IBGVeins file="Resource:MainFrame\TrayHint\Workspace\SyncSucess.png" transparent="true" colorize="false"/>
@@ -45,16 +45,27 @@
 							</IBDGuiCell>
 						</Children>
 					</IBGRegionPanel>
-					<IBGRegionPanel dock="DOCK_TOP" margin="0,0,0,0" size="266,74">
+					<IBGRegionPanel dock="DOCK_LEFT" margin="0,0,0,0" size="266,74">
 						<Children>
-							<IBGStaticEx name="workSpaceTipName" autoCalcHeight="true" autoCalcWidth="true" textClr="0x03081A" endEllipsis="true" margin="0,12,0,0" dock="DOCK_TOP">
-								<Properties>
-									<textFont>
-										<IBGFont height="18"/>
-									</textFont>
-								</Properties>
-							</IBGStaticEx>
 							<IBGRegionPanel dock="DOCK_TOP" margin="0,8,0,0" size="266,36">
+								<Children>
+									<IBGStaticEx name="workSpaceTipName" autoCalcHeight="true" autoCalcWidth="true" textClr="0x03081A" endEllipsis="true" margin="0,12,0,0" dock="DOCK_LEFT">
+										<Properties>
+											<textFont>
+												<IBGFont height="18"/>
+											</textFont>
+										</Properties>
+									</IBGStaticEx>
+									<IBGRegionPanel name="trayNotifyIncreIcon" size="60,16" margin="8,12,206,8" dock="DOCK_LEFT">
+										<Properties>
+											<bkground>
+												<IBGVeins file="Resource:MainFrame\TrayHint\Workspace\ExspeedSync.png" transparent="true" colorize="false"/>
+											</bkground>
+										</Properties>
+									</IBGRegionPanel>
+								</Children>
+							</IBGRegionPanel>
+							<IBGRegionPanel dock="DOCK_TOP" margin="0,0,0,0" size="266,36">
 								<Children>
 									<IBGStaticEx name="workSpaceTipContent" autoCalcHeight="true" autoCalcWidth="true" textClr="0x878C9C" handCursor="true" endEllipsis="true" margin="0,0,0,0" dock="DOCK_LEFT">
 										<Properties>

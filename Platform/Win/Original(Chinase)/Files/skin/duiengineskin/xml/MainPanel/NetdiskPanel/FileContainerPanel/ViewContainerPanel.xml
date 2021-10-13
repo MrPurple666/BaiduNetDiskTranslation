@@ -1,9 +1,16 @@
 <dlg pos="0,0,-0,-0">
   <!--文件列表视图-->
-  <dlg name="dlg_list_view" pos="0,0,-0,-0" show="0">
+  <dlg name="dlg_list_view" pos="0,0,-0,-0" layout="hbox" show="0">
     <header name="file_list_header" pos="0,0,-0,@30" checkSkin="listhead_check" itemSkin="listhead_btn" noitemSkin="listhead_bkg"
             fixWidth="0" itemSwapEnable="0" sortHeader="1" sortSkin="listhead_arrow" check_txt_margin="12" crtext="757880" align="left">
     </header>
+	<dlg name="dlg_file_list_search_file_tip" pos="0,30,-0,@36" show="0">
+		<img name="search_yun_file_failed_tip__bkg" pos="0,0,-0,-0" skin="search_yun_file_failed_tip_bkg" show="1"/>
+		<img name="search_yun_file_failed_tip_icon" pos="24,12" skin="search_yun_file_failed_tip_icon" show="1"/>
+		<text name="search_yun_file_list_failed_tip_txt" pos="44,10" crtext="818999" font="0000:微软雅黑" align="left">%str2365%</text>
+	</dlg>
+	<gifplayer name="file_list_loading_gif" pos="|-16,|-16,@32,@32" skin="gif_statuspanel_loading" show="0"/>
+    <text name="file_list_loading_txt_tip" pos="|-150,[12,@300,@18" crtext="333333" font="0200:微软雅黑" align="center" show="0">%str2311%</text>
     <dlg name="dlg_file_list" pos="0,30,-0,-0">
         <listboxex name="file_list_view" pos="0,0,-0,-0" itemheight="40" itemwidth="-1" virtual="1" frameskin="mainpanel_frame_select_bg">
           <template>
@@ -62,6 +69,13 @@
 
   <!--文件缩略图视图-->
   <dlg name="dlg_thumb_view" pos="14,0,-0,-0" show="0">
+	<gifplayer name="file_thumb_loading_gif" pos="|-16,|-16,@32,@32" skin="gif_statuspanel_loading" show="0"/>
+    <text name="file_thumb_loading_txt_tip" pos="|-150,[12,@300,@18" crtext="333333" font="0200:微软雅黑" align="center" show="0">%str2311%</text>
+    <dlg name="dlg_file_thumb_search_file_tip" pos="0,0,-0,36" show="0">
+      <img name="search_yun_file_thumb_failed_tip__bkg" pos="0,0,-0,-0" skin="search_yun_file_failed_tip_bkg"/>
+      <img name="search_yun_file_thumb_failed_tip_icon" pos="24,12" skin="search_yun_file_failed_tip_icon"/>
+      <text name="search_yun_file_thumb_failed_tip_txt" pos="44,10" crtext="818999" font="0000:微软雅黑" align="left">%str2365%</text>
+    </dlg>
     <filethumbview name="file_thumb_view" pos="0,0,-0,-0" itemwidth="138" itemheight="134" frameskin="mainpanel_frame_select_bg">
       <template>
         <dlg name="dlg_thumb_item" pos="6,6,-6,-6">
@@ -111,7 +125,7 @@
   <!--加载失败视图-->
   <dlg name="dlg_error_view" pos="0,0,-0,-0" show="0">
     <img name="error_view_bg" pos="|-90,|-100,@181,@127" skin="mainpanel_emptyview_error"></img>
-    <text name="txt_error_tip" pos="|-150,[8,@300,@18" crtext="333333" font="0200:微软雅黑" align="center">%str2312%</text>
+    <text name="txt_error_tip" pos="|-255,[8,@510,@18" crtext="333333" font="0200:微软雅黑" align="center">%str2312%</text>
     <imgbtn name="btn_refresh" pos="|-36,[16,@72,@25" class="defultbtn" crtext="ffffff" cursor="arrow">%str2313%</imgbtn>
   </dlg>
 </dlg>

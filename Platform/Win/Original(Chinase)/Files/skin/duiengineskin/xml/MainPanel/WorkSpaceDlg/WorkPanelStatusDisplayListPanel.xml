@@ -31,6 +31,7 @@
                             <dlg name="progress_bkg" pos="-168,25,-24,@4" class="cls_leftpanel_progress_bkg">
                                 <dlg name="progress_frg" pos="0,0,0,-0" class="cls_leftpanel_progress_frg_green"/>
                             </dlg>
+                            <imgbtn name="inc_operation" pos="-168,38,@16,@16" skin="workspace_status_list_exspeed" cursor="hand" show="0" tip="%str4906%"></imgbtn>
                             <text name="txt_file_status" pos="-168,40" crtext="AFB3BF" font="0000:微软雅黑"/>                           
                             <text name="txt_speed" pos="[8,40" crtext="AFB3BF" font="0000:微软雅黑"/>
                         </dlg>

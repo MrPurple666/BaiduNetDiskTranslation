@@ -124,16 +124,16 @@
 											</IBGRegionPanel>
 											<IBGRegionPanel name="limitAccessPanel" size="590,40" margin="0,8,0,0" dock="DOCK_TOP">
 												<Children>
-													<IBGStaticEx size="65,16" textClr="0x333333" text="$2239" margin="18,8,0,10" dock="DOCK_LEFT"/>
+													<IBGStaticEx size="65,16" textClr="0x333333" text="$2240" margin="18,8,0,10" dock="DOCK_LEFT"/>
 													<IBGRegionPanel name="limitAccessTypePanel" size="190,28" margin="14,0,0,10" dock="DOCK_LEFT">
 														<Children>
 															<IBGRadioLogic name="limitAccessType"/>
-															<IBGCheckButton name="noLimitAccess" size="70,16" clrText="0x333333" text="$2240" config="radioButton" check="true" radio="true" margin="0, 0, 0, 0" dock="DOCK_LEFT"/>
+															<IBGCheckButton name="noLimitAccess" size="70,16" clrText="0x333333" text="$2241" config="radioButton" check="true" radio="true" margin="0, 0, 0, 0" dock="DOCK_LEFT"/>
 															<IBGCheckButton name="limitAccessNumber" size="20,16" clrText="0x333333" config="radioButton" check="false" radio="true" margin="40, 0, 0, 0" dock="DOCK_LEFT"/>
 															<IBGEdit name="limitAccessNumberEdit" size="60,28" margin="0, 0, 0, 0" number="true" dock="DOCK_LEFT" enable="true" limitLength="2" config="share_pwd_edit"/>
 														</Children>
 													</IBGRegionPanel>
-													<IBGStaticEx name="limitAccessClue" size="160,16" textClr="0x333333" text="$2241" margin="6,8,0,0" dock="DOCK_LEFT"/>
+													<IBGStaticEx name="limitAccessClue" size="160,16" textClr="0x333333" text="$2242" margin="6,8,0,0" dock="DOCK_LEFT"/>
 												</Children>
 											</IBGRegionPanel>
 											<IBGRegionPanel name="expireTypePanel" size="590,30" margin="0,6,0,0" dock="DOCK_TOP">
@@ -153,7 +153,7 @@
 											<IBGRegionPanel name="createSharePanel" size="590,50" margin="0,0,0,10" dock="DOCK_BOTTOM">
 												<Children>
 													<IBGButton name="createLinkBtn" enable="true" dock="DOCK_LEFT" enableFocus="false" size="120,36" config="createShareLinkBtn" text="$2200" margin="174, 10, 0, 0"/>
-													<IBGButton name="createBatchLinkBtn" enable="true" dock="DOCK_LEFT" enableFocus="false" size="120,36" config="button" text="$2252" margin="14, 10, 0, 0"/>
+													<IBGButton name="createBatchLinkBtn" enable="true" dock="DOCK_LEFT" enableFocus="false" size="120,36" config="button" text="$2253" margin="14, 10, 0, 0"/>
 													<IBGGIFControl name="GifIcon" size="49,19" dock="DOCK_LEFT" margin="-42,0,0,28" image="Resource:\\MainFrame\\ShareDlg\\BatchLinkGuideIcon.png"></IBGGIFControl>
 													<IBGButton name="cancelBtn" tabOrder="12" dock="DOCK_LEFT" enableFocus="true" size="120,36" config="button" text="$2214" margin="8, 10, 23, 0"/>
 												</Children>
@@ -184,16 +184,16 @@
 															</IBGStaticEx>
 															<IBGStaticEx size="65,16" textClr="0x999999" text="$2204" margin="0,0,0,0" dock="DOCK_TOP"/>
 															<!--通过qq等分享给好友-->
-															<IBGStaticEx name="BatchlinkSignalShareStatic" size="65,16" textClr="0x666666" text="$2247" margin="0,6,0,0" dock="DOCK_TOP" unseen="true"/>
+															<IBGStaticEx name="BatchlinkSignalShareStatic" size="65,16" textClr="0x666666" text="$2248" margin="0,6,0,0" dock="DOCK_TOP" unseen="true"/>
 															<!--通过qq等分享给好友-->
 														</Children>
 													</IBGRegionPanel>
 													<IBGRegionPanel size="65,25" margin="60,10,0,0" dock="DOCK_TOP">
 														<Children>
-															<IBGStaticEx size="65,25" name="BatchlinkCopySucceedTip" textClr="0xFFA806" text="$2248" margin="0,0,0,0" dock="DOCK_TOP" unseen="true"/>
+															<IBGStaticEx size="65,25" name="BatchlinkCopySucceedTip" textClr="0xFFA806" text="$2249" margin="0,0,0,0" dock="DOCK_TOP" unseen="true"/>
 														</Children>
 													</IBGRegionPanel>
-													<IBGButton name="copyBatchLinkBtn" size="120,34" enable="true" dock="DOCK_TOP" enableFocus="false" unseen="true" config="createShareLinkBtn" text="$2251" margin="30, 0, 30, 40"/>
+													<IBGButton name="copyBatchLinkBtn" size="120,34" enable="true" dock="DOCK_TOP" enableFocus="false" unseen="true" config="createShareLinkBtn" text="$2252" margin="30, 0, 30, 40"/>
 												</Children>
 											</IBGRegionPanel>
 											<IBGRegionPanel name="linkPasswordPanel" size="590,370" margin="0,0,0,0" dock="DOCK_TOP">

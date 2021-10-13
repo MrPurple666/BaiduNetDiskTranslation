@@ -11,7 +11,7 @@
       </caption>
       <dlg name="dlg_doc_view" pos="1,38,-1,-1">
         <dlg pos="0,0,-0,-0">
-          <webbrowser name="doc_web_page" pos="0,0,-0,-0" use_ie="0" show="1"/>
+          <webbrowser name="doc_web_page" pos="0,0,-0,-0" use_ie="0" show="1" reboot_on_render_crash="0"/>
           <!--不支持类型面板-->
           <dlg name="LoadingDocErrorPanel" pos="0,0,-0,-0" show="0">
             <dlg name="viewDocErrTipPanel" pos="|-90,|-100" width="180" height="200">

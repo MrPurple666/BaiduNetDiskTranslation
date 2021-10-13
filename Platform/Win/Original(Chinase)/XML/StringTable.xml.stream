@@ -217,8 +217,9 @@
   4、下载券如何追加？网盘App-我的-我的分享-分享详情，可查看券使用情况并可追加同类型券。
   5、分享过期极速下载券如何处理？若分享过期，添加的券未被用完，可在分享详情中恢复已过期分享，券可恢复。"/>
   <String id="IDS_SHARE_LINK_ENT_PRIV_BUY" value="去购买>"/>
-  <String id="IDS_SHARE_LINK_ENT_PRIV_TICKET_TIP" value="--来自企业帐号【%s】的极速畅享链接"/>
-  
+  <String id="IDS_SHARE_LINK_ENT_PRIV_TICKET_TIP" value="--极速畅享链接"/>
+  <String id="IDS_SHARE_LINK_ENT_PRIV_TICKET_TIP_CERT" value="--来自企业帐号【%s】的极速畅享链接"/>
+
   <!-- 批量创建链接-->
   <String id="IDS_SHARE_LINK_ACCESS_NUMBER" value="访问人数:" />
   <String id="IDS_SHARE_LINK_ACCESS_NO_LIMIT" value="不限" />
@@ -1389,7 +1390,7 @@
   <String id="IDS_WORKSPACE_CHANGE_LOCAL_SYNC_PACH_ACCESS_DENY_TIP"  value="文件夹无写入权限，请重新选择" />
   <String id="IDS_WORKSPACE_CHANGE_LOCAL_SYNC_PACH_QUOTA_LESS_TIP"  value="磁盘剩余空间不足，请重新选择" />
   <String id="IDS_WORKSPACE_CHANGE_LOCAL_SYNC_PACH_SAME_TIP"  value="原同步路径和所选同步路径相同，请重新选择" />
-
+  <String id="IDS_WORKSPACE_LOCAL_SYNC_SET"  value="前往设置" />
   <!--商业化-->
   <String id="IDS_PRODUCT_RECOMMEND_SETTING" value="商品推荐设置：" />
 </StringTable>

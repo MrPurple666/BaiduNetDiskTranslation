@@ -10,8 +10,8 @@
       
       <dlg pos="0,37,-0,-0">
         <img pos="60,35,@60,@40" name="img_guide" skin="compresspackage_guide_image"/>
-        <text name="txt_content" pos="144,46" crtext="03081A " font="0300:微软雅黑">%str3775%</text>
-        <text name="txt_content2" pos="144,72" crtext="03081A " font="0300:微软雅黑" show="0">%str3775%</text>
+        <text name="txt_content" pos="144,46" crtext="03081A " font="0300:Segoe UI">%str3775%</text>
+        <text name="txt_content2" pos="144,72" crtext="03081A " font="0300:Segoe UI" show="0">%str3775%</text>
         
         <imgbtn name="open_member_btn" pos="30,104,@176,@48" class="compresspackage_guide_btn_text" txtxoffset="36" txtyoffset="0" skin="btn_vip_round_angle">%str751%</imgbtn>
         <text name="member_price" pos="136,121" class="compresspackage_guide_price_text">%str3778%</text>

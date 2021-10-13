@@ -375,7 +375,6 @@
         <imgframe name="inputpassword_eye_visible_img" src="IDP_INPUTPASSWORD_EYE_VISIBLE" subwidth="28" />
         <imgframe name="errortipdlg_buy_btn" src="IDP_ERRORTIPDLG_BUY_BTN" subwidth="120"/>
         <imgframe name="errortipdlg_upgrade_btn" src="IDP_ERRORTIPDLG_UPGRADE_BTN" subwidth="120"/>
-        <imgframe name="errortipdlg_guide_bug_img" src="IDP_ERRORTIPDLG_GUIDE_BUY"/>
         <imgframe name="errortipdlg_guide_upgrade_img" src="IDP_ERRORTIPDLG_GUIDE_UPGRADE"/>
         <imgframe name="compresspackage_guide_image" src="IDP_COMPRESSPACKAGE_GUIDE_IMG"/>
         <gif name="gif_prepare_unzip" src="IDP_GIF_PREPARE_UNZIP"/>      
@@ -645,7 +644,7 @@
         <!--游戏中心卡片-->
         <imgframe name="game_center_bg" src="IDP_GAME_CENTER_BKG" left="20" top="50" right="20" bottom="20"/>
         <imgframe name="game_center_btn_bg" src="IDP_GAME_CENTER_BTN_BKG" left="20" top="50" right="20" bottom="20"/>
-        <imgframe name="game_center_listitem_default_bg" src="IDP_GAME_CENTER_LISTITEM_DEFAULT_BKG" left="20" top="50" right="20" bottom="20"/>
+        <imgframe name="game_center_listitem_default_bg" src="IDP_GAME_CENTER_LISTITEM_DEFAULT_BKG" subwidth="288" left="20" top="50" right="20" bottom="20"/>
 
         <!--主面板侧边栏皮肤-->
         <imglst name="leftpanel_myshare_normal" src="IDP_LEFTPANEL_MYSHARE_NORMAL"/>
@@ -655,7 +654,8 @@
         <imglst name="leftpanel_all_normal" src="IDP_LEFTPANEL_ALL_NORMAL"/>
         <imglst name="leftpanel_all_hover" src="IDP_LEFTPANEL_ALL_HOVER"/>
         <imglst name="leftpanel_newfunc_bg" src="IDP_LEFTPANEL_NEWFUNC_BG"/>
-        <imgframe name="leftpanel_quotaguide_bg" src="IDP_LEFTPANEL_QUOTAGUIDE_BKG" top="10" bottom="16"/>
+        <imgframe name="leftpanel_quotaguide_bg" src="IDP_LEFTPANEL_QUOTAGUIDE_BKG" top="10" left="10" right="10" bottom="20"/>
+        <imgframe name="leftpanel_quotaguide_warn_icon" src="IDP_LEFTPANEL_QUOTAGUIDE_WARN_ICON" />
         <imgframe name="leftpanel_openvip_btn" src="IDP_LEFTPANEL_OPENVIP_BTN" subwidth="40" left="10" top="10" right="10" bottom="10"/>
         <imgframe name="down_animation_bg" src="IDP_DOWNANIMATION_BG"/>
 
@@ -1084,11 +1084,11 @@
       <imgframe name="privilege_guide_svip_video_x_speed" src="IDP_PRIVILEGE_GUIDE_SVIP_VIDEO_X_SPEED"/>
       <imgframe name="privilege_guide_svip_view_more" src="IDP_PRIVILEGE_GUIDE_SVIP_VIEW_MORE"/>
 
-        <!-- 批量超会引导 -->
-        <imgframe name="privilege_guide_dlg_out_of_space" src="IDP_PRIVILEGE_GUIDE_OUT_OF_SPACE"/>
-        <imgframe name="privilege_guide_dlg_batch_upload" src="IDP_PRIVILEGE_GUIDE_BATCH_UPLOAD"/>
-        <imgframe name="privilege_guide_dlg_bg" src="IDP_PRIVILEGE_GUIDE_DLG_BG" left="50" right="50" top="50" bottom="50"/>
+      <imgframe name="privilege_guide_svip_img_v2" src="IDP_PRIVILEGE_GUIDE_SVIP_V2" />
+      <imgframe name="privilege_guide_bgk_v2" src="IDP_PRIVILEGE_GUIDE_DLG_BG_V2" />
 
+        <!-- 批量超会引导 -->
+        <imgframe name="privilege_guide_dlg_bg" src="IDP_PRIVILEGE_GUIDE_DLG_BG" left="50" right="50" top="50" bottom="50"/>
         <!-- 微信QQ备份气泡引导 -->
         <imgframe name="wechatbackup_guide_dlg_icon" src="IDP_DUI_WECHATBACKUP_GUIDE_DLG_ICON"/>
         <imgframe name="wechatbackup_guide_dlg_close" src="IDP_DUI_WECHATBACKUP_GUIDE_DLG_CLOSE"  subwidth="16"/>
@@ -1183,9 +1183,27 @@
         <imgframe name="workspace_filecopy_progress_icon_success" src="IDP_DUI_WORKSPACE_FILECOPY_PROGRESS_ICON_SUCCESS"/>
         <imgframe name="workspace_filecopy_progress_btn_cancel" src="IDP_DUI_WORKSPACE_FILECOPY_PROGRESS_BTN_CANCEL" subwidth="64" left="30" right="30"/>
         <gif name="workspace_filecopy_progress_process_gif" src="IDP_DUI_WORKSPACE_FILECOPY_PROGRESS_PROCESS_GIF" minframedelay="30"></gif>
-
+        <imgframe name="workspace_status_list_exspeed" src="IDP_DUI_WORKSPACE_EXTREME_SPEED" subwidth="16"/>
+        <imgframe name="workspace_guide_exspeed" src="IDP_DUI_WORKSPACE_EXSPEED_SYNC_BIG"/>
+        <imgframe name="workspace_guide_exspeed_bkg" src="IDP_DUI_WORKSPACE_EXSPEED_SYNC_BIG_BKG"/>
+        <imgframe name="workspace_guide_phone" src="IDP_DUI_WORKSPACE_PHONE"/>
+        <imgframe name="workspace_guide_receive_file_bkg" src="IDP_DUI_WORKSPACE_RECEIVE_FILE_BKG"/>
+        <imgframe name="workspace_left_hover_bkg" src="IDP_DUI_WORKSPACE_LEFT_HOVER_BG"/>
+        <imgframe name="workspace_left_hover_error" src="IDP_DUI_WORKSPACE_LEFT_HOVER_ERROR"/>
+        <imgframe name="workspace_left_hover_flow_none" src="IDP_DUI_WORKSPACE_LEFT_HOVER_FLOW_NONE"/>
+        <imgframe name="workspace_left_hover_success" src="IDP_DUI_WORKSPACE_LEFT_HOVER_SUCCESS"/>
+        <imgframe name="workspace_left_hover_sycing" src="IDP_DUI_WORKSPACE_LEFT_HOVER_SYNING"/>
+        <imgframe name="workspace_left_hover_expire" src="IDP_DUI_WORKSPACE_LEFT_HOVER_EXPIRE"/>
+        <imgframe name="workspace_status_error" src="IDP_DUI_WORKSPACE_STATUS_ERROR"/>
+        <imgframe name="workspace_status_expire" src="IDP_DUI_WORKSPACE_STATUS_EXPIRE"/>
+        <imgframe name="workspace_status_flow_out" src="IDP_DUI_WORKSPACE_STATUS_FLOW_OUT"/>
+        <imgframe name="workspace_status_success" src="IDP_DUI_WORKSPACE_STATUS_SUCCESS"/>
         <!-- 游戏中心 -->
         <imgframe name="gamecenter_dlg_btn_refresh" src="IDP_DUI_GAMECENTER_BTN_REFRESH" subwidth="15"/>
+      
+        <!-- 搜索文件 -->
+      <imgframe name="search_yun_file_failed_tip_icon" src="IDP_SEARCH_YUN_FAILED_TIP_ICON"/>
+      <imgframe name="search_yun_file_failed_tip_bkg" src="IDP_SEARCH_YUN_FAILED_TIP_BKG"/>
     </skins>
 
     <style>
@@ -1467,6 +1485,9 @@
         
         <!--操作记录-->
         <class name="cls_operation_record_filename" crtext="03081A" font="0000:微软雅黑" hoverfont="0000:微软雅黑" align="left"/>
+
+        <!--容量超限提醒-->
+        <class name="cls_quota_svip_guide_btn" skin="usercard_svip_btn" crtext="664100" font="0000:微软雅黑" textmode="25" cursor="arrow"/>
   </style>
 
     <objattr>

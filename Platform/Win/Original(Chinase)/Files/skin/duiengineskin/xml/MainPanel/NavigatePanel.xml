@@ -32,7 +32,12 @@
             <dlg pos="0,0,-0,-0">
               <imgbtn name="item_img_tool" pos="22,14,@24,@24" skin="function_lock_img" 
               cursor="arrow"/>
-              <text name="item_txt_tool" pos="0,[0,-0,-0" crtext="636D7E" font="0000:微软雅黑" align="center">%str1653%</text>
+              <dlg name="dlg_sync_status" pos="0,0,@25,@16" msgtransparent="1">
+                  <img name="img_sync_status" pos="43,8,@20,@16" skin="titlepanel_redbg" show="0">
+                      <text name="txt_syncnum" pos="0,|-7,-0,@15" crtext="ffffff" font2="facename:Arial;adding:-1" align="center" valign="middle"></text>
+                  </img>
+              </dlg>
+              <text name="item_txt_tool" pos="0,40,-0,-0" crtext="636D7E" font="0000:微软雅黑" align="center">%str1653%</text>
             </dlg>
           </template>
         </listboxex>
