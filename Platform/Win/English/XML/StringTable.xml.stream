@@ -219,6 +219,7 @@
   3、How does the other party receive the rights and interests after adding a speed download voucher?After receiving the sharing link, the other party is saved, downloaded or previewed, and within 1 year from the date of share, the recipient can enjoy the corresponding rights for the files under the link.。
   4、How to add a download ticket?Network Disk App - My - My Sharing - Share Details, View Voucher Use and Additional Voucher。
   5、How to handle the expiration speed download ticket?If you share an expiration, the added coupon is not running, you can restore expired sharing in the sharing details, and the coupon can recover."/>
+  <String id="IDS_SHARE_LINK_ENT_PRIV_BUY" value="Buy>"/>
   <String id="IDS_SHARE_LINK_ENT_PRIV_TICKET_TIP" value="--Extremely enjoyed link"/>
   <String id="IDS_SHARE_LINK_ENT_PRIV_TICKET_TIP_CERT" value="--Speed enjoys link from enterprise account [%s]"/>
 
