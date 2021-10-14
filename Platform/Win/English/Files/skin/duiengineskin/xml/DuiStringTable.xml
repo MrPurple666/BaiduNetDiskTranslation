@@ -827,15 +827,12 @@
   <!--侧边栏面板-->
   <s id="1700">My share</s>
   <s id="1701">Expansion</s>
-  <s id="1702">Expansion to 2T</s>
-  <s id="1703">Expansion to 5T</s>
-  <s id="1704">Open membership, enjoy more capacity</s>
-  <s id="1705">Buy a capacity package</s>
-  <s id="1706">Activate members will enjoy greater capacity + 10 privileges</s>
-  <s id="1707">Opening Super Members will enjoy super capacity + 15 privilege</s>
-  <s id="1708">Buy a capacity package and enjoy more capacity</s>
-  <s id="1709">Opening Super Members will enjoy super capacity + 15 privilege</s>
-  <s id="1710">Capacity will be full,</s>
+  <s id="1704">Open a member and enjoy a larger capacity</s>
+  <s id="1705">Purchase capacity package</s>
+  <s id="1708">The file will not be deleted, but the function of uploading, decompression, etc. cannot be used</s>
+  <s id="1709">Become a super member to enjoy 5T space, speed download, etc.</s>
+  <s id="1710">Capacity will be full</s>
+  <s id="1711">Capacity is full</s>
   <s id="1711">Capacity is full,</s>
   <s id="1712">Because you haven't logged in for more than a year, your space has been recovered to 100G</s>
   <s id="1713">Details</s>
@@ -1073,6 +1070,9 @@
   <s id="2362">Mobile phone</s>
   <s id="2363">Export</s>
   <s id="2364">File type</s>
+  <s id="2365">If you don't find it, try other keywords or click "Enter" to re-issue the search.</s>
+  <s id="2366">The current network link is abnormal, the search results may not be complete, you can click "Enter" to re-initiate search.</s>
+
   <!--最近使用视图-->
   <s id="2365">To clear the record</s>
   <s id="2366">Delete the file</s>
@@ -1445,16 +1445,16 @@
    <s id="3797">Please bind your mobile phone number before proceeding. </s>
 
    <!--Top capacity expiration pop-up window-->
-   <s id="3770">Capacity plan expiration reminder</s>
-   <s id="3771">Part of your capacity is about to expire, please check it in time</s>
+   <s id="3770">Capacity expiration reminder</s>
+   <s id="3771">Part of the capacity is about to expire, and the capacity overrun may result in a limited partial function, please expand in time.</s>
    <s id="3772">View</s>
 
    <!--Single rights decompression coupon-->
    <s id="3775">Become a member and decompress the 2G compressed package online</s>
-   <s id="3776">Become a super member and decompress the 8G compressed package online</s>
+   <s id="3776">Become a super member, extract 8G compressed package online</s>
    <s id="3778">10 yuan/month</s>
    <s id="3779">25 yuan/month</s>
-   <s id="3781">Upgrading to super member decompression upper limit is increased to 8G</s>
+  <s id="3781">Upgrade to super members, extract the upper limit to 8G</s>
   <!--在线文档导出-->
   <s id="4000">Exporting...</s>
   <s id="4001">Cancel</s>
@@ -1629,15 +1629,14 @@
    <s id="4313">5T space</s>
    <s id="4314">Double the video speed</s>
    <s id="4315">Bulk upload</s>
+   <s id="4316"> ></s>
 
    <!-- Bulk upload guide -->
-   <s id="4342">The number of uploaded files exceeds %d,\nUnlimited number of files uploaded in batches is activated for super members</s>
+   <s id="4342">Upload file exceeds %d, opening super membership batch upload file number is unlimited</s>
    <s id="4343">-yuan/month</s>
 
    <!-- Capacity package guide -->
-   <s id="4350">Insufficient space, unzipping failed\n</s>
-   <s id="4351">Insufficient space, upload failed\n</s>
-   <s id="4352">Insufficient space, save failed\n</s>
+   <s id="4351">Insufficient space, failure</s>
    <s id="4353">Open super member, enjoy 5T super space</s>
    <s id="4354">Buy a capacity package to get more capacity</s>
    <s id="4355">Purchase confirmation</s>
@@ -1753,11 +1752,11 @@
   <s id="4611">Click</s>
   <s id="4612">Add local files</s>
   <s id="4613">Or click</s>
-  <s id="4614">Your office assistant</s>
-  <s id="4615">Keep in your own multiple computers, mobile phone workspace</s>
+  <s id="4614">Your cloud U disk</s>
+  <s id="4615">Improve working efficiency, multiple computers sharing transmission</s>
   <s id="4616">Return to the original page</s>
   <s id="4617">In your work space, I didn't find the corresponding content.</s>
-  <s id="4618">The consistency of the file, any change is real-time synchronization</s>
+  <s id="4618">Enjoy mobile office, access work file anytime, anywhere</s>
   <s id="4619">Synchronous traffic this month has been used</s>
   <s id="4620">Unlimited sync privilege has expired</s>
 
@@ -1809,6 +1808,7 @@
   <s id="4724">"Wait%dFile</s>
   <s id="4725">The remaining synchronous traffic this month is insufficient, soon to stop synchronization</s>
   <s id="4726">Synchronous information comparison, please wait patiently</s>
+  <s id="4727">Synchronous exception, please try again</s>
 
   <!-- Synchronous disk operation record-->
   <s id="4750">Operating type</s>
@@ -1869,6 +1869,14 @@
   <s id="4836">Be replicated</s>
   <s id="4837">Download request...</s>
   <s id="4838">Currently no synchronization directory, click the right button to set the full function</s>
+  <s id="4839">What is incremental synchronization technology</s>
+  <s id="4840">Synchronous space supports "incremental synchronization" capability, only uploading modified content after file modification, no need to be uploaded, synchronous efficiency is remarkable</s>
+  <s id="4841">The speed synchronization has been launched</s>
+  <s id="4842">Support incremental synchronization technology, only uploaded file modifications, synchronous efficiency is significantly improved</s>
+  <s id="4843">Go to the experience</s>
+  <s id="4844">Synchronize the file from the phone</s>
+  <s id="4845">Almost one step in sync the file commented quickly</s>
+  <s id="4846">Set the file synchronization path, file speed download to the computer</s>
 
   <s id="4850">data migration</s>
   <s id="4851">Migrating data, please be patient...</s>
@@ -1888,6 +1896,22 @@
   <s id="4903">This document in the computer will also be deleted synchronously. Please take carefully\r\nTip: I am deleting files in synchronization, such as deleting failed, please try again later</s>
   <s id="4904">Home is easy to synchronize with the company's computer file, the office bid farewell to the U disk!</s>
   <s id="4905">Support for Offic, PSD, etc., work documentation, design artwork speed synchronization!</s>
+  <s id="4906">Accelerated synchronization with incremental synchronization technology</s>
+  <!--同步空间引导-->
+  <s id="4907">Synchronize</s>
+  <s id="4908">Synchronization for you</s>
+  <s id="4909">Synchronous failure</s>
+  <s id="4910">Stop synchronization</s>
+  <s id="4911">File synchronization failed</s>
+  <s id="4912">Open SVIP</s>
+  <s id="4913">Renewal SVIP</s>
+  <s id="4914">All files have been synchronized successfully</s>
+  <s id="4915">SVIP</s>
+  <s id="4916">Work package</s>
+  <s id="4917">%d After the day of the day</s>
+  <s id="4918">Unlimited synchronization privilege</s>
+  <s id="4919">Regain unlimited privilege</s>
+  <s id="4920">SVIP enjoys unlimited synchronous traffic</s>
   
   <!-- Business space -->
   <s id="4950">Copy to "%s" Enterprise space</s>
@@ -1922,5 +1946,6 @@
   <s id="5000">Become a super member, you can unlock all of the clarity</s>
   <s id="5001">Buy an entertainment package</s>
   <s id="5002">Free trial></s>
-
+  <s id="5003">Purchase work package</s>
+  <s id="5004">Buy backup package</s>
 </string>
