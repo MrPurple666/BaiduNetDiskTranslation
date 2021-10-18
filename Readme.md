@@ -7,14 +7,13 @@
 
 [![Windows][lng-russian-win]](#download) [![Windows][lng-english-win]](#download)
 [![Windows][lng-russian-and]](#download) [![Windows][lng-english-and]](#download)
-
 [![License][license-badge]][license]
 
 </center>
 
 [English Docs](Readme.md) | [Докум на Русском ](Readme_ru_RU.md)
 
-Translate Baidu Net Disk for Windows, Android to other languages
+Translate Baidu Net Disk for Windows, Android to Russian,English languages.
 
 # Download
 
