@@ -39,12 +39,12 @@ Repack edition is the ability to select the language installed for the program, 
 
 ### Portable edition
 
-The version portable does not require installation. Does not leave the tracks system. Unpack and use the language change (after the first launch), in the `Data / BaiduNetDiskportable.ini` file
-`Language =` Register the desired language:
+The version portable does not require installation. Does not leave the tracks system. Unpack and use the language change (after the first launch), in the `ChooseLang.ini` file
+`current =` Register the desired language:
 
-- russian
-- english
-- chinase
+- en-US ;English
+- ru-RU ;Русский
+- zh-ZH ;Chinese
 
 # Screen
 
