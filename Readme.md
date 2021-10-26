@@ -64,6 +64,12 @@ The version portable does not require installation. Does not leave the tracks sy
 
 [![imageban](https://i7.imageban.ru/thumbs/2021.10.08/371b6ce4073fd673c7fa96b7ed1e09f1.png)](https://imageban.ru/show/2021/10/08/371b6ce4073fd673c7fa96b7ed1e09f1/png) [![imageban](https://i1.imageban.ru/thumbs/2021.10.08/eabea1a84fca54fe49d6d59385318500.png)](https://imageban.ru/show/2021/10/08/eabea1a84fca54fe49d6d59385318500/png)
 
+**English client**
+[![imageban](https://i3.imageban.ru/thumbs/2021.10.26/6174fc4c14216b1820659e7b59f7f32d.png)](https://imageban.ru/show/2021/10/26/6174fc4c14216b1820659e7b59f7f32d/png)
+[![imageban](https://i5.imageban.ru/thumbs/2021.10.26/b0a2aa09c482afe87725a68a3169b9ff.png)](https://imageban.ru/show/2021/10/26/b0a2aa09c482afe87725a68a3169b9ff/png)
+[![imageban](https://i6.imageban.ru/thumbs/2021.10.26/7cc3ef56284a36bbbff946c214eed611.png)](https://imageban.ru/show/2021/10/26/7cc3ef56284a36bbbff946c214eed611/png)
+
+
 # License
 
 [The Unlicense][license]
