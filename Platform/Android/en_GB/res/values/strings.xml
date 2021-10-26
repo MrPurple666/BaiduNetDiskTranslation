@@ -36,7 +36,7 @@
     <string name="aboout_app_version_text">\"Current version %s\"</string>
     <string name="about_me_capacity_title">Capacity</string>
     <string name="about_title_text">ABOUT US</string>
-    <string name="about_user_id">Localized: singingdalong</string>
+    <string name="about_user_id">Localized: zloisupport based by singingdalong</string>
     <string name="about_vip_item">Membership</string>
     <string name="about_wallet_item">Rich spend</string>
     <string name="aboutme_myservice">My service</string>
@@ -161,16 +161,16 @@
     <string name="add_remark_name">Add comment</string>
     <string name="add_remote_collection">Remote collection</string>
     <string name="add_share_directory_member_baby_msg">%1$s Invite you to join the baby album\" %2$s Come and witness the baby grow up~</string>
-    <string name="add_share_directory_member_baby_wx_msg">"\"\"%s\", Let's see the baby grow~\""</string>
+    <string name="add_share_directory_member_baby_wx_msg">"\"\"%s\", Lets see the baby grow~\""</string>
     <string name="add_share_directory_member_baby_wx_title">%s Invite you to join the baby album</string>
     <string name="add_share_directory_member_msg">%1$s Invite you to join the shared file\" %2$s Come join us~</string>
     <string name="add_share_directory_member_photo_msg">%1$s Invite you to join the regular album\" %2$s Let is do things together~</string>
-    <string name="add_share_directory_member_photo_wx_msg">"\"\"%s\", Let's do this together.\""</string>
+    <string name="add_share_directory_member_photo_wx_msg">"\"\"%s\", Lets do this together.\""</string>
     <string name="add_share_directory_member_photo_wx_title">%s Invite you to join a shared album</string>
     <string name="add_share_directory_member_supervise_tip">Please fulfill regulatory obligations to ensure members do not spread illegal content</string>
     <string name="add_share_directory_member_title">Invite Members</string>
     <string name="add_share_directory_member_travel_msg">%1$s Invited you to join the travel album\" %2$s Come and witness the journey together~</string>
-    <string name="add_share_directory_member_travel_wx_msg">"\"\"%s,\" Let's witness the journey.\""</string>
+    <string name="add_share_directory_member_travel_wx_msg">"\"\"%s,\" Lets witness the journey.\""</string>
     <string name="add_share_directory_member_travel_wx_title">%s Invite you to join the travel album</string>
     <string name="add_share_directory_member_wx_msg">\"\"%s,\" Come and join in.\"</string>
     <string name="add_share_directory_member_wx_title">%s Invite you to join the shared folder</string>
@@ -296,7 +296,7 @@
     <string name="aiapps_list_empty">No support for small programs</string>
     <string name="aiapps_loading_hide_Text">Hide</string>
     <string name="aiapps_loading_text">Kernel loading</string>
-    <string name="aiapps_login_refuse">"Don't sign in"</string>
+    <string name="aiapps_login_refuse">"Dont sign in"</string>
     <string name="aiapps_no_more_reminder">Never remind</string>
     <string name="aiapps_no_support_app">The current format does not support editing</string>
     <string name="aiapps_open_debug">Turn on debug mode and it will take effect after restart</string>
@@ -368,7 +368,7 @@
     <string name="aiapps_wx_pay_msg">Is making a payment request to WeChat, please wait...</string>
     <string name="aiapps_wx_pay_title">Redirecting...</string>
     <string name="album_auto_sync_dialog_title">Auto photo album backup(WiFi only)</string>
-    <string name="album_baby_tips">"Autoally generate baby's growth record, follow baby's dynamics with family"</string>
+    <string name="album_baby_tips">"Autoally generate babys growth record, follow babys dynamics with family"</string>
     <string name="album_backup">Photo album backup</string>
     <string name="album_backup_check_in_transfer_tip">Encrypting the contents of the backup album to the NetDisk</string>
     <string name="album_backup_check_in_transfer_tip_go_check">View progress></string>
@@ -414,7 +414,7 @@
     <string name="album_title">Album theme</string>
     <string name="album_travel_tips">U/L photos &amp; videos of the journey to record the good time of the journey</string>
     <string name="album_tv_loowerpower">Backup is paused and continues after more than 20% power</string>
-    <string name="album_unbackup_header_guide">"Can't the app automatically back up in the background?"</string>
+    <string name="album_unbackup_header_guide">"Cant the app automatically back up in the background?"</string>
     <string name="album_unbackup_header_guide_link">Optimize now</string>
     <string name="album_yike_guide_close_mid_desc">Get more surprises in the photo album at a moment</string>
     <string name="album_yike_guide_close_top_desc">Permanently unlimited space to be activated</string>
@@ -948,7 +948,7 @@
     <string name="bdreader_bookmark_at_x_day">%d days ago</string>
     <string name="bdreader_bookmark_at_x_month_x_day">MM month dd</string>
     <string name="bdreader_bookmark_empty_msg">No bookmarks</string>
-    <string name="bdreader_cannot_click_bookmark">"Can't jump to bookmarks in pagination"</string>
+    <string name="bdreader_cannot_click_bookmark">"Cant jump to bookmarks in pagination"</string>
     <string name="bdreader_cannot_click_catalog">Can not jump to the directory in the page</string>
     <string name="bdreader_cannot_jump">Unable to turn pages in pagination</string>
     <string name="bdreader_cannot_note">Pagination, think about it later:)</string>
@@ -975,7 +975,7 @@
     <string name="bdreader_free_doc_prefix">Left</string>
     <string name="bdreader_interface_chapter_menu_empty">No directory found</string>
     <string name="bdreader_interface_chapter_menu_empty_remind">You can call the toolbar to add a bookmark in the upper right corner when reading</string>
-    <string name="bdreader_interface_empty_bookmark_text">"You haven't added a bookmark"</string>
+    <string name="bdreader_interface_empty_bookmark_text">"You havent added a bookmark"</string>
     <string name="bdreader_layout_retry">Please D/L again</string>
     <string name="bdreader_mag_history">Past</string>
     <string name="bdreader_menu_introduction_text_tip">New reading function, listening to novels, easier!</string>
@@ -1059,7 +1059,7 @@
     <string name="bind_card_expansion_dialog_go_buy">Buy Member Expansion</string>
     <string name="bind_card_expansion_dialog_title">Card binding activities</string>
     <string name="bind_card_failed">Bank card binding failed</string>
-    <string name="bind_card_failed_info">"\"I can't get free space, Can be re-picked in about me and my wallet\""</string>
+    <string name="bind_card_failed_info">"\"I cant get free space, Can be re-picked in about me and my wallet\""</string>
     <string name="bind_confirm_content">\"Confirm the association?\" 1 device can only be associated with 1 account\"</string>
     <string name="bind_confirm_title">Confirm association</string>
     <string name="bind_device_navigation_title">Aggregated Device</string>
@@ -1248,7 +1248,7 @@
     <string name="can_not_open">Unable to open</string>
     <string name="can_not_open_classification_content">There are currently many application users and cannot be opened for the time being; try again later.</string>
     <string name="can_not_transfer_account">This account cannot be transferred</string>
-    <string name="can_not_unlock">"Can't unlock"</string>
+    <string name="can_not_unlock">"Cant unlock"</string>
     <string name="can_not_use_projection_service">The projector is temporarily unavailable</string>
     <string name="cancel_collection_fail">Operation failed, please try again later</string>
     <string name="cancel_collection_fail_partial_fail">Partial failure, please try again later</string>
@@ -1822,7 +1822,7 @@
     <string name="contact_backup_local_zero">Unable to read…</string>
     <string name="contact_backup_no_loacl_data_dialog_content">Local contacts are empty, no need to backup</string>
     <string name="contact_backup_no_loacl_data_dialog_title">No data found to be backed up</string>
-    <string name="contact_backup_not_backup">"You haven't backed up yet"</string>
+    <string name="contact_backup_not_backup">"You havent backed up yet"</string>
     <string name="contact_backup_people_updated">Contacts have updates</string>
     <string name="contact_backup_process">Backed up u0009</string>
     <string name="contact_backup_quick_settings_info">Support import and export between different mobile phones</string>
@@ -1913,7 +1913,7 @@
     <string name="conversation_set_nickname">Let friends find you faster</string>
     <string name="conversation_share_file_float">Group file</string>
     <string name="convert_format_choose">Select the format</string>
-    <string name="converting_text">"It's about to start..."</string>
+    <string name="converting_text">"Its about to start..."</string>
     <string name="copy_by_user">Choose save location</string>
     <string name="copy_exist">The file you want to copy is already in the destination folder</string>
     <string name="copy_failed_to_subdirectory">Cannot copy files to itself or its subdirectories</string>
@@ -1990,7 +1990,7 @@
     <string name="current_device_never_bind">This device is not connected to the current account, please try to log in again</string>
     <string name="current_download_path">\"Current D/L location: %s\"</string>
     <string name="current_download_path_single_line">Current D/L location: %s</string>
-    <string name="current_problem">"What's the problem right now?"</string>
+    <string name="current_problem">"Whats the problem right now?"</string>
     <string name="current_scan_dir_not_exist">The file directory does not exist and the scan has ended</string>
     <string name="custom_lable">Custom label</string>
     <string name="custom_share_default_tip">Any validity period can be set within 365 days</string>
@@ -2125,7 +2125,7 @@
     <string name="device_list_error_des_no_wifi">Go to the phone settings, connect to the same WIFI as the TV/box, and send the screen.</string>
     <string name="device_list_error_title_no_device">There is no screencast device.</string>
     <string name="device_list_error_title_no_wifi">There is no WIFI, so it cannot support screen projection.</string>
-    <string name="device_list_footer_desc">"Can't find your device? Refresh"</string>
+    <string name="device_list_footer_desc">"Cant find your device? Refresh"</string>
     <string name="device_logout_tips">This device has been other same account device login, if not my own operation please modify the pwd in time to avoid the loss of stored data.</string>
     <string name="device_manager_name">Device mgmt</string>
     <string name="device_nonsupport_dialog_content">This version is not supported at this time. Please upgrade to the latest version of the NetDisk.</string>
@@ -2138,7 +2138,7 @@
     <string name="device_selector_title">Please select a device</string>
     <string name="device_suport_to_relate">Currently supports Xiaomi TV, Huawei router WS880</string>
     <string name="device_usable_quota">Available capacity: %s</string>
-    <string name="device_will_reboot_pad">"Restarting the cloud phone can completely shut down bkgnd processes, free up memory and CPU usage, and restore the phone's speed"</string>
+    <string name="device_will_reboot_pad">"Restarting the cloud phone can completely shut down bkgnd processes, free up memory and CPU usage, and restore the phones speed"</string>
     <string name="device_will_support_tip">We will support the push of files to routers, TVs/boxes, etc. Stay tuned</string>
     <string name="devices_list_count">%d item</string>
     <string name="dialog_add_book_to_shelf_desc2">When you join the bookshelf, the next time you can quickly find it in the home shelf, the file will be stored in My Resources by default</string>
@@ -2175,7 +2175,7 @@
     <string name="dialog_unlimited_quota">Unlimited storage</string>
     <string name="dialog_webcall_common_title">Web notifications</string>
     <string name="dialog_yike_guide_desc">Register to enjoy</string>
-    <string name="dialog_yike_guide_title">"You haven't experienced a moment photo album"</string>
+    <string name="dialog_yike_guide_title">"You havent experienced a moment photo album"</string>
     <string name="didnt_open_auto_backup_tip_desc">Regular backup, no loss of contacts</string>
     <string name="didnt_open_auto_backup_tip_title">Auto backup is not turned on</string>
     <string name="dir_head_share_tips">The folder has been shared, and subsequent visitors can view the update simultaneously</string>
@@ -2303,7 +2303,7 @@
     <string name="doing_opening_sina">Opening microblog</string>
     <string name="doing_opening_wx">Opening WeChat</string>
     <string name="doing_privacy_copy_link">Encrypting link</string>
-    <string name="donot_notify_anymore">"Don't remind me in this folder"</string>
+    <string name="donot_notify_anymore">"Dont remind me in this folder"</string>
     <string name="dont_have_contact_permission_tip">Failed to obtain the permission of the address book, please go to the system settings to open and try again</string>
     <string name="double_speed_playing">2.0 times fast forward</string>
     <string name="double_speed_playing_explain">2x fast forward, the device does not support 3x.</string>
@@ -2491,8 +2491,8 @@
     <string name="ebpay_error_cer">Verification code is incorrect, please re-enter</string>
     <string name="ebpay_feedback_default_link">Thank you for your review</string>
     <string name="ebpay_find_pwd_get_cardlist_failed">Failed to get card list, please try again</string>
-    <string name="ebpay_get_sms_error">"Can't receive the verification code?"</string>
-    <string name="ebpay_get_sms_error_dialog_title">"Can't receive the SMS verification code?"</string>
+    <string name="ebpay_get_sms_error">"Cant receive the verification code?"</string>
+    <string name="ebpay_get_sms_error_dialog_title">"Cant receive the SMS verification code?"</string>
     <string name="ebpay_get_voice_code">Get voice verification code</string>
     <string name="ebpay_get_voice_code_error">No call?</string>
     <string name="ebpay_get_voice_code_error_title">No voice verification call received</string>
@@ -2569,7 +2569,7 @@
     <string name="ebpay_title_complete_info_for_pay">Information confirmed</string>
     <string name="ebpay_title_find_pwd">Retrieve payment pwd</string>
     <string name="ebpay_title_risk_control">Authentication</string>
-    <string name="ebpay_true_name">"Cardholder's Name"</string>
+    <string name="ebpay_true_name">"Cardholders Name"</string>
     <string name="ebpay_update_version_tips">Latest version: %s</string>
     <string name="ebpay_use_newcard_topay">Pay with new card</string>
     <string name="ebpay_use_other_paytype">Other payment methods</string>
@@ -2794,7 +2794,7 @@
     <string name="feedback_description">Select the problem you want to feedback, we will optimize it as soon as possible</string>
     <string name="feedback_edit_left_toast">*</string>
     <string name="feedback_input_hint">다른 질문이 있으시면 간단히 설명해주십시오.</string>
-    <string name="feedback_no_change_legibility">"Can't switch resolution"</string>
+    <string name="feedback_no_change_legibility">"Cant switch resolution"</string>
     <string name="feedback_no_connect_device">Projection device cannot be connected</string>
     <string name="feedback_no_device">Failed to find projection device</string>
     <string name="feedback_paly_no_picture">No picture on screen</string>
@@ -2870,7 +2870,7 @@
     <string name="file_qrcode_file_invalid_hint">Please make sure the file or QR code information is valid</string>
     <string name="file_qrcode_file_lose">The file was not found</string>
     <string name="file_qrcode_file_lose_hint">Please make sure the file has not been deleted</string>
-    <string name="file_qrcode_file_unsupport">"Can't open file"</string>
+    <string name="file_qrcode_file_unsupport">"Cant open file"</string>
     <string name="file_qrcode_file_unsupport_hint">This format file does not support scan code viewing</string>
     <string name="my_share_loading_wait_tips">Please wait...</string>
     <string name="file_restore_failed">File restoration failure. Please try again later.</string>
@@ -3280,7 +3280,7 @@
     <string name="hms_update_nettype">No Wi-Fi connection. Download using mobile data?</string>
     <string name="hms_update_title">HMS Core</string>
     <string name="home_agreement_functional_explain_old_txt">This feature requests an authoritative data source to verify your identity.</string>
-    <string name="home_agreement_functional_explain_txt">"In order to ensure the security of user accounts and provide better service, we use face authentication function to authenticate the user's identity before providing some products and services, and it is used by the operator to verify the account holder. Evaluate whether to provide a follow-up product or service to the user as a result of facial recognition. This feature requests an authoritative data source to verify your identity."</string>
+    <string name="home_agreement_functional_explain_txt">"In order to ensure the security of user accounts and provide better service, we use face authentication function to authenticate the users identity before providing some products and services, and it is used by the operator to verify the account holder. Evaluate whether to provide a follow-up product or service to the user as a result of facial recognition. This feature requests an authoritative data source to verify your identity."</string>
     <string name="home_agreement_functional_txt">Function Description</string>
     <string name="home_agreement_permission_explain_txt">If you click \"Confirm\" or otherwise agree to these terms and conditions, you will be deemed to have consented to and approved the personal information provided during the application process when using the facial recognition service.</string>
     <string name="home_agreement_permission_txt">Authorization and permission</string>
@@ -3308,7 +3308,7 @@
     <string name="home_greet_txt">Welcome to</string>
     <string name="home_handset_explain_txt">Keep your face in the viewfinder</string>
     <string name="home_handset_txt">Please call</string>
-    <string name="home_light_explain_txt">"Make sure it's not dark or bright"</string>
+    <string name="home_light_explain_txt">"Make sure its not dark or bright"</string>
     <string name="home_light_txt">Light quantity recognition</string>
     <string name="home_list_empty_tips">No content, please check later</string>
     <string name="home_list_error_tips">The network is not strong, click to try again~</string>
@@ -3468,7 +3468,7 @@
     <string name="invate_install_zero_title">Zero traffic invitation</string>
     <string name="invite_friends_failed_black">Decline to join group chat</string>
     <string name="invite_friends_failed_not_activity">Is an inactive user and cannot be invited into the group</string>
-    <string name="invite_friends_failed_single">"I haven't added you as a friend yet and cannot invite to the group"</string>
+    <string name="invite_friends_failed_single">"I havent added you as a friend yet and cannot invite to the group"</string>
     <string name="invite_friends_group_system_message">%s Add you as a friend before you can add him as a group member.</string>
     <string name="invite_somone">Invite TA to join</string>
     <string name="invoice_action_bar_title_edit">Edit invoice information</string>
@@ -3580,7 +3580,7 @@
     <string name="live_photo_export_success">Export succeeded</string>
     <string name="live_photo_export_title">Export to Baidu NetDisk D/L directory</string>
     <string name="live_photo_video_load_failed">Video loading aborted</string>
-    <string name="liveness_good">"Tthat's good"</string>
+    <string name="liveness_good">"Tthats good"</string>
     <string name="liveness_head_down">Keep your head down</string>
     <string name="liveness_head_left">Head to the left</string>
     <string name="liveness_head_right">Head to the right</string>
@@ -3694,7 +3694,7 @@
     <string name="material_clock_display_divider">:</string>
     <string name="material_clock_toggle_content_description">Select AM or PM</string>
     <string name="material_hour_selection">Select hour</string>
-    <string name="material_hour_suffix">"%1$s o'clock"</string>
+    <string name="material_hour_suffix">"%1$s oclock"</string>
     <string name="material_minute_selection">Select minutes</string>
     <string name="material_minute_suffix">%1$s minutes</string>
     <string name="material_slider_range_end">Range end,</string>
@@ -4075,7 +4075,7 @@
     <string name="novel_8yuan_upgrade_title_line1">Monthly Privilege Upgrade</string>
     <string name="novel_ad_brand">Advertisers</string>
     <string name="novel_ad_close">Still want to quit</string>
-    <string name="novel_ad_close_tips">"You can't read it for free now."</string>
+    <string name="novel_ad_close_tips">"You cant read it for free now."</string>
     <string name="novel_ad_comment_num">Comments)</string>
     <string name="novel_ad_comment_num_10W">(10W+ reviews)</string>
     <string name="novel_ad_comment_num_K">K comments)</string>
@@ -4170,7 +4170,7 @@
     <string name="novel_disallow_offline_desc">In the free reading privilege, the paid chapters cannot be paid offline temporarily</string>
     <string name="novel_download_complete">Offline</string>
     <string name="novel_download_speech_lib_dialog_later">Later</string>
-    <string name="novel_download_speech_lib_dialog_message">"Failed to D/L the reading plug-in, please try again \"You haven't D/Led the voice data package. You need to D/L it to use the novel reading function. Do you want to D/L the data package? File size: 4MB\""</string>
+    <string name="novel_download_speech_lib_dialog_message">"Failed to D/L the reading plug-in, please try again \"You havent D/Led the voice data package. You need to D/L it to use the novel reading function. Do you want to D/L the data package? File size: 4MB\""</string>
     <string name="novel_download_speech_lib_dialog_title">D/L tips</string>
     <string name="novel_download_speech_lib_fail_msg">Failed to D/L the reading plug-in, please try again</string>
     <string name="novel_download_speech_lib_finish_msg">The reading plug-in is installed successfully</string>
@@ -4335,8 +4335,8 @@
     <string name="novel_service_homepage_tip_progress_update">Last read to %s%%</string>
     <string name="novel_service_manage_shelf">Manage bookshelves</string>
     <string name="novel_service_online_bookstore">Online bookstore</string>
-    <string name="novel_share_content">"I'm reading a super nice novel 《%s》, let's watch it together!"</string>
-    <string name="novel_share_empty_content">"I'm reading a super good novel, let's watch it together!"</string>
+    <string name="novel_share_content">"Im reading a super nice novel 《%s》, lets watch it together!"</string>
+    <string name="novel_share_empty_content">"Im reading a super good novel, lets watch it together!"</string>
     <string name="novel_share_failed">Novel sharing failed</string>
     <string name="novel_shelf_edit_delete_number">Del (%d)</string>
     <string name="novel_shelf_group_book_count">(Already %d copies)</string>
@@ -5008,7 +5008,7 @@
     <string name="popup_extra_text">View prizes in [My - Activity Center]</string>
     <string name="ppt_end_page_tip">Slide show is over, continue to slide to exit</string>
     <string name="ppt_play_time">%s / %s</string>
-    <string name="pre_dialog_default_message">"\"Camera phones permission settings common method: Millet phone In the \"Security Center Camera - Authorization Mgmt - Application Rights Mgmt - - Rights Mgmt\" to open the phone Huawei cell phone Please open the phone's \"Settings - Camera - Permissions Mgmt\" Samsung handphone Please open the phone's \"Settings - Application License - Security\" in vivo Please phone \"i steward - Software Mgmt - Software Rights Mgmt\" in the open OPPO Please open the phone's \"Settings - Camera - Press Program Manager - Security Service / Security and Privacy - Personal information security\" Associate Please open the phone's \"Le security - according to behavior mgmt - Application mgmt authority\" Meizu Please open the phone's \"Safety Center - pictures and video rights mgmt - - Privacy\" in the Gionee Please phone - on \"settings Permissions\" Other models You can use Baidu search for the brand model camera method permissions\""</string>
+    <string name="pre_dialog_default_message">"\"Camera phones permission settings common method: Millet phone In the \"Security Center Camera - Authorization Mgmt - Application Rights Mgmt - - Rights Mgmt\" to open the phone Huawei cell phone Please open the phones \"Settings - Camera - Permissions Mgmt\" Samsung handphone Please open the phones \"Settings - Application License - Security\" in vivo Please phone \"i steward - Software Mgmt - Software Rights Mgmt\" in the open OPPO Please open the phones \"Settings - Camera - Press Program Manager - Security Service / Security and Privacy - Personal information security\" Associate Please open the phones \"Le security - according to behavior mgmt - Application mgmt authority\" Meizu Please open the phones \"Safety Center - pictures and video rights mgmt - - Privacy\" in the Gionee Please phone - on \"settings Permissions\" Other models You can use Baidu search for the brand model camera method permissions\""</string>
     <string name="pre_page">Previous page</string>
     <string name="prefix_path">“%s”</string>
     <string name="press_speed_no_trial_tip">Long press double speed is a paid function, enjoy double speed playback please</string>
@@ -5018,7 +5018,7 @@
     <string name="preview_alert_open">Direct preview</string>
     <string name="preview_download">The file is in the phone album</string>
     <string name="preview_editor">Can only operate on backed up files</string>
-    <string name="preview_failed_need_refresh">"Can't open temporarily, please refresh and try again"</string>
+    <string name="preview_failed_need_refresh">"Cant open temporarily, please refresh and try again"</string>
     <string name="preview_file_is_illegal">The file contains illegal content and cannot be previewed</string>
     <string name="preview_long_picture_text">View long picture effect</string>
     <string name="preview_original_image">View original image (%s)</string>
@@ -5285,7 +5285,7 @@
     <string name="re_share_deleted_dialog_title">Part of the file does not exist</string>
     <string name="read_flow_dialog_cancel">No redemption</string>
     <string name="read_flow_dialog_confirm">Redeem now</string>
-    <string name="read_flow_dialog_main">"The reading time will be cleared at 24 o'clock this week. Do you still have unredeemed book coupons?"</string>
+    <string name="read_flow_dialog_main">"The reading time will be cleared at 24 oclock this week. Do you still have unredeemed book coupons?"</string>
     <string name="read_flow_dialog_title">Redemption reminder</string>
     <string name="read_novel_float_tip">Click the blank area to skip</string>
     <string name="reader_at_first">Reached the first page</string>
@@ -5462,7 +5462,7 @@
     <string name="rename_tag">Rename folder</string>
     <string name="repayment">Payment encountered a problem, pay again</string>
     <string name="report_follow">Report</string>
-    <string name="report_no_device_btn_text">"Can't find your device?"</string>
+    <string name="report_no_device_btn_text">"Cant find your device?"</string>
     <string name="request_calllog_permission_dialog_content">The NetDisk needs your call records for call record backup. If you don’t need this function, you can turn it off in [Settings-Privacy Settings]</string>
     <string name="request_contract_setting_permission_dialog_content_in_contacts">The NetDisk needs your address book to match the friends who are using the NetDisk, and it is more convenient to share files with them. If you do not need this function, you can turn it off in [Settings-Privacy Settings]</string>
     <string name="request_contract_setting_permission_dialog_content_in_pim">The NetDisk needs your address book for address book backup, and matches friends who are using the NetDisk to share files with them more conveniently. If you Do not need this function, you can turn it off in [Settings-Privacy Settings]</string>
@@ -5992,7 +5992,7 @@
     <string name="set_avatar_error_user_not_login">User login status is invalid. Please log in again</string>
     <string name="set_business_card_on_web">You can set the business card infor on the computer to make your business card more professional</string>
     <string name="set_cloud_album_cover_title">Set album cover</string>
-    <string name="set_coded_lock">Baidu NetDisk lock screen code</string>
+    <string name="set_coded_lock">Lock screen</string>
     <string name="set_coded_lock_success">Pwd lock set successfully</string>
     <string name="set_coded_lock_title">Set pwd</string>
     <string name="set_default_icon_success">Has been replaced by the default icon, you can return to the desktop to view</string>
@@ -6059,7 +6059,7 @@
     <string name="settings_default_icon_des">Default icon</string>
     <string name="settings_display_home_page">Home Show Story</string>
     <string name="settings_download_default_dir">Default D/L location</string>
-    <string name="settings_folders">Folders Setup</string>
+    <string name="settings_folders">Folder</string>
     <string name="settings_folders_show_card_package">Show my card pack</string>
     <string name="settings_folders_show_novel">Show my novel</string>
     <string name="settings_folders_show_purchased">Show purchased resources</string>
@@ -6129,7 +6129,7 @@
     <string name="share_dir_guide_title">The new function of the folder is online</string>
     <string name="share_dir_invalid">No permission to operate, may have been removed from sharing</string>
     <string name="share_dir_not_found">The file has been deleted or moved, please return to the list to find</string>
-    <string name="share_dir_quit_notice_complex_info">"\"You've been moved out of %2$s shared folders %1$s\""</string>
+    <string name="share_dir_quit_notice_complex_info">"\"Youve been moved out of %2$s shared folders %1$s\""</string>
     <string name="share_dir_quit_notice_info">\"You have been moved out of the shared folder %s\"</string>
     <string name="share_directory">Choose an existing folder to share</string>
     <string name="share_directory_cancel">Manage this share</string>
@@ -6266,7 +6266,7 @@
     <string name="share_sina_failed">Weibo sharing error</string>
     <string name="share_sina_success">Weibo sharing success</string>
     <string name="share_someone_image">Share photos of TA</string>
-    <string name="share_storage_dialog_content">"Shared folders only use the creator's storage space, the current creator's storage space is not enough, contact the creator to resolve"</string>
+    <string name="share_storage_dialog_content">"Shared folders only use the creators storage space, the current creators storage space is not enough, contact the creator to resolve"</string>
     <string name="share_storage_dialog_title">Not enough storage space to add</string>
     <string name="share_sub_tittle">Baidu NetDisk, enjoy what you want</string>
     <string name="share_this_file_times_limit">The file sharing times exceeded the limit. View it in the \"My Sharing\" section of the webpage</string>
@@ -6275,7 +6275,7 @@
     <string name="share_tips">Can view sharing details, cancel sharing, copy link</string>
     <string name="share_tips_certification_staff">Employees at %1$s</string>
     <string name="share_tips_certification_user_suffix">--Corporate account: %s</string>
-    <string name="share_tips_privilege">"--From the enterprise account: [%s]'s extremely fast enjoyment link"</string>
+    <string name="share_tips_privilege">"--From the enterprise account: [%s]s extremely fast enjoyment link"</string>
     <string name="share_tips_pwd">Share pwd: %s</string>
     <string name="share_tips_vip_suffix">--Share from Baidu Netdisk SVIP %s</string>
     <string name="share_title_receiver">To</string>
@@ -6284,7 +6284,7 @@
     <string name="share_to_it">Share with TA</string>
     <string name="share_to_me_dir_dismiss_by_server_complex_info">\" %1$s \" Wait %2$s Folders have been unshared because they contain illegal content</string>
     <string name="share_to_me_dir_dismiss_by_server_info">\" %s \"The folder has been unshared due to illegal illegal content and cannot be viewed</string>
-    <string name="share_to_me_empty_txt">"Shared folders you haven't joined"</string>
+    <string name="share_to_me_empty_txt">"Shared folders you havent joined"</string>
     <string name="share_to_qq">QQ</string>
     <string name="share_to_weixin">Wechat</string>
     <string name="share_to_weixin_cancel">User cancels sharing to WeChat</string>
@@ -6320,7 +6320,7 @@
     <string name="sharelink_empty">It’s empty here~</string>
     <string name="sharelink_error_common">The server is out of business, please try again later~</string>
     <string name="sharelink_error_delete">Document link expired</string>
-    <string name="sharelink_error_file_expired">"\"You're late, and the shared papers have been Cancel, next time to be early Oh\""</string>
+    <string name="sharelink_error_file_expired">"\"Youre late, and the shared papers have been Cancel, next time to be early Oh\""</string>
     <string name="sharelink_error_no_permission">You do not have access rights~</string>
     <string name="sharelink_invalid">Sharing link has expired</string>
     <string name="sharelink_save_not_login">Save for you after login</string>
@@ -6356,7 +6356,7 @@
     <string name="singkil_to_buy_tip_text">Exclusive data transfer service for SVIPs</string>
     <string name="single_conversation_setting_clean_msg">Clear message history</string>
     <string name="single_conversation_setting_clean_msg_content">Are you sure you want to clear all message records</string>
-    <string name="single_friend_not_allow_to_invite">"They can't invite you to a group because they don't add you as a friend."</string>
+    <string name="single_friend_not_allow_to_invite">"They cant invite you to a group because they dont add you as a friend."</string>
     <string name="size_kb">K</string>
     <string name="tt_video_bytesize_M">M</string>
     <string name="slow_download_cause">%1$s causes slow download</string>
@@ -6537,7 +6537,7 @@
     <string name="story_feedback">Feedback question</string>
     <string name="story_generate_again">rebuild</string>
     <string name="story_generate_failed">Video generation failed, please try again later</string>
-    <string name="story_guide_close_confirm_content">"\"Make sure you don't look at Baidu Netdisk A story generated for your intelligence?\""</string>
+    <string name="story_guide_close_confirm_content">"\"Make sure you dont look at Baidu Netdisk A story generated for your intelligence?\""</string>
     <string name="story_guide_close_confirm_title">Turn off story feeds</string>
     <string name="story_guide_description">%1$s  %2$s</string>
     <string name="story_has_apply_generate_story">A priority story has been requested for you</string>
@@ -6800,10 +6800,10 @@
     <string name="system_directory_conflict">Conflict with system folder name</string>
     <string name="system_msg_setting">system messages</string>
     <string name="system_notification">System notifi</string>
-    <string name="system_notification_empty">"Haven't received notification"</string>
+    <string name="system_notification_empty">"Havent received notification"</string>
     <string name="system_notification_load_failed">Loading failed, please try again later</string>
     <string name="system_notification_loading">Notification information is loading, please wait…</string>
-    <string name="tab_about_me">Mine</string>
+    <string name="tab_about_me">Profile</string>
     <string name="tab_album_union">Album</string>
     <string name="tab_baby_album">Baby Album</string>
     <string name="tab_classfication">Category Wise</string>
@@ -6831,7 +6831,7 @@
     <string name="tag_action_move">Move</string>
     <string name="tag_action_save">Save to the NetDisk</string>
     <string name="tag_delete_confirm">This will delete the share in the folder at the same time. Do you want to continue</string>
-    <string name="tag_description">"Group owner's organization"</string>
+    <string name="tag_description">"Group owners organization"</string>
     <string name="tag_msg_type_draft">[DRAFT]</string>
     <string name="tag_msg_type_file">[file]</string>
     <string name="tag_name_changed_fail">Update failed</string>
@@ -6933,7 +6933,7 @@
     <string name="tip_certification_expired">Corporate Certification Expiration. Go to the web and re-authenticate.</string>
     <string name="tip_fifth">• Transfers are not supported on the day the membership expires.</string>
     <string name="tip_first">• Online member time transfer is only supported within 30days. Users can directly charge the purchased goods by entering their mobile phone number in online channels outside Netdisk (such as Taobao App, China Merchants Bank App, China Unicom App, etc.).</string>
-    <string name="tip_forth">"• Currently, each member's order can only be transferred once, and it is irreversible after the transfer."</string>
+    <string name="tip_forth">"• Currently, each members order can only be transferred once, and it is irreversible after the transfer."</string>
     <string name="tip_overdue_personal">Lost privilege %s days, buy now></string>
     <string name="tip_overdue_role_personal">Lost privileges for %sdays. Contact your manager to purchase.</string>
     <string name="tip_privilege_personal">Enjoy personal business card rights, buy now</string>
@@ -7133,8 +7133,8 @@
     <string name="tradeplatform_favorite_title">My Favorites</string>
     <string name="tradeplatform_feed_attent_count">%1$s followers</string>
     <string name="tradeplatform_feed_panta_count">Get %1$s times</string>
-    <string name="tradeplatform_feedback_blacklist">"Will no longer recommend this author's work"</string>
-    <string name="tradeplatform_feedback_feed_type">"Don't want to watch: %s"</string>
+    <string name="tradeplatform_feedback_blacklist">"Will no longer recommend this authors work"</string>
+    <string name="tradeplatform_feedback_feed_type">"Dont want to watch: %s"</string>
     <string name="tradeplatform_free">Free</string>
     <string name="tradeplatform_free_get">Get for Free</string>
     <string name="tradeplatform_free_part_title">Free area</string>
@@ -7393,7 +7393,7 @@
     <string name="trans_dialog_restore_cancel">Ok</string>
     <string name="trans_dialog_restore_check_cancel">Continue to transfer</string>
     <string name="trans_dialog_restore_check_content">「%1$s」 and so on %2$d folder files last transfer time exceeded the number can not be transferred, the opening of SVIPs, a single folder transfer number can rise to 50,000</string>
-    <string name="trans_dialog_restore_check_single_content">"The number of files in folder 「%1$s」 can't be transferred at the last time they were transferred, and the number of transfers in a single folder can rise to 50,000 after the SVIP is opened"</string>
+    <string name="trans_dialog_restore_check_single_content">"The number of files in folder 「%1$s」 cant be transferred at the last time they were transferred, and the number of transfers in a single folder can rise to 50,000 after the SVIP is opened"</string>
     <string name="trans_dialog_restore_check_svip_content">The files in %2$d folders such as \"%1$s\" have exceeded the limit and cannot be transferred last time. Reduce some files and try again~</string>
     <string name="trans_dialog_restore_check_svip_single_content">The number of files in the folder \"%1$s\" was exceeded last time and cannot be transferred. Try reducing some files~</string>
     <string name="trans_dialog_restore_check_title">Exceeded quantity limit</string>
@@ -7420,7 +7420,7 @@
     <string name="trans_file_send_empty">No file sent yet</string>
     <string name="trans_file_send_fail">Sending failed, please try again</string>
     <string name="trans_file_send_overflow">Only 500 files can be sent at a time</string>
-    <string name="trans_file_send_self">"Don't support sharing files to yourself"</string>
+    <string name="trans_file_send_self">"Dont support sharing files to yourself"</string>
     <string name="trans_file_send_success">Sent successfully</string>
     <string name="trans_file_send_uid_limit">The number of senders has reached the upper limit</string>
     <string name="trans_file_sending">sending…</string>
@@ -7471,7 +7471,7 @@
     <string name="trans_part_send_fail">%d file sharing failed</string>
     <string name="trans_pcode_send">Select file to send</string>
     <string name="trans_pcode_send_title">Doc collection</string>
-    <string name="trans_pop_menu_sort_no_empty">"Don't look at empty folders"</string>
+    <string name="trans_pop_menu_sort_no_empty">"Dont look at empty folders"</string>
     <string name="trans_pop_menu_sort_save_no">Just look at unloaded</string>
     <string name="trans_pop_menu_sort_save_yes">Just look at the transferred</string>
     <string name="trans_previewer_no_support">Preview is not supported or has been deleted</string>
@@ -7546,7 +7546,7 @@
     <string name="trans_work_share_type">; Only supports sending files in %s format</string>
     <string name="trans_work_title_null_notice">Please enter an assignment title</string>
     <string name="trans_wrok_desc_format">%1$d/%2$d</string>
-    <string name="trans_wrok_title_length_over">"Don't type more"</string>
+    <string name="trans_wrok_title_length_over">"Dont type more"</string>
     <string name="transfer_account_content">You will transfer your member assets to:</string>
     <string name="transfer_account_tips">\"The account corresponding to each mobile phone can only participate once before.</string>
     <string name="transfer_backup_group_tip_title">Backup instructions</string>
@@ -7560,7 +7560,7 @@
     <string name="transfer_btn">To transfer</string>
     <string name="transfer_coupon_is_coming">The deposit coupon is coming to you, please try again~</string>
     <string name="transfer_dialog_checkbox">I have read and agreed to the \"Rights and Obligations Transfer Agreement\", \"Baidu Netdisk Service Agreement\", \"Privacy Agreement\", \"Member Service Agreement\" and \"Automatic Renewal Agreement\" from Duyou Company, so as to realize that Duyou Technology can provide Baidu Netdisk service to me.</string>
-    <string name="transfer_dialog_context">"Dear Baidu Netdisk users: In order to allow you to enjoy better and professional cloud storage services, the main body of Baidu Netdisk operations will be migrated from Beijing Baidu Netcom Technology Co., Ltd. to Baidu's Beijing Duyou Technology Co., Ltd. (hereinafter referred to as \"Duyou\" the company\"). The migration of this operating entity will not affect the services and rights and benefits that Baidu NetDisk users have already enjoyed."</string>
+    <string name="transfer_dialog_context">"Dear Baidu Netdisk users: In order to allow you to enjoy better and professional cloud storage services, the main body of Baidu Netdisk operations will be migrated from Beijing Baidu Netcom Technology Co., Ltd. to Baidus Beijing Duyou Technology Co., Ltd. (hereinafter referred to as \"Duyou\" the company\"). The migration of this operating entity will not affect the services and rights and benefits that Baidu NetDisk users have already enjoyed."</string>
     <string name="transfer_download_path">D/L the file to: %1$s</string>
     <string name="transfer_error">Save failed</string>
     <string name="transfer_error_by_network">Network exception, save failed</string>
@@ -8386,7 +8386,7 @@
     <string name="wallet_phone_charge_payresult_paydesc">SMS will be notified within 10 mins</string>
     <string name="wallet_phone_charge_result_paying">In payment</string>
     <string name="wallet_phone_charge_result_title">Deposit result</string>
-    <string name="wallet_phone_traffic_payresult_paydesc">"For successful data recharge, please refer to the operator's SMS"</string>
+    <string name="wallet_phone_traffic_payresult_paydesc">"For successful data recharge, please refer to the operators SMS"</string>
     <string name="wallet_plugin_downloading">D/Ling</string>
     <string name="wallet_plugin_network_style_tips">(Hint: non-wifi environment)</string>
     <string name="wallet_plugin_update_content_tips">In order to make you get a better experience, please update quickly</string>
@@ -8576,7 +8576,7 @@
     <string name="windows_unlock_system_error_error_code">System exception</string>
     <string name="windows_unlock_user_atypism">Inconsistent with the computer login account (%s)</string>
     <string name="wo_convert_wating_tips">Please wait, the doc is being converted...</string>
-    <string name="word_ocr">Text recognition</string>
+    <string name="word_ocr">Scan text</string>
     <string name="word_recovery_service_tips">File recovery service is newly launched!</string>
     <string name="word_recovery_service_tips_sub">Turn on the service to prevent the deleted files from being unable to be retrieved</string>
     <string name="word_scan_book">Book scan</string>
@@ -8904,7 +8904,7 @@
     <string name="app_backup_server_error">Server Error</string>
     <string name="app_default_name">application</string>
     <string name="app_icon_settings">APP icon</string>
-    <string name="app_name">Badidu Net Disk</string>
+    <string name="app_name">Baidu Net Disk</string>
     <string name="app_name_p2pshare">Lightning mutual transmission</string>
     <string name="app_name_with_space">Save to network disk</string>
     <string name="app_name_with_work_space">Save to synchronous space</string>
@@ -8930,7 +8930,7 @@
     <string name="audio_close_after_60m">60 minutes</string>
     <string name="audio_close_after_90m">90 minutes</string>
     <string name="audio_codec">audio-codec</string>
-    <string name="audio_file_count">%dFile</string>
+    <string name="audio_file_count">%d File</string>
     <string name="audio_from">source</string>
     <string name="audio_goto_collection_list">View now</string>
     <string name="audio_list_title">Add audio</string>
@@ -8940,10 +8940,10 @@
     <string name="audio_play_flow_use_tip_confirm">understood</string>
     <string name="audio_play_list_add_file">add files</string>
     <string name="audio_play_title_default">Baidu network disk</string>
-    <string name="audioplay_exit">quit</string>
+    <string name="audioplay_exit">Quit</string>
     <string name="audioplay_title">Exit play</string>
     <string name="authenticator_change_account_button">Switch account</string>
-    <string name="authenticator_ok">确认</string>
+    <string name="authenticator_ok">Ok</string>
     <string name="authority_button">Authorize</string>
     <string name="authorization_dialog_cancel">Cancel</string>
     <string name="authorization_dialog_confirm">Authorize</string>
@@ -9033,7 +9033,7 @@
     <string name="barcode_identify_image_eror">Failure</string>
     <string name="barcode_input_title">Handmade barcode</string>
     <string name="barcode_introduction_button">understood</string>
-    <string name="barcode_introduction_confirm_button_title">scan it</string>
+    <string name="barcode_introduction_confirm_button_title">Scan</string>
     <string name="barcode_introduction_later_title">Later</string>
     <string name="barcode_loading_message">loading…</string>
     <string name="barcode_manual_input_confirm">Sure</string>
@@ -9047,7 +9047,7 @@
     <string name="barcode_refresh_day_ago">Days ago</string>
     <string name="barcode_refresh_time_recently">just</string>
     <string name="barcode_result_url_file_title">document</string>
-    <string name="barcode_scan_title">scan it</string>
+    <string name="barcode_scan_title">Scan</string>
     <string name="barcode_selectfile_error">Picture does not exist</string>
     <string name="barcode_take_picture">Photograph</string>
     <string name="barcode_type_sms">Short message</string>
@@ -9097,7 +9097,7 @@
     <string name="bd_wallet_debit">Debit Card</string>
     <string name="bd_wallet_fingerprint_close_tip">Determine to close fingerprint payment?</string>
     <string name="bd_wallet_fingerprint_enable_dialog_title">"Please send a fingerprint to your mobile phone system first. Re-opening small fingerprint payment"</string>
-    <string name="bd_wallet_fingerprint_no_pwd_tips">You have not set up your phone payment password, you can't open the fingerprint payment function!</string>
+    <string name="bd_wallet_fingerprint_no_pwd_tips">You have not set up your phone payment password, you cant open the fingerprint payment function!</string>
     <string name="bd_wallet_fingerprint_set_pwd">Set up payment password</string>
     <string name="bd_wallet_fingerprint_use_pwd">Please use your password to continue payment</string>
     <string name="bd_wallet_gathering_failed">The payment failed!</string>
@@ -9111,7 +9111,7 @@
     <string name="bd_wallet_not_login">"Login miniature finance, view transaction records
 Skille full protection of your transaction information security"</string>
     <string name="bd_wallet_own_support_banks">Supported bank</string>
-    <string name="bd_wallet_passfree_no_pwd_tips">You have not yet set the phone to pay your password, you can't open the micro-priority!</string>
+    <string name="bd_wallet_passfree_no_pwd_tips">You have not yet set the phone to pay your password, you cant open the micro-priority!</string>
     <string name="bd_wallet_pay_security_auth">Verified</string>
     <string name="bd_wallet_payresult_title">Payment result</string>
     <string name="bd_wallet_payway">payment method</string>
@@ -9399,7 +9399,7 @@ Skille full protection of your transaction information security"</string>
     <string name="category_enterprise_file">Corporate document</string>
     <string name="category_music">music</string>
     <string name="category_picture">picture</string>
-    <string name="category_recent">recently</string>
+    <string name="category_recent">Recently</string>
     <string name="category_tab_all_file">all files</string>
     <string name="category_tab_file_type">file type</string>
     <string name="category_video">video</string>
@@ -9492,7 +9492,7 @@ Skille full protection of your transaction information security"</string>
     <string name="cloudimage_timeline_cluster_month">moon</string>
     <string name="cloudimage_timeline_cluster_year">year</string>
     <string name="cloudimage_timeline_title">Time axis</string>
-    <string name="cloudp2p_avoid_disruption_setting">privacy setting</string>
+    <string name="cloudp2p_avoid_disruption_setting">Privacy setting</string>
     <string name="cloudp2p_batchtransfer_quit_activity_dialog_title">hint</string>
     <string name="cloudp2p_batchtransfer_running_task_dialog_confirm">understood</string>
     <string name="cloudp2p_batchtransfer_running_task_dialog_title">hint</string>
@@ -9632,7 +9632,7 @@ Skille full protection of your transaction information security"</string>
     <string name="delete_share_directory_member_cancel">Cancel</string>
     <string name="delete_share_directory_member_ok">Remove</string>
     <string name="delete_success">successfully deleted</string>
-    <string name="delete_video_file_show_toast"><Data>"&lt;font color='#AFB3BF'> | &lt;/font>&lt;font color='#06A7FF'>Watch online&lt;/font>"</Data></string>
+    <string name="delete_video_file_show_toast"><Data>"&lt;font color=#AFB3BF> | &lt;/font>&lt;font color=#06A7FF>Watch online&lt;/font>"</Data></string>
     <string name="delete_workspace_alert_message">After deleting, each device will be synchronized to delete the file, which can retrieve the deleted file in the synchronous space recycle station.</string>
     <string name="delete_workspace_alert_title">Delete files from synchronous space and all devices?</string>
     <string name="deleting_file_msg">deleting…</string>
@@ -9678,7 +9678,7 @@ Skille full protection of your transaction information security"</string>
     <string name="dialog_positive_title_ok">Sure</string>
     <string name="dialog_refresh">Refresh</string>
     <string name="dialog_tip_fail_i_know">知道了</string>
-    <string name="dialog_tip_fail_share_upload_description">Shared folder creator's space is insufficient</string>
+    <string name="dialog_tip_fail_share_upload_description">Shared folder creators space is insufficient</string>
     <string name="dialog_tip_fail_title">hint</string>
     <string name="dialog_title_prompt">hint</string>
     <string name="dialog_title_save_long_picture_failed">Save failed</string>
@@ -9741,7 +9741,7 @@ Skille full protection of your transaction information security"</string>
     <string name="downloading_x">downloading...%1$s</string>
     <string name="dropped_duration">dropped-duration</string>
     <string name="dxm_ebpay_add_bankcard">Add a bank card</string>
-    <string name="dxm_ebpay_auto_fill_sms_no_permission">No permissions of SMS, you can't automatically fill in the verification code</string>
+    <string name="dxm_ebpay_auto_fill_sms_no_permission">No permissions of SMS, you cant automatically fill in the verification code</string>
     <string name="dxm_ebpay_bank_phone_title">Mobile phone number</string>
     <string name="dxm_ebpay_bind_card_result">Add card results</string>
     <string name="dxm_ebpay_bind_card_success">Tied success</string>
@@ -9785,18 +9785,18 @@ Skille full protection of your transaction information security"</string>
     <string name="dxm_wallet_bank_info_change">replace</string>
     <string name="dxm_wallet_base_actual_payment">Payment amount</string>
     <string name="dxm_wallet_base_bdaction_more">More</string>
-    <string name="dxm_wallet_base_bdaction_return">return</string>
+    <string name="dxm_wallet_base_bdaction_return">Return</string>
     <string name="dxm_wallet_base_bind_for_pay_actual_payment">actual payment</string>
-    <string name="dxm_wallet_base_close">closure</string>
+    <string name="dxm_wallet_base_close">Close</string>
     <string name="dxm_wallet_base_contacts_not_up">Unable to release mobile phone contacts, please open the address book in the settings and try again.</string>
-    <string name="dxm_wallet_base_delete">delete</string>
+    <string name="dxm_wallet_base_delete">Delete</string>
     <string name="dxm_wallet_base_fp_fix_sure">Do not replace</string>
     <string name="dxm_wallet_base_fp_fix_tip">You may enter an error, is it replaced to</string>
     <string name="dxm_wallet_base_help_phone_no_dial">95055</string>
     <string name="dxm_wallet_base_loading">Loading, please wait…</string>
     <string name="dxm_wallet_base_loading_new">Degree small</string>
     <string name="dxm_wallet_base_loading_new_for_la">loading…</string>
-    <string name="dxm_wallet_base_logout">sign out</string>
+    <string name="dxm_wallet_base_logout">Sign out</string>
     <string name="dxm_wallet_base_multi_window_close">Please cut it to full screen mode and then use this feature.</string>
     <string name="dxm_wallet_base_multi_window_tips">The current interface may display abnormal in sputum mode</string>
     <string name="dxm_wallet_base_no_more">All loaded</string>
@@ -9817,7 +9817,7 @@ Skille full protection of your transaction information security"</string>
     <string name="dxm_wallet_base_permission_dialog_record_audio">In order to provide you with authentication service, please open the microphone permissions.</string>
     <string name="dxm_wallet_base_permission_negative">Cancel</string>
     <string name="dxm_wallet_base_permission_positive">continue</string>
-    <string name="dxm_wallet_base_please_login">You haven't logged in yet, please log in first.</string>
+    <string name="dxm_wallet_base_please_login">You havent logged in yet, please log in first.</string>
     <string name="dxm_wallet_base_pull_refresh_pull_tips">drop down</string>
     <string name="dxm_wallet_base_pull_refresh_tips">renew</string>
     <string name="dxm_wallet_base_refresh_loading">Skilly small financial security loading ...</string>
@@ -9838,7 +9838,7 @@ Skille full protection of your transaction information security"</string>
     <string name="dxm_wallet_base_security_pp_top_banner">inPaymentSecurity,YouCanOpenPrivacyProtection</string>
     <string name="dxm_wallet_base_select_phone_fail">noMobilePhoneAddressRecord,OrAddressBook</string>
     <string name="dxm_wallet_base_set_pwd_click">clickMeToOpen</string>
-    <string name="dxm_wallet_base_set_pwd_tips">youHaven'tSetASixDigitPaymentPassword,YouCan'tUseTheBalanceToPay</string>
+    <string name="dxm_wallet_base_set_pwd_tips">youHaventSetASixDigitPaymentPassword,YouCantUseTheBalanceToPay</string>
     <string name="dxm_wallet_base_sms_not_up">unableToTuneSms,PleaseOpenTheSmsAppInTheSettingsAndTryAgain</string>
     <string name="dxm_wallet_base_string_service_forbidden">thisServiceIsNotAvailable</string>
     <string name="dxm_wallet_base_third_login_negative">return</string>
@@ -9932,7 +9932,7 @@ Skille full protection of your transaction information security"</string>
 • noReservation,MobilePhoneNumberForgotOrDeactivate,CanContactTheBankToReserveOrUpdate"</string>
     <string name="ebpay_modify_success">successfullyModified</string>
     <string name="ebpay_name">name</string>
-    <string name="ebpay_name_tip">forYourAccountSecurity,YouCanOnlyBindCardholders'BankCards</string>
+    <string name="ebpay_name_tip">forYourAccountSecurity,YouCanOnlyBindCardholders BankCards</string>
     <string name="ebpay_no_network">networkDoesNotForce,PleaseTryAgainLater</string>
     <string name="ebpay_not_exit">cancel</string>
     <string name="ebpay_operation_tip4">"• ifTheReservedMobilePhoneNumberHasBeenDisabled,PleaseContactTheBankCustomerServiceInquiry
@@ -10222,7 +10222,7 @@ Skille full protection of your transaction information security"</string>
     <string name="identify_error_negative_bt">I see</string>
     <string name="identify_error_positive_bt">help</string>
     <string name="ignore">neglect</string>
-    <string name="image_category_type_title_barcode">scan it</string>
+    <string name="image_category_type_title_barcode">Scan QR</string>
     <string name="image_category_type_title_chars">Text identification</string>
     <string name="image_count">%dopen</string>
     <string name="image_file_size">size:%s</string>
@@ -10308,7 +10308,7 @@ Skille full protection of your transaction information security"</string>
     <string name="ksad_page_load_no_more_tip">No more</string>
     <string name="ksad_page_loading_data_error_sub_title">Content acquisition failed, please click Retry</string>
     <string name="ksad_page_loading_data_error_title">Empty</string>
-    <string name="ksad_page_loading_data_limit_error_title">Today's wonderful content has been finished, please come back tomorrow.</string>
+    <string name="ksad_page_loading_data_limit_error_title">Todays wonderful content has been finished, please come back tomorrow.</string>
     <string name="ksad_page_loading_error_retry">Retry</string>
     <string name="ksad_page_loading_network_error_sub_title">Please check the network connection</string>
     <string name="ksad_page_loading_network_error_title">Network does not force</string>
@@ -10415,7 +10415,7 @@ Skille full protection of your transaction information security"</string>
     <string name="login">Baidu account login</string>
     <string name="login_agreement">Register or log in on behalf of you have read and agreed:</string>
     <string name="login_to_pc">Log in</string>
-    <string name="logout">sign out</string>
+    <string name="logout">lLogout</string>
     <string name="long_picture_upload_network_error">Network abnormal network, please try again</string>
     <string name="look_for_friend">check the details</string>
     <string name="lottery_edit_retake">Replay</string>
@@ -10428,21 +10428,21 @@ Skille full protection of your transaction information security"</string>
     <string name="main_note_title_bar_content">notes</string>
     <string name="manager_over_limit_title">Exceed the quantity limit</string>
     <string name="manual_backup_condition_loading">Please wait…</string>
-    <string name="mark_over_limit_tip_cancel">understood</string>
+    <string name="mark_over_limit_tip_cancel">Understood</string>
     <string name="max_photo_num">999+</string>
     <string name="media_library_list_retry">Reload</string>
     <string name="megabyteShort">MB</string>
-    <string name="member_normal">user</string>
-    <string name="member_svip">Super member</string>
-    <string name="member_vip">member</string>
-    <string name="menu_copy">copy</string>
-    <string name="menu_item_create_folder">new folder</string>
+    <string name="member_normal">USser</string>
+    <string name="member_svip">SVip</string>
+    <string name="member_vip">Vip</string>
+    <string name="menu_copy">Copy</string>
+    <string name="menu_item_create_folder">New folder</string>
     <string name="menu_item_order">Sort</string>
     <string name="menu_item_refresh">Refresh</string>
-    <string name="menu_item_search">search</string>
+    <string name="menu_item_search">Search</string>
     <string name="menu_item_settings">set up</string>
     <string name="message_content_file_list_file_name">• %s</string>
-    <string name="message_setting">Message reminder settings</string>
+    <string name="message_setting">Message setting</string>
     <string name="mine_work_space_text">My synchronous space</string>
     <string name="mini_program">Applets</string>
     <string name="miui_sync_content">Click to view</string>
@@ -10644,7 +10644,7 @@ Skille full protection of your transaction information security"</string>
     <string name="numeric_keyboard_keycode_three">3</string>
     <string name="numeric_keyboard_keycode_two">2</string>
     <string name="numeric_keyboard_keycode_zero">0</string>
-    <string name="ocr_image_to_pdf">Document scan</string>
+    <string name="ocr_image_to_pdf">Document</string>
     <string name="ocr_search_back">return</string>
     <string name="ocr_search_cancle">Cancel</string>
     <string name="ocr_search_help_title">How to correctly identify and search text</string>
@@ -10847,9 +10847,9 @@ Skille full protection of your transaction information security"</string>
     <string name="prologue_splash_skip_text">jump over</string>
     <string name="prologue_united_scheme_err_message_action_acl_check_fail">Access control verification failed</string>
     <string name="prologue_united_scheme_err_message_action_allow_close">Conducting the protocol correspondence power switch is not allowed</string>
-    <string name="prologue_united_scheme_err_message_action_notfound">Can't find a way to transfer protocols</string>
+    <string name="prologue_united_scheme_err_message_action_notfound">Cant find a way to transfer protocols</string>
     <string name="prologue_united_scheme_err_message_action_sec_check_fail">Security check failed</string>
-    <string name="prologue_united_scheme_err_message_module_notfound">Can't find the control of the agreement</string>
+    <string name="prologue_united_scheme_err_message_module_notfound">Cant find the control of the agreement</string>
     <string name="prologue_united_scheme_err_message_not_support">Trouble up the protocol version does not support</string>
     <string name="prologue_united_scheme_err_message_ok">Call success</string>
     <string name="prologue_united_scheme_err_message_params_parse_fail">Resolution failure, please check if the parameter is correct</string>
@@ -11043,9 +11043,9 @@ Automatic backups can be made more in time in the background."</string>
     <string name="save_to_cloud">Save to network disk</string>
     <string name="saveing_image">Saving…</string>
     <string name="scan_join_group_cant_join_other_reason">Join group failed</string>
-    <string name="scan_qr">scan it</string>
-    <string name="scan_qr_login">scan it</string>
-    <string name="sdk_flow_left">quit</string>
+    <string name="scan_qr">Scan QR</string>
+    <string name="scan_qr_login">Scan QR</string>
+    <string name="sdk_flow_left">Quit</string>
     <string name="sdk_flow_right">accept</string>
     <string name="search_box_hint_text_in_novel">search</string>
     <string name="search_category_all">all</string>
@@ -11101,7 +11101,7 @@ Automatic backups can be made more in time in the background."</string>
     <string name="seven_days">7 days</string>
     <string name="share">share</string>
     <string name="share_card_info_buy_package">Buy package</string>
-    <string name="share_card_info_contact_admin">I can't use it, you can contact the administrator to buy</string>
+    <string name="share_card_info_contact_admin">I cant use it, you can contact the administrator to buy</string>
     <string name="share_card_info_package_only">Package exclusive</string>
     <string name="share_copy_privacy_link">copy Link</string>
     <string name="share_cover_camera">Photograph</string>
@@ -11113,7 +11113,7 @@ Automatic backups can be made more in time in the background."</string>
     <string name="share_directory_member_see_more">see more</string>
     <string name="share_enterprise_poster_monments">Circle of friends</string>
     <string name="share_enterprise_poster_pay">Go buy</string>
-    <string name="share_enterprise_poster_save">keep</string>
+    <string name="share_enterprise_poster_save">Save</string>
     <string name="share_enterprise_poster_save_success">Saved successfully</string>
     <string name="share_enterprise_poster_wechat">WeChat</string>
     <string name="share_error">Sharing failed</string>
@@ -11122,9 +11122,9 @@ Automatic backups can be made more in time in the background."</string>
     <string name="share_file_always_valid">Permanent</string>
     <string name="share_file_interface_failed_error">Sharing failed, please try again later</string>
     <string name="share_file_network_error">Network abnormal network, please check the network</string>
-    <string name="share_file_size">大小：%s</string>
-    <string name="share_filesize">大小：%s</string>
-    <string name="share_link">复制链接</string>
+    <string name="share_file_size">Size:%s</string>
+    <string name="share_filesize">Size:%s</string>
+    <string name="share_link">Copy Link</string>
     <string name="share_link_appeal_button_tips_normal">Link invalid appeal</string>
     <string name="share_link_appeal_button_tips_normal_by_cert_user">Enterprise exclusive complaint channel</string>
     <string name="share_link_appeal_certification_enter">Free application of corporate certification, experience exclusive service</string>
@@ -11424,7 +11424,7 @@ Automatic backups can be made more in time in the background."</string>
     <string name="tt_appdownloader_notification_prepare">preparing</string>
     <string name="tt_appdownloader_notification_request_btn_no">download now</string>
     <string name="tt_appdownloader_notification_request_btn_yes">Set</string>
-    <string name="tt_appdownloader_notification_request_message">In order to easily control the download task in the notification bar, please open the notification in the settings, if you don't need to download directly</string>
+    <string name="tt_appdownloader_notification_request_message">In order to easily control the download task in the notification bar, please open the notification in the settings, if you dont need to download directly</string>
     <string name="tt_appdownloader_notification_waiting_download_complete_handler">处理中</string>
     <string name="tt_appdownloader_resume_in_wifi"> You are currently in a mobile network, do you need to restore downloads in a Wi-Fi environment?</string>
     <string name="tt_appdownloader_tip">hint</string>
@@ -11501,7 +11501,7 @@ Automatic backups can be made more in time in the background."</string>
     <string name="united_scheme_confirm_negative_txt">Refuse</string>
     <string name="united_scheme_confirm_positive_txt">confirm</string>
     <string name="unlock_activity_forget_passwd">forget the password</string>
-    <string name="unlock_wulei_more_voice">Unlock Wu Lei's brother more voice content</string>
+    <string name="unlock_wulei_more_voice">Unlock Wu Leis brother more voice content</string>
     <string name="unzip_dialog_title">unzip files</string>
     <string name="unzip_error_file_encryption">Compressed package is encrypted</string>
     <string name="unzip_error_file_exist">The same name file already exists</string>
@@ -11610,7 +11610,7 @@ Automatic backups can be made more in time in the background."</string>
     <string name="wallet_scancode_copy_success">Copy success</string>
     <string name="wallet_scancode_desc">Place the QR code into the scanning box, you can scan</string>
     <string name="wallet_scancode_error">No QR code is found in the photo/条形码</string>
-    <string name="wallet_scancode_title">scan it</string>
+    <string name="wallet_scancode_title">Scan QR</string>
     <string name="wallet_tab_pull_to_refresh_from_bottom_refreshing_label">@string/wallet_refresh_loading</string>
     <string name="wallet_tab_pull_to_refresh_from_bottom_release_label">@string/wallet_refresh_release</string>
     <string name="wallet_transfe_pay_success">Payment success</string>
