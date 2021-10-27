@@ -5029,7 +5029,7 @@
     <string name="print_not_backup">Only backed up photos can be printed</string>
     <string name="print_over_limit">\"You can add up to 9 files at a time, click [Go to Print] to add more files\"</string>
     <string name="print_over_limit_confirm">Go to print</string>
-    <string name="privacy_setting">privacy settings</string>
+    <string name="privacy_setting">Privacy settings</string>
     <string name="privilege_add">OK to add</string>
     <string name="privilege_backup_change_background_info">Due to the feature update, your video and file backup have been stopped. Go and check it out~</string>
     <string name="privilege_backup_change_background_ok">Enter Baidu NetDisk to view</string>
@@ -10415,7 +10415,7 @@ Skille full protection of your transaction information security"</string>
     <string name="login">Baidu account login</string>
     <string name="login_agreement">Register or log in on behalf of you have read and agreed:</string>
     <string name="login_to_pc">Log in</string>
-    <string name="logout">lLogout</string>
+    <string name="logout">Logout</string>
     <string name="long_picture_upload_network_error">Network abnormal network, please try again</string>
     <string name="look_for_friend">check the details</string>
     <string name="lottery_edit_retake">Replay</string>
@@ -11243,7 +11243,7 @@ Automatic backups can be made more in time in the background."</string>
     <string name="tab_share_confirm">confirm</string>
     <string name="tab_transfer">transmission</string>
     <string name="tab_transferlist">Transmission list</string>
-    <string name="tag_action_delete">delete</string>
+    <string name="tag_action_delete">Delete</string>
     <string name="tag_action_rename">Rename</string>
     <string name="target_dir_file_exist">This file exists in the target folder</string>
     <string name="tcp_read_over_time_error">Network abnormal network, please check the network</string>

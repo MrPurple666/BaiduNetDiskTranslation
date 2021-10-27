@@ -1,6 +1,3 @@
-
-            <!-- Last update: 10/28/2021 -->
-            <!-- zlo1supp0rt@gmail.com -->
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="EPUB_ENCRYPT">EPUB файл зашифрован</string>
@@ -406,7 +403,7 @@ ZloiSupport(2020-2021"</string>
     <string name="aiapps_gamenow_install_guide_content">Оборудование и персональные данные легко применяются к неизвестным атакам приложений источника, а точка позволяет согласиться нести риск этого.</string>
     <string name="aiapps_gamenow_install_guide_title">Вы разрешаете приложения для установки игрового центра Baidu?</string>
     <string name="aiapps_gamenow_network_disconnect">Сетевые аномалии, пожалуйста, попробуйте позже позже</string>
-    <string name="aiapps_gamenow_notification">Играть в тысячи игр Baidu, установите 88 юаней наличными красными конвертом-></string>
+    <string name="aiapps_gamenow_notification">Играть в тысячи игр Baidu, установите 88 ¥ей наличными красными конвертом-></string>
     <string name="aiapps_gamenow_recommend_exit">Продолжайте выход</string>
     <string name="aiapps_gamenow_title">Групповая равнина</string>
     <string name="aiapps_goto_clean_activity_fail">Очистка и провал, рекомендуется вручную удалить другие приложения</string>
@@ -879,7 +876,7 @@ ZloiSupport(2020-2021"</string>
     <string name="baby_born_100_days">100 дней</string>
     <string name="baby_born_birthday">день рождения</string>
     <string name="baby_born_month">%1$d мес</string>
-    <string name="baby_born_one_month">полная луна</string>
+    <string name="baby_born_one_month">полная Мес</string>
     <string name="baby_born_over_one_year">%1$d лет %2$d мес</string>
     <string name="baby_born_today">Ребенок родился</string>
     <string name="baby_gender">Пол</string>
@@ -1251,7 +1248,7 @@ ZloiSupport(2020-2021"</string>
     <string name="bd_wallet_coupon_detail_fail">Не удалось запросить информацию о купоне, см. позже</string>
     <string name="bd_wallet_coupon_detail_more">Дополнительная информация</string>
     <string name="bd_wallet_coupon_detail_tips">Воспользуйтесь этим предложением, когда у вас небольшой объем финансового потребления</string>
-    <string name="bd_wallet_coupon_money_unit">Юань</string>
+    <string name="bd_wallet_coupon_money_unit">¥</string>
     <string name="bd_wallet_coupon_pos_tip">На карту магазина, чтобы насладиться скидкой</string>
     <string name="bd_wallet_credit">кредитная карта</string>
     <string name="bd_wallet_debit">Дебетовая карточка</string>
@@ -1331,7 +1328,7 @@ Skille полная защита вашей информационной без�
     <string name="bd_wallet_withhold_success">Открыть и оплатить успех</string>
     <string name="bd_wallet_withhold_tips">Бесплатный платеж</string>
     <string name="bd_wallet_withhold_title">Небольшая полная оплата</string>
-    <string name="bd_wallet_yuan">%1$sЮань</string>
+    <string name="bd_wallet_yuan">%1$s ¥</string>
     <string name="bdbox_scheme_version_not_match">Версия приложения Baidu низкая, не поддерживайте это, пожалуйста, обновите новую версию.</string>
     <string name="bdbox_scheme_version_not_match_cancel">Oтмена</string>
     <string name="bdbox_scheme_version_not_match_tip">Обновить подсказку</string>
@@ -1343,7 +1340,7 @@ Skille полная защита вашей информационной без�
     <string name="bdreader_add_shelf">Присоединяйтесь к книжной полке</string>
     <string name="bdreader_album_text">Атлас(%sоткрытым)</string>
     <string name="bdreader_app_name">Подключаемый модуль Baidu для чтения</string>
-    <string name="bdreader_auto_buy_auto_scroll">Автоматически покупка,可在设置中关闭</string>
+    <string name="bdreader_auto_buy_auto_scroll">Автоматически покупка,Может быть закрыт в настройках</string>
     <string name="bdreader_auto_buy_guide">Автоматизированная покупка, вы можете отключить его здесь</string>
     <string name="bdreader_auto_scroll">Автоматическая страница</string>
     <string name="bdreader_auto_scroll_guide">Новые автоматические страницы страницы</string>
@@ -1355,7 +1352,7 @@ Skille полная защита вашей информационной без�
     <string name="bdreader_back">Назад</string>
     <string name="bdreader_background">​​Фон</string>
     <string name="bdreader_background_color_brown">коричневый</string>
-    <string name="bdreader_background_color_default">дефолт</string>
+    <string name="bdreader_background_color_default">По умол</string>
     <string name="bdreader_background_color_green">зеленый</string>
     <string name="bdreader_background_color_pink">розовый</string>
     <string name="bdreader_background_color_yellow">желтый</string>
@@ -2387,8 +2384,8 @@ Skille полная защита вашей информационной без�
     <string name="cloud_image_timeline_cluster_month">Ежемесячный просмотресячный просмотр</string>
     <string name="cloud_image_timeline_cluster_year">Следующий видующий вид</string>
     <string name="cloud_image_timeline_default_cluster">Вид по умолчаниюпо умолчанию</string>
-    <string name="cloud_image_timeline_year_month_day">%1$dгодод%2ЛунаdЛундень%3$dдень</string>
-    <string name="cloud_image_total_image_count">%1$dфотографограф</string>
+    <string name="cloud_image_timeline_year_month_day">%1$d год %2$d мес %3$d день</string>
+    <string name="cloud_image_total_image_count">всего %1$d фото</string>
     <string name="cloud_media">Облако было подкрепленоо было подкреплено</string>
     <string name="cloud_no_data">В облаке нет данных.е нет данных.~</string>
     <string name="cloud_unzip_copy_button">Скопируйте на мой сетевой дискйте на мой сетевой диск</string>
@@ -3733,7 +3730,7 @@ Skille полная защита вашей информационной без�
     <string name="ebpay_verify_pass">Проверка пароля</string>
     <string name="ebpay_wallet_continue_pay">Продолжить</string>
     <string name="ebpay_year_month">Месяц / год (например, 05/20 вход 0520)</string>
-    <string name="ebpay_yuan">%1$s юаней</string>
+    <string name="ebpay_yuan">%1$s ¥</string>
     <string name="edit">Редактирование</string>
     <string name="edit_image_cancel">Отмена</string>
     <string name="edit_image_choice_language">Язык, на котором снимается текст:</string>
@@ -3951,29 +3948,29 @@ Skille полная защита вашей информационной без�
     <string name="fanqie_url">900100.duapp.com</string>
     <string name="fast_change_album_title">Одна клавиша переключает режим альбома, что упрощает поиск и просмотр</string>
     <string name="fast_change_btn">Переключение</string>
-    <string name="fast_open_url_bt_txt">快速打开</string>
-    <string name="fast_open_url_title">复制的链接</string>
-    <string name="fast_search_notification_content_text">点击快速搜索</string>
-    <string name="fast_search_notification_init_text">百度一下</string>
-    <string name="fast_search_notification_small_text">百度一下</string>
-    <string name="favors_move">移至</string>
+    <string name="fast_open_url_bt_txt">Открыть быстро</string>
+    <string name="fast_open_url_title">Копировать ссылку</string>
+    <string name="fast_search_notification_content_text">Нажмите Quick Search</string>
+    <string name="fast_search_notification_init_text">Байду</string>
+    <string name="fast_search_notification_small_text">Байду</string>
+    <string name="favors_move">Перейти к</string>
     <string name="feature_find_btn_cancel">Oтмена</string>
-    <string name="feature_find_et_hint">输入查找内容</string>
-    <string name="feed_ad_button_continue">继续下载</string>
-    <string name="feed_ad_button_download">立即下载</string>
-    <string name="feed_ad_button_downloading">正在下载</string>
-    <string name="feed_ad_button_failed_retry">点击重试</string>
-    <string name="feed_ad_button_install">立即安装</string>
-    <string name="feed_ad_button_open">立即打开</string>
-    <string name="feed_ad_button_pause">暂停</string>
-    <string name="feed_album_is_empty">当前专辑为空</string>
-    <string name="feed_back_pop_tip">已推荐12+条新闻</string>
-    <string name="feed_back_tip">12+</string>
-    <string name="feed_close_tab">关闭</string>
-    <string name="feed_pull_to_refresh_header_hint_loading">正在加载…</string>
+    <string name="feature_find_et_hint">Введите содержимое поиска</string>
+    <string name="feed_ad_button_continue">Продолжить скачать</string>
+    <string name="feed_ad_button_download">скачать сейчас</string>
+    <string name="feed_ad_button_downloading">загрузка</string>
+    <string name="feed_ad_button_failed_retry">Нажмите, чтобы попробовать</string>
+    <string name="feed_ad_button_install">Установить</string>
+    <string name="feed_ad_button_open">Открыть немедленно</string>
+    <string name="feed_ad_button_pause">Пауза</string>
+    <string name="feed_album_is_empty">Текущий альбом пуст</string>
+    <string name="feed_back_pop_tip">Рекомендуется 12.+Новости</string>
+    <string name="feed_back_tip">12.+</string>
+    <string name="feed_close_tab">закрытие</string>
+    <string name="feed_pull_to_refresh_header_hint_loading">Загрузка ...</string>
     <string name="feed_refresh">Обновить</string>
-    <string name="feed_report_wrong_word_fail">反馈失败，请稍后再试</string>
-    <string name="feed_report_wrong_word_success">反馈成功</string>
+    <string name="feed_report_wrong_word_fail">Обратная связь сбой, пожалуйста, попробуйте позже позже</string>
+    <string name="feed_report_wrong_word_success">Успех обратной связи</string>
     <string name="feed_type_bt">BT</string>
     <string name="feed_type_doc">DOC</string>
     <string name="feed_type_epub">EPUB</string>
@@ -3987,20 +3984,20 @@ Skille полная защита вашей информационной без�
     <string name="feed_type_vsd">VSD</string>
     <string name="feed_type_xls">XLS</string>
     <string name="feed_type_zip">ZIP</string>
-    <string name="feed_update_toast_bad_net">网络不给力，请稍后重试</string>
-    <string name="feedback_accept">已收到反馈，我们会尽快优化</string>
-    <string name="feedback_description">请选择您要反馈的问题，我们会尽快优化</string>
-    <string name="feedback_input_hint">若有其他问题，请简要描述</string>
-    <string name="feedback_quota_error">请您退出帐号重新登录或者刷新页面。如仍有问题，可点击刷新容量按钮进行修复，因需重新计算您的网盘容量，预计5分钟后生效。</string>
-    <string name="feedback_reason">初步定位为：%s</string>
-    <string name="feedback_solution">建议您：%s</string>
-    <string name="feedback_success">反馈成功</string>
-    <string name="feedback_test_speed">慢速检测</string>
-    <string name="feedback_title">意见反馈</string>
+    <string name="feed_update_toast_bad_net">Сеть не заставляет, пожалуйста, попробуйте позже позже</string>
+    <string name="feedback_accept">Я получил отзывов, мы будем оптимизировать как можно скорее</string>
+    <string name="feedback_description">Пожалуйста, выберите вопрос, который вы хотите отменить, мы будем оптимизировать как можно скорее</string>
+    <string name="feedback_input_hint">Если есть какие-либо другие проблемы, пожалуйста, кратко опишите</string>
+    <string name="feedback_quota_error">Пожалуйста, выйдите из учетной записи, чтобы войти в систему или обновить страницу.Если есть еще проблема, вы можете нажать кнопку «Обновить емкость», чтобы исправить, поскольку необходимо пересчитать емкость вашей сети, ожидается, что он будет вступить в силу через 5 минут.</string>
+    <string name="feedback_reason">Предварительное позиционирование:%s</string>
+    <string name="feedback_solution">Предложить вам:%s</string>
+    <string name="feedback_success">Успех обратной связи</string>
+    <string name="feedback_test_speed">Медленное обнаружение</string>
+    <string name="feedback_title">Обратная связь</string>
     <string name="feedcard_username">%1$s отправил %2$d %3$s</string>
     <string name="fileSizeSuffix">%1$s %2$s</string>
-    <string name="file_already_exist">目标文件夹中已有同名文件</string>
-    <string name="file_appeal">文件申诉</string>
+    <string name="file_already_exist">Тот же файл имени в целевой папке</string>
+    <string name="file_appeal">Обращение к файлу</string>
     <string name="file_back_wait_for_wifi">Дождитесь WiFi соединения, все задачи приостановлены</string>
     <string name="file_backup">Бэкап файлов</string>
     <string name="file_backup_item_check_title">Просмотр резервной копии</string>
@@ -4039,32 +4036,32 @@ Skille полная защита вашей информационной без�
     <string name="file_info_type">Тип:</string>
     <string name="file_info_type_directory">Папка</string>
     <string name="file_info_type_file">Файл</string>
-    <string name="file_invalid_error">暂不支持播放当前文件格式</string>
-    <string name="file_is_illegal">该文件包含违规内容，无法下载</string>
-    <string name="file_list_guide_header_text">"切换到相册视图，免费100G容量
-更有iPhone X等你拿"</string>
-    <string name="file_list_popup_text">完成任务，赢大奖</string>
-    <string name="file_loading">正在加载文档...</string>
+    <string name="file_invalid_error">Не поддерживайте текущий формат файла</string>
+    <string name="file_is_illegal">Этот файл содержит незаконный контент и не может быть загружен</string>
+    <string name="file_list_guide_header_text">"Переключиться на вид на альбом, бесплатный объем 100 г
+Больше iPhone. X ждет, что вы возьмете"</string>
+    <string name="file_list_popup_text">Заполните задачу, выиграйте Гранд</string>
+    <string name="file_loading">Загрузка документации...</string>
     <string name="file_manager_over_limit_content">可为您%1$s前%2$d个文件，是否继续？</string>
-    <string name="file_manager_over_limit_failed">选择的文件过多或文件夹层级过深，请逐个%s</string>
-    <string name="file_manager_over_limit_title">超出数量限制</string>
+    <string name="file_manager_over_limit_failed">Выбранный файл слишком много, или уровень папки слишком глубоко, пожалуйста,%s</string>
+    <string name="file_manager_over_limit_title">Превышать предел количества</string>
     <string name="file_manager_over_record_limit_content">可为您%1$s前%2$d条纪录，是否继续？</string>
-    <string name="file_meta_not_find">未找到源文件，请确认文件是否已被删除</string>
-    <string name="file_msg_setting">接收新消息提醒</string>
-    <string name="file_no_permission_error">文件异常，请检查</string>
-    <string name="file_not_exist_or_deleted">文件不存在或已被删除</string>
-    <string name="file_not_exists">文件不存在</string>
-    <string name="file_open_failed">文档打开失败</string>
-    <string name="file_open_other">用其他方式打开</string>
-    <string name="file_opening">正在打开文件……</string>
-    <string name="file_or_dir_not_exist">该目录或文件不存在</string>
-    <string name="file_position">文件管理</string>
-    <string name="file_preview_cancle_loading">取消加载</string>
+    <string name="file_meta_not_find">Исходный файл не найден, пожалуйста, подтвердите, если файл был удален.</string>
+    <string name="file_msg_setting">Получать новые новости напоминания</string>
+    <string name="file_no_permission_error">Файл ненормальный, пожалуйста, проверьте</string>
+    <string name="file_not_exist_or_deleted">Файл не существует или был удален</string>
+    <string name="file_not_exists">файл не существует</string>
+    <string name="file_open_failed">Открытие документа не удалось</string>
+    <string name="file_open_other">Использовать другие способы открыть</string>
+    <string name="file_opening">Откройте файл ...</string>
+    <string name="file_or_dir_not_exist">Этот каталог или файл не существует</string>
+    <string name="file_position">Управление файлами</string>
+    <string name="file_preview_cancle_loading">Отмена загрузки</string>
     <string name="file_preview_failed">File preview failed, please select other apps open</string>
-    <string name="file_preview_load_finish">已加载完成，请点击「其他应用打开」进行操作</string>
-    <string name="file_preview_loading">缓存后可以使用其他应用打开并预览</string>
-    <string name="file_preview_ok_loading">继续加载</string>
-    <string name="file_preview_open_other">用其他应用打开</string>
+    <string name="file_preview_load_finish">После загрузки нажмите «Другое применить открыть», чтобы работать</string>
+    <string name="file_preview_loading">Открыть и просматривать другие приложения после кеша</string>
+    <string name="file_preview_ok_loading">Продолжить загрузку</string>
+    <string name="file_preview_open_other">Откройте другие приложения</string>
     <string name="file_preview_requesting">Запрос сети ...</string>
     <string name="file_publishing">Толкать ...</string>
     <string name="file_qrcode_close">закрытие</string>
@@ -4506,7 +4503,7 @@ QR-код доставки был отключен"</string>
     <string name="guide_video_upload_privilege">Откройте супер-член, наслаждайтесь видео загрузки</string>
     <string name="guidence_enter_right_now">Опыт немедленно</string>
     <string name="half_video_next_tip">Следующее видео собирается играть</string>
-    <string name="hardware_upgrade_desc">为减少占用您的网盘空间容量，自2020年2月12日起， 该设备新上传的数据将保存至 我的-网盘功能-智能设备-专属空间中，不再占用网盘容量。已上传的数据不受影响。</string>
+    <string name="hardware_upgrade_desc">Чтобы уменьшить свою сетевую дисковую пробелу, с 12 февраля 2020 года, новые загруженные данные будут сохранены в функцию My-Network Disk - Smart Device - Эксклюзивное пространство, которые больше не занимают емкость сетевого диска.Загруженные данные не влияют.</string>
     <string name="hardware_upgrade_no_remind">Больше не напоминать</string>
     <string name="hardware_upgrade_ok">понял</string>
     <string name="hardware_upgrade_perview">смотреть на</string>
@@ -4623,7 +4620,7 @@ progress: %d%%"</string>
     <string name="hybrid_notification_dialog_i_know">понял</string>
     <string name="hybrid_notification_dialog_title">Включите разрешение уведомления</string>
     <string name="hybrid_novel_resource_request_fail">Получить ресурс не удалось, пожалуйста, подождите</string>
-    <string name="hybrid_vip_order_result_description_operating_new">支付成功，订单处理中/n请稍候在会员中心查看</string>
+    <string name="hybrid_vip_order_result_description_operating_new">Успех оплаты, обработка заказа/nПожалуйста, проверьте это позже.</string>
     <string name="icon_content_description">Dialog Icon</string>
     <string name="identify_error_msg">Пожалуйста, примените текст, который вы хотите найти и выбрать правильный язык.</string>
     <string name="identify_error_negative_bt">я понимаю</string>
@@ -5049,9 +5046,9 @@ progress: %d%%"</string>
     <string name="magnet_file_list_title">Новая ссылка задача</string>
     <string name="magnet_file_to_upper_limit">Эта ссылка содержит слишком много файлов</string>
     <string name="magnet_service_downgrade">Модернизация функции загрузки магнитной цепи, недоступна</string>
-    <string name="main_dl_account_explain_info">"你的%1$s已绑定百度帐号：
+    <string name="main_dl_account_explain_info">"ваша%1$sИмеет Bind Baidu аккаунт：
 %2$s
-你将以该帐号访问百度网盘"</string>
+Вы получите доступ к сетевому диску Baidu с этой учетной записью"</string>
     <string name="main_note_title_bar_content">Примечания</string>
     <string name="make_sure_clear_record">Определите пустую запись завершению?</string>
     <string name="manage_all_share">Управляйте всем общим</string>
@@ -5066,7 +5063,7 @@ progress: %d%%"</string>
     <string name="manual_backup_condition_too_much_local_data">Количество мест слишком велико, и резервное копирование не поддерживается.</string>
     <string name="mark_content_length_tip">Марка не может превышать 20 слов</string>
     <string name="mark_guide">Нажмите на тег с фиксированной точкой на правой стороне панели действий и введите содержимое тега, вы можете создать тег!</string>
-    <string name="mark_other_person_content">Есть много фотографий Ta в сетевом диске,标注后可直接搜索</string>
+    <string name="mark_other_person_content">Есть много фотографий Ta в сетевом диске,Поиск прямо после маркировки</string>
     <string name="mark_other_person_title">Labeic завершен, принимая TA</string>
     <string name="mark_over_limit_tip_cancel">понял</string>
     <string name="mark_over_limit_tip_content">"Невозможно добавить новые теги,
@@ -5081,53 +5078,53 @@ progress: %d%%"</string>
     <string name="material_slider_range_end">Range end,</string>
     <string name="material_slider_range_start">Range start,</string>
     <string name="max_photo_num">999+</string>
-    <string name="media_library_empty_text">"暂无使用记录
-图片的上传、转存记录会在这里显示"</string>
-    <string name="media_library_error_text">列表加载失败，请检查网络</string>
-    <string name="media_library_list_retry">重新加载</string>
-    <string name="media_library_update_desc">图库展示了你在网盘中所有图片文件（不含隐藏文件），看图找图更方便～</string>
-    <string name="media_library_update_title">图库频道全新升级</string>
-    <string name="media_library_view_last_time">上次看过</string>
+    <string name="media_library_empty_text">"Нет записи
+Загрузка изображения, запись переливания будет отображаться здесь."</string>
+    <string name="media_library_error_text">Список загрузка не удалась, проверьте сеть</string>
+    <string name="media_library_list_retry">Перезагрузка</string>
+    <string name="media_library_update_desc">Галерея показывает все файлы изображений в сети (исключая скрытые файлы), см. Изображение, чтобы найти изображение удобнее ~</string>
+    <string name="media_library_update_title">Галерея карта Новое обновление</string>
+    <string name="media_library_view_last_time">В последний раз я видел</string>
     <string name="megabyteShort">MB</string>
     <string name="meizu_id">118645</string>
     <string name="meizu_key">114c6777811b4faea741468bc6a67866</string>
-    <string name="member_distribute_dialog_subtitle">加入分享回馈计划，分享内容赚现金</string>
-    <string name="member_normal">用户</string>
-    <string name="member_svip">超级会员</string>
-    <string name="member_vip">会员</string>
-    <string name="menu_automatic">自动填充</string>
-    <string name="menu_copy">复制</string>
-    <string name="menu_item_create_folder">新建文件夹</string>
-    <string name="menu_item_order">排序</string>
-    <string name="menu_item_refresh">刷新</string>
-    <string name="menu_item_search">搜索</string>
+    <string name="member_distribute_dialog_subtitle">Присоединяйтесь к плану обмена обратной связи, обмениваться контентом, чтобы заработать наличными</string>
+    <string name="member_normal">Пользователь</string>
+    <string name="member_svip">Супер-член</string>
+    <string name="member_vip">член</string>
+    <string name="menu_automatic">Автоматическое заполнение</string>
+    <string name="menu_copy">скопировать</string>
+    <string name="menu_item_create_folder">новая папка</string>
+    <string name="menu_item_order">Сортировать</string>
+    <string name="menu_item_refresh">Освежать</string>
+    <string name="menu_item_search">поиск</string>
     <string name="menu_item_settings">Настройки</string>
-    <string name="menu_paste">粘贴</string>
-    <string name="menu_text_empty_search_history">清空历史记录</string>
-    <string name="merge_choice_second_tip">注：选择忽略后将放弃合并联系人，全部恢复至本机</string>
-    <string name="merge_choice_tip">下面是姓名或电话号码相同的联系人，可以选择合并或者忽略</string>
-    <string name="merge_image_failed">合并照片失败</string>
-    <string name="merge_image_running">正在合并照片…</string>
-    <string name="merge_local_contacts">正在合并联系人...</string>
-    <string name="merge_person_alert_msg">这两个是同一个人吗？</string>
-    <string name="merge_person_alert_msg2">确认后TA们的照片会合并</string>
-    <string name="message_add_friend">请加TA为好友</string>
-    <string name="message_address_mms_wrong_tips">收件人号码有误！</string>
-    <string name="message_address_wrong_tips">收件人地址有误！</string>
-    <string name="message_content_email_title">邮件内容：</string>
+    <string name="menu_paste">Вставить</string>
+    <string name="menu_text_empty_search_history">Пустая история</string>
+    <string name="merge_choice_second_tip">ПРИМЕЧАНИЕ. После игнорирования игнорировать, отказом от объединенного контакта, все восстановит к устройству.</string>
+    <string name="merge_choice_tip">Ниже приведен тот же контакт с именем или номером телефона, вы можете выбрать или игнорировать</string>
+    <string name="merge_image_failed">Фотография слияния не удалось</string>
+    <string name="merge_image_running">Несколько фотографий ...</string>
+    <string name="merge_local_contacts">Включение контактов...</string>
+    <string name="merge_person_alert_msg">Эти два одного человека?</string>
+    <string name="merge_person_alert_msg2">После подтверждения фотографии Ta будет объединяться</string>
+    <string name="message_add_friend">Пожалуйста, добавьте Та как друга</string>
+    <string name="message_address_mms_wrong_tips">Номер получателя неверный!</string>
+    <string name="message_address_wrong_tips">Адрес получателя неверный!</string>
+    <string name="message_content_email_title">Содержание электронной почты:</string>
     <string name="message_content_file_etc">等%d个文件</string>
     <string name="message_content_file_list_file_name">• %s</string>
     <string name="message_content_file_list_folder_name">"• %s(Папка) "</string>
-    <string name="message_content_file_validity">有效时间：1天</string>
-    <string name="message_content_mms_title">短信内容：</string>
-    <string name="message_content_share_title">%s想和你分享百度网盘的文件：</string>
-    <string name="message_input_receiver_is_empty">请输入收件人地址</string>
-    <string name="message_input_receiver_sms_is_empty">请输入收件人号码</string>
-    <string name="message_invite_friend">让TA加我</string>
-    <string name="message_receiver_info">开启后，收到好友发送来的分享文件或消息时，会在系统通知栏中进行提示</string>
+    <string name="message_content_file_validity">Эффективное время: 1 день</string>
+    <string name="message_content_mms_title">Содержание текстового сообщения:</string>
+    <string name="message_content_share_title">%S хочет поделиться файлом сетевого диска Baidu:</string>
+    <string name="message_input_receiver_is_empty">Пожалуйста, введите адрес получателя</string>
+    <string name="message_input_receiver_sms_is_empty">Пожалуйста, введите номер получателя</string>
+    <string name="message_invite_friend">Пусть та плюс меня</string>
+    <string name="message_receiver_info">После открытия, когда вы получаете общий файл или сообщение, отправленные вашим другом, вы подскажете в строке уведомлений системы.</string>
     <string name="message_setting">Уведомления</string>
-    <string name="message_title_mms_free">本条短信免费</string>
-    <string name="mini_program">小程序</string>
+    <string name="message_title_mms_free">Это текстовое сообщение бесплатно</string>
+    <string name="mini_program">Апплеты</string>
     <string name="miui_sync_content">Нажмите, чтобы просмотреть</string>
     <string name="miui_sync_title">Синхронизация приостановлена ​​из-за системных ограничений MIUI</string>
     <string name="miui_warning_desc">Поскольку устройство в настоящее время входит в учетную запись Xiaomi, система простаивает простоя третьим сторонним программным обеспечением для удаления контакта, вызывая синхронизацию, повторяющиеся функции слияния контактов нельзя использовать нормально, сохранение нескольких дублированных контактов в устройстве.</string>
@@ -5159,13 +5156,13 @@ progress: %d%%"</string>
     <string name="move_exist">Файл, который вы хотите переместить, уже находится в целевой папке.</string>
     <string name="move_failed">Перевал движения</string>
     <string name="move_failed_content">Выбранный файл содержит общую папку и не может быть перемещена в скрытое пространство.</string>
-    <string name="move_failed_dialog_content_exist">"目标文件夹内存在同名文件
+    <string name="move_failed_dialog_content_exist">"Целевая папка существует в одном файле имени
 %1$s
-有%2$d个文件未移动成功"</string>
-    <string name="move_failed_dialog_content_nest">原共享关系会被取消</string>
-    <string name="move_failed_dialog_content_not_exist">"云端不存在文件
+Иметь%2$dДокумент не перемещен功"</string>
+    <string name="move_failed_dialog_content_nest">Оригинальные отношения обмена будут отменены</string>
+    <string name="move_failed_dialog_content_not_exist">"Облако не существует файлов
 %1$s
-有%2$d个文件未移动成功"</string>
+Иметь%2$dФайл не перемещается успешно"</string>
     <string name="move_failed_dialog_content_parent_not_exist">Облако не существует целевой папки“%1$s”</string>
     <string name="move_failed_dialog_title">Движение файла</string>
     <string name="move_failed_title">Неповрежденный</string>
@@ -5281,7 +5278,7 @@ Baidu Network Disk!"</string>
     <string name="nas_downloading">загрузка(%1$s)</string>
     <string name="nas_empty_push_button">Нажмите файл сетевого диска на устройство</string>
     <string name="nas_file_list_failed">Повторите обновление списка файлов, пожалуйста, попробуйте позже</string>
-    <string name="nas_file_manager_over_limit_content">当前选择文件数过多，仅可为您%1$s前%2$d个文件</string>
+    <string name="nas_file_manager_over_limit_content">В настоящее время есть слишком много файлов, только для вас.%1$sвперед%2$dФайл</string>
     <string name="nas_file_no_permission">Содержание не права доступа</string>
     <string name="nas_file_not_exist">Этот файл или каталог не существует</string>
     <string name="nas_file_preview">Просмотрите файлы устройств после того, как вы можете сохранить</string>
@@ -5382,7 +5379,7 @@ Baidu Network Disk!"</string>
     <string name="new_follow_content_reject">%s Отказаться от приложения ваших друзей</string>
     <string name="new_follow_list_content">Другая сторона добавила вас в друзья</string>
     <string name="new_follow_recommend_selected_file_to_edit">выбранный %d Новости</string>
-    <string name="new_follow_recommend_title">新好友</string>
+    <string name="new_follow_recommend_title">Новый друг</string>
     <string name="new_friend_notification">Новости Новости Новости Уведомление</string>
     <string name="new_friend_notification_info">Когда есть новый друг, чтобы добавить вас, система уведомляет вас.</string>
     <string name="new_person">Новые персонажи %s</string>
@@ -5415,13 +5412,13 @@ Baidu Network Disk!"</string>
     <string name="new_version_guide_dialog_text_2">Лицо интеллектуальная идентификация, классификация более ясна</string>
     <string name="news_feed_logout_toast">Чтобы обеспечить нормальное использование сетевого диска, не поддерживайте его, чтобы выйти из учетной записи здесь.~</string>
     <string name="next_page">Следущая страница</string>
-    <string name="next_step_text">Следующий步(%1$d)</string>
+    <string name="next_step_text">Следующий (%1$d)</string>
     <string name="ng_copy">скопировать</string>
     <string name="ng_search">поиск</string>
     <string name="ng_text_selection_ok_tip">Содержание было скопировано, а входная коробка может быть вставлена.</string>
     <string name="nick_name">Имя：%s</string>
     <string name="nickname_out_of_date">Система Nickname обновляется, дайте себе громкое имя.</string>
-    <string name="no">否</string>
+    <string name="no">Нет</string>
     <string name="no_album">Документы не должны быть подкреплены в альбоме</string>
     <string name="no_audio_task">Временно без резервного аудио</string>
     <string name="no_backup_path">Нет резервной папки</string>
@@ -5505,7 +5502,7 @@ Baidu Network Disk!"</string>
     <string name="novel_8yuan_desc">Открыть месячную привилегию, десятки тысяч романов</string>
     <string name="novel_8yuan_detail">Учить больше</string>
     <string name="novel_8yuan_title_line1">Молодежь смешна</string>
-    <string name="novel_8yuan_title_line2">Восьми юаней месяц месяца для отправки сюрпризов</string>
+    <string name="novel_8yuan_title_line2">Восьми ¥ месяц месяца для отправки сюрпризов</string>
     <string name="novel_8yuan_upgrade_desc">Для лучшего обслуживания пользователей,Мы обновили ежемесячную привилегию, ваш оставшийся ежемесячный период был автоматически преобразован, пожалуйста, не стесняйтесь читать</string>
     <string name="novel_8yuan_upgrade_title_line1">Месяц привилегии обновления</string>
     <string name="novel_ad_bottom_banner_btn">Подробнее</string>
@@ -5560,7 +5557,7 @@ Baidu Network Disk!"</string>
     <string name="novel_bookshelf_slected_book_recommend_no_web">Веб-книги не поддерживают рекомендации книги</string>
     <string name="novel_buy_error_msg_for_balance_is_not_enough">Недостаточный баланс, покупка не удалась</string>
     <string name="novel_buy_free_ad_auth_dialog_btn">800 книжных бобов открыты</string>
-    <string name="novel_buy_free_ad_auth_dialog_btn_desc">100 бобовых бобов = 1 юаней</string>
+    <string name="novel_buy_free_ad_auth_dialog_btn_desc">100 бобовых бобов = 1 ¥</string>
     <string name="novel_buy_free_ad_auth_dialog_btn_rebuy">Обновление сейчас</string>
     <string name="novel_buy_free_ad_auth_dialog_desc">3 дня без рекламного чтения подлинного романа</string>
     <string name="novel_buy_free_ad_auth_dialog_rule_desc">"1. Перезарядите и заплатите 800 книжных бобов, вы можете открыть рекламные привилегии и насладиться 30 дней без рекламных интересов.
@@ -5715,7 +5712,7 @@ Baidu Network Disk!"</string>
     <string name="novel_main_title">Сетевые диски и локальные романы</string>
     <string name="novel_male">Мальчик</string>
     <string name="novel_male_love">Мальчики горячие</string>
-    <string name="novel_monthly_dialog_bottom_tip">100 бобовых бобов = 1 юаней</string>
+    <string name="novel_monthly_dialog_bottom_tip">100 бобовых бобов = 1 ¥</string>
     <string name="novel_monthly_dialog_btn_content">400 книжных бобов открыты</string>
     <string name="novel_monthly_dialog_free_ad_detail">Аудитория обновляется и читает.</string>
     <string name="novel_monthly_dialog_free_ad_title">Лунная книга Библиотека Бесплатная реклама</string>
@@ -5791,7 +5788,7 @@ Baidu Network Disk!"</string>
     <string name="novel_pay_preview_login_btn_text">Войдите в систему немедленно</string>
     <string name="novel_pay_preview_login_sub_tip">*Для обеспечения информационной безопасности учетной записи роман не поддерживает вход в систему третьего лица</string>
     <string name="novel_pay_preview_login_tip">Глава Бутик, вам нужно войти в Baidu учетную запись чтения</string>
-    <string name="novel_pay_preview_monthly_read">Луна читает предложение</string>
+    <string name="novel_pay_preview_monthly_read">Мес читает предложение</string>
     <string name="novel_pay_preview_muti_chapter_buy_chapter_count">Задний%sглава</string>
     <string name="novel_pay_preview_muti_chapter_buy_chapter_loading">Загрузка</string>
     <string name="novel_pay_preview_muti_chapter_buy_chapters_beans_affordable">Баланс достаточно:%sКнижные бобы</string>
@@ -5931,7 +5928,7 @@ Baidu Network Disk!"</string>
     <string name="novel_tts_change_to_online_better">Чтение вслух, используя онлайн-чтение Lang</string>
     <string name="novel_tts_no_net_cannot_change_mode">Сеть не заставляет, переключаться на вас в автономный режим чтения</string>
     <string name="novel_txt_file_no_exists_tips">Не могу получить этот файл, вы не можете открыть</string>
-    <string name="novel_txt_src">外部导入内容</string>
+    <string name="novel_txt_src">Внешний импорт</string>
     <string name="novel_under_shelf">Палуба</string>
     <string name="novel_unread">непрочитанный</string>
     <string name="novel_update_catalog">Вы будете преследовать эту книгу, есть последняя глава.</string>
@@ -6052,7 +6049,7 @@ Baidu Network Disk!"</string>
     <string name="ocr_to_word_image_hint_two">Не отпустить каждый текст...</string>
     <string name="ocr_to_word_image_to_word">Текст экстракции изображения</string>
     <string name="ocr_to_word_path">Обработка документов/Идентификация текста/</string>
-    <string name="ocr_to_word_pay_guide_dialog_btn_price">10 юаней/Луна</string>
+    <string name="ocr_to_word_pay_guide_dialog_btn_price">10 ¥/Мес</string>
     <string name="ocr_to_word_pay_guide_dialog_btn_text">стать членом</string>
     <string name="ocr_to_word_pay_guide_dialog_title">Станьте супер-участником, вы можете извлечь текст на картинке</string>
     <string name="ocr_to_word_proofreading">Корректура</string>
@@ -6131,7 +6128,7 @@ Baidu Network Disk!"</string>
     <string name="open_storage_permission_content">Чтобы использовать поиск изображений, загрузить, загрузить файл, чтение романов и т. Д., Откройте разрешение на хранение приложений Baidu</string>
     <string name="open_storage_permission_title">Включите разрешение на хранение</string>
     <string name="open_video_file_button_install_toast">Начните загрузку Baidu Network Disk Video Plugin</string>
-    <string name="open_video_file_tip">安装 &lt;u>&lt;font color=\"#357ed7\">视频插件&lt;/font>&lt;/u> ，边加载边观看</string>
+    <string name="open_video_file_tip">Установить &lt;u>&lt;font color=\"#357ed7\">Видеосъемка&lt;/font>&lt;/u> Смотрите во время загрузки</string>
     <string name="open_wallet_stoken_fail">Сервер занят, пожалуйста, попробуйте позже!</string>
     <string name="operation_failed">операция провалена</string>
     <string name="operation_failed_illegall_word">Содержит чувствительное слово информацию, сбой</string>
@@ -6285,7 +6282,7 @@ Baidu Network Disk!"</string>
     <string name="p2pshare_zero_loading_info">Создание горячего места, пожалуйста, позже</string>
     <string name="p2pshare_zero_loading_title">Создать горячее место</string>
     <string name="page_dislike_default_item">Низкое качество</string>
-    <string name="page_error">Упс!Грубая проблема ...</string>
+    <string name="page_error">Упс!..Что пошло не так...</string>
     <string name="page_load_data_error">Не удалось приобретение данных</string>
     <string name="page_load_data_nothing">Нет записи резервного копирования</string>
     <string name="pan_code_open_video">Я не могу просмотреть временно</string>
@@ -6415,7 +6412,7 @@ Baidu Network Disk!"</string>
     <string name="pdf_format_conversion_upload_fail">Загрузка не удалась</string>
     <string name="pdf_guide_tools">Изменить в Excel/PPT/PDF Инструменты, такие как длинные карты здесь~</string>
     <string name="pdf_long_pic_share">Поделиться с длинными картами</string>
-    <string name="pdf_merge_buy_guide_button_price">10 юаней/Луна</string>
+    <string name="pdf_merge_buy_guide_button_price">10 ¥/Мес</string>
     <string name="pdf_merge_buy_guide_button_text">Объединить документ</string>
     <string name="pdf_merge_buy_guide_sub_title">Станьте членом, чтобы объединить несколько документов в новый файл для удобства просмотра и совместного использования</string>
     <string name="pdf_merge_files_num_overflow">Количество выбранных объединенных документов не может превышать 100 о~</string>
@@ -6435,7 +6432,7 @@ Baidu Network Disk!"</string>
     <string name="pdf_second_success_switch_tips_top">Открытый документ потерпел неудачу</string>
     <string name="pdf_second_success_switch_tips_valid">Потом</string>
     <string name="pdf_split">Объединить PDF</string>
-    <string name="pdf_split_buy_guide_button_price">10 /Луна</string>
+    <string name="pdf_split_buy_guide_button_price">10 /Мес</string>
     <string name="pdf_split_buy_guide_button_text">Начать преобразование</string>
     <string name="pdf_split_buy_guide_sub_title">Стать участником, чтобы извлечь указанную страницу как новый документ</string>
     <string name="pdf_split_guide_tools">Документация PDF может извлечь страницу.~</string>
@@ -7088,7 +7085,7 @@ Baidu Network Disk!"</string>
     <string name="read_novel_float_tip">Нажмите на пустую область, чтобы пропустить</string>
     <string name="reader_at_first">Приехал первым</string>
     <string name="reader_at_last">Эта книга была прочитана</string>
-    <string name="reader_bookmark_at_date">yyyyгодMMЛунаddдень HH:mm</string>
+    <string name="reader_bookmark_at_date">yyyyгодMMМесddдень HH:mm</string>
     <string name="reader_bookmark_at_hours">%dЧас назад</string>
     <string name="reader_bookmark_at_minutes">%dминут назад</string>
     <string name="reader_bookmark_at_now">просто</string>
@@ -7150,10 +7147,10 @@ Baidu Network Disk!"</string>
     <string name="recommand_type_p2p">Вы распространяете друг другу</string>
     <string name="recommand_type_personal_page">Личный дом Подписаться на друзья</string>
     <string name="recommand_type_send">TA отправил вам файл</string>
-log_content">После удаления резервная копия будет полностью очищена от облака, определить удаление?</string>
     <string name="record_delete_fail">Удалить не удалось, попробуйте еще раз</string>
     <string name="record_delete_part_success">Удалить прерывание, пожалуйста, попробуйте еще раз</string>
-    <string name="record_delete_success">Удалить выбранную запись</string>    <string name="record_delete_dia
+    <string name="record_delete_success">Удалить выбранную запись</string> 
+    <string name="record_delete_dialog_content">После удаления резервное копирование будет полностью удалено из облака.Вы уверены, что удалите?</string>
     <string name="recovery_detail_success_btn">Обратно до облака</string>
     <string name="recovery_detail_success_desc" formatted="false">Добавить новое %d Изменять %d порицать</string>
     <string name="recovery_detail_success_title">Это выздоровление</string>
@@ -9345,7 +9342,7 @@ Baidu Network Disk не использует его нормально"</string>
     <string name="tradeplatform_share_poster">Обмен плакатами</string>
     <string name="tradeplatform_share_poster_error_desc">Сбой загрузки, повторите попытку</string>
     <string name="tradeplatform_share_poster_failed">Сбой обмена</string>
-    <string name="tradeplatform_share_product_obtain_money">Каждый друг успешно приобрел самый высокий заработок ￥%s Комиссия Юаней</string>
+    <string name="tradeplatform_share_product_obtain_money">Каждый друг успешно приобрел самый высокий заработок ￥%s Комиссия ¥</string>
     <string name="tradeplatform_sift">Фильтр</string>
     <string name="tradeplatform_storage_is_not_enough">Недостаточно памяти в телефоне</string>
     <string name="tradeplatform_store_detail">Сведения о магазине</string>
@@ -9454,13 +9451,13 @@ Baidu Network Disk не использует его нормально"</string>
     <string name="trans_dialog_ok_resend">Отправить</string>
     <string name="trans_dialog_restore_cancel">Ok</string>
     <string name="trans_dialog_restore_check_cancel">Продолжать передавать</string>
-    <string name="trans_dialog_restore_check_content">「%1$s」等%2$d个文件夹内的文件上次转存时数量超限无法转存，开通超级会员后单个文件夹内转存数可升至50000个</string>
+    <string name="trans_dialog_restore_check_content">「%1$s」 " %2$d Количество файлов в папке ломается на количество переполнений, а количество передач в пределах одной папки может быть повышено до 50 000.</string>
     <string name="trans_dialog_restore_check_ok">Открытый супер-член</string>
-    <string name="trans_dialog_restore_check_single_content">文件夹「%1$s」内的文件上次转存时数量超限无法转存，开通超级会员后单个文件夹内转存数可升至50000个</string>
+    <string name="trans_dialog_restore_check_single_content">папка「%1$s」Количество документов в файле переходит на количество переполнений, не может быть передано. Открытие супер-члена, количество передач в пределах одной папки может подняться до 50 000.</string>
     <string name="trans_dialog_restore_check_svip_content">「%1$s」Ждать「%2$d」Количество файлов в папке ломается на количество переполнений, а некоторые файлы попробуют еще раз.~</string>
     <string name="trans_dialog_restore_check_svip_single_content">папка「%1$s」Количество файлов в файле ломается на количество переключений, а некоторые файлы попробуют еще раз.~</string>
-    <string name="trans_dialog_restore_check_title">超出数量限制</string>
-    <string name="trans_dialog_restore_flow_content">%1$d 个文件夹内的文件因超出 %2$d 个无法转存，开通会员后单个文件夹内转存数可升至 %3$d</string>
+    <string name="trans_dialog_restore_check_title">Превышать предел количества</string>
+    <string name="trans_dialog_restore_flow_content">%1$d Файлы в папке превышены %2$d Я не могу сохранить, количество передач в пределах одной папки может быть обновлена ​​до одной папки после открытия элемента. %3$d</string>
     <string name="trans_dialog_restore_flow_title">Некоторые файлы проваливаются</string>
     <string name="trans_dialog_restore_ok">Член покупки</string>
     <string name="trans_dialog_send_content">Вы отправили его своим друзьям. %d Отправить не удалось, вы повторите?</string>
@@ -9577,20 +9574,20 @@ Baidu Network Disk не использует его нормально"</string>
     <string name="trans_share_again">Поделитесь с вами снова</string>
     <string name="trans_share_cnt_format">Ограничение номера %d люди</string>
     <string name="trans_share_friend_subtitle">Нажмите, чтобы отправить файл</string>
-    <string name="trans_share_notification_dialog_content">开启消息通知，收到文件或好友发消息时将在系统通知栏显示。</string>
-    <string name="trans_share_notification_dialog_title">开启消息通知</string>
-    <string name="trans_share_pcode_confirm">复制</string>
-    <string name="trans_share_pcode_format">"【复制整段话打开网盘APP可直接识别】
- 大家好，在此收集%1$s,有效期截止到%2$s,麻烦在此之前点击以下链接或复制文字到网盘将文件发送给我支持发送%3$s格式的文件，感谢~
- 链接：%4$s"</string>
+    <string name="trans_share_notification_dialog_content">Включите уведомление о сообщениях, будет отображаться в строке уведомлений системы при получении файла или друга отправки сообщения.</string>
+    <string name="trans_share_notification_dialog_title">Открытое уведомление о сообщениях</string>
+    <string name="trans_share_pcode_confirm">Скопировать</string>
+    <string name="trans_share_pcode_format">"[Копировать все слова Открыть приложение Network Disk можно напрямую распознать]
+ Привет всем, собрать это %1$s,Допустимый период закрыт %2$s,Проблемы, прежде чем нажать на следующую ссылку или копирование текста на сетевой диск, чтобы отправить файл для меня поддержку %3$s Формат файла, спасибо~
+ Ссылка:%4$s"</string>
     <string name="trans_share_pcode_loading">Создание ссылки</string>
-    <string name="trans_share_pcode_title">你的收文件盘口令已生成</string>
+    <string name="trans_share_pcode_title">Ваш приемный пароль диска был сгенерирован</string>
     <string name="trans_share_period_format">Действительно %d дней</string>
     <string name="trans_share_qrcode_loading">Создание QR-кода для получения файлов</string>
-    <string name="trans_share_title_null_notice">请输入求资料的名称</string>
-    <string name="trans_status_fail">转存失败</string>
-    <string name="trans_stop_receiver">停止收集</string>
-    <string name="trans_task_detail_file">远程收文件</string>
+    <string name="trans_share_title_null_notice">Пожалуйста, введите название информации</string>
+    <string name="trans_status_fail">Переход не удался</string>
+    <string name="trans_stop_receiver">Остановить коллекцию</string>
+    <string name="trans_task_detail_file">Удаленный прием документа</string>
     <string name="trans_task_detail_work">Задачи</string>
     <string name="trans_task_send_file_empty">Отправленный файл не может быть пустым</string>
     <string name="trans_task_setting_file">Отправить файлы</string>
@@ -9606,7 +9603,7 @@ Baidu Network Disk не использует его нормально"</string>
     <string name="trans_type_resource">Запросите информацию у друга</string>
     <string name="trans_type_resource_subtitle">Сбор,просмотр и запрос в один клик, централизованное управление</string>
     <string name="trans_type_work">Задачи</string>
-    <string name="trans_type_work_default_label">姓名,班级</string>
+    <string name="trans_type_work_default_label">Имя,класс</string>
     <string name="trans_type_work_desc_hint">Добавьте введение к заданиям, которые вы хотите собрать</string>
     <string name="trans_type_work_label_tag_desc">Элементы, которые необходимо ввести, когда другая сторона отправляет работу, что удобно для управления</string>
     <string name="trans_type_work_subtitle">Доберитесь до партийного артефакта, сохраните большие файлы одним щелчком мыши</string>
@@ -9619,42 +9616,42 @@ Baidu Network Disk не использует его нормально"</string>
     <string name="trans_wait_net">Ожидание сети…</string>
     <string name="trans_wait_wifi">Ожидание загрузки после подключения к WIFI…</string>
     <string name="trans_waiting">Ожидание…</string>
-    <string name="trans_withdraw_dialog_confirm">撤回</string>
-    <string name="trans_withdraw_dialog_content">是否撤回已发送文件</string>
-    <string name="trans_withdraw_dialog_title">撤回文件</string>
-    <string name="trans_withdraw_fail">撤回失败，请重试</string>
-    <string name="trans_withdraw_loading">正在撤回文件…</string>
-    <string name="trans_withdraw_success">已撤回%d个文件</string>
-    <string name="trans_work_auto_save_notice">已关闭自动转存，下次可在设置中开启</string>
-    <string name="trans_work_extra_link_desc">添加的附件可统一在“我的分享”中管理</string>
-    <string name="trans_work_extra_list">附件列表</string>
-    <string name="trans_work_more_title">更多设置</string>
-    <string name="trans_work_send_file_type_invalid">请选择%1$s格式的文件</string>
-    <string name="trans_work_setting_extra_list">已选择文件</string>
-    <string name="trans_work_share_auto_title">自动转存</string>
-    <string name="trans_work_share_detail">限%1$d人交作业，有效期%2$d天%3$s</string>
-    <string name="trans_work_share_page_title">收集创建成功</string>
+    <string name="trans_withdraw_dialog_confirm">снять со счета</string>
+    <string name="trans_withdraw_dialog_content">Чтобы отозвать отправленный файл</string>
+    <string name="trans_withdraw_dialog_title">Вывести файл</string>
+    <string name="trans_withdraw_fail">Удалить сбой, пожалуйста, попробуйте еще раз</string>
+    <string name="trans_withdraw_loading">Восстановление файлов ...</string>
+    <string name="trans_withdraw_success">Были отозваны%dФайл</string>
+    <string name="trans_work_auto_save_notice">Он был выключен, и вы можете открыть его в следующий раз.</string>
+    <string name="trans_work_extra_link_desc">Добавлены аксессуары могут управляться в «Мой обмен»</string>
+    <string name="trans_work_extra_list">Список вложений</string>
+    <string name="trans_work_more_title">Больше настроек</string>
+    <string name="trans_work_send_file_type_invalid">пожалуйста, выбери %1$s Форматировать файл</string>
+    <string name="trans_work_setting_extra_list">Выбранный файл</string>
+    <string name="trans_work_share_auto_title">Автоматическая передача</string>
+    <string name="trans_work_share_detail">предел %1$d Домашнее задание человека, действительность %2$d небо %3$s</string>
+    <string name="trans_work_share_page_title">Сбор и создание</string>
     <string name="trans_work_share_title">【%s】</string>
-    <string name="trans_work_share_type">；仅支持发送%s格式的文件</string>
-    <string name="trans_work_title_null_notice">请输入作业标题</string>
+    <string name="trans_work_share_type">; Только поддержка отправки %s Форматировать файл</string>
+    <string name="trans_work_title_null_notice">Пожалуйста, введите вашу должность</string>
     <string name="trans_wrok_desc_format">%1$d/%2$d</string>
-    <string name="trans_wrok_title_length_over">不可键入更多内容</string>
-    <string name="transfer_account_content">您将转移您的会员资产到：</string>
-    <string name="transfer_account_tips">"每个手机对应的帐号之前只能参与一次,转
-换后不可取消,请谨慎操作。"</string>
-    <string name="transfer_backup_group_tip_title">备份说明</string>
-    <string name="transfer_backup_group_tips_four">备份后可在“首页-照片/视频”中查看，或前往“来自：%s 文件夹”进行管理。</string>
-    <string name="transfer_backup_group_tips_one">可在“我的-手机备份”中开启/关闭图片或视频自动备份；</string>
-    <string name="transfer_backup_group_tips_three">为防止备份不全，过程中请不要删除手机中的照片；</string>
-    <string name="transfer_backup_group_tips_two">为你备份原图，备份过程将严格加密；</string>
-    <string name="transfer_backup_list_empty">已备份至%s文件夹</string>
+    <string name="trans_wrok_title_length_over">Не печатать больше</string>
+    <string name="transfer_account_content">Вы передадите свои акции членства:</string>
+    <string name="transfer_account_tips">"Вы можете участвовать только один раз перед учетной записью, соответствующей каждому мобильному телефону.
+Если вы не отмените, пожалуйста, используйте его."</string>
+    <string name="transfer_backup_group_tip_title">Резервное копирование Описание</string>
+    <string name="transfer_backup_group_tips_four">Посмотреть вы можете просматривать в доме - Фото/Видео, или перейдите к "из：%s </string>
+    <string name="transfer_backup_group_tips_one">«Я» мой »-На телефон резервного копирования/Выключить картинки или видео автоматические резервные копии;</string>
+    <string name="transfer_backup_group_tips_three">Чтобы предотвратить резервное копирование, пожалуйста, не удаляйте фотографии в своем телефоне во время процесса;</string>
+    <string name="transfer_backup_group_tips_two">Резервное копирование исходного изображения для вас, процесс резервного копирования будет строго зашифрован;</string>
+    <string name="transfer_backup_list_empty">Резервное копирование %s папка</string>
     <string name="transfer_backup_right_text_to_use_internet">Будет использовано %s трафика</string>
     <string name="transfer_backup_right_text_using_internet">Используется трафик для резервного копирования</string>
-    <string name="transfer_btn">我要转移</string>
-    <string name="transfer_coupon_is_coming">转存券正在向你赶来，请重试～</string>
-    <string name="transfer_dialog_agree">确认</string>
-    <string name="transfer_dialog_checkbox">我已阅读并同意《权利义务转让协议》、度友公司《百度网盘服务协议》《隐私协议》《会员服务协议》《自动续费协议》，以实现度友科技为本人提供百度网盘服务。</string>
-    <string name="transfer_dialog_context">亲爱的百度网盘用户：为了让你享受更优质、专业的云存储服务，百度网盘运营主体将由北京百度网讯科技有限公司迁移至百度旗下的北京度友科技有限公司（以下简称“度友公司”）。此运营主体迁移工作不会对百度网盘用户已享受的服务和权益内容产生影响。</string>
+    <string name="transfer_btn">Я хочу передать</string>
+    <string name="transfer_coupon_is_coming">Трансферный билет придет к вам, пожалуйста, попробуйте еще раз ~</string>
+    <string name="transfer_dialog_agree">подтверждать</string>
+    <string name="transfer_dialog_checkbox">Я прочитал и согласился с «соглашением о передаче прав», «Соглашение об услуге Baidu» «Соглашение о конфиденциальности» «Секретное соглашение« Секретное соглашение »,« Соглашение о продлении », которое реализует службу сетевого диска Baidu для реализации« сетевого сервиса Baidu ». Соглашение".</string>
+    <string name="transfer_dialog_context">Уважаемые пользователи сети Baidu Network Disk: Для того, чтобы позволить вам насладиться лучшим, профессиональным облачным хранением, операция сетевого диска Baidu будет мигрирована из Пекин Baidu Net News Technology Co., Ltd. Beijing Shengyou Technology Co., Ltd. далее именуемый «компанией»).Эта оперативная основная миграция не влияет на содержимое сервисов и акций пользователя Baidu Network Disk.</string>
     <string name="transfer_download_list_empty">Пока нет загрузок</string>
     <string name="transfer_download_path">Путь загрузки:: %1$s ></string>
     <string name="transfer_error">Не удалось сохранить</string>
@@ -9663,65 +9660,65 @@ Baidu Network Disk не использует его нормально"</string>
     <string name="transfer_error_file_expired">Общий доступ к файлам отменен</string>
     <string name="transfer_error_limit">Превышен лимит передач</string>
     <string name="transfer_error_link_or_file_invalid">Отказ от совместного использования</string>
-    <string name="transfer_error_no_storage">"百度网盘空间不足，无法保存
-清理空间后再试吧"</string>
+    <string name="transfer_error_no_storage">"百Степень сетевого дискового пространства недостаточна, и она не может быть сохранена.
+Попробуйте это после очистки пространства."</string>
     <string name="transfer_error_not_enough_space_not_vip">Тебе не хватает места, преобретите svip и получите 5Т</string>
     <string name="transfer_error_not_enough_space_svip">Тебе не хватает места, преобретите svip</string>
     <string name="transfer_error_not_enough_space_vip">Тебе не хватает места, преобретите svip и получите 5Т</string>
     <string name="transfer_error_pan_transfer_no_more_storage">Недостаточно емкости сетевого диска, не удалось сохранить</string>
     <string name="transfer_error_save_myself_album">Не удалось сохранить, файл уже существует на сетевом диске</string>
     <string name="transfer_error_task_failed">Сбой экспорта, повторите попытку позже</string>
-    <string name="transfer_guide_svip">开通超级会员</string>
+    <string name="transfer_guide_svip">Открытый супер-член</string>
     <string name="transfer_item__speedup_state">%1$s/S(+%2$s/S)</string>
     <string name="transfer_item_state">%1$s/S</string>
-    <string name="transfer_list_download_tip_1">加密传输中，保障你的文件安全</string>
-    <string name="transfer_list_download_tip_2">正在尊享极速下载特权</string>
-    <string name="transfer_list_download_tip_3">速度超过83%的用户</string>
+    <string name="transfer_list_download_tip_1">Передача шифрования для защиты вашей безопасности файлов</string>
+    <string name="transfer_list_download_tip_2">Наслаждайтесь скоростью Скачать привилегию</string>
+    <string name="transfer_list_download_tip_3">Превышение скорости83%Пользователь</string>
     <string name="transfer_list_empty">Нет данных</string>
     <string name="transfer_list_manage_space">Подробнее</string>
     <string name="transfer_list_probation_tip">Ускоренная пробная версия</string>
     <string name="transfer_list_storage_default">Память：-/-</string>
     <string name="transfer_list_storage_netdisk" formatted="false">Обьем диска：%s/%s</string>
     <string name="transfer_list_storage_phone" formatted="false">Память телефона：%s/%s</string>
-    <string name="transfer_list_svip_guide_text">SVIP加速</string>
+    <string name="transfer_list_svip_guide_text">Ускорение SVIP.</string>
     <string name="transfer_list_svip_tip">Ускоренная загрузка SVIP</string>
     <string name="transfer_list_title_downloading">Загрузка...</string>
     <string name="transfer_list_title_uploading">Выгрузка...</string>
-    <string name="transfer_list_upload_tip_1">加密传输中，保障你的文件安全</string>
-    <string name="transfer_list_upload_tip_2">正在尊享多任务并行上传特权</string>
-    <string name="transfer_list_upload_tip_3">正在尊享大文件上传特权</string>
-    <string name="transfer_list_yike_guide">无限空间·下载不限速</string>
-    <string name="transfer_list_yike_guide_button">立即体验</string>
+    <string name="transfer_list_upload_tip_1">Передача шифрования для защиты вашей безопасности файлов</string>
+    <string name="transfer_list_upload_tip_2">Наслаждайтесь многозадачкой параллелизма</string>
+    <string name="transfer_list_upload_tip_3">Наслаждайтесь большим файлом Загрузить привилегию</string>
+    <string name="transfer_list_yike_guide">Неограниченное пространство · Скачать ненужной скорости</string>
+    <string name="transfer_list_yike_guide_button">Опыт немедленно</string>
     <string name="transfer_offline_list_empty">Запись загрузки отсутствует</string>
     <string name="transfer_only_wifi">Передача только через WiFi</string>
     <string name="transfer_pause">Приостановка передачи</string>
-    <string name="transfer_product_title">可转移商品</string>
+    <string name="transfer_product_title">Передача товаров</string>
     <string name="transfer_recorder_title">История</string>
     <string name="transfer_task_text">Отправить</string>
     <string name="transfer_upload_list_empty">Список пуст</string>
     <string name="transferlist_del_info">Удалить локальные файлы</string>
     <string name="transferlist_del_title">Удалить историю загрузок</string>
     <string name="transferlist_item_desc">%1$s/%2$s</string>
-    <string name="transferlist_item_downloading">正在下载…</string>
+    <string name="transferlist_item_downloading">Загрузка ...</string>
     <string name="transferlist_item_state">%1$s/s</string>
     <string name="transferlist_item_svip_desc">%1$s%2$s</string>
     <string name="transferlist_item_svip_state">%1$s/s<Data>"&lt;font color='#ca963b'>（SVIP+%2$s/s）&lt;/font>"</Data>" "</string>
-    <string name="transferlist_item_ticket_state">%1$s/s <Data>"&lt;font color='#0065DD'>企业极速下载中&lt;/font>"</Data>" "</string>
+    <string name="transferlist_item_ticket_state">%1$s/s <Data>"&lt;font color='#0065DD'>Скорость предприятия Скачать&lt;/font>"</Data>" "</string>
     <string name="transferlist_tab">Список передач</string>
-    <string name="translate_background">后台翻译</string>
-    <string name="translate_background_dialog_content">可在原文件所在目录中查看翻译完成的文档</string>
-    <string name="translate_cancel_dialog_cancel">取消翻译</string>
-    <string name="translate_cancel_dialog_content">正在进行全文翻译，确认取消吗？</string>
-    <string name="translate_cancel_dialog_continue">继续翻译</string>
-    <string name="translate_failed_retry">翻译失败，请重试</string>
-    <string name="translate_language_need_chinese">仅支持中英、中日、中韩互译，请重新选择</string>
-    <string name="translate_pages_info">共%1$d页</string>
-    <string name="translate_retry">重新翻译</string>
-    <string name="translate_save_path_tips">翻译成功后，自动保存到原文件所在目录</string>
-    <string name="translate_success_and_open">翻译成功，正在为您打开文件</string>
-    <string name="translate_svip_free_pages">尊贵的SVIP用户，每月可享%1$d页免费翻译</string>
-    <string name="translate_version_need_upgrade">当前版本过低，请更新到最新版</string>
-    <string name="translate_vip_free_pages">尊贵的VIP用户，每月可享%1$d页免费翻译</string>
+    <string name="translate_background">Фоновый перевод</string>
+    <string name="translate_background_dialog_content">Просмотрите заполненную документацию по переводу в каталоге, где находится исходный файл</string>
+    <string name="translate_cancel_dialog_cancel">Отмена</string>
+    <string name="translate_cancel_dialog_content">Полнотекстовый перевод переведен, это подтверждается?</string>
+    <string name="translate_cancel_dialog_continue">Продолжить перевод</string>
+    <string name="translate_failed_retry">Перевод не удался, попробуйте еще раз</string>
+    <string name="translate_language_need_chinese">Только в Центральном, Китае, Китае и Южной Корее, пожалуйста, выберите</string>
+    <string name="translate_pages_info">общий%1$dСтраница</string>
+    <string name="translate_retry">Перевод</string>
+    <string name="translate_save_path_tips">После успешного перевода сохраните его в каталог, где находится исходный файл.</string>
+    <string name="translate_success_and_open">Перевод успешен, откройте файлы для вас</string>
+    <string name="translate_svip_free_pages">Уважаемые пользователи SVIP могут наслаждаться каждый месяц%1$dСтраница Бесплатный перевод</string>
+    <string name="translate_version_need_upgrade">Текущая версия слишком низкая, пожалуйста, обновите до последней версии</string>
+    <string name="translate_vip_free_pages">Уважаемые пользователи VIP, могут наслаждаться каждый месяц%1$dСтраница Бесплатный перевод</string>
     <string name="transmission">Передача</string>
     <string name="travel_cloudimage_timeline_addr0">%1$s、%2$s и т.д.</string>
     <string name="travel_day">%1$dдн</string>
@@ -9754,20 +9751,20 @@ Baidu Network Disk не использует его нормально"</string>
     <string name="type_psd">PSD</string>
     <string name="type_recent">Недавние</string>
     <string name="type_video">Видео</string>
-    <string name="type_wechatbackup">微信备份</string>
-    <string name="type_wp_document">在线文档</string>
-    <string name="ufo_feedback_quota_error_dialog_content">请您退出帐号重新登录或者刷新页面。如仍有问题，可点击刷新容量按钮进行修复，因需重新计算您的网盘容量，预计5分钟后生效。</string>
-    <string name="ufo_feedback_quota_error_dialog_title">容量显示异常</string>
-    <string name="ufo_feedback_quota_refresh">刷新容量</string>
-    <string name="ufo_feedback_quota_refreshing">容量刷新中，预计%1$d分钟后生效</string>
-    <string name="ufo_feedback_refresh_quota_failed">刷新失败，请稍后再来</string>
-    <string name="ufo_feedback_refresh_quota_success">刷新成功，预计%1$d分钟后生效</string>
-    <string name="ufo_feedback_refresh_quota_tomorrow">您已经刷新过了</string>
-    <string name="ui_loading">正在加载…</string>
-    <string name="ui_no_network_retry">网络不给力，点击再试试</string>
-    <string name="ui_retry">重试</string>
-    <string name="unbound_desc">当前帐号未绑定手机号，存在安全风险，请先绑定手机号再进行操作。</string>
-    <string name="unbound_title">你还没有绑定手机号</string>
+    <string name="type_wechatbackup">Wechat Backup.</string>
+    <string name="type_wp_document">Онлайн документ</string>
+    <string name="ufo_feedback_quota_error_dialog_content">Пожалуйста, выйдите из учетной записи, чтобы войти в систему или обновить страницу.Если есть еще проблема, вы можете нажать кнопку «Обновить емкость», чтобы исправить, поскольку необходимо пересчитать емкость вашей сети, ожидается, что он будет вступить в силу через 5 минут.</string>
+    <string name="ufo_feedback_quota_error_dialog_title">Исключение дисплея емкости</string>
+    <string name="ufo_feedback_quota_refresh">Обновить емкость</string>
+    <string name="ufo_feedback_quota_refreshing">Емкость обновляется, ожидается%1$dЭто вступает в силу через минуту</string>
+    <string name="ufo_feedback_refresh_quota_failed">Обновить, пожалуйста, вернитесь позже</string>
+    <string name="ufo_feedback_refresh_quota_success">Обновить успех, ожидайте%1$dЭто вступает в силу через минуту</string>
+    <string name="ufo_feedback_refresh_quota_tomorrow">Вы уже освежили</string>
+    <string name="ui_loading">Загрузка ...</string>
+    <string name="ui_no_network_retry">Сеть не заставляет, нажмите, чтобы попробовать еще раз</string>
+    <string name="ui_retry">Повторение</string>
+    <string name="unbound_desc">Текущий счет не связан с номером мобильного телефона, существует риск безопасности, пожалуйста, свяжите номер мобильного телефона, а затем работайте.</string>
+    <string name="unbound_title">Вы еще не связываете свой номер мобильного телефона</string>
     <string name="union_pay_backpress_cancel">union_pay_backpress_cancel</string>
     <string name="union_pay_on_result_cancel">union_pay_on_result_cancel</string>
     <string name="union_pay_onresume_cancel">union_pay_onresume_cancel</string>
@@ -9964,56 +9961,56 @@ Baidu Network Disk не использует его нормально"</string>
     <string name="upload_image_filed">Не удалось загрузить: %s</string>
     <string name="upload_image_success">Загрузка выполнена успешно</string>
     <string name="upload_list">Выгрузки</string>
-    <string name="upload_novel">上传小说</string>
-    <string name="upload_num_btn">上传(%1$d)</string>
-    <string name="upload_origin_photo_waiting">会员原图上传</string>
-    <string name="upload_pause">暂停上传</string>
-    <string name="upload_show_all">显示本机全部的文档类文件</string>
-    <string name="upload_show_only_unupload">仅显示本机未上传的文档类文件</string>
-    <string name="upload_to_cloud">上传到网盘</string>
-    <string name="upload_to_netdisk">上传至百度网盘</string>
-    <string name="upload_to_property_dir_failed">上传失败，目标文件夹文件数超限</string>
-    <string name="upload_trans_assistant_dest_notice">成功发送的本地文件会同步到文件夹\"好友分享\"</string>
-    <string name="upload_video_waiting">会员专享</string>
-    <string name="uploading">正在上传（%1$s）</string>
-    <string name="url_link_tips">"你可以粘贴一下链接进行资源保存
-例如：
-1.浏览器中复制的资源链接。
-2.朋友发来的资源链接"</string>
+    <string name="upload_novel">Загрузить роман</string>
+    <string name="upload_num_btn">Загрузить(%1$d)</string>
+    <string name="upload_origin_photo_waiting">Участник оригинального изображения загрузки</string>
+    <string name="upload_pause">Пауза загрузка</string>
+    <string name="upload_show_all">Отображение всех файлов классов документа в этой машине</string>
+    <string name="upload_show_only_unupload">Только файлы классов документа, которые не загружаются в данном устройстве</string>
+    <string name="upload_to_cloud">Загрузить в сетевой диск</string>
+    <string name="upload_to_netdisk">Загрузить в сетевой диск Baidu</string>
+    <string name="upload_to_property_dir_failed">Загрузка не удалась, количество файлов целевых папок превышено</string>
+    <string name="upload_trans_assistant_dest_notice">Успешно отправленные локальные файлы будут синхронизироваться в папки\"Разделяющий друг\"</string>
+    <string name="upload_video_waiting">Привилегии участника</string>
+    <string name="uploading">Загрузка (%1$s）</string>
+    <string name="url_link_tips">"Вы можете вставить ссылку, чтобы сохранить ресурсы
+Например:
+1. Ссылки на ресурсы реплицированы в вашем браузере.
+2. Друзья отправляют ссылки на ресурсы"</string>
     <string name="use">Использовать</string>
     <string name="use_current_account">Текущий аккаунт:</string>
     <string name="use_internet_backup_dialog_confirm_btn">Вкл Рез Коп трафика</string>
     <string name="use_internet_backup_dialog_content">при создании мобильной сети, автоматическое резервное копирование будет потреблять расход мобильного телефона, рекомендуемый расход будет достаточно открытым</string>
     <string name="use_internet_to_backup_contact">Рез.Коп Контактов</string>
     <string name="use_internet_to_backup_video">Рез.Коп Видео</string>
-    <string name="use_now">立即使用</string>
-    <string name="used_capacity">已用容量：%s</string>
-    <string name="user_advertising_settings">定向投放设置</string>
+    <string name="use_now">использовать немедленно</string>
+    <string name="used_capacity">Используемая мощность:%s</string>
+    <string name="user_advertising_settings">Настройка доставки направления</string>
     <string name="user_agreement">《用户协议》</string>
-    <string name="user_center_member_page_entrance_member">会员中心</string>
-    <string name="user_center_member_page_entrance_normal">去解锁</string>
-    <string name="user_center_normal_content">解锁极速下载+视频倍速等特权</string>
-    <string name="user_center_normal_title">开通超级会员</string>
-    <string name="user_center_overdue">到期</string>
-    <string name="user_center_privilege_5t">超大空间</string>
-    <string name="user_center_privilege_rapid_download">极速下载</string>
-    <string name="user_center_privilege_video_backup">视频备份</string>
-    <string name="user_center_privilege_video_speed">视频倍速</string>
-    <string name="user_center_svip_content">已拥有极速下载+视频倍速等特权</string>
-    <string name="user_center_svip_title">超级会员 SVIP</string>
-    <string name="user_center_vip_content">已拥有在线解压+视频备份等特权</string>
-    <string name="user_center_vip_title">会员 VIP</string>
+    <string name="user_center_member_page_entrance_member">Центр-член</string>
+    <string name="user_center_member_page_entrance_normal">Разблокировать</string>
+    <string name="user_center_normal_content">Разблокировать скорость скачать+Видеоуличитель эквивалентной привилегии</string>
+    <string name="user_center_normal_title">Открытый супер-член</string>
+    <string name="user_center_overdue">зрелость</string>
+    <string name="user_center_privilege_5t">Негабаритное пространство</string>
+    <string name="user_center_privilege_rapid_download">Скорость скачать</string>
+    <string name="user_center_privilege_video_backup">Резервное копирование видео</string>
+    <string name="user_center_privilege_video_speed">Время видео</string>
+    <string name="user_center_svip_content">Скачать скорость+Видеоуличитель эквивалентной привилегии</string>
+    <string name="user_center_svip_title">Супер-член SVIP</string>
+    <string name="user_center_vip_content">Уже есть онлайн декомпрессия+视频备份等特权</string>
+    <string name="user_center_vip_title">член VIP</string>
     <string name="user_download_mutil_cnt">Мульти загрузка</string>
     <string name="user_download_settings">Настройки загрузки</string>
-    <string name="user_identity_prefix">尊贵的%1$s</string>
-    <string name="user_info_personal_label">展示个性自我，找到志同道合的朋友</string>
+    <string name="user_identity_prefix">Почетный %1$s</string>
+    <string name="user_info_personal_label">Показать личность, найти дружеский друг</string>
     <string name="user_info_title">Профиль</string>
     <string name="user_instructions_agree">Согласие</string>
     <string name="user_instructions_checkbox">Больше не напоминать</string>
     <string name="user_instructions_content">Сведения о пользователях</string>
     <string name="user_instructions_not_agree">Нет</string>
     <string name="user_instructions_tittle">Сведения о пользователях</string>
-    <string name="user_know">知道了</string>
+    <string name="user_know">понял</string>
     <string name="user_level_value">V%1$d</string>
     <string name="user_name">Ник</string>
     <string name="user_not_found">Эта учетная запись не существует, повторите вход</string>
@@ -10042,10 +10039,10 @@ Baidu Network Disk не использует его нормально"</string>
     <string name="video_appeal_toast_hasCommit">Файл был подан с апелляцией</string>
     <string name="video_appeal_toast_limit">Количество поданных сегодня апелляций достигло предела. Пожалуйста, терпеливо дождитесь результатов проверки и повторите попытку завтра.</string>
     <string name="video_appeal_toast_no">Пожалуйста, не обращайтесь с обычными документами</string>
-    <string name="video_auto_play_close">已关闭自动连播</string>
-    <string name="video_auto_play_open">已开启当前选集自动连播</string>
-    <string name="video_auto_play_titel">当前选集自动连播</string>
-    <string name="video_back_to_chain_info">返回该视频所在的分享链接？</string>
+    <string name="video_auto_play_close">Автоматическая связь была закрыта</string>
+    <string name="video_auto_play_open">Открыто текущее выделение автоматического соединения</string>
+    <string name="video_auto_play_titel">Текущий выбор Автоматическое подключение</string>
+    <string name="video_back_to_chain_info">Вернитесь к ссылке на обмен в этом видео?</string>
     <string name="video_backup">Бэкап видео</string>
     <string name="video_backup_compress">Качественное резервное копирование видео</string>
     <string name="video_backup_compress_des">Размер видео будет сжат во время резервного копирования</string>
@@ -10054,75 +10051,75 @@ Baidu Network Disk не использует его нормально"</string>
     <string name="video_backup_move_tip">Резервная копия видео перенесена сюда</string>
     <string name="video_backup_nothing">Нет файлов</string>
     <string name="video_backup_notification">Резервное копирование видео зашифровано, нажмите для просмотра</string>
-    <string name="video_backup_open_toast">"视频备份已开启，为您备份到文件夹
+    <string name="video_backup_open_toast">"Резервное копирование видео включено, обратно в папки
 \"%s\""</string>
-    <string name="video_backup_original">无损备份</string>
-    <string name="video_backup_original_des">原大小备份，画质不打折</string>
-    <string name="video_backup_prompt_automatic">自动上传，方便快捷</string>
-    <string name="video_backup_quick_settings_info">自动上传，方便快捷</string>
-    <string name="video_backup_quick_settings_title">视频自动备份</string>
-    <string name="video_backup_setting">自动备份视频</string>
+    <string name="video_backup_original">Неразрушающая резервная копия</string>
+    <string name="video_backup_original_des">Бывший размер резервного копирования, качество изображения не со скидкой</string>
+    <string name="video_backup_prompt_automatic">Автоматическая загрузка, удобна и быстро</string>
+    <string name="video_backup_quick_settings_info">Автоматическая загрузка, удобна и быстро</string>
+    <string name="video_backup_quick_settings_title">Видео автоматическая резервная копия</string>
+    <string name="video_backup_setting">Автоматическое резервное копирование видео</string>
     <string name="video_center_duration"> / %s</string>
-    <string name="video_delay_play">立即播放</string>
+    <string name="video_delay_play">играть сейчас</string>
     <string name="video_delay_playnext">%1$d秒后播放下一个</string>
-    <string name="video_dlg_content">请选择处理在线视频的方式</string>
-    <string name="video_dlg_download">下载观看</string>
-    <string name="video_dlg_play">在线播放</string>
-    <string name="video_dlg_title">提示</string>
-    <string name="video_feedback_audio_not_match">音画不同步</string>
-    <string name="video_feedback_button">用户反馈</string>
-    <string name="video_feedback_cant_play">视频无法播放</string>
-    <string name="video_feedback_no_screen">视频没有画面</string>
-    <string name="video_feedback_no_voice">视频没有声音</string>
-    <string name="video_feedback_seek_fail">拖动进度条失败</string>
-    <string name="video_feedback_stutter">播放卡顿</string>
-    <string name="video_feedback_upload_success">已收到您的反馈，我们将尽快优化</string>
-    <string name="video_file_not_find_local_and_remote">此文件已不存在于您的网盘空间和本地</string>
-    <string name="video_file_notfound">该文件不存在</string>
-    <string name="video_free_space_full_content">已为您自动切换为压缩备份</string>
-    <string name="video_free_space_full_title">5G无损视频备份空间已满</string>
-    <string name="video_go_setting">去设置</string>
-    <string name="video_info_invalid_error">视频数据获取异常</string>
-    <string name="video_info_size">大小：%s</string>
-    <string name="video_info_time_local">创建时间：%s</string>
-    <string name="video_info_time_network">上传时间：%s</string>
-    <string name="video_info_title">文件名称：%s</string>
-    <string name="video_is_compressing">正在压缩视频…</string>
-    <string name="video_know">知道了</string>
-    <string name="video_load_failed">加载失败</string>
-    <string name="video_loading">正在加载%d%%</string>
-    <string name="video_loading_box_svip">正在尊享视频高速加载...</string>
-    <string name="video_loading_slow_buy_svip">开通超级会员，加载无需等待</string>
-    <string name="video_loading_slow_text">加载太慢？</string>
-    <string name="video_local_start_scan_text">开始扫描</string>
+    <string name="video_dlg_content">Пожалуйста, выберите, как обрабатывать онлайн видео</string>
+    <string name="video_dlg_download">Скачать часы</string>
+    <string name="video_dlg_play">Онлайн игра</string>
+    <string name="video_dlg_title">намекать</string>
+    <string name="video_feedback_audio_not_match">Объем</string>
+    <string name="video_feedback_button">Обратная связь с клиентами</string>
+    <string name="video_feedback_cant_play">Видео не может быть воспроизведено</string>
+    <string name="video_feedback_no_screen">Видео без экрана</string>
+    <string name="video_feedback_no_voice">Видео не имеет звука</string>
+    <string name="video_feedback_seek_fail">Перетащите панель прогресса не удалось</string>
+    <string name="video_feedback_stutter">Играть в коробку</string>
+    <string name="video_feedback_upload_success">Я получил ваш отзыв, мы будем оптимизировать как можно скорее</string>
+    <string name="video_file_not_find_local_and_remote">Этот файл не существует в вашем сетевом дисковом пространстве и локальных</string>
+    <string name="video_file_notfound">Этот файл не существует</string>
+    <string name="video_free_space_full_content">Уже автоматически переключится на сжатое резервное копирование</string>
+    <string name="video_free_space_full_title">5g пространство резервного копирования видео без потерь заполнено</string>
+    <string name="video_go_setting">Установленный</string>
+    <string name="video_info_invalid_error">Исключение сбора видеоданных данных</string>
+    <string name="video_info_size">размер:%s</string>
+    <string name="video_info_time_local">Создать время:%s</string>
+    <string name="video_info_time_network">Время загрузки:%s</string>
+    <string name="video_info_title">имя файла:%s</string>
+    <string name="video_is_compressing">Сжатое видео ...</string>
+    <string name="video_know">понял</string>
+    <string name="video_load_failed">Ошибка загрузки</string>
+    <string name="video_loading">загрузка%d%%</string>
+    <string name="video_loading_box_svip">Наслаждайтесь видео высокой скоростью загрузки...</string>
+    <string name="video_loading_slow_buy_svip">Открытые супер-члены, нагрузка без ожидания</string>
+    <string name="video_loading_slow_text">Это слишком медленно?</string>
+    <string name="video_local_start_scan_text">Начать сканирование</string>
     <string name="video_mark_auto_display">Автоматический дисплей</string>
-    <string name="video_mark_edit_dialog_exit_tip">返回将不保留已编辑的标记</string>
-    <string name="video_mark_edit_dialog_title">视频标记</string>
-    <string name="video_mark_manager_edit">编辑</string>
-    <string name="video_mark_manager_edit_save">完成</string>
+    <string name="video_mark_edit_dialog_exit_tip">Возвращает отредактированный тег не будет сохранен</string>
+    <string name="video_mark_edit_dialog_title">Видео тег</string>
+    <string name="video_mark_manager_edit">редактировать</string>
+    <string name="video_mark_manager_edit_save">Заканчивать</string>
     <string name="video_mark_manager_title">Отметка</string>
-    <string name="video_mark_repeat_tip">"标记时间点邻近存在标记，请问是
-否创建新的标记:"</string>
+    <string name="video_mark_repeat_tip">"Точка времени разметки отмечена рядом, пожалуйста
+Нет Создать новый тег:"</string>
     <string name="video_net_tip_duration">Продолжительность:</string>
     <string name="video_net_tip_not_wifi">Просмотр в сети без Wi-Fi</string>
     <string name="video_net_tip_one_week">Воспроизвести без Wi-Fi в течение недели</string>
     <string name="video_net_tip_rest_size">Примерно осталось в этом видео</string>
     <string name="video_net_tip_size">Скорость потока %sM</string>
-    <string name="video_net_tip_size_no_unit">流量约</string>
-    <string name="video_net_tip_size_toast">本视频约</string>
-    <string name="video_network_error">网络异常，请检查网络后重试</string>
-    <string name="video_next_tip">即将播放下一条</string>
-    <string name="video_no_local_use_remote_to_play">本地“%s”文件或文件夹不存在，将为您在线播放</string>
-    <string name="video_notification_title">百度网盘正在播放视频中</string>
-    <string name="video_original_space_full">专属5G无损视频空间已满，已为您切换至压缩备份</string>
-    <string name="video_page_play_install_failed">视频插件安装失败</string>
-    <string name="video_page_play_install_need_restart">重新启动百度App后才可完成安装！</string>
-    <string name="video_page_play_install_note_title">视频插件安装提示</string>
-    <string name="video_page_play_need_restart_cancel">稍后再说</string>
-    <string name="video_page_play_need_restart_continue">立即重启</string>
-    <string name="video_page_play_need_restart_note_text">插件安装失败，需要重新启动百度App后才可完成安装！</string>
-    <string name="video_page_play_plugin_install_text">正在安装视频插件，请稍等</string>
-    <string name="video_page_play_start_install_text">点击安装视频插件</string>
+    <string name="video_net_tip_size_no_unit">Движение</string>
+    <string name="video_net_tip_size_toast">Это видео о</string>
+    <string name="video_network_error">Сеть ненормальная сеть, пожалуйста, проверьте сеть</string>
+    <string name="video_next_tip">Следующий вот-вот будет играть</string>
+    <string name="video_no_local_use_remote_to_play">местный“%s”Файл или папка не существует, будет играть онлайн</string>
+    <string name="video_notification_title">Baidu Network Disk играет видео</string>
+    <string name="video_original_space_full">Эксклюзивное видео пространство без потерь 5 г заполнено, и он был переключен на сжатую резервную копию.</string>
+    <string name="video_page_play_install_failed">Установка видео плагина не удалась</string>
+    <string name="video_page_play_install_need_restart">После перезапуска приложения Baidu вы можете завершить установку!</string>
+    <string name="video_page_play_install_note_title">Подсказка установки видео плагинов</string>
+    <string name="video_page_play_need_restart_cancel">поговорить об этом позже</string>
+    <string name="video_page_play_need_restart_continue">Перезагрузить сейчас</string>
+    <string name="video_page_play_need_restart_note_text">Установка плагина не удалась, вам нужно перезапустить приложение Baidu после установки!</string>
+    <string name="video_page_play_plugin_install_text">Установите Video Plugin, пожалуйста, подождите</string>
+    <string name="video_page_play_start_install_text">Нажмите, чтобы установить Video Plugin</string>
     <string name="video_play">Видеоплеер</string>
     <string name="video_play_error">Невозможно открыть это видео</string>
     <string name="video_play_error_no">Kод ошибки%d</string>
@@ -10163,7 +10160,7 @@ Baidu Network Disk не использует его нормально"</string>
     <string name="video_plugin_is_upgrading_tip">Обновление видеоплеера, посмотрите позже</string>
     <string name="video_plugin_update_failed">Не удалось обновить плагин</string>
     <string name="video_plugin_update_success">Обновление прошло успешно</string>
-    <string name="video_quality_tip">流畅可节约70%空间</string>
+    <string name="video_quality_tip"> Поток может сохранить70%Космос</string>
     <string name="video_quick_settings_info">Открывая видео можно увидеть онлайн-игры</string>
     <string name="video_quick_settings_title">Установить видеоплеер</string>
     <string name="video_recent_record">Смотреть до %1$s</string>
@@ -10173,29 +10170,29 @@ Baidu Network Disk не использует его нормально"</string>
     <string name="video_right_bar_info_control">Громкость и яркость</string>
     <string name="video_right_bar_info_detail">Подробности</string>
     <string name="video_second_laoding">Транскодируется %d%%</string>
-    <string name="video_server_error">服务器出错了</string>
+    <string name="video_server_error">Сервер недоступен.</string>
     <string name="video_service_choose_more">Выберите файл</string>
     <string name="video_share_fail">Сбой обмена, повторите попытку позже</string>
     <string name="video_share_to">Поделиться в</string>
-    <string name="video_size">播放将消耗</string>
-    <string name="video_smail_window_need_permission_tip">此功能需要权限，请到应用设置界面设置</string>
-    <string name="video_suffix_ad_close">关闭广告</string>
+    <string name="video_size">Игра будет потреблять</string>
+    <string name="video_smail_window_need_permission_tip">Эта функция требует разрешений, пожалуйста, установите настройки интерфейса</string>
+    <string name="video_suffix_ad_close">Закрыть объявление</string>
     <string name="video_suffix_ad_detail">Подробнее</string>
-    <string name="video_switch_original_mode">正在切换到原画模式…</string>
-    <string name="video_switch_smooth_mode">正在切换到流畅模式…</string>
-    <string name="video_to_audio_countdown">定时关闭</string>
-    <string name="video_to_audio_countdown_30m">30分钟</string>
-    <string name="video_to_audio_countdown_60m">60分钟</string>
-    <string name="video_to_audio_countdown_90m">90分钟</string>
-    <string name="video_to_audio_countdown_audition_end">播完试用</string>
-    <string name="video_to_audio_countdown_close">关闭定时</string>
-    <string name="video_to_audio_countdown_entrance_video_end">播完当前视频</string>
-    <string name="video_to_audio_countdown_play_complete_toast">已达到设定的定时关闭时间，为您停止播放</string>
-    <string name="video_to_audio_countdown_video_end">播完当前</string>
-    <string name="video_to_audio_trial_tip">试听%1$d分钟，完整收听请</string>
-    <string name="video_transcoding_toast">请稍后，视频还未转码到这里</string>
-    <string name="video_unknow_error">未知错误，无法播放</string>
-    <string name="video_widget_cue">升级新版本，更流畅的观看体验，观影更满足！</string>
+    <string name="video_switch_original_mode">Переключитесь на оригинальный режим живописи ...</string>
+    <string name="video_switch_smooth_mode">Переключение в гладкий режим ...</string>
+    <string name="video_to_audio_countdown">Время закрытия</string>
+    <string name="video_to_audio_countdown_30m">30 минут</string>
+    <string name="video_to_audio_countdown_60m">60 минут</string>
+    <string name="video_to_audio_countdown_90m">90 минут</string>
+    <string name="video_to_audio_countdown_audition_end">Посевное испытание</string>
+    <string name="video_to_audio_countdown_close">Закрыть время</string>
+    <string name="video_to_audio_countdown_entrance_video_end">Вещание текущего видео</string>
+    <string name="video_to_audio_countdown_play_complete_toast">Он достиг времени закрытия синхронизации, чтобы остановить воспроизведение</string>
+    <string name="video_to_audio_countdown_video_end">Мечтать</string>
+    <string name="video_to_audio_trial_tip">Мужество%1$dМинута, полное прослушивание</string>
+    <string name="video_transcoding_toast">Пожалуйста, подождите, видео не было передано здесь.</string>
+    <string name="video_unknow_error">Неизвестная ошибка, не в силах играть</string>
+    <string name="video_widget_cue">Обновите новую версию, более плавный опыт наблюдения, более доволен!</string>
     <string name="video_widget_down_load_install">Установить</string>
     <string name="video_widget_down_load_newest">Установлена ​​последняя версия видеоплеера</string>
     <string name="video_widget_down_load_update">Обновление</string>
@@ -10207,18 +10204,18 @@ Baidu Network Disk не использует его нормально"</string>
     <string name="videoplayer_dlna_action_title">DLNA</string>
     <string name="videoplayer_download_action_title">Скачать</string>
     <string name="videoplayer_file_is_exist">Файл уже существует</string>
-    <string name="videoplayer_float_play_error">播放失败，请稍后再试</string>
-    <string name="videoplayer_float_replay">重播</string>
-    <string name="videoplayer_flow_alert_2g3g">当前非WIFI状态，继续播放将消耗手机流量</string>
-    <string name="videoplayer_flow_alert_2g3g_singkil">圣卡用户可享受流量播放特权</string>
-    <string name="videoplayer_gesture_brightness_prompt">Яркость : %d %%</string>
-    <string name="videoplayer_gesture_voice_prompt">Громкость : %d %%</string>
+    <string name="videoplayer_float_play_error">Воспроизведение не удалось, пожалуйста, попробуйте позже</string>
+    <string name="videoplayer_float_replay">Воспроизводитель</string>
+    <string name="videoplayer_flow_alert_2g3g">Текущий статус без WiFi, продолжать играть, потребляет трафик мобильного телефона</string>
+    <string name="videoplayer_flow_alert_2g3g_singkil">Пользователи священной карты могут наслаждаться привилегиями игры</string>
+    <string name="videoplayer_gesture_brightness_prompt">Яркость : %d%%</string>
+    <string name="videoplayer_gesture_voice_prompt">Громкость : %d%%</string>
     <string name="videoplayer_go_on_play">Продолжить</string>
     <string name="videoplayer_go_on_play_singkil">Воспроизведение без трафика</string>
-    <string name="videoplayer_goods_btn_bubble_text">查看商品详情</string>
-    <string name="videoplayer_goods_list_panel_title">商品推荐</string>
-    <string name="videoplayer_login_action_hint">登录后才能观看全部的哦~</string>
-    <string name="videoplayer_recorder_prompt">已定位到上次浏览位置</string>
+    <string name="videoplayer_goods_btn_bubble_text">Просмотр деталей продукта</string>
+    <string name="videoplayer_goods_list_panel_title">Продукты представлены</string>
+    <string name="videoplayer_login_action_hint">После входа в систему вы можете посмотреть все.~</string>
+    <string name="videoplayer_recorder_prompt">Был расположен на последнем положении просмотра</string>
     <string name="videoplayer_save_action_title">Сохранить</string>
     <string name="videoplayer_save_success">Успешно сохранено</string>
     <string name="videoplayer_share_action_title">Поделиться</string>
@@ -10228,29 +10225,29 @@ Baidu Network Disk не использует его нормально"</string>
     <string name="videoplayer_stop_play">Отмена</string>
     <string name="videoplayer_unsave_action_content">Несохраненное видео будет удалено из облака, продолжить?</string>
     <string name="videoplayer_unsave_action_title">Отменить</string>
-    <string name="videoplayer_weak_net_tips_text">当前网络环境不佳</string>
+    <string name="videoplayer_weak_net_tips_text">Текущая сетевая среда не хороша</string>
     <string name="view_all_group_members">Просмотр членов группы %d Name</string>
     <string name="view_calendar_not_available">Ваше устройство не поддерживает просмотр календарей</string>
-    <string name="view_collect_toast">收藏成功，可在我的收藏中查看</string>
-    <string name="view_gift_path">路径：我的 > 活动中心 > 我的奖品</string>
+    <string name="view_collect_toast">Успешная коллекция, вы можете просматривать в моей коллекции</string>
+    <string name="view_gift_path">Путь: мой > Центр деятельности > Мой приз</string>
     <string name="view_his_image">Просмотр фотографий всех TA на сетевом диске</string>
     <string name="view_hot_user_page">ТОП</string>
     <string name="view_marked_person">Просмотр помечен</string>
     <string name="view_my_image">Просмотр всех моих фотографий на веб-диске</string>
     <string name="view_personal_page">Профиль</string>
     <string name="vip_account">vip</string>
-    <string name="vip_call">会员</string>
+    <string name="vip_call">член</string>
     <string name="vip_center">VIP центр</string>
     <string name="vip_committing_order">Отправление заказа...</string>
     <string name="vip_dialog_content_not_support_third_account">Браузер не поддерживает сторонние счета для покупки VIP</string>
     <string name="vip_dialog_title_buy_vip">Покупка VIP</string>
-    <string name="vip_enjoy">VIP尊享</string>
-    <string name="vip_expire">VIP至：%s</string>
-    <string name="vip_getting_order">正在确认订单信息…</string>
-    <string name="vip_high_speed_tip_first">尊贵的超级会员，已为您开启</string>
-    <string name="vip_high_speed_tip_second">高速播放通道</string>
-    <string name="vip_invalid">该功能为会员功能，请开通会员后尝试</string>
-    <string name="vip_name">会员</string>
+    <string name="vip_enjoy">VIP эксклюзивный</string>
+    <string name="vip_expire">VIP to:%s</string>
+    <string name="vip_getting_order">Подтвердите информацию о заказе ...</string>
+    <string name="vip_high_speed_tip_first">Открытые супер-члены открылись для вас</string>
+    <string name="vip_high_speed_tip_second">Высокоскоростной игровой канал</string>
+    <string name="vip_invalid">Эта функция является функцией участника, пожалуйста, откройте участник после попытки</string>
+    <string name="vip_name">член</string>
     <string name="vip_order_result_description_failed_new">Не удалось купить</string>
     <string name="vip_order_result_description_success">Наслаждайтесь дополнительными возможностями</string>
     <string name="vip_order_result_forward_failed">Не удалось</string>
@@ -10340,17 +10337,17 @@ Baidu Network Disk не использует его нормально"</string>
     <string name="walet_base_card_num_prefix">**** **** ****</string>
     <string name="walet_base_sms_input_tip">Введите проверочный код</string>
     <string name="wallet_alipay_jd_wx_pay_tips">Чтобы просмотреть, скопируйте URL-адрес и воспользуйтесь браузером для доступа к нему.</string>
-    <string name="wallet_alipay_wx_jd_copy_success">网址复制成功</string>
-    <string name="wallet_bank_info_change">更换</string>
-    <string name="wallet_bankcard_detect_tips">将身份证人像面至于此区域，扫描身份证</string>
-    <string name="wallet_bankcard_detect_to_detect">扫描证件</string>
-    <string name="wallet_bankcard_manue_input">手动输入卡片信息</string>
+    <string name="wallet_alipay_wx_jd_copy_success">Успех копии сайта</string>
+    <string name="wallet_bank_info_change">заменять</string>
+    <string name="wallet_bankcard_detect_tips">Сканируйте свою удостоверение личности как для этой области</string>
+    <string name="wallet_bankcard_detect_to_detect">Отсканированные документы</string>
+    <string name="wallet_bankcard_manue_input">Вручную введите информацию о карте</string>
     <string name="wallet_bankcard_ok">ОК</string>
     <string name="wallet_bankcard_promo">Предложения кошелька Baidu</string>
     <string name="wallet_bankcard_result_check">Пожалуйста, проверьте информацию о карте, подтвердите правильность</string>
     <string name="wallet_bankcard_scan_bankcard">Сканировать карту</string>
     <string name="wallet_bankcard_scan_hint">Фронт карты находится в этом регионе, скан карты</string>
-    <string name="wallet_bar_qr_scancode_desc">二维码/条码放入扫描框内，即可自动扫描</string>
+    <string name="wallet_bar_qr_scancode_desc">2D код / ​​штрих-код помещен в окно сканирования, вы можете автоматически сканировать</string>
     <string name="wallet_base_account">Полный счет</string>
     <string name="wallet_base_actual_payment">Сумма платежа</string>
     <string name="wallet_base_apply_success">Успешное приложение</string>
@@ -10376,9 +10373,9 @@ Baidu Network Disk не использует его нормально"</string>
     <string name="wallet_base_idcard_promo_f">Поместите переднюю часть удостоверения личности в эту область и возьмите удостоверение личности</string>
     <string name="wallet_base_idcard_promo_f_album_tips">Выбрана передняя фотография идентификатора</string>
     <string name="wallet_base_idcard_promo_hand">Подсказка: лицо четкое и полное и не заблокировано, а передняя часть удостоверения личности полностью отображается</string>
-    <string name="wallet_base_idcard_retake_pic">重拍</string>
+    <string name="wallet_base_idcard_retake_pic">Воспроизводитель</string>
     <string name="wallet_base_idcard_retake_pic_finish">Готово</string>
-    <string name="wallet_base_idcard_take_another">拍另一面</string>
+    <string name="wallet_base_idcard_take_another">Выстрелил еще одну сторону</string>
     <string name="wallet_base_idcard_title">Идентификатор фотографии</string>
     <string name="wallet_base_loading">Подождите, идет загрузка...</string>
     <string name="wallet_base_loading_new">Baidu wallet</string>
@@ -10388,35 +10385,35 @@ Baidu Network Disk не использует его нормально"</string>
     <string name="wallet_base_mode_debit">Дебиторская карта</string>
     <string name="wallet_base_multi_window_close">Пожалуйста, переключитесь в полноэкранный режим перед использованием этой функции</string>
     <string name="wallet_base_multi_window_tips">Текущий интерфейс может отображаться неправильно в режиме разделенного экрана</string>
-    <string name="wallet_base_my_bank_card">我的银行卡</string>
+    <string name="wallet_base_my_bank_card">Моя банковская карта</string>
     <string name="wallet_base_next_step">Следующий</string>
     <string name="wallet_base_no_more">Все загружено</string>
     <string name="wallet_base_no_network">Сеть не является принудительной, проверьте настройки сети</string>
     <string name="wallet_base_no_network_error_code">(Код ошибки:%d)</string>
     <string name="wallet_base_no_network_reason">Сетевое соединение прервано, сигнал сети слабый или сбой маршрутизатора</string>
-    <string name="wallet_base_no_storage_permission">你未开启本地存储权限，请在设置中开启%1$s存储权限</string>
-    <string name="wallet_base_open_bduss_network_error">网络异常，请检查您的网络</string>
-    <string name="wallet_base_open_bduss_network_resolve_error">系统开小差了，请稍后重试</string>
-    <string name="wallet_base_open_bduss_network_ssl_error">请在系统设置中，将您的时间更改为“自动设置”</string>
-    <string name="wallet_base_open_bduss_system_error">当前系统出现异常，未检测到您的登录信息，您可尝试重新登录，或稍后再试</string>
-    <string name="wallet_base_open_bduss_system_error_login">重新登录</string>
-    <string name="wallet_base_open_bduss_system_error_retry">稍后再试</string>
+    <string name="wallet_base_no_storage_permission">Вы не включаете мественные разрешения на хранение, пожалуйста, откройте в настройках%1$sРазрешение на хранение</string>
+    <string name="wallet_base_open_bduss_network_error">Сетевая аномалия, пожалуйста, проверьте свою сеть</string>
+    <string name="wallet_base_open_bduss_network_resolve_error">Система была маленькой, пожалуйста, попробуйте позже позже</string>
+    <string name="wallet_base_open_bduss_network_ssl_error">Пожалуйста, измените свое время на автоматические настройки в системных настройках</string>
+    <string name="wallet_base_open_bduss_system_error">Текущая система имеет исключение, не обнаружена информация о входе в систему, вы можете попытаться войти в систему или попробовать еще раз позже</string>
+    <string name="wallet_base_open_bduss_system_error_login">перерегистрация</string>
+    <string name="wallet_base_open_bduss_system_error_retry">Попробуйте позже</string>
     <string name="wallet_base_payresult_goto_next">Пополнить, продолжить</string>
-    <string name="wallet_base_permission_dialog_access_camera">为了向您提供扫码、拍照、身份验证服务，请您开启相机权限。</string>
-    <string name="wallet_base_permission_dialog_access_fine_location">为了保护您的账号安全，或便于为您提供所在区域专属的产品和服务，请您开启定位权限。</string>
-    <string name="wallet_base_permission_dialog_external_storage">为了给您更流畅的使用体验，或便于您使用扫码、提交或发送图片等功能，请您开启存储权限。</string>
-    <string name="wallet_base_permission_dialog_read_contacts">为了便于您填写本人或联系人电话号码，请您开启通讯录权限。我们将确保您通讯录信息的安全。</string>
-    <string name="wallet_base_permission_dialog_record_audio">为了向您提供身份验证服务，请您开启麦克风权限。</string>
+    <string name="wallet_base_permission_dialog_access_camera">Для того, чтобы предоставить вам код сканирования, фотографировать, услуги аутентификации, обратитесь к разрешениям камеры.</string>
+    <string name="wallet_base_permission_dialog_access_fine_location">Чтобы защитить свою учетную систему безопасности или предоставить вам эксклюзивный продукт и услугу, пожалуйста, откройте разрешение позиционирования.</string>
+    <string name="wallet_base_permission_dialog_external_storage">Чтобы дать вам более плавное использование опыта, или для ваших функций, таких как код сканирования, отправьте или отправлять изображения, включите разрешение на хранение.</string>
+    <string name="wallet_base_permission_dialog_read_contacts">Для удобства вы заполняете свой собственный или контактный номер телефона, включите запись адреса.Мы будем обеспечивать безопасность информации вашей адресной книги.</string>
+    <string name="wallet_base_permission_dialog_record_audio">Для того, чтобы предоставить вам службу аутентификации, откройте разрешения микрофона.</string>
     <string name="wallet_base_permission_negative">Oтмена</string>
-    <string name="wallet_base_permission_positive">继续</string>
-    <string name="wallet_base_permission_title">温馨提示</string>
-    <string name="wallet_base_phone_charge">手机充值</string>
-    <string name="wallet_base_phone_not_surport_nfc">对不起，你的手机不支持NFC功能，不能进行充值</string>
-    <string name="wallet_base_please_login">你还没有登录，请先登录</string>
+    <string name="wallet_base_permission_positive">Продолжить</string>
+    <string name="wallet_base_permission_title">подсказки</string>
+    <string name="wallet_base_phone_charge">Перезарядка мобильного телефона</string>
+    <string name="wallet_base_phone_not_surport_nfc">Извините, ваш телефон не поддерживает функции NFC и не может перезаряжать</string>
+    <string name="wallet_base_please_login">Вы еще не вошли в систему, пожалуйста, войдите в систему.</string>
     <string name="wallet_base_pull_refresh_pull_tips">раскрывающийся список</string>
     <string name="wallet_base_pull_refresh_tips">Обновить</string>
     <string name="wallet_base_quit_pay">Отменить платеж</string>
-    <string name="wallet_base_refresh_loading">度小满金融安全加载…</string>
+    <string name="wallet_base_refresh_loading">Skilly Небольшая финансовая безопасность Загрузка ...</string>
     <string name="wallet_base_refresh_pull_down">Раскрывающийся список для обновления</string>
     <string name="wallet_base_refresh_release">Обновить после выпуска</string>
     <string name="wallet_base_result_time">1970–01–01 00:00:00</string>
@@ -10434,8 +10431,8 @@ Baidu Network Disk не использует его нормально"</string>
     <string name="wallet_base_safekeyboard_key_X">X</string>
     <string name="wallet_base_safekeyboard_title">Безопасный ввод</string>
     <string name="wallet_base_security_pp_top_banner">В безопасности платежей, вы можете включить Неприкосновенность частной жизни</string>
-    <string name="wallet_base_select_phone_fail">没有手机通讯录权限或通讯录为空</string>
-    <string name="wallet_base_service_offline_tips">该服务已下线</string>
+    <string name="wallet_base_select_phone_fail">Никакой записи адреса мобильных телефонов или адресная книга</string>
+    <string name="wallet_base_service_offline_tips">Сервис был в автономном режиме</string>
     <string name="wallet_base_set_pwd_click">Нажмите меня, чтобы открыть</string>
     <string name="wallet_base_set_pwd_tips">Выберите не настроенный 6-значный пароль, вы не можете пользоваться кошельком</string>
     <string name="wallet_base_skip">Пропустить</string>
@@ -10449,19 +10446,19 @@ Baidu Network Disk не использует его нормально"</string>
     <string name="wallet_base_unit">¥</string>
     <string name="wallet_base_verify_phone_no">Подтвердите номер телефона</string>
     <string name="wallet_base_withdraw_success">Успешный вывод средств</string>
-    <string name="wallet_bindcard_addnewcard_tip">添加银行卡支付</string>
-    <string name="wallet_bindcard_head_block_subtitle">为保障您的顺利支付，请检查并确认您的信息</string>
+    <string name="wallet_bindcard_addnewcard_tip">Добавить оплату банковской карты</string>
+    <string name="wallet_bindcard_head_block_subtitle">Чтобы защитить свою плавную оплату, пожалуйста, проверьте и подтвердите свою информацию.</string>
     <string name="wallet_bindcard_head_block_title">Введите информацию и оплатите</string>
     <string name="wallet_bindcard_selectcard_tip">Выберите платежную банковскую карту</string>
     <string name="wallet_bindcard_usenewcard_tip">Использовать новую банковскую карту</string>
-    <string name="wallet_camera_error">无法打开摄像头，请在手机系统设置中开启访问摄像头权限后重试。</string>
+    <string name="wallet_camera_error">Невозможно открыть камеру, попробуйте еще раз после доступа к разрешениям камеры в настройках системы мобильных телефонов.</string>
     <string name="wallet_cancel">Отмена</string>
     <string name="wallet_cash_desk_discount_amount">Сумма предложения</string>
     <string name="wallet_cash_desk_discount_info">Детали предложения</string>
     <string name="wallet_cash_desk_order_amount">Общая сумма заказа</string>
     <string name="wallet_cash_desk_pay_info">Фактический платеж</string>
-    <string name="wallet_cashdesk_card_info_cvv2_hint_msg">验证您的银行卡安全码，是为了在复杂的网络环境下，通过多重验证，来更好地保护您的支付安全</string>
-    <string name="wallet_cashdesk_card_info_cvv2_hint_msg_2">卡背面数字的后三位或四位</string>
+    <string name="wallet_cashdesk_card_info_cvv2_hint_msg">Убедитесь, что код безопасности вашей банковской карты, чтобы лучше защитить свою платежную безопасность несколькими аутентификацией в сложной сетевой среде</string>
+    <string name="wallet_cashdesk_card_info_cvv2_hint_msg_2">Последние три или четыре в задней части карты</string>
     <string name="wallet_cashdesk_card_info_cvv2_hint_title">Зачем проверять код безопасности?</string>
     <string name="wallet_cashdesk_card_info_cvv2_input_hint">Введите последние три или четыре цифры на обратной стороне карты</string>
     <string name="wallet_cashdesk_card_info_cvv2_title">Проверьте код безопасности банковской карты</string>
@@ -10479,54 +10476,54 @@ Baidu Network Disk не использует его нормально"</string>
     <string name="wallet_change_pay_type">Изменить способ оплаты</string>
     <string name="wallet_complete_info">Полная информация</string>
     <string name="wallet_confirm_order_title">Подтвердить оплату</string>
-    <string name="wallet_confirm_pay_order_button">前往支付</string>
-    <string name="wallet_confirm_pay_order_pay_tips">收款方</string>
-    <string name="wallet_confirm_pay_order_price_tips">支付金额</string>
-    <string name="wallet_confirm_pay_order_sp_tips">订单信息</string>
+    <string name="wallet_confirm_pay_order_button">Перейти к оплате</string>
+    <string name="wallet_confirm_pay_order_pay_tips">Бенефициар</string>
+    <string name="wallet_confirm_pay_order_price_tips">Сумма платежа</string>
+    <string name="wallet_confirm_pay_order_sp_tips">запросить информацию</string>
     <string name="wallet_confirm_pay_sp_name">Единица получения</string>
     <string name="wallet_couponlist_empty_tip">В настоящее время нет купонов</string>
-    <string name="wallet_do_auth">去实名</string>
-    <string name="wallet_entrance_info_bindcard">绑定银行卡 空间即可升至2T</string>
-    <string name="wallet_fp_bdwallet_fingerprintpay">请验证指纹，完成付款</string>
-    <string name="wallet_fp_buy">购买</string>
-    <string name="wallet_fp_changed_usepwd">您手机录入的指纹发生变化，为了保障您的支付安全，本次请您使用密码支付</string>
-    <string name="wallet_fp_charge_phone">充话费</string>
-    <string name="wallet_fp_charge_record">充值记录</string>
-    <string name="wallet_fp_charge_traffic">充流量</string>
-    <string name="wallet_fp_clear_history_list">确认清空历史充值号码</string>
-    <string name="wallet_fp_close_failed">指纹支付关闭失败</string>
-    <string name="wallet_fp_close_succ">已关闭指纹支付</string>
-    <string name="wallet_fp_error_fp">指纹不匹配，再试一次</string>
-    <string name="wallet_fp_error_fp_many_times_usepwd">指纹验证尝试次数过多，为了保障您的支付安全，本次请您使用密码支付</string>
-    <string name="wallet_fp_exclude_contacts">不在通讯录中</string>
-    <string name="wallet_fp_face_not_have">该运营商维护中</string>
-    <string name="wallet_fp_face_try_later">请稍后再试</string>
-    <string name="wallet_fp_fingerprint_changed">系统指纹发生变化，启动指纹认证失败</string>
+    <string name="wallet_do_auth">Идите настоящее имя</string>
+    <string name="wallet_entrance_info_bindcard">Bind Bank Card Пространство может быть повышено до 2T</string>
+    <string name="wallet_fp_bdwallet_fingerprintpay">Пожалуйста, проверьте отпечатки пальцев, полная оплата</string>
+    <string name="wallet_fp_buy">Купить</string>
+    <string name="wallet_fp_changed_usepwd">Отпечаток пальца вашего мобильного телефона изменился, чтобы защитить свою платежную безопасность, на этот раз вы используете свой пароль.</string>
+    <string name="wallet_fp_charge_phone">Плата</string>
+    <string name="wallet_fp_charge_record">Перезарядка записи</string>
+    <string name="wallet_fp_charge_traffic">Зарядка</string>
+    <string name="wallet_fp_clear_history_list">Подтвердите пустую историю пополнения номера</string>
+    <string name="wallet_fp_close_failed">Оплата отпечатков пальцев не удалось</string>
+    <string name="wallet_fp_close_succ">Имеет закрытый отпечаток пальцев</string>
+    <string name="wallet_fp_error_fp">Отпечаток пальца не совпадает, попробуйте еще раз</string>
+    <string name="wallet_fp_error_fp_many_times_usepwd">Попробуйте количество времен проверки отпечатков пальцев, чтобы защитить свою платежную безопасность, на этот раз вы используете оплату вашего пароля.</string>
+    <string name="wallet_fp_exclude_contacts">Не в адресной книге</string>
+    <string name="wallet_fp_face_not_have">Этот перевозчик сохраняется</string>
+    <string name="wallet_fp_face_try_later">Пожалуйста, попробуйте позже</string>
+    <string name="wallet_fp_fingerprint_changed">Система отпечатков пальцев, начните отказ аутентификации отпечатков пальцев</string>
     <string name="wallet_fp_fix_sure">Без замены</string>
     <string name="wallet_fp_history_clear">Очистить историю</string>
     <string name="wallet_fp_keystore_failed">Ошибка хранилища ключей</string>
-    <string name="wallet_fp_lack_good">补货中</string>
-    <string name="wallet_fp_mobile_bind">此账号绑定手机号</string>
-    <string name="wallet_fp_mobile_hint">请输入手机号码</string>
-    <string name="wallet_fp_mobile_not_in_contacts">此手机号不在通讯录内</string>
+    <string name="wallet_fp_lack_good">Пополнение</string>
+    <string name="wallet_fp_mobile_bind">Эта учетная запись связана с номером мобильного телефона</string>
+    <string name="wallet_fp_mobile_hint">Пожалуйста, введите номер телефона</string>
+    <string name="wallet_fp_mobile_not_in_contacts">Этот номер телефона не в записи адреса</string>
     <string name="wallet_fp_more_service_text">Больше услуг</string>
-    <string name="wallet_fp_no_faces">你手机号码所在地区的运营商正在升级维护，请稍后再试</string>
-    <string name="wallet_fp_no_permision_or_null">号码为空，请检查是否已开启通讯录权限</string>
-    <string name="wallet_fp_open_content">请验证指纹，开通指纹支付</string>
-    <string name="wallet_fp_open_failed">指纹支付开通失败</string>
-    <string name="wallet_fp_open_success">已开通指纹支付</string>
-    <string name="wallet_fp_pay_phone_text">充话费</string>
-    <string name="wallet_fp_pay_tips">请验证指纹以完成付款</string>
+    <string name="wallet_fp_no_faces">Ваш оператор на вашем номере мобильного телефона обновляется, повторите попытку позже.</string>
+    <string name="wallet_fp_no_permision_or_null">Номер пусто, пожалуйста, проверьте, введен ли запись адреса</string>
+    <string name="wallet_fp_open_content">Пожалуйста, проверьте отпечаток пальца, откройте платеж отпечатков пальцев</string>
+    <string name="wallet_fp_open_failed">Оплата отпечатков пальцев не удалось</string>
+    <string name="wallet_fp_open_success">Открыл платеж отпечатков пальцев</string>
+    <string name="wallet_fp_pay_phone_text">Плата</string>
+    <string name="wallet_fp_pay_tips">Пожалуйста, проверьте отпечатки пальцев для завершения оплаты</string>
     <string name="wallet_fp_phone_no_contact_permission_btn_ok">ОК</string>
     <string name="wallet_fp_phone_no_contact_permission_content">Вы не открываете телефонные контакты, пожалуйста, откройте разрешение контактов %1$s, перезарядка удобнее</string>
     <string name="wallet_fp_phone_no_contact_permission_title">Не открытая адресная книга</string>
     <string name="wallet_fp_phone_not_correct">Неверный формат номера телефона</string>
-    <string name="wallet_fp_price">%1$s元</string>
-    <string name="wallet_fp_promotion">话费充值，立享折扣优惠价！</string>
-    <string name="wallet_fp_reopen_content">请验证指纹，激活指纹支付</string>
-    <string name="wallet_fp_reopen_failed">指纹支付开通失败</string>
-    <string name="wallet_fp_reopen_success">指纹支付激活成功</string>
-    <string name="wallet_fp_return">返回</string>
+    <string name="wallet_fp_price">%1$sЮань</string>
+    <string name="wallet_fp_promotion">Перезарядка, наслаждайтесь скидной ценой!</string>
+    <string name="wallet_fp_reopen_content">Пожалуйста, проверьте отпечаток пальца, активируйте оплату отпечатков пальцев</string>
+    <string name="wallet_fp_reopen_failed">Оплата отпечатков пальцев не удалось</string>
+    <string name="wallet_fp_reopen_success">Оплата отпечатков пальцев успешна</string>
+    <string name="wallet_fp_return">возвращение</string>
     <string name="wallet_fp_select_wrong_number">Вы выбираете ошибку формата номера, пожалуйста, выберите</string>
     <string name="wallet_fp_sell_price">Продавая цена:%1$sюань</string>
     <string name="wallet_fp_sys_too_low">Отмена открытия, система системы слишком низкая</string>
@@ -10687,7 +10684,7 @@ Baidu Network Disk не использует его нормально"</string>
     <string name="wechat_backup_settings">Настройки резервного копирования</string>
     <string name="wechat_backup_settings_status_all_task_failed_des">Ошибка резервного копирования, повторите попытку позже</string>
     <string name="wechat_backup_settings_status_finished">%1$dфайлы успешно скопированы, время завершения：%2$s</string>
-    <string name="wechat_backup_settings_status_initial">开启自动备份，不再担心文件丢失</string>
+    <string name="wechat_backup_settings_status_initial">Откройте автоматическую резервную копию, больше не беспокоиться о потере файлов</string>
     <string name="wechat_backup_settings_status_no_task">Пока нет файлов для резервного копирования</string>
     <string name="wechat_backup_settings_status_paused_account">Ошибка учётной записи, резервное копирование приостановлено</string>
     <string name="wechat_backup_settings_status_paused_common">Служба работает плохо, резервное копирование приостановлено</string>
@@ -11002,8 +10999,8 @@ Baidu Network Disk не использует его нормально"</string>
     <string name="system">Система</string>
     <string name="sync_to_advice_description">Загрузка и новое строительство будут синхронизированы для каждого устройства</string>
     <string name="switch_space">Переключатель пространства</string>
-    <string name="svip_video_guide_with_count_dark">尊敬的用户，您还有&lt;font color=#FFFFFF>&lt;b>%1$d个&lt;/b>&lt;/font>视频未备份，开启视频备份，尊享原画质备份服务</string>
-    <string name="svip_video_guide_with_count">尊敬的用户，您还有&lt;font color=#03081A>&lt;b>%1$d个&lt;/b>&lt;/font>视频未备份，开启视频备份，尊享原画质备份服务</string>
+    <string name="svip_video_guide_with_count_dark">Уважаемые пользователи, у вас есть&lt;font color=#FFFFFF>&lt;b>%1$d个&lt;/b>&lt;/font>Видео не содержится резервного копирования, открыть резервное копирование видео, наслаждайтесь оригинальной службой резервного копирования</string>
+    <string name="svip_video_guide_with_count">Уважаемые пользователи, у вас есть&lt;font color=#03081A>&lt;b>%1$d个&lt;/b>&lt;/font>Видео не содержится резервного копирования, открыть резервное копирование видео, наслаждайтесь оригинальной службой резервного копирования</string>
     <string name="svip_finish_video_guide_dark">Уважаемые пользователи, открытые резервные копии видео, наслаждайтесь оригинальной службой резервного копирования</string>
     <string name="svip_finish_video_guide">Уважаемые пользователи, открытые резервные копии видео, наслаждайтесь оригинальной службой резервного копирования</string>
     <string name="svip_backup_tips">SVIP Exclusive Backup.</string>
@@ -11011,8 +11008,8 @@ Baidu Network Disk не использует его нормально"</string>
     <string name="svip_backup_finish_without_video">Уважаемый супер-член, резервировал на свои оригинальные картины и&lt;font color=#03081A>&lt;b>%1$d&lt;/b>&lt;/font></string>
     <string name="svip_backup_finish_without_image_dark">Уважаемые супер-члены резервировали&lt;font color=#FFFFFF>&lt;b>%1$d&lt;/b>&lt;/font>Видео</string>
     <string name="svip_backup_finish_without_image">Уважаемый супер-член, резервировал на свои оригинальные картины и&lt;font color=#03081A>&lt;b>%1$d&lt;/b>&lt;/font>видео</string>
-    <string name="svip_backup_finish_with_count_dark">尊敬的超级会员，已为您原画质备份了&lt;font color=#FFFFFF>&lt;b>%1$d&lt;/b>&lt;/font>张图片，&lt;font color=#FFFFFF>&lt;b>%2$d&lt;/b>&lt;/font>个视频</string>
-    <string name="svip_backup_finish_with_count">尊敬的超级会员，已为您原画质备份了&lt;font color=#03081A>&lt;b>%1$d&lt;/b>&lt;/font>张图片，&lt;font color=#03081A>&lt;b>%2$d&lt;/b>&lt;/font>个视频</string>
+    <string name="svip_backup_finish_with_count_dark">Уважаемый супер-член был резервной копией для вашей оригинальной живописи.&lt;font color=#FFFFFF>&lt;b>%1$d&lt;/b>&lt;/font>Чжан картина,&lt;font color=#FFFFFF>&lt;b>%2$d&lt;/b>&lt;/font>видео</string>
+    <string name="svip_backup_finish_with_count">Уважаемый супер-член был резервной копией для вашей оригинальной живописи.&lt;font color=#03081A>&lt;b>%1$d&lt;/b>&lt;/font>Чжан картина,&lt;font color=#03081A>&lt;b>%2$d&lt;/b>&lt;/font>видео</string>
     <string name="state_downloading">Загрузка</string>
     <string name="state_download_finished">Загруженно</string>
     <string name="space_work_tips">Синхронизировать файлы между несколькими компьютерами и мобильными телефонами, готовые к просмотру / изменению</string>
@@ -11083,7 +11080,7 @@ Baidu Network Disk не использует его нормально"</string>
     <string name="setting_actionlive_turn_right_txt">Встряхнуть вправо</string>
     <string name="setting_actionlive_turn_left_txt">Встряхнуть голову влево</string>
     <string name="setting_actionlive_shake_head_txt">Левый и правый шума</string>
-    <string name="setting_actionlive_open_mouth_txt">张张嘴</string>
+    <string name="setting_actionlive_open_mouth_txt">Чжан Чжан</string>
     <string name="setting_actionlive_nod_txt">Вниз</string>
     <string name="setting_actionlive_look_up_txt">Искать</string>
     <string name="setting_actionlive_blink_txt">Мигать</string>
@@ -11092,8 +11089,8 @@ Baidu Network Disk не использует его нормально"</string>
     <string name="set_meal_backup_finish_without_video">Уважаемые пользователи резервировали&lt;font color=#03081A>&lt;b>%1$d&lt;/b>&lt;/font>Открытые супер-члены и наслаждайтесь более ценными правами</string>
     <string name="set_meal_backup_finish_without_image_dark">Уважаемые пользователи поддерживались&lt;font color=#FFFFFF>&lt;b>%1$d&lt;/b>&lt;/font>Видео.Открытые супер-члены и наслаждайтесь более ценными правами на деньги</string>
     <string name="set_meal_backup_finish_without_image">Уважаемые пользователи резервировали и&lt;font color=#03081A>&lt;b>%1$d&lt;/b>&lt;/font>Видео.Открытые супер-члены и наслаждайтесь более ценными правами на деньги</string>
-    <string name="set_meal_backup_finish_with_count_dark">尊敬的用户，已为您原画质备份了&lt;font color=#FFFFFF>&lt;b>%1$d&lt;/b>&lt;/font>张图片，&lt;font color=#FFFFFF>&lt;b>%2$d&lt;/b>&lt;/font>个视频。开通超级会员，享更多超值权益</string>
-    <string name="set_meal_backup_finish_with_count">尊敬的用户，已为您原画质备份了&lt;font color=#03081A>&lt;b>%1$d&lt;/b>&lt;/font>张图片，&lt;font color=#03081A>&lt;b>%2$d&lt;/b>&lt;/font>个视频。开通超级会员，享更多超值权益</string>
+    <string name="set_meal_backup_finish_with_count_dark">уважаемыеПользователиБылиРезервнымиКопиямиДляВашейОригинальнойЖивописи&lt;font color=#FFFFFF>&lt;b>%1$d&lt;/b>&lt;/font>Чжанкартина,&lt;font color=#FFFFFF>&lt;b>%2$d&lt;/b>&lt;/font>видеоОткрытьСуперЧленыИНаслаждайтесьБолееЦеннымиПравамиНаДеньги</string>
+    <string name="set_meal_backup_finish_with_count">уважаемыеПользователиБылиРезервнымиКопиямиДляВашейОригинальнойЖивописи&lt;font color=#03081A>&lt;b>%1$d&lt;/b>&lt;/font>Чжанкартина,&lt;font color=#03081A>&lt;b>%2$d&lt;/b>&lt;/font>видеоОткрытьСуперЧленыИНаслаждайтесьБолееЦеннымиПравамиНаДеньги</string>
     <string name="self_starting_title_defalut">Автозапуск</string>
     <string name="self_starting_guide_desc">Метод настройки разрешения фона выглядит следующим образом:</string>
     <string name="self_starting_desc">Резервное копирование резервного копирования более своевременно</string>
@@ -11202,7 +11199,7 @@ Baidu Network Disk не использует его нормально"</string>
     <string name="new_user_transfer_tip_content">Просмотр прогресса передачи здесь</string>
     <string name="new_user_teach_learn_netdisk">Научить вас играть в сетевой диск</string>
     <string name="new_user_task_card_sign_title">"Непрерывный знак в %1$d "</string>
-    <string name="new_user_task_card_sign_score">抽30天SVIP</string>
+    <string name="new_user_task_card_sign_score">Кислый 30 дней svip</string>
     <string name="new_user_task_card_sign_btn">Подписанный%1$d/%2$d</string>
     <string name="new_user_task_card_seven_day">Ограниченное время 7 дней</string>
     <string name="new_user_task_card_ing">В процессе  %1$d/%2$d</string>
@@ -11281,12 +11278,12 @@ Baidu Network Disk не использует его нормально"</string>
     <string name="business_card_guide_select">Обмен панелью Выбор визитной карточки</string>
     <string name="business_card_guide_activity_title">Учебное пособие</string>
     <string name="backup_finish">Резервное копирование было завершено</string>
-    <string name="backup_finish_with_count">尊敬的用户，已为您备份了&lt;font color=#03081A>&lt;b>%1$d&lt;/b>&lt;/font>张图片，&lt;font color=#03081A>&lt;b>%2$d&lt;/b>&lt;/font>个视频。开通超级会员，享原画备份视频等更多超值权益</string>
-    <string name="backup_finish_with_count_dark">尊敬的用户，已为您备份了&lt;font color=#FFFFFF>&lt;b>%1$d&lt;/b>&lt;/font>张图片，&lt;font color=#FFFFFF>&lt;b>%2$d&lt;/b>&lt;/font>个视频。开通超级会员，享原画备份视频等更多超值权益</string>
-    <string name="backup_finish_without_image">尊敬的用户，已为您备份了&lt;font color=#03081A>&lt;b>%1$d&lt;/b>&lt;/font>个视频。开通超级会员，享原画备份视频等更多超值权益</string>
-    <string name="backup_finish_without_image_dark">尊敬的用户，已为您备份了&lt;font color=#03081A>&lt;b>%1$d&lt;/b>&lt;/font>个视频。开通超级会员，享原画备份视频等更多超值权益</string>
-    <string name="backup_finish_without_video_dark">尊敬的用户，已为您备份了&lt;font color=#FFFFFF>&lt;b>%1$d&lt;/b>&lt;/font>张图片。开通超级会员，享原画备份视频等更多超值权益</string>
-    <string name="backup_finish_without_video">尊敬的用户，已为您备份了&lt;font color=#03081A>&lt;b>%1$d&lt;/b>&lt;/font>张图片。开通超级会员，享原画备份视频等更多超值权益</string>
+    <string name="backup_finish_with_count">Уважаемые пользователи вернулись за вас.&lt;font color=#03081A>&lt;b>%1$d&lt;/b>&lt;/font>Чжан картина,&lt;font color=#03081A>&lt;b>%2$d&lt;/b>&lt;/font>Видео.Открытые супер-члены, наслаждайтесь оригинальным цветом резервного копирования видео и т. Д. Дополнительные права на деньги</string>
+    <string name="backup_finish_with_count_dark">Уважаемые пользователи вернулись за вас.&lt;font color=#FFFFFF>&lt;b>%1$d&lt;/b>&lt;/font>Чжан картина,&lt;font color=#FFFFFF>&lt;b>%2$d&lt;/b>&lt;/font>Видео.Открытые супер-члены, наслаждайтесь оригинальным цветом резервного копирования видео и т. Д. Дополнительные права на деньги</string>
+    <string name="backup_finish_without_image">Уважаемые пользователи вернулись за вас.&lt;font color=#03081A>&lt;b>%1$d&lt;/b>&lt;/font>Видео.Открытые супер-члены, наслаждайтесь оригинальным цветом резервного копирования видео и т. Д. Дополнительные права на деньги</string>
+    <string name="backup_finish_without_image_dark">Уважаемые пользователи вернулись за вас.&lt;font color=#03081A>&lt;b>%1$d&lt;/b>&lt;/font>Видео.Открытые супер-члены, наслаждайтесь оригинальным цветом резервного копирования видео и т. Д. Дополнительные права на деньги</string>
+    <string name="backup_finish_without_video_dark">Уважаемые пользователи вернулись за вас.&lt;font color=#FFFFFF>&lt;b>%1$d&lt;/b>&lt;/font>Чжан картина.Открытые супер-члены, наслаждайтесь оригинальным цветом резервного копирования видео и т. Д. Дополнительные права на деньги</string>
+    <string name="backup_finish_without_video">Уважаемые пользователи вернулись за вас.&lt;font color=#03081A>&lt;b>%1$d&lt;/b>&lt;/font>Чжан картина.Открытые супер-члены, наслаждайтесь оригинальным цветом резервного копирования видео и т. Д. Дополнительные права на деньги</string>
     <string name="backup_guide_title">Откройте резервное копирование фотографии, сохранить телефонное пространство</string>
     <string name="audio_play_sort_error">Сортировать неудачу, пожалуйста, попробуйте еще раз ~</string>
     <string name="av_scaning">Сканирование ...%s</string>
