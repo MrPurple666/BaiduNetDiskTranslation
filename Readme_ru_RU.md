@@ -80,8 +80,8 @@
 [donate-badge]: https://img.shields.io/badge/%F0%9F%92%99-Donate%20%2F%20Support%20Us-blue.svg
 [lng-russian-win]: https://img.shields.io/badge/Russian|windows-80%25-green.svg
 [lng-english-win]: https://img.shields.io/badge/English|windows-70%25-green.svg
-[lng-russian-and]: https://img.shields.io/badge/Russian|android-55%25-green.svg
-[lng-english-and]: https://img.shields.io/badge/English|android-0%25-green.svg
+[lng-russian-and]: https://img.shields.io/badge/Russian|android-75%25-green.svg
+[lng-english-and]: https://img.shields.io/badge/English|android-75%25-green.svg
 [win-portable]: #портативная-версия
 [win-repack]: #установка-репака
 [win-replace]: #замена-файлов
