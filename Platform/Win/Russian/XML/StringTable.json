@@ -1,0 +1,108 @@
+
+
+{
+   "@language": "2052",
+   "String": [
+      {
+         "@id": "IDS_STANDARDWIN_CLOSE",
+         "@value": "Закрыть"
+      },
+      {
+         "@id": "IDS_STANDARDWIN_MAX",
+         "@value": "Развернуть"
+      },
+      {
+         "@id": "IDS_STANDARDWIN_MIN",
+         "@value": "Свернуть"
+      },
+      {
+         "@id": "IDS_STANDARDWIN_RECOV",
+         "@value": "Востановить"
+      },
+      {
+         "@id": "IDS_ID_NO",
+         "@value": "Нет"
+      },
+      {
+         "@id": "IDS_ID_YES",
+         "@value": "Да"
+      },
+      {
+         "@id": "IDS_ID_OK",
+         "@value": "ОК"
+      },
+      {
+         "@id": "IDS_ID_APPLY",
+         "@value": "Применить"
+      },
+      {
+         "@id": "IDS_ID_CONTINUE",
+         "@value": "Продолжить"
+      },
+      {
+         "@id": "IDS_ID_RETRY",
+         "@value": "Повторить"
+      },
+      {
+         "@id": "IDS_ID_TERMINATE",
+         "@value": "Стоп"
+      },
+      {
+         "@id": "IDS_ID_IGNORE",
+         "@value": "Пропустить"
+      },
+      {
+         "@id": "IDS_ID_CANCEL",
+         "@value": "Отмена"
+      },
+      {
+         "@id": "IDS_ID_EXIT",
+         "@value": "Выйти"
+      },
+      {
+         "@id": "IDS_ID_WARNING",
+         "@value": "Предупреждение"
+      },
+      {
+         "@id": "IDS_WEB_LOADING",
+         "@value": "Загрузка..."
+      },
+      {
+         "@id": "IDS_WEB_FAILED",
+         "@value": "Непредвиденный сбой загрузки страницы，\\nПожалуйста обновите и повторите попытку."
+      },
+      {
+         "@id": "IDS_WEB_REFRESH",
+         "@value": "Обновить"
+      },
+      {
+         "@id": "IDS_GET_TEXT_HEIGHT",
+         "@value": "11"
+      },
+      {
+         "@id": "IDS_MSGBOX_OPEN_MAINFRAME",
+         "@value": "Открыть сетевой диск(&O)"
+      },
+      {
+         "@id": "IDS_MSGBOX_VIEW_ALL",
+         "@value": "Показать все"
+      },
+      {
+         "@id": "IDS_MSGBOX_IGNORE_ALL",
+         "@value": "Пропустить"
+      },
+      {
+         "@id": "IDS_CRT_GRP_NO_RT_DETAIL",
+         "@value": "Подробно"
+      },
+      {
+         "@id": "IDS_SYSMSG_TITLE",
+         "@value": "Состояние"
+      },
+      {
+         "@id": "IDS_SONG_TYPEFACE",
+         "@value": "Arial"
+      }
+   ]
+}
+
