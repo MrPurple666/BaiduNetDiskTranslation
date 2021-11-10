@@ -638,8 +638,14 @@
   <s id="1312">Currently there are other tasks being performed, please try again later</s>
   <s id="1313">Please try again</s>
   <s id="1314">Select Delete item</s>
-
-   <!--视频播放器-->
+  <!--Video player-->
+  <s id="1377">2.5x</s>
+  <s id="1378">Opened super members, unlock more rights</s>
+  <s id="1379">customize</s>
+  <s id="1380">3x</s>
+  <s id="1381">0.5x</s>
+  <s id="1382">1x</s>
+   <!--Video player-->
   <s id="1383">The network is abnormal, please check the network and try again(%d)</s>
   <s id="1384">Do not remind again</s>
   <s id="1385">From old to new</s>
@@ -722,9 +728,9 @@
   <s id="1462">2.0x</s>
   <s id="1463">Open Super Member and enjoy double-speed playback</s>
   <s id="1464">Open now</s>
-  <s id="1465">You can try it for free</s>
-  <s id="1466">%d times</s>
-  <s id="1467">Double speed playback</s>
+  <s id="1465">You can trial %d Secondary playback</s>
+  <s id="1466">Super member exclusive multiplier play</s>
+  <s id="1467">Customize</s>
   <s id="1468">Switching speed playback for free ...</s>
   <s id="1469">Opened for you for free</s>
   <s id="1470">Speed ​​play</s>
@@ -1735,7 +1741,9 @@
   <s id="4584">In the company did not finish the PPT, I want to take home to do it, synchronize through the synchronous space.</s>
   <s id="4585">Never use to change the file again.</s>
   <s id="4586">Next step</s>
-
+  <s id="4587">The network disk capacity is insufficient, the file recovery failed, please</s>
+  <s id="4588">Expand</s>
+  <s id="4589">Request</s>
   <!-- File page -->
   <s id="4559">What can I do?</s>
   <s id="4600">Add a network disk file</s>
@@ -1948,4 +1956,22 @@
   <s id="5002">Free trial></s>
   <s id="5003">Purchase work package</s>
   <s id="5004">Buy backup package</s>
+
+  <!-- Advanced Picture Preview -->
+  <s id="5010">Be super member, you can support online preview advanced format photos</s>
+  <s id="5011">This technology capability is provided by a moment album ></s>
+  <s id="5012">You are enjoying advanced image format preview features</s>
+
+  <!--Space overrun-->
+  <s id="5020">Space overrun part of the function will not be available</s>
+  <s id="5021">The stored files have a space that has exceeded the upper limit of space, and part of the function is used.</s>
+  <s id="5022">Will be limited, please expand in time</s>
+  <s id="5023">Hi，</s>
+  <s id="5024">Current space capacity</s>
+  <s id="5025">Used</s>
+  <s id="5026">I have expanded?refresh page</s>
+  <s id="5027">Spatial capacity</s>
+  <s id="5028">Switch account</s>
+  <s id="5029">Space expansion</s>
+
 </string>
