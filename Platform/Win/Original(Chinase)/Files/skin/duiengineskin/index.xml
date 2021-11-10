@@ -54,6 +54,7 @@
 <resid type="XML" name="IDR_DUI_USER_TYPE_GUIDE_DIALOG"   layer="1" file="xml\dlg_user_type_guide.xml"/>
 <resid type="XML" name="IDR_DUI_FILEVERSION_VIP_GUIDE_DIALOG"   layer="1" file="xml\dlg_fileversion_vip_guide.xml"/>
 <resid type="XML" name="IDR_DUI_FILEVERSION_ENABLE_DIALOG"   layer="1" file="xml\dlg_fileversion_enable_tip.xml"/>
+<resid type="XML" name="IDR_DUI_FILEVERSION_DIALOG_V2"   layer="1" file="xml\dlg_fileversion_dialog_v2.xml"/>
 <resid type="XML" name="IDR_DUI_GARBAGECLEAN_DIALOG" layer="1" file="xml\GarbageCleanDlg\GarbageCleanDlg.xml"/>
 <resid type="XML" name="IDR_DUI_SELECTSCANFOLDER_WND" layer="1" file="xml\GarbageCleanDlg\SelectScanFolderWnd.xml"/>
 <resid type="XML" name="IDR_DUI_GARBAGECLEANVIEW_PANEL" file="xml\GarbageCleanDlg\GarbageViewPanel.xml"/>
@@ -103,6 +104,7 @@
 <resid type="XML" name="IDR_DUI_PRIVILEGE_GUIDE_DIALOG" layer="1" file="xml\PrivilegeGuideDlg\PrivilegeGuideDlg.xml"/>
 <resid type="XML" name="IDR_DUI_PRIVILEGE_GUIDE_DIALOG_V2" layer="1" file="xml\PrivilegeGuideDlg\PrivilegeGuideDlgV2.xml"/>
 <resid type="XML" name="IDR_DUI_VIDEO_GUIDE_DIALOG" layer="1" file="xml\VideoPlaySDKDlg\VideoGuideDlg.xml"/>
+<resid type="XML" name="IDR_DUI_STORAGE_EXCEED_FUNC_LIMIT_DIALOG" layer="1" file="xml\PrivilegeGuideDlg\StorageExceedFuncLimitDlg.xml"/>
 <!--自动登录挽留-->
 <resid type="XML" name="IDR_DUI_LOGIN_RETENTION_DIALOG" layer="1" file="xml\dlg_login_retention.xml"/>
 <!--文件夹自动备份-->
@@ -587,6 +589,8 @@
 <resid type="IMGX" name="IDP_VIDEO_PROG_BAR" file="image\VideoPlayDlg\mini_progress_bar.png"/>
 <resid type="IMGX" name="IDP_VIDEO_BIG_PROG_BAR" file="image\VideoPlayDlg\big_progress_bar.png"/>
 <resid type="IMGX" name="IDP_VIDEO_PROG_VOLUM_BAR" file="image\VideoPlayDlg\mini_progress_volum_bar.png"/>
+<resid type="IMGX" name="IDP_VIDEO_PROG_SPEED_BAR" file="image\VideoPlayDlg\mini_progress_speed_bar.png"/>
+<resid type="IMGX" name="IDP_VIDEO_PROG_SPEED_ARROW" file="image\VideoPlayDlg\progress_speed_arrow.png"/>
 <resid type="IMGX" name="IDP_VIDEO_SLIDE_THUMB" file="image\VideoPlayDlg\slider.png"/>
 <resid type="IMGX" name="IDP_VIDEO_BTN_PLAY" file="image\VideoPlayDlg\video_play_btn.png"/>
 <resid type="IMGX" name="IDP_VIDEO_BTN_PAUSE" file="image\VideoPlayDlg\video_pause_btn.png"/>
@@ -632,6 +636,7 @@
 <resid type="IMGX" name="IDP_VIDEO_TIME_TIP_BG"   file="image\VideoPlayDlg\time_tip_bg.png" />
 <resid type="IMGX" name="IDP_VIDEO_VOLUM_THUMB_BIG"   file="image\VideoPlayDlg\volum_thumb_big.png" />
 <resid type="IMGX" name="IDP_VIDEO_VOLUM_THUMB_SMALL"   file="image\VideoPlayDlg\volum_thumb_small.png" />
+<resid type="IMGX" name="IDP_VIDEO_SPEED_THUMB_SMALL"   file="image\VideoPlayDlg\speed_thumb_small.png" />
 <resid type="IMGX" name="IDP_VIDEO_DRAG_LEFT"   file="image\VideoPlayDlg\drag_left.png" />
 <resid type="IMGX" name="IDP_VIDEO_DRAG_RIGHT"   file="image\VideoPlayDlg\drag_right.png" />
 <resid type="IMGX" name="IDP_VIDEO_SUBTITLE_BORDER"   file="image\VideoPlayDlg\subtitle\border.png" />
@@ -928,6 +933,7 @@
 <resid type="IMGX" name="IDP_MAINPANEL_LISTVIEW_EXPORT_ONLINEDOC" file="image\MainPanel\NetdiskPanel\ViewContainerPanel\ListView\export_onlinedoc_word.png"/>
 <resid type="IMGX" name="IDP_MAINPANEL_LISTVIEW_DOC_TO_ONLINEDOC" file="image\MainPanel\NetdiskPanel\ViewContainerPanel\ListView\doc_to_onlinedoc.png"/>
 <resid type="IMGX" name="IDP_MAINPANEL_LISTVIEW_RENAME" file="image\MainPanel\NetdiskPanel\ViewContainerPanel\ListView\rename.png"/>
+<resid type="IMGX" name="IDP_MAINPANEL_LISTVIEW_FILEVER" file="image\MainPanel\NetdiskPanel\ViewContainerPanel\ListView\filever.png"/>
 <resid type="IMGX" name="IDP_MAINPANEL_EMPTYVIEW_EMPTY" file="image\MainPanel\NetdiskPanel\ViewContainerPanel\EmptyView\empty.png"/>
 <resid type="IMGX" name="IDP_MAINPANEL_EMPTYVIEW_LOADING" file="image\MainPanel\NetdiskPanel\ViewContainerPanel\EmptyView\loading.png"/>
 <resid type="IMGX" name="IDP_MAINPANEL_EMPTYVIEW_ERROR" file="image\MainPanel\NetdiskPanel\ViewContainerPanel\EmptyView\error.png"/>
@@ -1005,6 +1011,7 @@
 <resid type="IMGX" name="IDP_IMAGEPANEL_OPLIST_SEP" file="image\ImageViewDlg\img_sep.png"/>
 <resid type="IMGX" name="IDP_IMAGEPANEL_BTN_COLLAPSE" file="image\ImageViewDlg\collapse.png"/>
 <resid type="IMGX" name="IDP_IMAGEPANEL_BTN_EXPAND" file="image\ImageViewDlg\expand.png"/>
+<resid type="IMGX" name="IDP_IMAGEPANEL_SPECIAL_IMG_GUIDE" file="image\ImageViewDlg\special_img_guide.png"/>
 <!--外链分享列表面板-->
 <resid type="IMGX" name="IDP_SHARELIST_BTN_CANCEL" file="image\MainPanel\ShareList\btn_cancel.png"/>
 <resid type="IMGX" name="IDP_SHARELIST_BTN_COPY" file="image\MainPanel\ShareList\btn_copy.png"/>
@@ -1234,6 +1241,8 @@
 <!--权益引导V2-->
 <resid type="IMGX" name="IDP_PRIVILEGE_GUIDE_SVIP_V2" file="image\PrivilegeGuideDlgV2\guide_svip_img.png"/>
 <resid type="IMGX" name="IDP_PRIVILEGE_GUIDE_DLG_BG_V2" file="image\PrivilegeGuideDlgV2\dlg_bgk_v2.png"/>
+<resid type="IMGX" name="IDP_PRIVILEGE_LIGHT_BLUE_BTN" file="image\PrivilegeGuideDlgV2\light_blue_btn.png"/>
+<resid type="IMGX" name="IDP_PRIVILEGE_DARK_BLUE_BTN" file="image\PrivilegeGuideDlgV2\dark_blue_btn.png"/>
 
 <!-- 批量上传引导 -->
 <resid type="IMGX" name="IDP_PRIVILEGE_GUIDE_DLG_BG" file="image\PrivilegeGuideDlg\dlg_bg.png"/>
@@ -1292,6 +1301,9 @@
 <resid type="IMGX" name="IDP_DUI_WORKSPACE_RECORD_LOADING_ITEM" file="image\WorkSpaceDlg\loading_item.gif"/>
 <resid type="IMGX" name="IDP_WORKSPACE_RECORD_OP_LOCAL" file="image\WorkSpaceDlg\op_local.png"/>
 <resid type="IMGX" name="IDP_WORKSPACE_RECORD_OP_CLOUD" file="image\WorkSpaceDlg\op_cloud.png"/>
+
+<resid type="IMGX" name="IDP_WORKSPACE_FILEVER_SAVEAS" file="image\WorkSpaceDlg\workspace_filever_saveas.png"/>
+<resid type="IMGX" name="IDP_WORKSPACE_FILEVER_SVIP" file="image\WorkSpaceDlg\workspace_filever_svip.png"/>
 
 <!-- 文件页 -->
 <resid type="IMGX" name="IDP_DUI_WORKSPACE_FILE_BTN_IMPORT" file="image\WorkSpaceDlg\FilePanel\ToolBar\Import.png"/>

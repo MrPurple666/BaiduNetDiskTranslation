@@ -5,6 +5,12 @@
       <!--主视图-->
       <dlg name="dlg_main_view" pos="0,0,-0,-66">
         <gifplayer name="main_image" pos="0,0,-0,-0" skin="imageviewpanel_image_loading" keep_size="1"/>
+        <dlg name="dlg_special_img_type_svip_guide" skin="video_guide_mask_img" pos="0,0,-0,-0" show="0">
+           <text name="guide_title" pos="|-170,|-180,@340,@24" crtext="F3F3F3" font="0400:微软雅黑">%str5010%</text>  
+           <img name="guide_img" pos="|-124,[20,@252,@216" skin="imageviewpanel_special_img_guide" ></img>              
+           <imgbtn name="btn_buy_svip" pos="|-88,[20,@176,@42" skin="btn_svip_round_angle">%str2341%</imgbtn>  
+		   <link name="link_yike" pos="|-80,[20,@160,@20" crtext="FFFFFF" font="0000:微软雅黑" cursor="hand">%str5011%</link>
+        </dlg>
         <dlg name="dlg_left_btn" pos="0,70,%25,-70">
           <imgbtn name="btn_image_left" skin="imageviewpanel_btn_left" pos="54,|-30" width="60" height="60" cursor="arrow" tip="%str2100%"></imgbtn>
         </dlg>

@@ -457,6 +457,8 @@
         <imgframe name="video_prog_bar" src="IDP_VIDEO_PROG_BAR" left="3"/>
         <imgframe name="video_big_prog_bar" src="IDP_VIDEO_BIG_PROG_BAR"/>
         <imgframe name="video_prog_bar_volum" src="IDP_VIDEO_PROG_VOLUM_BAR" left="3"/>
+        <imgframe name="video_prog_bar_speed" src="IDP_VIDEO_PROG_SPEED_BAR" left="3"/>
+        <imgframe name="video_prog_speed_arrow" src="IDP_VIDEO_PROG_SPEED_ARROW" subwidth="12"/>
         <imglst name="video_slide_thumb" src="IDP_VIDEO_SLIDE_THUMB" subwidth="17"/>
         <imglst name="video_skin_op_bg" src="IDP_VIDEO_OP_BG"/>
         <imglst name="video_skin_mask_bg" src="IDP_VIDEO_MASK_BG"/>
@@ -489,6 +491,7 @@
         <imgframe name="video_default_ad_img" src="IDP_VIDEO_DEFAULT_AD_IMG"/>
         <imgframe name="video_volum_thumb_big" src="IDP_VIDEO_VOLUM_THUMB_BIG"/>
         <imgframe name="video_volum_thumb_small" src="IDP_VIDEO_VOLUM_THUMB_SMALL"/>
+        <imgframe name="video_speed_thumb_small" src="IDP_VIDEO_SPEED_THUMB_SMALL"/>
         <imgframe name="video_drag_left" src="IDP_VIDEO_DRAG_LEFT"/>
         <imgframe name="video_drag_right" src="IDP_VIDEO_DRAG_RIGHT"/>
         <imgframe name="video_subtitle_border" src="IDP_VIDEO_SUBTITLE_BORDER" left="3" top="3" right="3" bottom="3"/>
@@ -506,7 +509,7 @@
         <imgframe name="video_subtitle_slider_bg" src="IDP_VIDEO_SUBTITLE_SLIDER_BG"/>
         <imglst name="video_overspeed_blue_btn" src="IDP_VIDEO_OVERSPEED_BLUE_BTN" subwidth="200"/>
         <imglst name="video_overspeed_yellow_btn" src="IDP_VIDEO_OVERSPEED_YELLOW_BTN" subwidth="200"/>
-        <imglst name="video_overspeed_svip_btn" src="IDP_VIDEO_OVERSPEED_SVIP_BTN" subwidth="110"/>
+        <imglst name="video_overspeed_svip_btn" src="IDP_VIDEO_OVERSPEED_SVIP_BTN" subwidth="78"/>
         <imgframe name="video_overspeed_svip_img" src="IDP_VIDEO_OVERSPEED_SVIP_IMG"/>
         <imgframe name="video_overspeed_new_img" src="IDP_VIDEO_OVERSPEED_NEW_IMG"/>      
         <imgframe name="video_underline_normal" src="IDP_VIDEO_UNDERLINE_NORMAL" left="3" top="0" right="3" bottom="2"/>
@@ -786,6 +789,7 @@
         <imgframe name="mainpanel_listview_export_onlinedoc" src="IDP_MAINPANEL_LISTVIEW_EXPORT_ONLINEDOC" subwidth="16"/>
         <imgframe name="mainpanel_listview_doc_to_onlinedoc" src="IDP_MAINPANEL_LISTVIEW_DOC_TO_ONLINEDOC" subwidth="16"/>
         <imgframe name="mainpanel_listview_rename" src="IDP_MAINPANEL_LISTVIEW_RENAME" subwidth="16"/>
+        <imgframe name="mainpanel_listview_filever" src="IDP_MAINPANEL_LISTVIEW_FILEVER" subwidth="16"/>
         <imglst name="mainpanel_listview_trans_fail" src="IDP_MAINPANEL_LISTVIEW_TRANS_FAIL"/>
         <imglst name="mainpanel_listview_trans_pause" src="IDP_MAINPANEL_LISTVIEW_TRANS_PAUSE"/>
         <imglst name="mainpanel_listview_trans_upload" src="IDP_MAINPANEL_LISTVIEW_TRANS_UPLOAD"/>
@@ -867,6 +871,7 @@
         <imgframe name="imageviewpanel_opbtnlist_view_sep" src="IDP_IMAGEPANEL_OPLIST_SEP"/>
         <imgframe name="imageviewpanel_btn_collapse" src="IDP_IMAGEPANEL_BTN_COLLAPSE" subwidth="40" top="8" right="22" bottom="9"/>
         <imgframe name="imageviewpanel_btn_expand" src="IDP_IMAGEPANEL_BTN_EXPAND" subwidth="40" top="8" right="22" bottom="9"/>
+        <imgframe name="imageviewpanel_special_img_guide" src="IDP_IMAGEPANEL_SPECIAL_IMG_GUIDE" />
         <!--外链分享面板-->
         <imglst name="sharelist_cancel_btn" src="IDP_SHARELIST_BTN_CANCEL" subwidth="86"/>
         <imglst name="sharelist_copy_btn" src="IDP_SHARELIST_BTN_COPY" subwidth="86"/>
@@ -1086,6 +1091,8 @@
 
       <imgframe name="privilege_guide_svip_img_v2" src="IDP_PRIVILEGE_GUIDE_SVIP_V2" />
       <imgframe name="privilege_guide_bgk_v2" src="IDP_PRIVILEGE_GUIDE_DLG_BG_V2" />
+      <imgframe name="privilege_light_blue_btn" src="IDP_PRIVILEGE_LIGHT_BLUE_BTN" subwidth="128" left="30" right="30" top="10" bottom="10"/>
+      <imgframe name="privilege_dark_blue_btn" src="IDP_PRIVILEGE_DARK_BLUE_BTN" subwidth="128" left="30" right="30" top="10" bottom="10"/>
 
         <!-- 批量超会引导 -->
         <imgframe name="privilege_guide_dlg_bg" src="IDP_PRIVILEGE_GUIDE_DLG_BG" left="50" right="50" top="50" bottom="50"/>
@@ -1175,6 +1182,9 @@
         <imgframe name="enterprise_guide_dlg_btn" src="IDP_DUI_ENTERPRISE_GUIDE_BTN_IMG"/>
         <imglst name="workspace_record_op_local" src="IDP_WORKSPACE_RECORD_OP_LOCAL"/>
         <imglst name="workspace_record_op_cloud" src="IDP_WORKSPACE_RECORD_OP_CLOUD"/>
+
+        <imgframe name="workspace_filever_saveas" src="IDP_WORKSPACE_FILEVER_SAVEAS" subwidth="24"/>
+        <imgframe name="workspace_filever_svip" src="IDP_WORKSPACE_FILEVER_SVIP" subwidth="34"/>
 
         <!-- 工作空间目录迁移 -->
         <imgframe name="workspace_filecopy_progress_bg_dlg" src="IDP_DUI_WORKSPACE_FILECOPY_PROGRESS_BG_DLG" left="50" right="50" top="80" bottom="80"/>
@@ -1370,16 +1380,15 @@
         <class name="cls_video_frame" font="0000:Arial" textmode="25" crtext="ffffff" crbg="000000"></class>
         <class name="cls_video_dlg_frame" skin="video_skin_bg_temp" font="0000" crtext="FFFFFF" x-margin="0"/>
         <class name="cls_video_dlg_model_select" crtext="ffffff" crhover="008AFF" skin="video_skin_toolbar_bg"/>
-        <class name="cls_video_dlg_words_btn" crtext="ffffff" font="0000:微软雅黑" skin="video_imglist_words_btn"/>
+        <class name="cls_video_dlg_words_btn" crtext="ffffff" crhover="ffffff" font="0000:微软雅黑" skin="video_imglist_words_btn"/>
         <class name="cls_video_definition_dlg_words_btn" crtext="ffffff" crhover="ffffff" font="0000:微软雅黑" skin="video_imglist_words_btn"/>
         <class name="cls_video_subtitle_txt_gray" crtext="A4A4A4" font="0000:微软雅黑" crdisabled="4c4c4c"/>
         <class name="cls_video_subtitle_txt_white" crtext="ffffff" font="0000:微软雅黑" crdisabled="4c4c4c"/>
         <class name="cls_video_subtitle_txt_blue" crtext="3a8cff" font="0000:微软雅黑" crdisabled="4c4c4c"/>
-        <class name="cls_video_overspeed_item_blue_btn" skin="video_overspeed_blue_btn"  crtext="ffffff" crhover="ffffff" font="0000:微软雅黑" cursor="arrow"/>
-        <class name="cls_video_overspeed_item_blue_checked_btn" skin="video_overspeed_blue_btn"  crtext="3887ff" crhover="ffffff" font="0000:微软雅黑" cursor="arrow"/>
-        <class name="cls_video_overspeed_item_yellow_btn" skin="video_overspeed_yellow_btn" crtext="ffffff" crhover="1a1a1a" font="0000:微软雅黑" cursor="arrow"/>
-        <class name="cls_video_overspeed_item_yellow_checked_btn" skin="video_overspeed_yellow_btn" crtext="f9d680" crhover="1a1a1a" font="0000:微软雅黑" cursor="arrow"/>
-        <class name="cls_video_overspeed_vip_btn" crtext="f9d680" crhover="f9d680" font="0000:微软雅黑" skin="video_overspeed_svip_btn" cursor="arrow"/>
+        <class name="cls_video_overspeed_item_white_btn" skin="common_translucent_img"  crtext="ffffff" crhover="ffffff" font="0000:微软雅黑" hoverfont="0200:微软雅黑"  cursor="hand"/>
+        <class name="cls_video_overspeed_item_blue_checked_btn" skin="video_overspeed_blue_btn"  crtext="3887ff" crhover="3887ff" font="0000:微软雅黑" hoverfont="0200:微软雅黑" cursor="hand"/>
+        <class name="cls_video_overspeed_item_yellow_checked_btn" skin="video_overspeed_blue_btn"  crtext="ffda99" crhover="ffda99" font="0000:微软雅黑" hoverfont="0200:微软雅黑" cursor="hand"/>
+        <class name="cls_video_overspeed_vip_btn" crtext="64360D" crhover="64360D" font="0000:微软雅黑" skin="video_overspeed_svip_btn" cursor="arrow"/>
         <class name="cls_video_playlist_filename" crtext="333333" crhover="06a8ff" font="0000:微软雅黑" hoverfont="0000:微软雅黑" align="left"/>
         <class name="cls_video_playlist_tab_btn" crtext="d2d2d2" font="0200:微软雅黑" crhover="06a7ff" hoverfont="0200:微软雅黑" align="left" valign="middle" cursor="arrow"/>
 

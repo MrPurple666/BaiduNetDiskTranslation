@@ -43,6 +43,7 @@
             <imgbtn name="btn_share" pos="8,|-8,@16,@16" skin="mainpanel_listview_share" cursor="arrow" tip="%str2306%" show="0"></imgbtn>
             <imgbtn name="btn_del" pos="[18,|-8,@16,@16" skin="mainpanel_listview_del" cursor="arrow" tip="%str2325%" show="0"></imgbtn>
             <imgbtn name="btn_rename" pos="[18,|-8,@16,@16" skin="mainpanel_listview_rename" cursor="arrow" tip="%str2332%" show="0"></imgbtn>
+            <imgbtn name="btn_ver" pos="[18,|-8,@16,@16" skin="mainpanel_listview_filever" cursor="arrow" tip="%str2162%" show="0"></imgbtn>
           </dlg>
         </template>
       </listboxex>

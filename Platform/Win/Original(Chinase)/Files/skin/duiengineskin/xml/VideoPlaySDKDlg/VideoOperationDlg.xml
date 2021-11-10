@@ -261,10 +261,10 @@
           <imgbtn name="video_subtitle_add" pos="240,80" font="0404:微软雅黑" crtext="ffffff" 
                   width="28" height="28" skin="video_subtitle_add_btn" tip="%str1449%" cursor="arrow"></imgbtn>
           <img pos="94,-52,@162,@2" skin="video_subtitle_size_line"></img>
-          <img pos="94,-54,@8,@8" skin="video_subtitle_size_img_small" />
-          <img pos="148,-54,@8,@8" skin="video_subtitle_size_img_small" />
+          <img pos="91,-54,@8,@8" skin="video_subtitle_size_img_small" />
+          <img pos="145,-54,@8,@8" skin="video_subtitle_size_img_small" />
           <img pos="200,-54,@8,@8" skin="video_subtitle_size_img_small" />
-          <img pos="250,-54,@8,@8" skin="video_subtitle_size_img_small" />
+          <img pos="253,-54,@8,@8" skin="video_subtitle_size_img_small" />
           <sliderbar name="video_zise_sliderbar" pos="90,136,@172,@20" alpha="255"
                      bgskin="video_subtitle_slider_bg" posskin="video_skin_op_bg" thumbskin="video_subtitle_size_img_big"
                      value="1" min="0" max="3"/>
@@ -292,28 +292,34 @@
           </dlg>
         </dlg>
         <!--倍速选择面板-->
-        <dlg name="video_overspeed_panel" pos="-347,-340" width="208" height="270" show="0">
-          <dlg name="video_overspeed_panel_normal" pos="0,76,-0,-0" skin="video_time_tip_bg" show="0">
-            <imgbtn name="video_overspeed_75" pos="4,20,@200,@32" class="cls_video_overspeed_item_yellow_btn" txtalpha="0">%str1458%</imgbtn>
-            <imgbtn name="video_overspeed_100" pos="4,52,@200,@32" class="cls_video_overspeed_item_yellow_btn" txtalpha="0">%str1459%</imgbtn>
-            <imgbtn name="video_overspeed_125" pos="4,84,@200,@32" class="cls_video_overspeed_item_yellow_btn" txtalpha="0">%str1460%</imgbtn>
-            <imgbtn name="video_overspeed_150" pos="4,116,@200,@32" class="cls_video_overspeed_item_yellow_btn" txtalpha="0">%str1461%</imgbtn>
-            <imgbtn name="video_overspeed_200" pos="4,148,@200,@32" class="cls_video_overspeed_item_yellow_btn" txtalpha="0">%str1462%</imgbtn>
+        <dlg name="video_overspeed_panel" pos="-400,-170,@320,@101" skin="video_time_tip_bg" show="0">
+          <dlg name="video_overspeed_guide_svip" pos="0,0,-0,@48" show="1">
+            <img name="video_overspeed_img_svip" pos="20,18,@16,@16" skin="video_overspeed_svip_img"></img>
+            <text name="video_overspeed_guide_head" pos="44,18" class="cls_txt_white" txtalpha="0">%str1465%</text>
+            <imgbtn name="video_overspeed_svip" pos="-98,10" width="78" height="28" class="cls_video_overspeed_vip_btn" txtalpha="0">%str1464%</imgbtn>
+            <hr pos="16,47,-16,@1" crbg="333333"></hr>
           </dlg>
-          <dlg name="video_overspeed_panel_guide" pos="0,0,-0,-0" skin="video_time_tip_bg" show="0">
-            <imgbtn name="video_overspeed_75" pos="4,20,@200,@32" class="cls_video_overspeed_item_blue_btn" txtalpha="0">%str1458%</imgbtn>
-            <imgbtn name="video_overspeed_100" pos="4,52,@200,@32" class="cls_video_overspeed_item_blue_btn" txtalpha="0">%str1459%</imgbtn>
-            <imgbtn name="video_overspeed_125" pos="4,84,@200,@32" class="cls_video_overspeed_item_blue_btn" txtalpha="0">%str1460%</imgbtn>
-            <imgbtn name="video_overspeed_150" pos="4,116,@200,@32" class="cls_video_overspeed_item_blue_btn" txtalpha="0">%str1461%</imgbtn>
-            <imgbtn name="video_overspeed_200" pos="4,148,@200,@32" class="cls_video_overspeed_item_blue_btn" txtalpha="0">%str1462%</imgbtn>
-            <dlg name="video_overspeed_guide_svip" pos="0,-82,-0,-0">
-              <hr pos="16,0,-16,1" crbg="333333"></hr>
-              <img name="video_overspeed_img_svip" pos="11,-67,@16,@16" skin="video_overspeed_svip_img"></img>
-              <text name="video_overspeed_guide_head" pos="33,-68" class="cls_txt_white" txtalpha="0">%str1465%</text>    <!-- id="1465"你可免费试用-->
-              <text name="video_overspeed_guide_trycount" pos="110,-68" font="0000:微软雅黑" align="center" crtext="f9d680" txtalpha="0">%str1466%</text>    <!--id="1466">%d次-->
-              <text name="video_overspeed_guide_tail" pos="130,-68" class="cls_txt_white" txtalpha="0">%str1467%</text>  <!-- id="1467">倍速播放-->
-              <imgbtn name="video_overspeed_svip" pos="49,-41" width="110" height="26" class="cls_video_overspeed_vip_btn" txtalpha="0">%str1464%</imgbtn>   <!--id="1464">立即开通-->
-            </dlg>
+          <dlg name="video_overspeed_panel" pos="0,48,-0,@48" show="0">
+            <imgbtn name="video_overspeed_75" pos="20,12,@46,@30" class="cls_video_overspeed_item_white_btn" txtalpha="0">%str1458%</imgbtn>
+            <imgbtn name="video_overspeed_100" pos="[0,12,@46,@30" class="cls_video_overspeed_item_white_btn" txtalpha="0">%str1459%</imgbtn>
+            <imgbtn name="video_overspeed_125" pos="[0,12,@46,@30" class="cls_video_overspeed_item_white_btn" txtalpha="0">%str1460%</imgbtn>
+            <imgbtn name="video_overspeed_150" pos="[0,12,@46,@30" class="cls_video_overspeed_item_white_btn" txtalpha="0">%str1461%</imgbtn>
+            <imgbtn name="video_overspeed_200" pos="[0,12,@46,@30" class="cls_video_overspeed_item_white_btn" txtalpha="0">%str1462%</imgbtn>
+            <hr pos="[0,20,@1,@14" crbg="333333"></hr>
+            <imgbtn name="video_overspeed_custom" pos="[10,12,@46,@30" class="cls_video_overspeed_item_white_btn" txtalpha="0">%str1379%</imgbtn>
+          </dlg>
+          <dlg name="video_overspeed_customs_panel" pos="0,48,-0,@92" show="0">
+            <hr pos="16,[0,-16,@1" crbg="333333"></hr>
+            <text name="video_overspeed_custom_text" pos="20,15,@60,@12" class="cls_txt_white" txtalpha="0">%str1467%</text>
+            <text name="video_overspeed_custom_values" pos="-70,15,@38,@12"  crtext="F9D680" font="0000:微软雅黑" txtalpha="0">%str1465%</text>
+            <text pos="[0,15,@12,@12" skin="video_prog_speed_arrow"></text>
+            <sliderbar name="sliderbar_overspeed_customs" pos="20,35,@280,@20" width="280" height="20" alpha="255" bgskin="video_prog_bg_volum" posskin="video_prog_bar_speed" thumbskin="video_speed_thumb_small" value="100" min="50" max="300"/>
+            <text name="video_overspeed_text_50" pos="20,-30,@24,@12" font="0004:微软雅黑" class="cls_txt_white" txtalpha="0">%str1381%</text>
+            <text name="video_overspeed_text_100" pos="65,-30,@24,@12" font="0004:微软雅黑" class="cls_txt_white" txtalpha="0">%str1382%</text>
+            <text name="video_overspeed_text_150" pos="120,-30,@24,@12" font="0004:微软雅黑" class="cls_txt_white" txtalpha="0">%str1461%</text>
+            <text name="video_overspeed_text_200" pos="175,-30,@24,@12" font="0004:微软雅黑" class="cls_txt_white" txtalpha="0">%str1462%</text>
+            <text name="video_overspeed_text_250" pos="230,-30,@24,@12" font="0004:微软雅黑" class="cls_txt_white" txtalpha="0">%str1377%</text>
+            <text name="video_overspeed_text_300" pos="280,-30,@24,@12" font="0004:微软雅黑" class="cls_txt_white" txtalpha="0">%str1380%</text>
           </dlg>
         </dlg>
       </dlg>

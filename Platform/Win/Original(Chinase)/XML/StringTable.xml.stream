@@ -672,6 +672,7 @@
   <String id="IDS_FILEVERSIONDLG_FILESIZE"  value="大小" />
   <String id="IDS_FILEVERSIONDLG_FILEMTIME"  value="修改时间" />
   <String id="IDS_FILEVERSIONDLG_OP"  value="恢复" />
+  <String id="IDS_FILEVERSIONDLG_OPERATE"  value="操作" />
   <String id="IDS_FILEVERSIONDLG_RESUME"  value="恢复" />
   <String id="IDS_FILEVERSIONDLG_CLOSE"  value="关闭" />
   <String id="IDS_FILEVERSIONDLG_CURVERSION"  value="(当前)" />
