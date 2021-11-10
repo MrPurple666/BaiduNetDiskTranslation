@@ -674,6 +674,7 @@
   <String id="IDS_FILEVERSIONDLG_FILESIZE" value="Размер" />
   <String id="IDS_FILEVERSIONDLG_FILEMTIME" value="Последние изменения" />
   <String id="IDS_FILEVERSIONDLG_OP" value="Восстановить" />
+  <String id="IDS_FILEVERSIONDLG_OPERATE"  value="Действовать" />
   <String id="IDS_FILEVERSIONDLG_RESUME" value="Восстановить" />
   <String id="IDS_FILEVERSIONDLG_CLOSE" value="Закрыть" />
   <String id="IDS_FILEVERSIONDLG_CURVERSION" value="(Текущий)" />
