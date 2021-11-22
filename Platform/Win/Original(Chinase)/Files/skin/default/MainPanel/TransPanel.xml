@@ -134,9 +134,9 @@
 							<!-- 自动备份提示条区域（用于正在上传列表） -->
 							<IBGRegionPanel name="autoBackupTipPanel" size="0,54" dock="DOCK_TOP" config="SpeedupTicketTipPannel" unseen="true">
 								<Children>
-									<IBGStaticEx name="autoBackupTipStatic" autoCalcHeight="true" autoCalcWidth="true" textClr="0xfeab0f" text="$3177" margin="40, 19, 0, 4" dock="DOCK_LEFT"/>
-									<IBGButton name="autoBackupTryBtn" dock="DOCK_LEFT" size="100,24" text="$3178" config="SpeedupUseBtn" margin="30, 10, 0, 10"/>
-									<IBGButton name="autoBackuptipCloseBtn" dock="DOCK_RIGHT" size="10,10" config="SpeedupCloseBtn" toolText="$2789" margin="0, 22, 20, 22"/>
+									<IBGStaticEx name="autoBackupTipStatic" autoCalcHeight="true" autoCalcWidth="true" textClr="0xfeab0f" text="$3178" margin="40, 19, 0, 4" dock="DOCK_LEFT"/>
+									<IBGButton name="autoBackupTryBtn" dock="DOCK_LEFT" size="100,24" text="$3179" config="SpeedupUseBtn" margin="30, 10, 0, 10"/>
+									<IBGButton name="autoBackuptipCloseBtn" dock="DOCK_RIGHT" size="10,10" config="SpeedupCloseBtn" toolText="$2790" margin="0, 22, 20, 22"/>
 								</Children>
 							</IBGRegionPanel>
 						</Children>
@@ -160,12 +160,12 @@
 								</Properties>
 							</IBGStaticEx>
 							<!--继续加速-->
-							<IBGButton name="speedupBtn1" dock="DOCK_LEFT" size="132,40" config="SpeedupBlueFrameBtn" text="$2802" unseen="true" margin="20, 14, 0, 15"/>
+							<IBGButton name="speedupBtn1" dock="DOCK_LEFT" size="132,40" config="SpeedupBlueFrameBtn" text="$2803" unseen="true" margin="20, 14, 0, 15"/>
 							<!--购买闲时下载卡-->
-							<IBGButton name="speedupBtn2" dock="DOCK_LEFT" size="132,40" config="SpeedupBlueFrameBtn" text="$2798" unseen="true" margin="20, 14, 0, 15"/>
+							<IBGButton name="speedupBtn2" dock="DOCK_LEFT" size="132,40" config="SpeedupBlueFrameBtn" text="$2799" unseen="true" margin="20, 14, 0, 15"/>
 							<!--立即续费-->
-							<IBGButton name="speedupBtn3" dock="DOCK_LEFT" size="132,40" config="SpeedupBlueFrameBtn" text="$2788" margin="20, 14, 0, 15"/>
-							<IBGButton name="closeBtn" dock="DOCK_RIGHT" size="10,10" config="SpeedupCloseBtn" toolText="$2789" margin="0, 22, 20, 22"/>
+							<IBGButton name="speedupBtn3" dock="DOCK_LEFT" size="132,40" config="SpeedupBlueFrameBtn" text="$2789" margin="20, 14, 0, 15"/>
+							<IBGButton name="closeBtn" dock="DOCK_RIGHT" size="10,10" config="SpeedupCloseBtn" toolText="$2790" margin="0, 22, 20, 22"/>
 							<IBGButton name="speedupCornerBtn1" dock="DOCK_NULL" size="0,15" autoCalcWidth="true" config="SpeedupCornerBtn" unseen="true" margin="0, 3, 0, 36"/>
 							<IBGButton name="speedupCornerBtn2" dock="DOCK_NULL" size="0,15" autoCalcWidth="true" config="SpeedupCornerBtn" unseen="true" margin="0, 3, 0, 36"/>
 							<IBGButton name="speedupCornerBtn3" dock="DOCK_NULL" size="0,15" autoCalcWidth="true" config="SpeedupCornerBtn" unseen="true" margin="0, 3, 0, 36"/>
@@ -201,29 +201,29 @@
 							<IBGRegionPanel name="P2PSpeedupGuideTipPanel" unseen="false" size="0,54" dock="DOCK_FILL">
 								<Children>
 									<IBGGIFControl dock="DOCK_LEFT" margin="14, 19, 8, 20" image="Resource:MainFrame\\MainPanel\\SpeedupTip\\tip_p2p.png" size="16, 17"></IBGGIFControl>
-									<IBGStaticEx name="guideP2PSpeedupTip" autoCalcHeight="true" autoCalcWidth="true" text="$2793" dock="DOCK_LEFT" textClr="0xfeab0f" margin="0, 19, 0, 17">
+									<IBGStaticEx name="guideP2PSpeedupTip" autoCalcHeight="true" autoCalcWidth="true" text="$2794" dock="DOCK_LEFT" textClr="0xfeab0f" margin="0, 19, 0, 17">
 										<Properties>
 											<textFont>
 												<IBGFont height="18"/>
 											</textFont>
 										</Properties>
 									</IBGStaticEx>
-									<IBGButton name="openP2PBtn" dock="DOCK_LEFT" size="100,24" config="SpeedupP2PBtn" text="$2795" margin="20, 14, 0, 15"/>
-									<IBGButton name="closeGuideBtn" dock="DOCK_RIGHT" size="10,10" config="SpeedupCloseBtn" toolText="$2789" margin="0, 22, 20, 22"/>
+									<IBGButton name="openP2PBtn" dock="DOCK_LEFT" size="100,24" config="SpeedupP2PBtn" text="$2796" margin="20, 14, 0, 15"/>
+									<IBGButton name="closeGuideBtn" dock="DOCK_RIGHT" size="10,10" config="SpeedupCloseBtn" toolText="$2790" margin="0, 22, 20, 22"/>
 								</Children>
 							</IBGRegionPanel>
 							<IBGRegionPanel name="P2PSpeedupSetTipPanel" unseen="true" size="0,54" dock="DOCK_FILL">
 								<Children>
 									<IBGGIFControl dock="DOCK_LEFT" margin="14, 19, 8, 20" image="Resource:MainFrame\\MainPanel\\SpeedupTip\\tip_p2p.png" size="16, 17"></IBGGIFControl>
-									<IBGStaticEx name="setP2PSpeedupTip" autoCalcHeight="true" autoCalcWidth="true" text="$2796" dock="DOCK_LEFT" textClr="0xfeab0f" margin="0, 19, 0, 17">
+									<IBGStaticEx name="setP2PSpeedupTip" autoCalcHeight="true" autoCalcWidth="true" text="$2797" dock="DOCK_LEFT" textClr="0xfeab0f" margin="0, 19, 0, 17">
 										<Properties>
 											<textFont>
 												<IBGFont height="18"/>
 											</textFont>
 										</Properties>
 									</IBGStaticEx>
-									<IBGButton name="setP2PBtn" dock="DOCK_LEFT" size="100,24" config="SpeedupP2PBtn" text="$2797" margin="20, 14, 0, 15"/>
-									<IBGButton name="closeSetBtn" dock="DOCK_RIGHT" size="10,10" config="SpeedupCloseBtn" toolText="$2789" margin="0, 22, 20, 22"/>
+									<IBGButton name="setP2PBtn" dock="DOCK_LEFT" size="100,24" config="SpeedupP2PBtn" text="$2798" margin="20, 14, 0, 15"/>
+									<IBGButton name="closeSetBtn" dock="DOCK_RIGHT" size="10,10" config="SpeedupCloseBtn" toolText="$2790" margin="0, 22, 20, 22"/>
 								</Children>
 							</IBGRegionPanel>
 						</Children>
@@ -234,32 +234,32 @@
 							<IBGRegionPanel name="SpeedupCardGuideTipPanel" unseen="false" size="0,54" dock="DOCK_FILL">
 								<Children>
 									<IBGGIFControl dock="DOCK_LEFT" margin="14, 19, 8, 20" image="Resource:MainFrame\\MainPanel\\SpeedupTip\\tip_speedcard.png" size="16, 16"></IBGGIFControl>
-									<IBGStaticEx name="guideSpeedupCardTip" autoCalcHeight="true" autoCalcWidth="true" text="$2799" dock="DOCK_LEFT" textClr="0xfeab0f" margin="0, 19, 0, 17">
+									<IBGStaticEx name="guideSpeedupCardTip" autoCalcHeight="true" autoCalcWidth="true" text="$2800" dock="DOCK_LEFT" textClr="0xfeab0f" margin="0, 19, 0, 17">
 										<Properties>
 											<textFont>
 												<IBGFont height="18"/>
 											</textFont>
 										</Properties>
 									</IBGStaticEx>
-									<IBGButton name="buyCardBtn" dock="DOCK_LEFT" autoCalcHeight="true" autoCalcWidth="true" config="SpeedupCardBtn" text="$2798" unseen="true" margin="20, 14, 0, 15"/>
+									<IBGButton name="buyCardBtn" dock="DOCK_LEFT" autoCalcHeight="true" autoCalcWidth="true" config="SpeedupCardBtn" text="$2799" unseen="true" margin="20, 14, 0, 15"/>
 									<IBGButton name="buyCardCornerBtn" dock="DOCK_NULL" size="0,15" autoCalcWidth="true" config="SpeedupCornerBtn" unseen="true" margin="0, 3, 0, 36"/>
 									<IBGButton name="buyCardTipBtn" dock="DOCK_NULL" size="0,12" autoCalcWidth="true" config="SpeedupCardTipBtn" unseen="true" margin="0, 3, 0, 36"/>
-									<IBGButton name="closeCardGuideBtn" dock="DOCK_RIGHT" size="10,10" config="SpeedupCloseBtn" toolText="$2789" margin="0, 22, 20, 22"/>
+									<IBGButton name="closeCardGuideBtn" dock="DOCK_RIGHT" size="10,10" config="SpeedupCloseBtn" toolText="$2790" margin="0, 22, 20, 22"/>
 								</Children>
 							</IBGRegionPanel>
 							<IBGRegionPanel name="SpeedupCardEndTipPanel" unseen="true" size="0,54" dock="DOCK_FILL">
 								<Children>
 									<IBGGIFControl dock="DOCK_LEFT" margin="14, 19, 8, 20" image="Resource:MainFrame\\MainPanel\\SpeedupTip\\tip_speedcard.png" size="16, 16"></IBGGIFControl>
-									<IBGStaticEx name="speedupCardEndTip" autoCalcHeight="true" autoCalcWidth="true" text="$2801" dock="DOCK_LEFT" textClr="0xfeab0f" margin="0, 19, 0, 17">
+									<IBGStaticEx name="speedupCardEndTip" autoCalcHeight="true" autoCalcWidth="true" text="$2802" dock="DOCK_LEFT" textClr="0xfeab0f" margin="0, 19, 0, 17">
 										<Properties>
 											<textFont>
 												<IBGFont height="18"/>
 											</textFont>
 										</Properties>
 									</IBGStaticEx>
-									<IBGButton name="upgradeSvipBtn" dock="DOCK_LEFT" size="100,25" config="SpeedupTryBtn" text="$2788" margin="20, 14, 0, 15"/>
+									<IBGButton name="upgradeSvipBtn" dock="DOCK_LEFT" size="100,25" config="SpeedupTryBtn" text="$2789" margin="20, 14, 0, 15"/>
 									<IBGButton name="upgradeSvipCornerBtn" dock="DOCK_NULL" size="0,15" autoCalcWidth="true" config="SpeedupCornerBtn" unseen="true" margin="0, 3, 0, 36"/>
-									<IBGButton name="closeCardEndTipBtn" dock="DOCK_RIGHT" size="10,10" config="SpeedupCloseBtn" toolText="$2789" margin="0, 22, 20, 22"/>
+									<IBGButton name="closeCardEndTipBtn" dock="DOCK_RIGHT" size="10,10" config="SpeedupCloseBtn" toolText="$2790" margin="0, 22, 20, 22"/>
 								</Children>
 							</IBGRegionPanel>
 						</Children>
@@ -315,19 +315,19 @@
 			<!-- 速度反馈提示区域 -->
 			<IBGRegionPanel name="SpeedFeedbackTipPannel" unseen="true" size="190,37" dock="DOCK_NULL" config="SpeedupTipPannel">
 				<Children>
-					<IBGStaticEx autoCalcHeight="true" autoCalcWidth="true" text="$3045" dock="DOCK_LEFT" textClr="0x333333" margin="10, 10, 0, 0">
+					<IBGStaticEx autoCalcHeight="true" autoCalcWidth="true" text="$3046" dock="DOCK_LEFT" textClr="0x333333" margin="10, 10, 0, 0">
 						<Properties>
 							<textFont>
 								<IBGFont height="18"/>
 							</textFont>
 						</Properties>
 					</IBGStaticEx>
-					<IBGStaticEx name="feedbackLink" autoCalcHeight="true" autoCalcWidth="true" text="$3046" margin="5, 10, 0, 2" handCursor="true" dock="DOCK_LEFT">
+					<IBGStaticEx name="feedbackLink" autoCalcHeight="true" autoCalcWidth="true" text="$3047" margin="5, 10, 0, 2" handCursor="true" dock="DOCK_LEFT">
 						<Children>
 							<IBGLinkItem config="linkItem" positionMode="true" position="0,-1"/>
 						</Children>
 					</IBGStaticEx>
-					<IBGButton name="closeFeedBackBtn" dock="DOCK_RIGHT" size="10,10" config="SpeedupCloseBtn" toolText="$2789" margin="0, 7, 12, 6"/>
+					<IBGButton name="closeFeedBackBtn" dock="DOCK_RIGHT" size="10,10" config="SpeedupCloseBtn" toolText="$2790" margin="0, 7, 12, 6"/>
 				</Children>
 			</IBGRegionPanel>
 			<!-- 提速活动广告区域 -->
