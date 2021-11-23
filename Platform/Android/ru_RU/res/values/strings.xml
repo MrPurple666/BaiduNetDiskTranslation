@@ -11804,7 +11804,7 @@ Baidu Network Disk лучше из-за вас"</string>
     <string name="tt_appdownloader_notification_request_title">настраивать</string>
     <string name="tt_appdownloader_notification_waiting_download_complete_handler">Обработка</string>
     <string name="tt_appdownloader_resume_in_wifi">Вы в настоящее время в мобильной сети, вам нужен в Wi-Загрузить для восстановления окружающей среды?</string>
-    <string name="tt_appdownloader_tip">намекать</string>
+    <string name="tt_appdownloader_tip">Подсказки</string>
     <string name="tt_appdownloader_wifi_recommended_body">"Начните загрузить этот контент сейчас (%1$s ) Следует сократить время использования аккумулятора и / или вызвать чрезмерное использование мобильного трафика подключения мобильных данных (что может привести к заряду обслуживания мобильных операторов, в зависимости от вашего трафика).
 
 трогать“%2$s”Вы можете начать загрузку этого содержимого в следующий раз, когда вы подключаетесь к сети WLAN."</string>
@@ -11860,7 +11860,7 @@ Baidu Network Disk лучше из-за вас"</string>
     <string name="tt_splash_backup_ad_title">Рекомендуется сегодня</string>
     <string name="tt_splash_click_bar_text">Проверьте детали</string>
     <string name="tt_splash_skip_tv_text">3s | перепрыгни</string>
-    <string name="tt_tip">намекать</string>
+    <string name="tt_tip">Подсказки</string>
     <string name="tt_unlike">не интересует</string>
     <string name="tt_video_bytesize">поток</string>
     <string name="tt_video_bytesize_M">M</string>
