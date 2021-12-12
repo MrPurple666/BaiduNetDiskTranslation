@@ -128,4 +128,15 @@
     <text name="txt_error_tip" pos="|-255,[8,@510,@18" crtext="333333" font="0200:微软雅黑" align="center">%str2312%</text>
     <imgbtn name="btn_refresh" pos="|-36,[16,@72,@25" class="defultbtn" crtext="ffffff" cursor="arrow">%str2313%</imgbtn>
   </dlg>
+
+  <!--运营位图标-->
+  <dlg name="dlg_operate_pos" pos="-90,-190,@80,@100" show="0">
+    <dlg name="dlg_op_max" pos="0,0,@80,@100">
+      <imgbtn name="op_btn_img" pos="0,0,@80,@80"></imgbtn>
+      <imgbtn name="op_btn_close" pos="|-10,-20,@20,@20" class="defultbtn" crtext="ffffff" cursor="arrow" skin="operatingpos_close_btn_bkg"></imgbtn>
+    </dlg>
+    <dlg name="dlg_op_min" pos="0,0,@20,@80" show="0" clipclient="1">
+      <img name="op_btn_min_img" pos="0,0,@80,@80"></img>
+    </dlg>
+  </dlg>
 </dlg>

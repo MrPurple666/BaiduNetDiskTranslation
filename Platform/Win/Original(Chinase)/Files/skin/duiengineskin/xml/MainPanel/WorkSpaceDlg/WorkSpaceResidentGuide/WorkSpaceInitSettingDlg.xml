@@ -15,9 +15,11 @@
                             <text name="sync_dir_warnning" pos="16,12,-16,-12" crbg="F5F6FA" crtext="AFB3BF" multilines="1" animate="1">%str4570%</text>
                         </dlg>
                     </dlg>
-                    <dlg pos="0,[0,-0,-0" alpha="20" alpha="155">
-                        <imgbtn name="btn_create_dir" pos="|-90,22,@180,@36" font2="facename:微软雅黑;bold:1;adding:3" crtext="FFFFFF" skin="workspace_guide_btn_bkg_one" cursor="hand">%str4569%</imgbtn>
-                        <imgbtn name="btn_cancel" pos="|-24,[8,@48,@18" font2="facename:微软雅黑;adding:0" crtext="AFB3BF" skin="workspace_guide_btn_bkg_four" cursor="hand">%str4568%</imgbtn>                      
+                    <dlg pos="0,[0,-0,-0" alpha="155">
+                        <imgbtn name="btn_create_dir" pos="243,22,@128,@36" font="0004:微软雅黑" crtext="FFFFFF" skin="workspace_guide_btn_bkg_one" cursor="hand">%str4569%</imgbtn>
+                        <text pos="260,[6" font="0000:微软雅黑" crtext="AFB3BF">%str4671%</text>
+                        <imgbtn name="btn_cancel" pos="91,22,@128,@36" font="0004:微软雅黑" crtext="06A7FF" skin="workspace_guide_btn_bkg_two" cursor="hand">%str4568%</imgbtn>
+                        <text pos="106,[6" font="0000:微软雅黑" crtext="AFB3BF">%str4672%</text>
                     </dlg>
                 </dlg>
             </dlg>

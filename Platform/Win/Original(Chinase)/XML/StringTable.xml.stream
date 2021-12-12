@@ -258,7 +258,7 @@
   <!--文件类型面板-->
   <String id="IDS_FILETYPEPANEL_ALL" value="全部文件" />
   <String id="IDS_FILETYPEPANEL_WORKSPACE" value="同步空间" />
-  <String id="IDS_FILETYPEPANEL_ENTERPRISE_PERSONAL" value="企业版-个人文件" />
+  <String id="IDS_FILETYPEPANEL_ENTERPRISE_PERSONAL" value="企业版-自己可见" />
 
   <!--传输面板 -->
   <String id="IDS_TRANPANEL_AUTOBACKUP_FOLDER_TEXT" value="自动备份文件夹" />
@@ -1394,4 +1394,9 @@
   <String id="IDS_WORKSPACE_LOCAL_SYNC_SET"  value="前往设置" />
   <!--商业化-->
   <String id="IDS_PRODUCT_RECOMMEND_SETTING" value="商品推荐设置：" />
+  <!--重启资源管理器-->
+  <String id="IDS_RESTART_EXPLORER" value="本地文件没有同步状态？重启资源管理器试试？"/>
+  <String id="IDS_RESTART_NOW" value="立即重启" />
+  <String id="IDS_SYNC_ICON_SOLVE_QUESTION_TIP" value="重启还未展示文件同步状态，具体解决办法，详情请见" />
+  <String id="IDS_SYNC_HELP_CENER_TIP" value="帮助中心" />
 </StringTable>

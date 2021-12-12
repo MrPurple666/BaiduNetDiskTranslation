@@ -12,7 +12,7 @@
                         <dlg pos="|0,0,-0,@241" skin="workspace_guide_file_import" bulltimer="1"></dlg>
                     </dlg>
                     <dlg pos="0,252,-0,-0">        
-                        <imgbtn name="btn_complete_guide" font="0000:微软雅黑" alpha="255" crtext="FFFFFF" pos="|-64,0,@128,@36" skin="workspace_guide_btn_bkg_one" cursor="hand"></imgbtn>
+                        <imgbtn name="btn_complete_guide" font="0000:微软雅黑" alpha="255" crtext="FFFFFF" pos="|-64,0,@128,@36" skin="workspace_guide_btn_bkg_one" cursor="hand">%str4581%</imgbtn>
                         <link name="lnk_resident_guide" font="0002:微软雅黑" pos="|-90,[8,@180,@18" crtext="AFB3BF" cursor="hand">%str4580%</link>
                     </dlg>
                 </dlg>    

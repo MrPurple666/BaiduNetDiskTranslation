@@ -1149,6 +1149,7 @@
         <imgframe name="workspace_guide_text_bkg" src="IDP_DUI_WORKSPACE_GUIDE_TEXT_BKG"/>
         <imgframe name="workspace_guide_warning_bkg" src="IDP_DUI_WORKSPACE_GUIDE_WARNING_BKG"/>
         <imgframe name="workspace_guide_file_import" src="IDP_DUI_WORKSPACE_GUIDE_FILE_IMPORT"/>
+        <imgframe name="workspace_guide_video_play" src="IDP_DUI_WORKSPACE_GUIDE_VIDEO_PLAY" subwidth="104"/>
         <gif name="gif_workspace_guide_upload" src="IDP_DUI_WORKSPACE_GIF_GUIDE_UPLOAD" minframedelay="30"/>
         <gif name="gif_workspace_guide_history" src="IDP_DUI_WORKSPACE_GIF_GUIDE_HISTORY" minframedelay="30"/>
         <gif name="gif_workspace_guide_viptest" src="IDP_DUI_WORKSPACE_GIF_GUIDE_VIPTEST" minframedelay="30"/>
@@ -1214,6 +1215,8 @@
         <!-- 搜索文件 -->
       <imgframe name="search_yun_file_failed_tip_icon" src="IDP_SEARCH_YUN_FAILED_TIP_ICON"/>
       <imgframe name="search_yun_file_failed_tip_bkg" src="IDP_SEARCH_YUN_FAILED_TIP_BKG"/>
+      <!-- 文件列表运营位 -->
+      <imgframe name="operatingpos_close_btn_bkg" src="IDP_OPERATINGPOS_CLOSE_BTN"/>
     </skins>
 
     <style>

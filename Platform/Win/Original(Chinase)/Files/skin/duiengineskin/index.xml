@@ -1335,6 +1335,8 @@
 <resid type="IMGX" name="IDP_DUI_WORKSPACE_GUIDE_WARNING_BKG" file="image\WorkSpaceDlg\GuidePanel\guide_warning.png"/>
 <resid type="IMGX" name="IDP_DUI_WORKSPACE_GUIDE_FILE_IMPORT" file="image\WorkSpaceDlg\GuidePanel\guide_file_import.png"/>
 <resid type="IMGX" name="IDP_NAVIGATEPANEL_SYNC_DIR_ICON_BG_BUBBLE" file="image\WorkSpaceDlg\GuidePanel\sync_dir_icon_bubble_bg.png"/>
+<resid type="IMGX" name="IDP_DUI_WORKSPACE_GUIDE_VIDEO_PLAY" file="image\WorkSpaceDlg\GuidePanel\video_play.png"/>
+
 
 <resid type="IMGX" name="IDP_DUI_WORKSPACE_GIF_GUIDE_UPLOAD" file="image\WorkSpaceDlg\GuideGifPanel\guide_upload.gif"/>
 <resid type="IMGX" name="IDP_DUI_WORKSPACE_GIF_GUIDE_HISTORY" file="image\WorkSpaceDlg\GuideGifPanel\guide_history.gif"/>
@@ -1401,3 +1403,6 @@
 <!-- 文件搜索tip资源 -->
 <resid type="IMGX" name="IDP_SEARCH_YUN_FAILED_TIP_ICON" file="image\SearchFileTip\tip_icon.png"/>
 <resid type="IMGX" name="IDP_SEARCH_YUN_FAILED_TIP_BKG" file="image\SearchFileTip\bkg.png"/>
+
+<!-- 文件列表运营位-->
+<resid type="IMGX" name="IDP_OPERATINGPOS_CLOSE_BTN" file="image\MainPanel\NetdiskPanel\ViewContainerPanel\OperatingView\close.png"/>

@@ -60,7 +60,7 @@
             <include src="IDR_DUI_PT2PT_PANEL"/>
           </dlg>
           <!--一级导航栏-->
-          <dlg name="NavigatePanel" pos="0,0,82,-0" show="1">
+          <dlg name="NavigateContainerPanel" pos="0,0,82,-0" show="1">
             <include src="IDR_DUI_NAVIGATE_PANEL"/>
           </dlg>
           <!--顶部操作栏阴影-->

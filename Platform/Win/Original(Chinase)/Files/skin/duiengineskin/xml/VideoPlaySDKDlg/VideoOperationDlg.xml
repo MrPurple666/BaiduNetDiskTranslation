@@ -91,8 +91,10 @@
         </dlg>
         <!--播放出错提示面板-->
         <dlg name="tip_play_error" pos="0,0,-0,-0" skin="video_skin_bg_temp" show="0">
-          <text name="tip_play_error_text" pos="0,-34,-0,@24" crtext="cccccc" align="center">%str1426%</text>
-          <imgbtn name="btn_play_error_reload" pos="|-61,|10,@120,@38" class="cls_txt_white" skin="video_imglist_reload_bg" cursor="arrow">%str1427%</imgbtn>
+          <text name="tip_play_error_text" pos="0,|-45,-0,@40" font="0400:微软雅黑" crtext="cccccc" align="center">%str1430%</text>
+          <text name="extra_tip_play_error_text" pos="0,|-10" font="0200:微软雅黑" crtext="cccccc" show="0">%str1430%</text>
+          <text name="play_error_code_text" pos="0,|-10" font="0200:微软雅黑" crtext="cccccc">%str1430%</text>
+          <imgbtn name="btn_play_error_reload" pos="|-61,|30,@120,@38" class="cls_txt_white" skin="video_imglist_reload_bg" cursor="arrow">%str1427%</imgbtn>
         </dlg>
         <!--加载中面板-->
         <dlg pos="0,66,-0,-0" name="ad_panel" show="0">

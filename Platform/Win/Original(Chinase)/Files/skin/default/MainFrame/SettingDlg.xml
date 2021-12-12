@@ -416,7 +416,7 @@
 													</IBGRegionPanel>
 												</Children>
 											</IBGRegionPanel>
-											<IBGRegionPanel name="WorkspaceSyncDirPanel" size="530,164" autoCalcHeight="true" margin="0,0,0,0" dock="DOCK_TOP">
+											<IBGRegionPanel name="WorkspaceSyncDirPanel" size="530,100" autoCalcHeight="true" margin="0,0,0,0" dock="DOCK_TOP">
 												<Children>
 													<IBGStaticEx size="150,15" text="$3218" margin="20,14,0,1" dock="DOCK_TOP"/>
 													<IBGRegionPanel size="510,32" margin="90,10,0,0" dock="DOCK_TOP">
@@ -425,6 +425,28 @@
 															<IBGButton name="BrowseSyncPathBtn" text="$3221" size="100,24" margin="0,6,10,0" config="button" dock="DOCK_LEFT"/>
 														</Children>
 													</IBGRegionPanel>
+												</Children>
+											</IBGRegionPanel>
+											<!-- 重启资源管理器 -->
+											<IBGRegionPanel size="530,42" margin="0,0,0,0" dock="DOCK_TOP">
+												<Children>
+													<IBGStaticEx size="250,15" text="$3229" margin="20,12,0,10" dock="DOCK_LEFT"/>
+													<IBGRegionPanel size="450,42" margin="3,0,0,0" dock="DOCK_FILL">
+														<Children>
+															<IBGButton name="RestartExploreNowBtn" dock="DOCK_LEFT" drawFocus="true" enableFocus="true" size="80,23" config="button" text="$3230" normalClr="0x2e2e2e" margin="10, 9, 330, 10" enable="true"/>
+														</Children>
+													</IBGRegionPanel>
+												</Children>
+											</IBGRegionPanel>
+											<!-- 帮助中心 -->
+											<IBGRegionPanel size="530,42" margin="0,0,0,0" dock="DOCK_TOP">
+												<Children>
+													<IBGStaticEx size="290,15" text="$3231" margin="20,12,0,10" dock="DOCK_LEFT"/>
+													<IBGStaticEx size="45,15" name="SyncHelpCenter" autoCalcWidth="true" textClr="0x666666" text="$3232" margin="0,12,2,8" dock="DOCK_TOP" config="static">
+														<Children>
+															<IBGLinkItem config="ThirdPartyLinkItem" positionMode="true" position="0,-1"/>
+														</Children>
+													</IBGStaticEx>
 												</Children>
 											</IBGRegionPanel>
 										</Children>
