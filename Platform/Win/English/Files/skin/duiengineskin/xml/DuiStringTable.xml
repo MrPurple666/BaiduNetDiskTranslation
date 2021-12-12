@@ -639,12 +639,24 @@
   <s id="1313">Please try again</s>
   <s id="1314">Select Delete item</s>
   <!--Video player-->
+  <s id="1366">Sharing invalid, please check</s>
+  <s id="1367">The group has been dissolved and cannot be found.</s>
+  <s id="1368">You are not in the group, you can't find videos.</s>
+  <s id="1369">File failure, please check</s>
+  <s id="1370">If you have any questions, you can consult with feedback.</s>
+  <s id="1371">The content of this file is corrupt, it is recommended to try a file.</s>
+  <s id="1372">If you have any questions, you can appeal in the file details page.</s>
+  <s id="1373">Unable to play this file, it is recommended to change a file.</s>
+  <s id="1374">Insufficient memory, video can't play</s>
+  <s id="1375">System abnormal system</s>
+  <s id="1376">Video component loading failed</s>
   <s id="1377">2.5x</s>
   <s id="1378">Opened super members, unlock more rights</s>
   <s id="1379">customize</s>
   <s id="1380">3x</s>
   <s id="1381">0.5x</s>
   <s id="1382">1x</s>
+    <s id="1383">Network abnormal network, please check the network</s>
    <!--Video player-->
   <s id="1383">The network is abnormal, please check the network and try again(%d)</s>
   <s id="1384">Do not remind again</s>
@@ -689,13 +701,13 @@
   <s id="1423">Fast forward:</s>
   <s id="1424">Rewind:</s>
   <s id="1425">Volume:%d%%</s>
-  <s id="1426">Video failed to load, please try again</s>
+  <s id="1426">Play an error</s>
   <s id="1427">Retry</s>
   <s id="1428">Loading, please wait ...</s>
-  <s id="1429">Network outage, please check the network and try again</s>
-  <s id="1430">Unknown error, video playback failed (%d)</s>
-  <s id="1431">Video failed to load, please try again</s>
-  <s id="1432">Sorry, this format is not supported at this time</s>
+  <s id="1429">Request timeout, please try again</s>
+  <s id="1430">Unknown error, video playback failed</s>
+  <s id="1431">Play error, please try again</s>
+  <s id="1432">Do not support the current file format</s>
   <s id="1433">Current subtitles</s>
   <s id="1434">Progress adjustment</s>
   <s id="1435">Subtitle size</s>
@@ -706,7 +718,7 @@
   <s id="1440">%.1f seconds</s>
   <s id="1441">No subtitles</s>
   <s id="1442">Getting subtitles</s>
-  <s id="1443"></s>
+  <s id="1443">(error code:%d）</s>
   <s id="1444">Failed to get subtitles</s>
   <s id="1445">Setting captions</s>
   <s id="1446">Subtitles set successfully</s>
@@ -714,12 +726,12 @@
   <s id="1448">No subtitles matched</s>
   <s id="1449">Speed ​​up subtitles</s>
   <s id="1450">Slow down subtitles</s>
-  <s id="1451">Decoding failed, please try again later</s>
-  <s id="1452">Login information has expired, try again after logging in again</s>
-  <s id="1453">Server is busy, please try again later</s>
-  <s id="1454">Video is transcoding, please try again later</s>
-  <s id="1455">This video is not supported yet</s>
-  <s id="1456">Video transcoding failed, please try again</s>
+  <s id="1451">File analysis exception</s>
+  <s id="1452">Experts exception, please log in again</s>
+  <s id="1453">The server is abnormal, please try again</s>
+  <s id="1454">Video is in transcoding, please try again later</s>
+  <s id="1455">Do not support play current files yet</s>
+  <s id="1456">This video has been deleted or moved by shared</s> 
   <s id="1457">Speed</s>
   <s id="1458">0.75x</s>
   <s id="1459">1x</s>
@@ -748,20 +760,20 @@
   <s id="1482">Switching double speed playback ...</s>
   <s id="1483">Opened for you</s>
   <s id="1484">Will turn on during playback</s>
-  <s id="1485">This video cannot be played</s>
-  <s id="1486">This video does not exist and cannot be played</s>
+  <s id="1485">File path error, please check</s>
+  <s id="1486">This file is an audio file, try a list of files-Renaming the modified suffix is MP3</s>
   <s id="1487">Upgrade Super Member and enjoy double-speed playback</s>
   <s id="1488">Video freezes?</s>
   <s id="1489">Point me feedback</s>
   <s id="1490">Feedback has been submitted and we will work to optimize the service</s>
-  <s id="1491">This video failed to play, please try again later</s>
-  <s id="1492">This video is too long, watch it after downloading</s>
-  <s id="1493">Non-video files, cannot be played</s>
-  <s id="1494">There is a problem with the video and it is temporarily unavailable</s>
-  <s id="1495">Transcoding problem, please download and watch</s>
-  <s id="1496">The video cannot be parsed temporarily, please download and watch</s>
-  <s id="1497">This account has violations and cannot be played temporarily</s>
-  <s id="1498">This video failed to transcode, please try again later</s>
+  <s id="1491">Play the environment is abnormal, please try again later</s>
+  <s id="1492">The file is abnormal, please check</s>
+  <s id="1493">Non-video files, please list in the file-Modify the suffix in rename</s>
+  <s id="1494">The server is wrong.</s>
+  <s id="1495">The server is wrong, please try again</s>
+  <s id="1496">Do not support the current file, please download and play</s>
+  <s id="1497">The file violation has been shielded according to relevant laws and regulations</s>
+  <s id="1498">The video file is invalid, please check</s>
   <s id="1499">Play previous</s>
 
   <!--标题面板-->
@@ -792,7 +804,8 @@
   <s id="1524">Double the video speed</s>
   <s id="1525">Online decompression</s>
   <s id="1526">understand more</s>
-
+  <s id="1563">Certification is about to fail</s>
+  
   <s id="1529">Library</s>
   <s id="1530">Scores</s>
   <s id="1531">Redeem Gifts></s>
@@ -1789,6 +1802,9 @@
   <s id="4668">Open local synchronization folder</s>
   <s id="4669">Quick access to local sync directories</s>
   <s id="4670">Click here to turn on the computer synchronization folder</s>
+  <s id="4671">Suggest a personal computer selection</s>
+  <s id="4672">Unable to use full features</s>
+  <s id="4673">One minute to learn synchronous space</s>
 
   <!-- tray -->
   <s id="4700">Synchronous traffic is insufficient</s>
@@ -1843,6 +1859,9 @@
   <s id="4770">Synchronous path error</s>
   <s id="4771">Machine</s>
   <s id="4772">Restore historical documents</s>
+  <s id="4773">Document processing</s>
+  <s id="4774">Text identification</s>
+  <s id="4775">Document moves to personal space</s>
 
   <s id="4801">The file is too large, more than%dG upload size limit</s>
   <s id="4802">The file is too large, and the member supports uploading the largest%dGtext.件</s>

@@ -1399,5 +1399,9 @@
   
   <!--商业化-->
   <String id="IDS_PRODUCT_RECOMMEND_SETTING" value="Product recommendation setting:" />
-
+  <!--重启资源管理器-->
+  <String id="IDS_RESTART_EXPLORER" value="The local file is not synchronized?Restart the resource manager try?"/>
+  <String id="IDS_RESTART_NOW" value="Restart now" />
+  <String id="IDS_SYNC_ICON_SOLVE_QUESTION_TIP" value="Restart has not shown file synchronization status, specific solution, please see" />
+  <String id="IDS_SYNC_HELP_CENER_TIP" value="Help Center" />
 </StringTable>
