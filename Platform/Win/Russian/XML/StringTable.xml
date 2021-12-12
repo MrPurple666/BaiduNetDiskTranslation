@@ -260,8 +260,7 @@
   <!--Панель типов файлов-->
   <String id="IDS_FILETYPEPANEL_ALL" value="Все файлы" />
   <String id="IDS_FILETYPEPANEL_WORKSPACE" value="Синхронное пространство" />
-  <String id="IDS_FILETYPEPANEL_ENTERPRISE_PERSONAL" value="Версия предприятия - персональный файл" />
-
+  <String id="IDS_FILETYPEPANEL_ENTERPRISE_PERSONAL" value="Версия предприятия" />
   <!--Панель Загрузок -->
   <String id="IDS_TRANPANEL_AUTOBACKUP_FOLDER_TEXT" value="Папка автоматического резервного копирования" />
   <String id="IDS_TRANPANEL_PORTABLEDEVBACKUP_FOLDER_TEXT" value="Папка для резервного копирования портативного устройства" />
@@ -1399,5 +1398,9 @@
   <String id="IDS_WORKSPACE_LOCAL_SYNC_SET"  value="Перейти к настройке" />
   <!--Коммерциализация-->
   <String id="IDS_PRODUCT_RECOMMEND_SETTING" value="Настройка рекомендации продукта:" />
-
+  <!--Перезагрузите диспетчер ресурсов-->
+  <String id="IDS_RESTART_EXPLORER" value="Локальный файл не синхронизирован?Перезапустите диспетчер ресурсов Попробуйте?"/>
+  <String id="IDS_RESTART_NOW" value="Перезагрузить сейчас" />
+  <String id="IDS_SYNC_ICON_SOLVE_QUESTION_TIP" value="Перезапуск не показал состояние синхронизации файлов, конкретное решение, см." />
+  <String id="IDS_SYNC_HELP_CENER_TIP" value="Центр помощи" />
 </StringTable>
