@@ -1286,13 +1286,8 @@
     <string name="barrier_free_white_bg">白色背景</string>
     <string name="barrier_free_yellow_bg">淡黄色背景</string>
     <string name="barrier_my_note_detail_jump2book">跳转到图书对应位置</string>
-    <string name="base_image_content_description">image content description</string>
-    <string name="base_server_in_maintenance">服务器维护中,请稍候再试</string>
     <string name="base_wallet_bankcard_detect_tips">将身份证人像面至于此区域，扫描身份证</string>
     <string name="base_wallet_bankcard_detect_to_detect">扫描证件</string>
-    <string name="basic_cancel">取消</string>
-    <string name="basic_go_in_ok">开始控制</string>
-    <string name="basic_go_in_title">开始远程控制云手机</string>
     <string name="basic_info">basic-info</string>
     <string name="batchtransfer_files_overflow">保存文件已超100个，请重新选择</string>
     <string name="batchtransfer_not_save_files_myself">不能保存自己的分享</string>
@@ -2286,6 +2281,7 @@
     <string name="chain_skin_using">正在使用</string>
     <string name="change_account">切换帐号</string>
     <string name="change_account_tip">切换账号</string>
+    <string name="change_account_to_receive_gift">换号领取</string>
     <string name="change_decode_mode_SW">硬解失败，正在为您切换软解</string>
     <string name="change_file_category">更改文件类型</string>
     <string name="change_file_list">切换列表视图</string>
@@ -3207,7 +3203,6 @@
     <string name="device_audio_play_guide">唤醒设备，进入网盘模式，就可点播音频啦</string>
     <string name="device_audio_play_known">知道啦</string>
     <string name="device_binding">正在关联</string>
-    <string name="device_connecting_cloud_pad">正在连接云手机</string>
     <string name="device_default_name">未获取到设备名称</string>
     <string name="device_download_bt">BT下载至设备</string>
     <string name="device_download_customize_file">推送专属空间文件至设备</string>
@@ -3246,7 +3241,6 @@
     <string name="device_nonsupport_dialog_content">本版本暂不支持，请升级到网盘最新版本。</string>
     <string name="device_not_exist">设备不存在</string>
     <string name="device_offline">设备已离线，任务添加失败</string>
-    <string name="device_play_menu_contact_custom_service">不会使用请联系客服</string>
     <string name="device_playlist_add">添加音频</string>
     <string name="device_playlist_empty_desc">"将网盘音频添加到设备中
 就可在设备上点播啦"</string>
@@ -3258,7 +3252,6 @@
     <string name="device_selector_title">请选择设备</string>
     <string name="device_suport_to_relate">目前支持小米电视、华为路由器WS880</string>
     <string name="device_usable_quota">可用容量：%s</string>
-    <string name="device_will_reboot_pad">重启云手机能够完全关闭后台进程,释放内存和CPU占用,恢复手机运行速度</string>
     <string name="device_will_support_tip">即将支持推送文件至路由器/电视/盒子等设备，敬请期待！</string>
     <string name="devices_list_count">(%d条)</string>
     <string name="dialog_add_book_to_shelf_confirm">知道了</string>
@@ -4720,6 +4713,25 @@
     <string name="get_storage_failed">容量读取失败</string>
     <string name="getloginstatefaile">获取登录状态失败</string>
     <string name="getting_storage">容量读取中</string>
+    <string name="gift_card_activating_tip">您接收的礼品卡已被领取</string>
+    <string name="gift_card_add_asset_product_err">添加礼物失败</string>
+    <string name="gift_card_add_asset_product_limit">您的会员时长已超出5年限制</string>
+    <string name="gift_card_asset_code_disable">提取码不可用，请检查后再试</string>
+    <string name="gift_card_asset_code_expired">提取码已过期</string>
+    <string name="gift_card_asset_code_invalid">提取码无效，请稍后再试</string>
+    <string name="gift_card_asset_code_use_type_err">提取码用户使用方式错误</string>
+    <string name="gift_card_asset_config_not_found_err">礼物未找到</string>
+    <string name="gift_card_asset_not_find_err">未找到有效提取码</string>
+    <string name="gift_card_asset_not_need_update_err">礼物更新错误</string>
+    <string name="gift_card_asset_page_check">去查看</string>
+    <string name="gift_card_asset_tip">已发放到【我的资产-礼品卡】</string>
+    <string name="gift_card_disable_tip">您接收的礼品卡不可用</string>
+    <string name="gift_card_end_time">有效期至%1$s</string>
+    <string name="gift_card_enterprise_change_tip">请您切换到个人空间再领取礼品</string>
+    <string name="gift_card_is_used_tip">您接收的礼品卡已被使用</string>
+    <string name="gift_card_name">礼品卡-%1$s</string>
+    <string name="gift_card_send_to_friends">赠送好友</string>
+    <string name="gift_card_server_busy">服务忙，稍后再试</string>
     <string name="gigabyteShort">GB</string>
     <string name="go_ahead">继续</string>
     <string name="go_and_open">去开启</string>
@@ -7856,6 +7868,8 @@ OPPO
     <string name="reader_setting_screen_timeout">屏幕关闭</string>
     <string name="reader_setting_volume_key">音量键翻页</string>
     <string name="real_name_certification_title">验证手机</string>
+    <string name="receive_gift_immediately">立即领取</string>
+    <string name="receive_gift_tip">送上%1$s【%2$s】</string>
     <string name="receive_msg_info">好友分享文件或发送消息时在通知栏显示</string>
     <string name="receive_task_text">给你发来</string>
     <string name="recent_all">最近</string>
@@ -8699,6 +8713,10 @@ OPPO
     <string name="send_failed_retry_content">重发该消息？</string>
     <string name="send_file_button_text">分享文件</string>
     <string name="send_file_max_num">添加文件（最多可选%d个）</string>
+    <string name="send_gift_card_tip">HI,这是我通过百度网盘送给你的礼物~复制这段内容打开最新版的【百度网盘】APP即可获得礼物。提取码⁙⁘%1$s⁘⁙</string>
+    <string name="send_gift_to">To：%1$s</string>
+    <string name="send_gift_to_you">送给你</string>
+    <string name="send_immediately">立即赠送</string>
     <string name="send_link_to_other_failed">创建链接失败</string>
     <string name="send_message_add_file">添加文件</string>
     <string name="send_message_content_hint">点击输入群发内容</string>
