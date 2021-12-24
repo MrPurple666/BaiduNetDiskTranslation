@@ -7,7 +7,7 @@
 	<dlg name="dlg_file_list_search_file_tip" pos="0,30,-0,@36" show="0">
 		<img name="search_yun_file_failed_tip__bkg" pos="0,0,-0,-0" skin="search_yun_file_failed_tip_bkg" show="1"/>
 		<img name="search_yun_file_failed_tip_icon" pos="24,12" skin="search_yun_file_failed_tip_icon" show="1"/>
-		<text name="search_yun_file_list_failed_tip_txt" pos="44,10" crtext="818999" font="0000:微软雅黑" align="left">%str2365%</text>
+		<text name="search_yun_file_list_failed_tip_txt" pos="44,10" crtext="818999" font="0000:微软雅黑" align="left">%str4404%</text>
 	</dlg>
 	<gifplayer name="file_list_loading_gif" pos="|-16,|-16,@32,@32" skin="gif_statuspanel_loading" show="0"/>
     <text name="file_list_loading_txt_tip" pos="|-150,[12,@300,@18" crtext="333333" font="0200:微软雅黑" align="center" show="0">%str2311%</text>
@@ -74,7 +74,7 @@
     <dlg name="dlg_file_thumb_search_file_tip" pos="0,0,-0,36" show="0">
       <img name="search_yun_file_thumb_failed_tip__bkg" pos="0,0,-0,-0" skin="search_yun_file_failed_tip_bkg"/>
       <img name="search_yun_file_thumb_failed_tip_icon" pos="24,12" skin="search_yun_file_failed_tip_icon"/>
-      <text name="search_yun_file_thumb_failed_tip_txt" pos="44,10" crtext="818999" font="0000:微软雅黑" align="left">%str2365%</text>
+      <text name="search_yun_file_thumb_failed_tip_txt" pos="44,10" crtext="818999" font="0000:微软雅黑" align="left">%str4404%</text>
     </dlg>
     <filethumbview name="file_thumb_view" pos="0,0,-0,-0" itemwidth="138" itemheight="134" frameskin="mainpanel_frame_select_bg">
       <template>

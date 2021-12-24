@@ -1213,8 +1213,14 @@
         <imgframe name="gamecenter_dlg_btn_refresh" src="IDP_DUI_GAMECENTER_BTN_REFRESH" subwidth="15"/>
       
         <!-- 搜索文件 -->
-      <imgframe name="search_yun_file_failed_tip_icon" src="IDP_SEARCH_YUN_FAILED_TIP_ICON"/>
-      <imgframe name="search_yun_file_failed_tip_bkg" src="IDP_SEARCH_YUN_FAILED_TIP_BKG"/>
+        <imgframe name="search_yun_file_failed_tip_icon" src="IDP_SEARCH_YUN_FAILED_TIP_ICON"/>
+        <imgframe name="search_yun_file_failed_tip_bkg" src="IDP_SEARCH_YUN_FAILED_TIP_BKG"/>
+        <!--流量包-->
+        <imgframe name="speedup_package_blue_warninng" src="IDP_SPEEDUP_PACKAGE_BLUE_WARNING" />
+        <imgframe name="speedup_package_svip_icon" src="IDP_SPEEDUP_PACKAGE_SVIP_ICON" />
+        <imgframe name="speedup_package_light_blue_btn" src="IDP_SPEEDUP_PACKAGE_LIGHT_BLUE_BTN" subwidth="128"/>
+        <imgframe name="speedup_package_dark_blue_btn" src="IDP_SPEEDUP_PACKAGE_DARK_BLUE_BTN"  subwidth="128"/>
+        <imgframe name="speedup_package_question_icon" src="IDP_SPEEDUP_PACKAGE_QUESTION_ICON"  subwidth="14"/>
       <!-- 文件列表运营位 -->
       <imgframe name="operatingpos_close_btn_bkg" src="IDP_OPERATINGPOS_CLOSE_BTN"/>
     </skins>

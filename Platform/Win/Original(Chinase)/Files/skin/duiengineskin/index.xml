@@ -128,6 +128,8 @@
 <resid type="XML" name="IDR_DUI_BUY_PAGE_DLG" layer="1" file="xml\BuyPageDlg\BuyPageDlg.xml"/>
 <!-- 好友选择页 -->
 <resid type="XML" name="IDR_DUI_SELECT_FRIEND_DLG" layer="1" file="xml\FriendSelectDlg\FriendSelectDlg.xml"/>
+<!--流量包-->
+<resid type="XML" name="IDR_DUI_SPEEDUP_PACKAGE_USE_DLG" layer="1" file="xml\MainPanel\SpeedupPackage\SpeedupPackageUseDlg.xml"/>
 <!--窗口背景资源-->
 <resid type="IMGX" name="IDP_MAIN_DLG_FRAME" file="image\common\window\windowBkg.png"  />
 <resid type="IMGX" name="IDP_MESSAGEBOX_BACKGROUND_FRAME" file="image\common\window\MsgBxBk_New.png"  />
@@ -1403,6 +1405,13 @@
 <!-- 文件搜索tip资源 -->
 <resid type="IMGX" name="IDP_SEARCH_YUN_FAILED_TIP_ICON" file="image\SearchFileTip\tip_icon.png"/>
 <resid type="IMGX" name="IDP_SEARCH_YUN_FAILED_TIP_BKG" file="image\SearchFileTip\bkg.png"/>
+
+<!--流量包-->
+<resid type="IMGX" name="IDP_SPEEDUP_PACKAGE_BLUE_WARNING" file="image\MainPanel\SpeedupPackage\blue_warning.png"/>
+<resid type="IMGX" name="IDP_SPEEDUP_PACKAGE_SVIP_ICON" file="image\MainPanel\SpeedupPackage\svip_icon.png"/>
+<resid type="IMGX" name="IDP_SPEEDUP_PACKAGE_LIGHT_BLUE_BTN" file="image\MainPanel\SpeedupPackage\light_blue_btn.png"/>
+<resid type="IMGX" name="IDP_SPEEDUP_PACKAGE_DARK_BLUE_BTN" file="image\MainPanel\SpeedupPackage\dark_blue_btn.png"/>
+<resid type="IMGX" name="IDP_SPEEDUP_PACKAGE_QUESTION_ICON" file="image\MainPanel\SpeedupPackage\question_icon.png"/>
 
 <!-- 文件列表运营位-->
 <resid type="IMGX" name="IDP_OPERATINGPOS_CLOSE_BTN" file="image\MainPanel\NetdiskPanel\ViewContainerPanel\OperatingView\close.png"/>

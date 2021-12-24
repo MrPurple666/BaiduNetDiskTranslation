@@ -860,7 +860,7 @@
   <String id="IDS_SPEEDUP_BTN_CLOSE" value="关闭" />
   <String id="IDS_SPEEDUP_END_DEFAULT_TIP" value="购买加速包即可享受持续加速" />
   <String id="IDS_SPEEDUP_REMINDING_TIP" value="(剩余%d秒体验结束)" />
-  <String id="IDS_SPEEDUP_SPEEDING_TIP" value="提速中" />
+  <String id="IDS_SPEEDUP_SPEEDING_TIP" value="极速中" />
 
   <!--p2p加速提示 -->
   <String id="IDS_P2PSPEEDUP_OPEN_TIP" value="开启下载提速功能可以为您提升下载速度，已有%0.1f%%的用户获得%0.1f倍的加速效果" />
@@ -1321,7 +1321,7 @@
    <String id="IDS_FIX_CLOSE_P2P" value="关闭下载提速"/>
    <String id="IDS_QUIT_CLOSE_P2P" value="再用用看"/>
    <String id="IDS_P2P_NON_SVIP_SPEEDUP_TIP" value="下载提速 %s"/>
-   <String id="IDS_P2P_SVIP_SPEEDUP_TIP" value="SVIP提速 %s"/>
+   <String id="IDS_P2P_SVIP_SPEEDUP_TIP" value="SVIP极速 %s"/>
    <String id="IDS_DOWNLOADCARD_SPEEDUP_TIP" value="下载卡提速 %s"/>
    <String id="IDS_HELP_EACHOTHER_FUNCTION" value="下载提速" />
    <String id="IDS_P2P_SVIP_SPEEDUP_SLOW_TIP" value="SVIP加速链接获取中..."/>

@@ -21,7 +21,7 @@
     <hr name="hr_line_cloud" pos="0,0,@3,-0" crbg="06a8ff" show="0"/>
   </dlg>
   <!--广告面板-->
-  <dlg name="dlg_ad" pos="|-72,-170,@145,@160" show="0">
+  <dlg name="dlg_ad" pos="|-72,-230,@145,@160" show="0">
     <!--与AdPanel.xml内容一致-->
     <dlg name="AdPanel" pos="0,0,-0,-0">
       <gifplayer name="ad_img_bkg" pos="0,0,-0,-0" bulltimer="1"></gifplayer>
@@ -34,5 +34,22 @@
       </dlg>
     </dlg>
   </dlg>
+  
+  <!--流量包-->
+  <dlg name="dlg_speedup_package" pos="0,-50,-0,-10" > 
+    <dlg name="dlg_svip_speedup_package" pos="0,0,-1,-1" show="0"> 
+        <img pos="10,0,@16,@16" skin="speedup_package_svip_icon"></img>
+        <text pos="[6,2,@90,@12" font="0000:微软雅黑" crtext="664100" align="left">%str5045%</text>
+    </dlg>
+    <dlg name="dlg_no_svip_speedup_package" pos="0,0,-1,-1" show="0"> 
+        <arcctrl name="arcctrl_progress_bgk" pos="10,0,@16,@16" crline="EDEEF4" linewidth="3" angle="360" ></arcctrl>
+        <arcctrl name="arcctrl_progress" pos="10,0,@16,@16" crline="EDEEF4" startangle="270" linewidth="3" ></arcctrl>
+        <text name="txt_package" pos="34,2,@50,@12" font="0000:微软雅黑" crtext="BF8726" align="left">%str5043%</text>
+        <imgbtn name="btn_question" pos="[4,2,@14,@14" skin="speedup_package_question_icon" ></imgbtn>
+        <link name="link_expand" pos="-40,2,@30,@12" font="0000:微软雅黑" crtext="BF8726" cursor="hand" calign="left">%str5044%</link>
+        <text name="txt_detail_info" pos="12,26,@120,-0" font="0000:微软雅黑" crtext="AFB3BF" align="left"></text>
+    </dlg>
+  </dlg>
+  
   <hr pos="-1,0,-0,-0" size="1" crbg="F1F1F1"/>
 </dlg>
