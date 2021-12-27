@@ -17,12 +17,12 @@ Translate Baidu Net Disk for Windows, Android to Russian,English languages.
 
 # Download
 
-| Platform | Install                          | Download                  |
-| -------- | -------------------------------- | ------------------------- |
-| Windows  | [Replace Files][win-replace]     | [.7z][win_replace_files]  |
-| Windows  | [Repack Edition][win-repack]     | [.7z][win_repack_files]   |
-| Windows  | [Portable Edition][win-portable] | [.7z][win_portable_files] |
-| Android  | Install                          | [.apk][win_apk_files]     |
+| Platform | Install                          |Version | Download                  |
+| -------- | -------------------------------- |--------| ------------------------- |
+| Windows  | [Replace Files][win-replace]     |7.10.1.2| [.7z][win_replace_files]  |
+| Windows  | [Repack Edition][win-repack]     |7.10.1.2| [.7z][win_repack_files]   |
+| Windows  | [Portable Edition][win-portable] |7.10.1.2| [.7z][win_portable_files] |
+| Android  | Install                          |11.17.1 | [.apk][win_apk_files]     |
 
 # Install Info
 
