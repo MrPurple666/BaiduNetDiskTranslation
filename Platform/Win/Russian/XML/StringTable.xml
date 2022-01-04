@@ -179,7 +179,7 @@
   <String id="IDS_SHARE_CREATING_DOWNLOAD_SPEEDUP_LINK" value="Создание быстрой ссылки для обмена, подождите..." /> 
   <String id="IDS_SHARE_COPY_LINK_SUCCESS" value="Копирование успешно" />
   <String id="IDS_SHARE_LINK_SHARE" value="Поделиться с друзьями через QQ, WeChat, Weibo, QQ" />
-  <String id="IDS_SHARE_TABBUTTON_LINKSHARE" value="Поделиться ссылкой" />
+  <String id="IDS_SHARE_TABBUTTON_LINKSHARE" value="Обмен ссылками" />
   <String id="IDS_SHARE_TABBUTTON_MEESAGESHARE" value="Поделиться с друг" />
   <String id="IDS_SHARE_LINK_TYPE_PRIVATE_WITH_PWD" value="С паролем" />
   <String id="IDS_SHARE_LINK_TYPE_PRIVATE_WITH_NO_PWD" value="Без пароля" />
