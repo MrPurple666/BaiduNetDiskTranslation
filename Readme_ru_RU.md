@@ -19,7 +19,7 @@
 
 | Платформа | Установка                          |Версия  | Скачать                   |
 | --------- | ---------------------------------- |--------| ------------------------- |
-| Windows   | [Замена файлов][win-replace]       |7.10.1.2| [.7z][win_replace_files]  |
+| Windows   | [Замена файлов][win-replace]       |7.11.0.9| [.zip][win_replace_files]  |
 | Windows   | [Установка репака][win-repack]     |7.10.1.2| [.7z][win_repack_files]   |
 | Windows   | [Портативная версия][win-portable] |7.10.1.2| [.7z][win_portable_files] |
 | Android   | Установить                         |11.17.1 | [.apk][win_apk_files]     |
