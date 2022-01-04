@@ -122,9 +122,23 @@
 													</IBGRegionPanel>
 												</Children>
 											</IBGRegionPanel>
+											<IBGRegionPanel name="AutoFillPasswordPanel" size="590,30" margin="0,0,0,0" dock="DOCK_TOP">
+												<Children>
+													<IBGStaticEx size="65,16" textClr="0x333333" text="$3233" margin="18,10,0,0" dock="DOCK_LEFT"/>
+													<IBGCheckButton name="autoFillLinkPasswordBtn" dock="DOCK_LEFT" size="300,16" autoCalcWidth="true" check="false" config="checkButton" text="$3234" margin="10,8,0,0"/>
+													<IBGButton name="questionBtn" dock="DOCK_LEFT" size="18,18" config="iconButtonQuestion" margin="4,8,0,0"/>
+													<IBGGIFControl name="newIcon" dock="DOCK_LEFT" margin="4,6,0,0" size="25,20" image="Resource:MainFrame\ShareDlg\ico_warning.png" unseen="false"/>
+													<IBGRegionPanel size="310,20" name="autoFillPasswordTip" config="SettingDlgTipPanel" dock="DOCK_RIGHT" margin="6,8,4,2" unseen="true">
+														<Children>
+															<IBGStaticEx size="310,20" text="$3235" textClr="0x666666" dock="DOCK_NULL" unMultiline="FALSE" margin="2,2,3,2">
+															</IBGStaticEx>
+														</Children>
+													</IBGRegionPanel>
+												</Children>
+											</IBGRegionPanel>
 											<IBGRegionPanel name="limitAccessPanel" size="590,40" margin="0,8,0,0" dock="DOCK_TOP">
 												<Children>
-													<IBGStaticEx size="65,16" textClr="0x333333" text="$2240" margin="18,8,0,10" dock="DOCK_LEFT"/>
+													<IBGStaticEx size="65,16" textClr="0x333333" text="$2240" margin="18,10,0,10" dock="DOCK_LEFT"/>
 													<IBGRegionPanel name="limitAccessTypePanel" size="190,28" margin="14,0,0,10" dock="DOCK_LEFT">
 														<Children>
 															<IBGRadioLogic name="limitAccessType"/>
@@ -173,7 +187,7 @@
 											<IBGRegionPanel name="linkDescPanel" size="590,80" margin="0,10,0,0" dock="DOCK_TOP">
 												<Children>
 													<IBGGIFControl name="linkTypeImage" dock="DOCK_LEFT" margin="22,27,2,5" size="38, 38"></IBGGIFControl>
-													<IBGRegionPanel size="320,50" margin="12,8,0,0" dock="DOCK_LEFT">
+													<IBGRegionPanel size="350,50" margin="12,8,0,0" dock="DOCK_LEFT">
 														<Children>
 															<IBGStaticEx size="65,25" name="linkCopySucceedTip" textClr="0xFFA806" text="$2211" margin="0,0,0,0" dock="DOCK_TOP">
 																<Properties>

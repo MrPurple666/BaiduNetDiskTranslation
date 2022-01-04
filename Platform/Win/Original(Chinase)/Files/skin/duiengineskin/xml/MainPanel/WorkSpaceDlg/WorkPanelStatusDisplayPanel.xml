@@ -10,5 +10,6 @@
         <gifplayer name="gif_sync_loading" pos="[2,16,@18,@18" skin="loading_gif" show="0"></gifplayer>
         <imgbtn name="btn_pause" pos="-41,16,@16,@16" skin="workspace_pause" crtext="000000"
             font="0000:微软雅黑" cursor="hand" animate="1"></imgbtn>
+        <link name="link_sync_setting" pos="-81,16" font="0000:微软雅黑" crtext="06A7FF" cursor="hand" show="0">%str4922%</link>
     </dlg>
 </dlg>

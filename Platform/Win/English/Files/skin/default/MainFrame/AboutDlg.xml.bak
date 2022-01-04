@@ -30,7 +30,7 @@
 							<IBGRegionPanel size="400, 85" margin="24,10,0,0" dock="DOCK_LEFT">
 								<Children>
 									<IBGStaticEx autoCalcHeight="true" autoCalcWidth="true" textClr="0x666666" text="$2430" margin="0, 0, 0, 0" dock="DOCK_TOP"/>
-										<IBGStaticEx name="Translations" autoCalcHeight="true" autoCalcWidth="true" textClr="0x666666" text="Перевод на русский zlo1supp0rt@gmail.com (MM_DD_YYYY)" margin="0, 0, 0, 0" dock="DOCK_TOP"/>
+										<IBGStaticEx name="Translations" autoCalcHeight="true" autoCalcWidth="true" textClr="0x666666" text="Translations zlo1supp0rt@gmail.com (10-Nov-2021)" margin="0, 0, 0, 0" dock="DOCK_TOP"/>
                                     <IBGRegionPanel size="400, 26" margin="0,0,0,0" dock="DOCK_TOP">
 										<Children>
 											<IBGStaticEx name="Version" autoCalcHeight="true" autoCalcWidth="true" textClr="0x666666" text="$2625" margin="0, 5, 18, 5" dock="DOCK_LEFT"/>

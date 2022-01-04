@@ -28,6 +28,17 @@
 							</IBGStaticEx>
 						</Children>
 					</IBGRegionPanel>
+					<IBGRegionPanel position="240,288" size="104,32">
+						<Children>
+							<IBDGuiCell name="trayNotifyIcon" size="104,32" margin="0,0,0,0" dock="DOCK_RIGHT">
+								<Properties>
+									<bkground>
+										<IBGVeins file="Resource:MainFrame\TrayHint\ad_logo.png" transparent="true" colorize="false"/>
+									</bkground>
+								</Properties>
+							</IBDGuiCell>
+						</Children>
+					</IBGRegionPanel>
 				</Children>
 			</IBGRegionPanel>
 		</Children>

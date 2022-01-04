@@ -1140,7 +1140,7 @@
         <gif name="gif_workspace_guide_backup" src="IDP_DUI_WORKSPACE_GIF_GUIDE_BACKUP" minframedelay="30"/>
         <imgframe name="workspace_guide_bkg_two" src="IDP_DUI_WORKSPACE_GUIDE_BKG_TWO"/>
         <imgframe name="workspace_guide_img" src="IDP_DUI_WORKSPACE_GUIDE_IMG"/>
-        <imgframe name="workspace_func_guide_img" src="IDP_DUI_WORKSPACE_FUNC_GUIDE"/>
+        <imgframe name="workspace_func_guide_img" src="IDP_DUI_WORKSPACE_FUNC_GUIDE" subwidth="400"/>
         <imgframe name="workspace_guide_btn_bkg_one" src="IDP_DUI_WORKSPACE_GUIDE_BTN_BKG_ONE" left="16" right="16"/>
         <imgframe name="workspace_guide_btn_bkg_two" src="IDP_DUI_WORKSPACE_GUIDE_BTN_BKG_TWO"/>
         <imgframe name="workspace_guide_btn_bkg_three" src="IDP_DUI_WORKSPACE_GUIDE_BTN_BKG_THREE"/>

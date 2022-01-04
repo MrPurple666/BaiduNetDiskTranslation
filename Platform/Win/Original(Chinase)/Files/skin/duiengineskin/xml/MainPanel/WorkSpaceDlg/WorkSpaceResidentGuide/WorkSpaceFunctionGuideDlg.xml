@@ -3,7 +3,7 @@
         <dlg skin="workspace_guide_mask" pos="0,0,-0,-0">
             <dlg name="dlg_main" pos="100,128,@464,@423" skin="workspace_guide_frame">
                 <text pos="24,20" font="0200:微软雅黑" crtext="03081A">%str4650%</text>
-                <img pos="32,64,@400,@225" skin="workspace_func_guide_img"></img>
+                <imgbtn name="btn_video_background" pos="32,64,@400,@225" skin="workspace_func_guide_img"></imgbtn>
                 <imgbtn name="imgbtn_video" pos="180,156" skin="workspace_guide_video_play" cursor="hand"></imgbtn>
                 <text pos="32,295,@456,@16" crtext="03081A" font="0004:微软雅黑">%str4673%</text>
                 <text name="text1" pos="32,320,@400,@35" crtext="03081A" textmode="40810">%str4584%</text>

@@ -178,7 +178,7 @@
   <String id="IDS_SHARE_CREATING_DOWNLOAD_SPEEDUP_LINK" value="正在创建极速畅享分享链接，请稍候..." /> 
   <String id="IDS_SHARE_COPY_LINK_SUCCESS" value="复制成功" />
   <String id="IDS_SHARE_LINK_SHARE" value="通过QQ、微信、微博、QQ空间等分享给好友吧" />
-  <String id="IDS_SHARE_TABBUTTON_LINKSHARE" value="私密链接分享" />
+  <String id="IDS_SHARE_TABBUTTON_LINKSHARE" value="链接分享" />
   <String id="IDS_SHARE_TABBUTTON_MEESAGESHARE" value="发给好友" />
   <String id="IDS_SHARE_LINK_TYPE_PRIVATE_WITH_PWD" value="有提取码" />
   <String id="IDS_SHARE_LINK_TYPE_PRIVATE_WITH_NO_PWD" value="无提取码" />
@@ -1399,4 +1399,9 @@
   <String id="IDS_RESTART_NOW" value="立即重启" />
   <String id="IDS_SYNC_ICON_SOLVE_QUESTION_TIP" value="重启还未展示文件同步状态，具体解决办法，详情请见" />
   <String id="IDS_SYNC_HELP_CENER_TIP" value="帮助中心" />
+  <!--自动填充提取码-->
+  <String id="IDS_LINK_GET_PASSWORD_TYPE" value="提取方式：" />
+  <String id="IDS_AUTO_FILL_LINK_PASSWORD" value="分享链接自动填充提取码" />
+  <String id="IDS_AUTO_FILL_LINK_PASSWORD_TIP" value="开启后，分享链接无需输入提取码，可直接查看分享文件。" />
+  <String id="IDS_AUTO_FILL_PASSWORD_LINK_COPY_SUCCESS" value="分享链接已复制，访问者无需提取码可直接查看分享文件" />
 </StringTable>

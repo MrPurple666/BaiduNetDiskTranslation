@@ -264,6 +264,14 @@
 							</IBGRegionPanel>
 						</Children>
 					</IBGRegionPanel>
+					<!-- 流量包（下载列表） -->
+					<IBGRegionPanel name="SpeedupPackagePanel" unseen="true" ncHitTest="1" size="0,54" dock="DOCK_BOTTOM" config="SpeedupTipPannel">
+						<Children>
+							<IBGStaticEx name="speedupPackageStatic" autoCalcHeight="true" autoCalcWidth="true" textClr="0x333333" margin="40,19,0,4" dock="DOCK_LEFT"/>
+							<IBGButton name="speedupPackageCloseBtn" dock="DOCK_RIGHT" size="10,10" config="SpeedupCloseBtn" toolText="$2790" margin="0,22,20,22"/>
+							<IBGButton name="speedupPackageBuySvipBtn" dock="DOCK_RIGHT" size="100,30" config="SpeedupTryBtn" margin="0,10,20,10"/>
+						</Children>
+					</IBGRegionPanel>
 					<!-- 列表区域（所有列表复用） -->
 					<IBGRegionPanel name="transListPanel" size="323,400" margin="0,0,4,8" dock="DOCK_FILL">
 						<Children>
