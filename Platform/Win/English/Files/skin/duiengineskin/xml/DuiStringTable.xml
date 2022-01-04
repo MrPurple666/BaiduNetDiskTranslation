@@ -1939,7 +1939,10 @@
   <s id="4918">Unlimited synchronization privilege</s>
   <s id="4919">Regain unlimited privilege</s>
   <s id="4920">SVIP enjoys unlimited synchronous traffic</s>
-  
+  <s id="4921">The synchronization directory is not currently set, only 3S settings can be used to use the full function</s>
+  <s id="4922">Set up now>></s>
+  <s id="4923">Leverage synchronous space a minute</s>
+    
   <!-- Business space -->
   <s id="4950">Copy to "%s" Enterprise space</s>
   <s id="4951">personal space</s>
@@ -1992,5 +1995,15 @@
   <s id="5027">Spatial capacity</s>
   <s id="5028">Switch account</s>
   <s id="5029">Space expansion</s>
+
+  <!--Synchronization directory is a U disk or network drive-->
+  <s id="5060">The current synchronization directory is a U disk/Mobile hard drives, plugging equipment is easy to cause synchronous abnormalities, and it is recommended to replace it with a computer directory.</s>
+  <s id="5061">The network drive has now set to the synchronous directory, to avoid synchronous exceptions, please replace it with a computer directory</s>
+  <s id="5062">Do not support the network drive set as sync directory</s>
+  <s id="5063">Synchronous exception!Check or reset the sync directory</s>
+
+  <s id="5070">Share prompt</s>
+  <s id="5071">Open "Automatic Fill Extraction Code"</s>
+  <s id="5072">Visitors click on the link to view the sharing file directly.</s>
 
 </string>

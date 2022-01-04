@@ -181,7 +181,7 @@
   <String id="IDS_SHARE_CREATING_DOWNLOAD_SPEEDUP_LINK" value="Please wait,creating sharing link..." />
   <String id="IDS_SHARE_COPY_LINK_SUCCESS" value="Copy successful" />
   <String id="IDS_SHARE_LINK_SHARE" value="Share with friends via QQ, WeChat, Weibo, QQ " />
-  <String id="IDS_SHARE_TABBUTTON_LINKSHARE" value="Share Link" />
+  <String id="IDS_SHARE_TABBUTTON_LINKSHARE" value="Link sharing" />
   <String id="IDS_SHARE_TABBUTTON_MEESAGESHARE" value="Share w. Friend" />
   <String id="IDS_SHARE_LINK_TYPE_PRIVATE_WITH_PWD" value="With extraction code" />
   <String id="IDS_SHARE_LINK_TYPE_PRIVATE_WITH_NO_PWD" value="No extraction code" />
