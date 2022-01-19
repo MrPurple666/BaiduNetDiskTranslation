@@ -67,6 +67,10 @@
 [![imageban](https://i3.imageban.ru/thumbs/2021.10.26/6174fc4c14216b1820659e7b59f7f32d.png)](https://imageban.ru/show/2021/10/26/6174fc4c14216b1820659e7b59f7f32d/png)[![imageban](https://i5.imageban.ru/thumbs/2021.10.26/b0a2aa09c482afe87725a68a3169b9ff.png)](https://imageban.ru/show/2021/10/26/b0a2aa09c482afe87725a68a3169b9ff/png)[![imageban](https://i6.imageban.ru/thumbs/2021.10.26/7cc3ef56284a36bbbff946c214eed611.png)](https://imageban.ru/show/2021/10/26/7cc3ef56284a36bbbff946c214eed611/png)
 
 
+# Donation
+
+[![Donate][donate-badge]][donate_bitcoin]
+[![Donate][donate-dogecoin]][donate_dogecoin]
 
 
 
@@ -96,3 +100,11 @@
 [win-portable]: #портативная-версия
 [win-repack]: #установка-репака
 [win-replace]: #замена-файлов
+
+
+[donate_bitcoin]:https://img.shields.io/badge/%F0%9F%AA%99-Donate%20%2F%20BitCoin-yellow.svg
+[donate_dogecoin]:dogecoin:DFRJHUFVTU3CJ9GU8Ye5dzURpvgQ9hyy2u
+[last_commit]:https://img.shields.io/github/last-commit/zloisupport/BaiduNetDiskTranslation?color=green&style=plastic
+
+[donate-badge]: https://img.shields.io/badge/%F0%9F%92%99-Donate%20%2F%20bitcoin-yellow.svg
+[donate-dogecoin]: https://img.shields.io/badge/%F0%9F%90%B6-Donate%20%2F%20dogecoin-yellow.svg

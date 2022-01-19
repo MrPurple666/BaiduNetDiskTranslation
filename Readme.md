@@ -81,7 +81,9 @@ The version portable does not require installation. Does not leave the tracks sy
 
 If this project help you reduce time to develop, you can give me a cup of coffee :)
 
-[![Windows][donate-badge]]([donate_electrum])
+[![Donate][donate-badge]][donate_bitcoin]
+[![Donate][donate-dogecoin]][donate_dogecoin]
+
 
 [license]: ./LICENSE
 [license-badge]: https://img.shields.io/github/license/zloisupport/BaiduNetDiskTranslation
@@ -100,10 +102,12 @@ If this project help you reduce time to develop, you can give me a cup of coffee
 [win_apk_files_mfire]: https://rebrand.ly/bndAndroidMfire
 [win_apk_files_mirror]: https://rebrand.ly/bndMirrorApk
 
-[donate_electrum]:bitcoin:bc1qyj8f3gzscpsqqk7ln9nshvhxgcvt8n6gk03yv02gwsdlrk8wmwfsjvygqx?time=1629135925
+[donate_bitcoin]:https://img.shields.io/badge/%F0%9F%AA%99-Donate%20%2F%20BitCoin-yellow.svg
+[donate_dogecoin]:dogecoin:DFRJHUFVTU3CJ9GU8Ye5dzURpvgQ9hyy2u
 [last_commit]:https://img.shields.io/github/last-commit/zloisupport/BaiduNetDiskTranslation?color=green&style=plastic
 
-[donate-badge]: https://img.shields.io/badge/%F0%9F%92%99-Donate%20%2F%20Electrum-blue.svg
+[donate-badge]: https://img.shields.io/badge/%F0%9F%92%99-Donate%20%2F%20bitcoin-yellow.svg
+[donate-dogecoin]: https://img.shields.io/badge/%F0%9F%90%B6-Donate%20%2F%20dogecoin-yellow.svg
 [visitors_svg]: https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fzloisupport%2FBaiduNetDiskTranslation&countColor=%23263759&style=plastic
 [visitors_url]: https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fzloisupport%2FBaiduNetDiskTranslation
 [lng-russian-win]: https://img.shields.io/badge/Russian|windows-~98%25-green.svg
