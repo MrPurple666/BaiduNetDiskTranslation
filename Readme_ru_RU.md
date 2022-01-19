@@ -68,10 +68,13 @@
 
 
 # Donation
+<span class="badge-BitCoin">
+<a href="dogecoin:DFRJHUFVTU3CJ9GU8Ye5dzURpvgQ9hyy2u" title="Donate to this project using dogecoin"><img src="https://img.shields.io/badge/%F0%9F%90%B6-Donate%20%2F%20dogecoin-yellow.svg" alt="dogecoin" /></a>
+</span>
 
-[![Donate][donate-badge]][donate_bitcoin]
-[![Donate][donate-dogecoin]][donate_dogecoin]
-
+<span class="badge-BitCoin">
+<a href="bitcoin:bc1qyj8f3gzscpsqqk7ln9nshvhxgcvt8n6gk03yv02gwsdlrk8wmwfsjvygqx?time=1629135925" title="Donate to this project using BitCoin"><img src="https://img.shields.io/badge/%F0%9F%AA%99-Donate%20%2F%20bitcoin-yellow.svg" alt="BitCoin" /></a>
+</span>
 
 
 
