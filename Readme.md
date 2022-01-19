@@ -78,19 +78,11 @@ The version portable does not require installation. Does not leave the tracks sy
 [The Unlicense][license]
 
 # Donation
-
-If this project help you reduce time to develop, you can give me a cup of coffee :)
-
-<span class="badge-BitCoin">
-<a href="dogecoin:DFRJHUFVTU3CJ9GU8Ye5dzURpvgQ9hyy2u" title="Donate to this project using dogecoin"><img src="https://img.shields.io/badge/%F0%9F%90%B6-Donate%20%2F%20dogecoin-yellow.svg" alt="dogecoin" /></a>
-</span>
-
-<span class="badge-BitCoin">
-<a href="bitcoin:bc1qyj8f3gzscpsqqk7ln9nshvhxgcvt8n6gk03yv02gwsdlrk8wmwfsjvygqx?time=1629135925" title="Donate to this project using BitCoin"><img src="https://img.shields.io/badge/%F0%9F%AA%99-Donate%20%2F%20bitcoin-yellow.svg" alt="BitCoin" /></a>
-</span>
-
-
-
+<p>If you'd like to donate to the developers please send Bitcoin or Doge to the following address: <br/>
+  <a href="bitcoin:bc1qyj8f3gzscpsqqk7ln9nshvhxgcvt8n6gk03yv02gwsdlrk8wmwfsjvygqx?time=1629135925">🪙  bc1qyj8f3gzscpsqqk7ln9nshvhxgcvt8n6gk03yv02gwsdlrk8wmwfsjvygqx</a> <br/>
+   <a href="dogecoin:DFRJHUFVTU3CJ9GU8Ye5dzURpvgQ9hyy2u">🐶 DFRJHUFVTU3CJ9GU8Ye5dzURpvgQ9hyy2u</a> <br/>Thank you.</p>
+   
+   
 [license]: ./LICENSE
 [license-badge]: https://img.shields.io/github/license/zloisupport/BaiduNetDiskTranslation
 [win_replace_files_git]: https://rebrand.ly/BaiduNetDiskGitRelease
@@ -108,7 +100,7 @@ If this project help you reduce time to develop, you can give me a cup of coffee
 [win_apk_files_mfire]: https://rebrand.ly/bndAndroidMfire
 [win_apk_files_mirror]: https://rebrand.ly/bndMirrorApk
 
-
+[last_commit]:https://img.shields.io/github/last-commit/zloisupport/BaiduNetDiskTranslation?color=green&style=plastic
 [visitors_svg]: https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fzloisupport%2FBaiduNetDiskTranslation&countColor=%23263759&style=plastic
 [visitors_url]: https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fzloisupport%2FBaiduNetDiskTranslation
 
