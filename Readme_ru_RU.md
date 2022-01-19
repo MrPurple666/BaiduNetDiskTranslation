@@ -17,12 +17,12 @@
 
 # Загрузка
 
-| Платформа | Установка                          |Версия  | Скачать                   |
-| --------- | ---------------------------------- |--------| ------------------------- |
-| Windows   | [Замена файлов][win-replace]       |7.11.0.9| [.zip][win_replace_files]  |
-| Windows   | [Установка репака][win-repack]     |7.10.1.2| [.7z][win_repack_files]   |
-| Windows   | [Портативная версия][win-portable] |7.10.1.2| [.7z][win_portable_files] |
-| Android   | Установить                         |11.17.1 | [.apk][win_apk_files]     |
+| Платформа | Установка                          |Версия  | Скачать                    |
+| --------- | ---------------------------------- |--------| -------------------------- |
+| Windows   | [Замена файлов][win-replace]       |7.11.0.9|  [git][win_replace_files_git] |
+| Windows   | [Установка репака][win-repack]     |7.10.1.2|  [mega.nz][win_repack_files_meganz] / [mediafire][win_repack_files_mfire] / [mirror][win_repack_files_mirror]|
+| Windows   | [Портативная версия][win-portable] |7.10.1.2|  [mega.nz][win_portable_files_meganz] / [mediafire][win_portable_files_mfire] / [mirror][win_portable_files_mirror]|
+| Android   | Установить                         |11.17.1 |  [mega.nz][win_apk_files_meganz] / [mediafire][win_apk_files_mfire] / [mirror][win_apk_files_mirror]      |
 
 ## Замена файлов
 
@@ -73,10 +73,21 @@
 
 [license]: ./LICENSE
 [license-badge]: https://img.shields.io/github/license/zloisupport/BaiduNetDiskTranslation
-[win_repack_files]: https://bit.ly/2BtHzR2
-[win_replace_files]: https://bit.ly/3fYH54o
-[win_portable_files]: http://bit.ly/2OznleI
-[win_apk_files]: https://bit.ly/3FH0J27
+[win_replace_files_git]: https://rebrand.ly/BaiduNetDiskGitRelease
+
+[win_repack_files_meganz]: https://rebrand.ly/BaiduNetDiskRepackMega
+[win_portable_files_meganz]: https://rebrand.ly/bndPortableMega
+
+[win_repack_files_mirror]: https://rebrand.ly/BaiduNetdiskPortableMirror
+[win_portable_files_mirror]: https://rebrand.ly/Baidu_Net_DiskMirrorRep
+
+[win_repack_files_mfire]: https://rebrand.ly/bndmfirerepack
+[win_portable_files_mfire]: https://rebrand.ly/bndmfileport
+
+[win_apk_files_meganz]: https://rebrand.ly/bndAndroidMega
+[win_apk_files_mfire]: https://rebrand.ly/bndAndroidMfire
+[win_apk_files_mirror]: https://rebrand.ly/bndMirrorApk
+
 [donate-badge]: https://img.shields.io/badge/%F0%9F%92%99-Donate%20%2F%20Support%20Us-blue.svg
 [lng-russian-win]: https://img.shields.io/badge/Russian|windows-80%25-green.svg
 [lng-english-win]: https://img.shields.io/badge/English|windows-70%25-green.svg
