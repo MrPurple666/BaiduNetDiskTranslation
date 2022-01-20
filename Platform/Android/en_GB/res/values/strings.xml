@@ -36,7 +36,7 @@
     <string name="aboout_app_version_text">\"Current version %s\"</string>
     <string name="about_me_capacity_title">Capacity</string>
     <string name="about_title_text">ABOUT US</string>
-    <string name="about_user_id">Localized: zloisupport based by singingdalong</string>
+    <string name="about_user_id">Localized:(2022) zloisupport based by singingdalong</string>
     <string name="about_vip_item">Membership</string>
     <string name="about_wallet_item">Rich spend</string>
     <string name="aboutme_myservice">My service</string>
@@ -521,29 +521,7 @@
     <string name="apply_recognition_error_too_many_apply_people">There are too many applicants, please try again later</string>
     <string name="apply_recognition_introduce">\"Intelligent classification of people Things are richer\"</string>
     <string name="applying">Applying…</string>
-    <string name="ar_case_layout_title_bar_title">AR case show</string>
-    <string name="ar_case_title">AR RECOMM scenario case</string>
-    <string name="ar_cases_title">Other ways to experience AR</string>
-    <string name="ar_category_tip_text">Please aim at the target to keep the phone stable</string>
-    <string name="ar_error_dialog_msg">The network is not strong, please check the network settings and try again</string>
-    <string name="ar_help_how_brief1">The pictures with IMAGE are all AR pictures. Aligning and scanning can trigger AR special effects.</string>
-    <string name="ar_help_how_brief2">Please aim at the full image of the AR image for scanning and identification, and wait patiently for AR special effects to appear.</string>
-    <string name="ar_help_how_brief3">According to the copywriting tips, adjust the distance between the phone and the AR picture to achieve the best experience.</string>
-    <string name="ar_help_how_brief4">Try rotating the AR picture or phone, or try clicking on the phone screen to interact.</string>
-    <string name="ar_help_how_brief5">Follow the sharing and invite friends to experience it.</string>
-    <string name="ar_help_how_title">How to experience AR</string>
-    <string name="ar_help_layout_title_bar_title">AR profile help</string>
-    <string name="ar_help_net_error">The network is not strong, please try again later</string>
-    <string name="ar_help_support_title">Supported AR scenarios</string>
-    <string name="ar_help_what_brief">AR is a technology that calculates the position and angle of the camera image in real time and adds corresponding images, videos, 3D models. The goal of this technology is to put the virtual world on the screen and interact with it.</string>
-    <string name="ar_help_what_title">What is AR</string>
-    <string name="ar_loading_tip">Wonderful AR world is opening for you</string>
-    <string name="ar_menu_help">Profile help</string>
-    <string name="ar_no_result">No AR recognition map found</string>
-    <string name="ar_no_result_tip1">1. Click the “1 Recognition Map” button in the lower right corner to D/L or share the AR identification map to other electronic devices</string>
-    <string name="ar_no_result_tip2">2. Use this phone to align the AR recognition map to experience AR animation</string>
-    <string name="ar_retry">Try Again</string>
-    <string name="ar_start_scan">Click to start</string>
+
     <string name="audio_add_failed">Adding audio file failed, please try again</string>
     <string name="audio_alarm_dialog_notice">Set the timing off time</string>
     <string name="audio_backup">Audio backup</string>
@@ -637,10 +615,6 @@
     <string name="auto_flip_over_exit">After the full text has exited the auto page turning mode</string>
     <string name="auto_scan_local_bt">Autoally scan local seed files</string>
     <string name="auto_upload_backup_name">Auto backup (remaining %s )</string>
-    <string name="av_scan_danger">\"Scan Results: Some files scanned It is recommended to install guards to completely eliminate risks\"</string>
-    <string name="av_scan_safe">\"Scan Results: File Security It is recommended to turn on real-time protection to eliminate risk s</string>
-    <string name="av_scaning">Scanning %s</string>
-    <string name="av_tips_virus_isscanning_title">Professional antivirus engine</string>
     <string name="baby_age_month_with_days">%1$d Month zero %2$d day</string>
     <string name="baby_age_year">%1$d year old %2$d Month zero %3$d day</string>
     <string name="baby_age_year_with_days">%1$d Year zero %2$d day</string>
@@ -737,95 +711,6 @@
     <string name="baiduyun_no_storage">Baidu NetDisk space is insufficient, cannot save the cleanup space, try again</string>
     <string name="bank_card_dialog_no_support">This bank card is currently not supported</string>
     <string name="bank_card_dialog_title">Choose bank card</string>
-    <string name="barcode_address_book_action_dial">Call</string>
-    <string name="barcode_address_book_action_mail">Email</string>
-    <string name="barcode_address_book_corp">Company</string>
-    <string name="barcode_address_book_corp_title">Position</string>
-    <string name="barcode_address_book_fax">Fax</string>
-    <string name="barcode_address_book_title">Card</string>
-    <string name="barcode_button_text_add_contact">Add contact</string>
-    <string name="barcode_button_text_browse">Visit URL</string>
-    <string name="barcode_button_text_cloud_save">Save to Baidu</string>
-    <string name="barcode_button_text_decoding">Identifying…</string>
-    <string name="barcode_button_text_direct_browse">Visit Link</string>
-    <string name="barcode_button_text_download">Direct DL</string>
-    <string name="barcode_button_text_raw_text">Raw Data</string>
-    <string name="barcode_button_text_send_mail">Email</string>
-    <string name="barcode_button_text_unkonwn_type">Unknown file</string>
-    <string name="barcode_camera_error">Camera does not start</string>
-    <string name="barcode_category_general_scantip">Please aim at the only target to keep your phone stable</string>
-    <string name="barcode_category_general_tip">Please ensure that the target is unique and clear, complete and unobstructed</string>
-    <string name="barcode_category_general_title">GE</string>
-    <string name="barcode_category_question_horizontal_tip">Parallel paper, text alignment guide</string>
-    <string name="barcode_category_question_vertical_tip">Horizontal screen shots are better</string>
-    <string name="barcode_category_scanner_tip">Support scan code, check express and commodity price</string>
-    <string name="barcode_category_translate_tip">Please shoot clear text</string>
-    <string name="barcode_clear_history">Clear search history</string>
-    <string name="barcode_create">Builder</string>
-    <string name="barcode_decode_bitmap_failed">Recognition is unsuccessful, please reselect image recognition</string>
-    <string name="barcode_edit_tip">Please select the only goal with a clear and complete front</string>
-    <string name="barcode_goodcase_btn_text">Cases</string>
-    <string name="barcode_googcase_title">You can do these</string>
-    <string name="barcode_guide_tip">Photo search can help you with these</string>
-    <string name="barcode_help">Search …</string>
-    <string name="barcode_help_confirm">Scan Now</string>
-    <string name="barcode_help_content_result_description">Recognition results support multiple formats such as business card, web address, email, and text, making next steps more convenient</string>
-    <string name="barcode_help_content_scanner_description">Align the frame with the QR code to autoally scan and identify</string>
-    <string name="barcode_help_content_scanner_description2">By aligning the framing frame with the product barcode, you can autoally scan and identify</string>
-    <string name="barcode_help_msg">Align the viewfinder frame with the QR code and it will scan and recognize autoally.</string>
-    <string name="barcode_help_msg2">By aligning the framing frame with the product barcode, you can autoally scan and identify.</string>
-    <string name="barcode_help_sample_description2">Barcode Scanned</string>
-    <string name="barcode_help_tipbottom">This shot is more accurate</string>
-    <string name="barcode_help_title">Welcome to scan with QR code</string>
-    <string name="barcode_help_title2">Welcome to product barcode scanning</string>
-    <string name="barcode_history_empty">No search history</string>
-    <string name="barcode_history_time_year">yıl önce</string>
-    <string name="barcode_image_history">See All Results</string>
-    <string name="barcode_introduction_description">The bar code scanning function of price comparison/anti-counterfeiting/saving money/civilian participation is coming, please come and experience it</string>
-    <string name="barcode_introduction_msg">\"1. Align the frame with a QR code or barcode 2. Adjust ingress to make the QR code or barcode clear\"</string>
-    <string name="barcode_invalid_bitmap">File format is not supported, please reselect image</string>
-    <string name="barcode_laser_tip">Please align the QR code you want to identify</string>
-    <string name="barcode_lightapp_result_title">Light App</string>
-    <string name="barcode_manual_input">Hand input</string>
-    <string name="barcode_manual_input_hint">Please enter the barcode number of the product to be queried</string>
-    <string name="barcode_manual_input_title">Hand bar code</string>
-    <string name="barcode_multisubject_edit">Box selection</string>
-    <string name="barcode_multisubject_retake">Retake</string>
-    <string name="barcode_name">QR code</string>
-    <string name="barcode_no_pics">No photo, please select photo search</string>
-    <string name="barcode_no_result">Not recognize</string>
-    <string name="barcode_ocr_searching">Recognizing text</string>
-    <string name="barcode_ocr_tip">Please select the text to be recognized</string>
-    <string name="barcode_plaintext_copy">Copy Post Text</string>
-    <string name="barcode_plaintext_title">Texts</string>
-    <string name="barcode_prefix">Bar code:</string>
-    <string name="barcode_product_title">Product Detail</string>
-    <string name="barcode_qa_debug_title">QA_DEBUG</string>
-    <string name="barcode_query_network_error">Network is weak, please try again</string>
-    <string name="barcode_question_tip">Can only choose one question at a time</string>
-    <string name="barcode_refresh_hour_ago">hours ago</string>
-    <string name="barcode_refresh_min_ago">mins ago</string>
-    <string name="barcode_refresh_month_ago">Months ago</string>
-    <string name="barcode_refresh_year_ago">one year ago</string>
-    <string name="barcode_result_default_title">Scan results</string>
-    <string name="barcode_result_page_share_info">Hi, I am sharing it for you. %1$s Come and D/L it~ %2$s</string>
-    <string name="barcode_result_video_plugin_installed">Successfully installed the playback kernel</string>
-    <string name="barcode_scan_description">Scan tobacco, alcohol, food, cosmetics, etc</string>
-    <string name="barcode_scan_description2">Price comparison, security, and more money</string>
-    <string name="barcode_scan_tip">Scan QR code/bar code, or take a photo search directly</string>
-    <string name="barcode_scanner_center_text">Aim at the QR code and scan autoally</string>
-    <string name="barcode_scanner_header_title">QR code scanning</string>
-    <string name="barcode_scanner_header_title2">Barcode</string>
-    <string name="barcode_searching_question">Searching for question bank</string>
-    <string name="barcode_share_bike">Scanning bicycle QR code to unlock</string>
-    <string name="barcode_share_save_successfully">Saved to album successfully</string>
-    <string name="barcode_text_copy_success_toast">The text has been copied, long press the input box to paste</string>
-    <string name="barcode_tip_for_wang_pan">Put the QR code in the box to scan it autoally</string>
-    <string name="barcode_torch_off">light off</string>
-    <string name="barcode_torch_on">light up</string>
-    <string name="barcode_torch_switcher">Flashgun</string>
-    <string name="barcode_uri_result_title">Website</string>
-    <string name="barcode_wifi_result_title">Wi-Fi</string>
     <string name="barrier_free_big_font_range">Maximum font spacing</string>
     <string name="barrier_free_dark_bg">black bkgnd</string>
     <string name="barrier_free_default_font_type">System font</string>
@@ -1459,7 +1344,6 @@
     <string name="change_nick_name">Change Nickname</string>
     <string name="character_counter_content_description">Characters entered %1$d of %2$d</string>
     <string name="character_counter_overflowed_content_description">Character limit exceeded %1$d of %2$d</string>
-    <string name="check_album">View gallery</string>
     <string name="check_dlna_introduction_btn_text">Screen projection tutorial</string>
     <string name="check_get_app_list_permission">It may be because the Baidu NetDisk did not obtain the corresponding permissions. Please go to \"Settings\"-\"Permissions Mgmt\"-\"Baidu Web Drive\" on your phone to check whether the \"Read List of Installed Apps\" permission is turned on.</string>
     <string name="check_local_contacts">Detecting duplicate contacts...</string>
@@ -1579,7 +1463,6 @@
     <string name="click_free_play">Click me to free data</string>
     <string name="click_free_traffic">Click me free</string>
     <string name="click_share_screenshot">Click to share</string>
-    <string name="click_to_search">Tap to search</string>
     <string name="click_update">Click update</string>
     <string name="client_version_too_low">(The client version is too low)</string>
     <string name="clipboardapi_tip_content">Content copied</string>
@@ -1988,7 +1871,6 @@
     <string name="current_download_path">\"Current D/L location: %s\"</string>
     <string name="current_download_path_single_line">Current D/L location: %s</string>
     <string name="current_problem">"Whats the problem right now?"</string>
-    <string name="current_scan_dir_not_exist">The file directory does not exist and the scan has ended</string>
     <string name="custom_lable">Custom label</string>
     <string name="custom_share_default_tip">Any validity period can be set within 365 days</string>
     <string name="custom_share_tip">After the expiration date, this link will be invalidated and cannot be accessed</string>
@@ -2034,7 +1916,7 @@
     <string name="delete_from_blacklist">Remove from blacklist</string>
     <string name="delete_from_blacklist_failed">Failed to remove from blacklist</string>
     <string name="delete_from_blacklist_succeed">Has been %s Remove from blacklist</string>
-    <string name="delete_history_barcode_warning_all">Are you sure to delete all history</string>
+
     <string name="delete_number">Del(%d)</string>
     <string name="delete_overflow">Deleted more than 100 files, please re-select</string>
     <string name="delete_path_alert_msg">Delete custom backup folder</string>
@@ -2382,8 +2264,6 @@
     <string name="download_qr_code_card_failed">Save failed, try again later</string>
     <string name="download_qr_code_card_success">Save successfully, send a picture to a friend</string>
     <string name="tt_appdownloader_download_unknown_title">&lt;Unnamed></string>
-    <string name="download_weishi_danger">Install a thorough scan now</string>
-    <string name="download_weishi_safe">Install Now Turn On Protection</string>
     <string name="downloading">D/Ling(%1$s)</string>
     <string name="duration_too_long_error">The video duration is too long, online analysis is not supported temporarily, please D/L and watch</string>
     <string name="dwg_file_resolve_title">dwg file parsing</string>
@@ -2574,23 +2454,12 @@
     <string name="ebpay_verify_pass">Pwd validation</string>
     <string name="ebpay_wallet_continue_pay">Continue to pay</string>
     <string name="ebpay_year_month">Month/Year (if 05/20 enter 0520)</string>
-    <string name="edit_image_choice_language">The language of the photographs is</string>
-    <string name="edit_image_crop">Select</string>
-    <string name="edit_image_help_text_1">Ensure that the subject occupies more than 70% of the screen</string>
-    <string name="edit_image_help_text_2">Two-finger zoom image</string>
-    <string name="edit_image_net_timeout">Network connection timed out</string>
-    <string name="edit_image_recrop_picture">Please select again</string>
-    <string name="edit_image_src_error">Image source is incorrect, please check</string>
-    <string name="edit_image_src_null">Image data loss</string>
     <string name="edit_more_doc_count">Waiting for %s files</string>
     <string name="edit_photo_tags_no_select">When not selected, photos will be classified into other categories</string>
     <string name="edit_photo_tags_select">Select the category of the photo</string>
     <string name="edit_photo_toast">Up to 3 categories can be added</string>
     <string name="edit_playlist_name_hint">The name of the broadcast is up to 12 Chinese characters</string>
     <string name="edit_playlist_name_over_limit">The name is too long, it exceeds %d characters</string>
-    <string name="edit_question_guide_animationstepone">Move the marquee to the title</string>
-    <string name="edit_question_guide_animationstepthree">Click to start searching</string>
-    <string name="edit_question_guide_animationsteptwo">Drag the corner box to select the title, Do not select the unrelated text</string>
     <string name="edit_txt_less_word_message">At least %1$d Chinese characters or %2$d characters</string>
     <string name="edittext_wraper_clean">Clear</string>
     <string name="email_name">E-mail:</string>
@@ -2617,7 +2486,7 @@
     <string name="enable_directory_ask_overlay_title">Share Settings</string>
     <string name="enable_share_directory">Set as shared folder</string>
     <string name="enter_dir_failed">Failed to enter folder</string>
-    <string name="enter_fullscreen">Turn on full screen mode</string>
+
     <string name="enterprise_auth">Authenticate now</string>
     <string name="enterprise_certification_invalid_text">Certification expired, please certify in time</string>
     <string name="enterprise_contact_invite_failed">Invitation failed, please try again later</string>
@@ -2967,7 +2836,7 @@
     <string name="flash_screen_countdown">%s</string>
     <string name="flash_screen_countdown_skip">Skipping %s</string>
     <string name="flash_screen_jump_default_text">Click for details</string>
-    <string name="flash_toast">Switch on the surrounding environment because it is too dark flash is good.</string>
+
     <string name="float_advertise_countdown_with_day">%1$d day %2$s : %3$s : %4$s</string>
     <string name="float_advertise_countdown_with_day_without_time">%1$d day</string>
     <string name="flow_auto_backup_closed">Auto data backup is turned off</string>
@@ -3332,7 +3201,6 @@
     <string name="hope_receive_messages">You wish to receive</string>
     <string name="host_market_calculate_error">Balance selection failed, please try again later</string>
     <string name="host_not_authority">Under the current domain name, no permission to call this end capability</string>
-    <string name="hot_search_title">Interesting</string>
     <string name="hot_word_notification_text">Baidu search real-time hot spot</string>
     <string name="how_to_keep_pc_online">Why cannot I see the associated computer in the list</string>
     <string name="how_to_keep_pc_online_des">The list only shows online devices, make sure</string>
@@ -3346,17 +3214,12 @@
     <string name="hybrid_notification_dialog_title">Turn on notification permissions</string>
     <string name="hybrid_vip_order_result_description_operating_new">Payment is successful, order processing /n please wait in the member center to view</string>
     <string name="icon_content_description">Dialog Icon</string>
-    <string name="identify_error_msg">Please smudge the text you are looking for and select the correct language.</string>
-    <string name="identify_error_titile_toast">Unrecognized text to find</string>
+
     <string name="identify_pan_link">External link identification of netdisk</string>
     <string name="image_backup_finish">Photo backup completed</string>
-    <string name="image_category_type_title_clothes_box">Clothing bags</string>
-    <string name="image_category_type_title_general">Default</string>
-    <string name="image_category_type_title_medicine">medicine</string>
-    <string name="image_category_type_title_question">Topic</string>
-    <string name="image_category_type_title_translate">Transl</string>
+
     <string name="image_detail_guide_text">Swipe up to view more information</string>
-    <string name="image_history_delete_error">Delete failed, please try again.</string>
+
     <string name="image_list_empty">There is nothing to add in the NetDisk %s Oh</string>
     <string name="image_list_title">Add %s</string>
     <string name="image_preview_failed_text">Preview error</string>
@@ -3364,7 +3227,7 @@
     <string name="image_reference_date">Photo taken on the day</string>
     <string name="image_reference_location">Photos taken nearby</string>
     <string name="image_resolution">Size, %s</string>
-    <string name="image_save_image_tips">The picture you took has been saved</string>
+
     <string name="image_search_box_hint_text">Search for people, places, things</string>
     <string name="image_search_box_hint_text_without_person">Search for places, things</string>
     <string name="image_search_diff_not_finish">\"Preparing a picture classification Please search later\"</string>
@@ -3377,7 +3240,6 @@
     <string name="image_search_reult_empty">No related photos found</string>
     <string name="image_search_title">Image retrieval</string>
     <string name="image_size">%1$s %2$d*%3$d</string>
-    <string name="image_takepicture_enoughspace">Insufficient system space, please exit and clean up the space and re-enter</string>
     <string name="imagepager_bt_export">Export photos/videos</string>
     <string name="imagepager_bt_print_store">Cloud printing</string>
     <string name="imagepager_import">Save for a moment</string>
@@ -3425,7 +3287,7 @@
     <string name="inbox_list_item_multifiles">Shared with you %s Files</string>
     <string name="inbox_list_item_validatetime">Validity period: remaining %s day</string>
     <string name="inbox_title">Inbox</string>
-    <string name="indistinct_bmp_dialog_msg">The picture you took is a blurry invalid picture. I suggest you take another picture.</string>
+
     <string name="info_install">Video plugin required to play this video</string>
     <string name="info_update">Video plugin needs to be upgraded to play this video</string>
     <string name="init_failed">Initialization failure has been opened for you with third party App</string>
@@ -3634,29 +3496,6 @@
     <string name="long_picture_upload_server_ban">Account is abnormal, please try again</string>
     <string name="long_picture_upload_space_full">Not enough space, please try again</string>
     <string name="long_video">View the complete works</string>
-    <string name="lottery_edit_add_multi">Additional multiples:</string>
-    <string name="lottery_edit_bt_search">Search</string>
-    <string name="lottery_edit_classify">Play:</string>
-    <string name="lottery_edit_daletou">Big Lottery</string>
-    <string name="lottery_edit_green_dan">Blue zone code</string>
-    <string name="lottery_edit_green_tuo">Blue Zone Drag Code</string>
-    <string name="lottery_edit_msg">Edit</string>
-    <string name="lottery_edit_msg_one">(Select at least 1 and up to 5)</string>
-    <string name="lottery_edit_msg_three">(select at least one)</string>
-    <string name="lottery_edit_msg_two">(select at least 2)</string>
-    <string name="lottery_edit_multiple">Divisor:</string>
-    <string name="lottery_edit_phase">Select Issue:</string>
-    <string name="lottery_edit_red_dan">Red zone code</string>
-    <string name="lottery_edit_red_tuo">Red area drag code</string>
-    <string name="lottery_edit_shangseqiu">Two-color ball</string>
-    <string name="lottery_edit_time_toast_end">between</string>
-    <string name="lottery_edit_time_toast_need_input">Need to enter a multiple</string>
-    <string name="lottery_edit_time_toast_start">Input multiples need to be between 1 and</string>
-    <string name="lottery_edit_tip">Please confirm that the information on this page is consistent with your purchase of the lottery information</string>
-    <string name="lottery_edit_type">Mode:</string>
-    <string name="lottery_edit_type_dantuo">Gallbladder</string>
-    <string name="lottery_edit_type_double">Duplex</string>
-    <string name="lottery_edit_type_sigle">Single</string>
     <string name="m3ufile_download_dialog_content_low_quality">Priority D/L</string>
     <string name="m3ufile_download_dialog_content_save">Save up to 70% of local space</string>
     <string name="m3ufile_download_dialog_sdcard">Local SD card free space</string>
@@ -3809,7 +3648,6 @@
     <string name="mtrl_picker_toggle_to_text_input_mode">Switch to text input mode</string>
     <string name="mtrl_picker_toggle_to_year_selection">Tap to switch to selecting a year</string>
     <string name="multi_copy_by_user_error">Some files have errors. %s</string>
-    <string name="multiscreen_default_msg">The current interface may not display properly in split screen mode. Please switch to full screen mode</string>
     <string name="mute_video_play_error">Data acquisition failed, please wait a moment</string>
     <string name="my_app_data">My application data</string>
     <string name="my_asset_list">Funds</string>
@@ -3899,9 +3737,8 @@
     <string name="need_activate">Please activate your account and try again</string>
     <string name="net_alert_btn_confirm">Use traffic transfer</string>
     <string name="net_alert_content">The file needs to consume data to transmit in a non-Wifi environment, whether to continue U/Ling</string>
-    <string name="net_error_msg">The network is not strong, is it retrying</string>
     <string name="net_error_retry_later">Network error, try again later</string>
-    <string name="net_error_tip">The network is not strong, please check the settings</string>
+
     <string name="net_wrong">The network is abnormal, please check the network and try again</string>
     <string name="netcheck_checking_context">Checking the network. Please wait.</string>
     <string name="netcheck_checking_error_context">Report issues with one click.</string>
@@ -3934,10 +3771,10 @@
     <string name="network_error_when_delete_play_list">Network connection failed, please check the network</string>
     <string name="network_no_connected">No network, Check the network settings.</string>
     <string name="network_no_internet_connected">Unable to access the internet, please try again later</string>
-    <string name="network_remind">Network prompt</string>
+
     <string name="network_tomography_done">Busy network. Please try again later.</string>
     <string name="network_tomography_hints">Network detection</string>
-    <string name="network_user_mobile_remind">Currently it is a mobile network, it may consume traffic, and will it continue</string>
+
     <string name="network_weak_and_hint">Poor network environment</string>
     <string name="network_weak_and_report">Click feedback</string>
     <string name="network_weak_and_report_end">Feedback received, we will try to optimize the service</string>
@@ -4412,49 +4249,6 @@
     <string name="ocr_export_pdf_upload_images">U/L photos...</string>
     <string name="ocr_image_to_pdf_pay_guide_title">Convert to PDF now</string>
     <string name="ocr_image_to_pdf_record">Scan history</string>
-    <string name="ocr_search_help_1">1. Take a clear picture and keep the text horizontal and vertical</string>
-    <string name="ocr_search_help_2">2. Apply the words to be recognized and select the correct translation language</string>
-    <string name="ocr_search_help_3">3. Standard fonts will improve the recognition rate, and handwritten artistic characters are not easy to recognize</string>
-    <string name="ocr_search_help_introduce">\"Photo translation can also help you in more scenes Road signs, meal lists, books, merchandise...\"</string>
-    <string name="ocr_search_identify_error_tip_1">Failed to recognize the text to find</string>
-    <string name="ocr_search_identify_error_tip_2">Please smear the text you are looking for</string>
-    <string name="ocr_search_identify_error_tip_3">And choose the right language</string>
-    <string name="ocr_search_identify_error_tip_4">How to correctly recognize and search for text</string>
-    <string name="ocr_search_lang_ara">Arabic</string>
-    <string name="ocr_search_lang_auto">Auto detection</string>
-    <string name="ocr_search_lang_bul">Bulgarian</string>
-    <string name="ocr_search_lang_cht">Chinese, Trad</string>
-    <string name="ocr_search_lang_cs">Czech</string>
-    <string name="ocr_search_lang_dan">Danish</string>
-    <string name="ocr_search_lang_de">Almanca</string>
-    <string name="ocr_search_lang_el">Greek</string>
-    <string name="ocr_search_lang_en">English</string>
-    <string name="ocr_search_lang_est">Estonian</string>
-    <string name="ocr_search_lang_fin">Finnish</string>
-    <string name="ocr_search_lang_fra">French</string>
-    <string name="ocr_search_lang_hu">Hungarian</string>
-    <string name="ocr_search_lang_it">Italian</string>
-    <string name="ocr_search_lang_jp">Japanese</string>
-    <string name="ocr_search_lang_kor">Korean</string>
-    <string name="ocr_search_lang_nl">Dutch</string>
-    <string name="ocr_search_lang_pl">Polish</string>
-    <string name="ocr_search_lang_pt">Portuguese</string>
-    <string name="ocr_search_lang_rom">Romanian</string>
-    <string name="ocr_search_lang_ru">Russian</string>
-    <string name="ocr_search_lang_slo">Slovenian</string>
-    <string name="ocr_search_lang_spa">Spanish</string>
-    <string name="ocr_search_lang_swe">Swedish</string>
-    <string name="ocr_search_lang_th">Thai</string>
-    <string name="ocr_search_lang_wyw">Chinese</string>
-    <string name="ocr_search_lang_yue">Cantonese</string>
-    <string name="ocr_search_lang_zh">Chinese</string>
-    <string name="ocr_search_net_error_tip_1">Network not connected</string>
-    <string name="ocr_search_net_error_tip_2">Please make sure the network service is normal</string>
-    <string name="ocr_search_notice_lang_text">The current recognition language is</string>
-    <string name="ocr_search_notice_text">Please smear the text you want to recognize</string>
-    <string name="ocr_search_notice_text1">Single finger smear</string>
-    <string name="ocr_search_notice_text2">Two-finger zoom, move picture</string>
-    <string name="ocr_search_recscrawl">Recoat</string>
     <string name="ocr_shortcut_confirm_button">Add to Desktop</string>
     <string name="ocr_shortcut_dialog_content">After adding, you can quickly enter the function on the desktop</string>
     <string name="ocr_shortcut_dialog_title">Smart scan added to the desktop</string>
@@ -5004,7 +4798,6 @@
     <string name="popup_extra_text">View prizes in [My - Activity Center]</string>
     <string name="ppt_end_page_tip">Slide show is over, continue to slide to exit</string>
     <string name="ppt_play_time" formatted="false">%s / %s</string>
-    <string name="pre_dialog_default_message">"\"Camera phones permission settings common method: Millet phone In the \"Security Center Camera - Authorization Mgmt - Application Rights Mgmt - - Rights Mgmt\" to open the phone Huawei cell phone Please open the phones \"Settings - Camera - Permissions Mgmt\" Samsung handphone Please open the phones \"Settings - Application License - Security\" in vivo Please phone \"i steward - Software Mgmt - Software Rights Mgmt\" in the open OPPO Please open the phones \"Settings - Camera - Press Program Manager - Security Service / Security and Privacy - Personal information security\" Associate Please open the phones \"Le security - according to behavior mgmt - Application mgmt authority\" Meizu Please open the phones \"Safety Center - pictures and video rights mgmt - - Privacy\" in the Gionee Please phone - on \"settings Permissions\" Other models You can use Baidu search for the brand model camera method permissions\""</string>
     <string name="pre_page">Previous page</string>
     <string name="prefix_path">“%s”</string>
     <string name="press_speed_no_trial_tip">Long press double speed is a paid function, enjoy double speed playback please</string>
@@ -5153,16 +4946,8 @@
     <string name="qr_schema_swan_invalid_title">QR code error</string>
     <string name="qr_unlock">Scan code to unlock</string>
     <string name="qr_unlockling">Unlocking</string>
-    <string name="qrcode_dir_filename">%s, etc</string>
     <string name="qrcode_invite">QR code invitation</string>
-    <string name="qrcode_wifi_connect">Wi-Fi connection</string>
-    <string name="qrcode_wifi_connect_success">Success count</string>
-    <string name="qrcode_wifi_connected">Connected</string>
-    <string name="qrcode_wifi_connecting">Connecting…</string>
-    <string name="qrcode_wifi_encryption_title">Encrypted:</string>
-    <string name="qrcode_wifi_noencryption">No encryption</string>
     <string name="share_card_none">NA</string>
-    <string name="qrcode_wifi_passwd_title">Network Pwd:</string>
     <string name="qrcode_wifi_share">Hi, I am sharing my WIFI hotspot by scanning, wifi: %1$s, pwd: %2$s, encryption: %3$s></string>
     <string name="quality_change_doing">Switching playback mode, please try again later</string>
     <string name="quality_change_error">Definition switching failed, please try again later</string>
@@ -5839,7 +5624,6 @@
     <string name="saving_offset_failed">Update Failed</string>
     <string name="say_hi">Say Hi</string>
     <string name="scan_add_friend_group">Scan to add friends/groups</string>
-    <string name="scan_complete_download_file_notify_title">Task completed, click for security check</string>
     <string name="scan_join_group_already_in">Welcome back to group chat</string>
     <string name="scan_join_group_closed">The group has closed the group QR code function</string>
     <string name="scan_join_group_link_over_time">After the time point, the link is invalid</string>
@@ -5847,7 +5631,6 @@
     <string name="scan_join_group_not_exist">Group does not exist</string>
     <string name="scan_join_group_owner_not_in">The QR code sharer has left the group and cannot join</string>
     <string name="scan_join_group_signature_wrong">Signature error</string>
-    <string name="scan_start">Security scanning</string>
     <string name="scanning">Scanning</string>
     <string name="scanning_bt_file_quit_or__not">Scanning local BT file, is it logged out</string>
     <string name="scanning_local_bt_file">Scanning local BT file</string>
@@ -6028,7 +5811,7 @@
     <string name="setting_album_auto_backup">Auto photo album backup</string>
     <string name="setting_announcements_txt">Voice broadcast</string>
     <string name="setting_bind_singkil">Traffic free privilege</string>
-    <string name="setting_dialog_title">Turn on camera permissions</string>
+
     <string name="setting_edit_bottom_bar_dual">Double row display operation</string>
     <string name="setting_edit_bottom_bar_dual_tip">Single row display operation items can be set in \"ADV Settings\"</string>
     <string name="setting_full_filename">Newline display when file name is too long</string>
@@ -6357,9 +6140,6 @@
     <string name="tt_video_bytesize_M">M</string>
     <string name="slow_download_cause">%1$s causes slow download</string>
     <string name="slow_download_test">Slow download? Click to locate reason</string>
-    <string name="small_bmp_dialog_msg">The image size is too small, it may identify the error, it is recommended to take a clearer picture.</string>
-    <string name="small_bmp_dialog_negative_bt">Continue U/Ling</string>
-    <string name="small_bmp_dialog_positive_bt">Retake photo</string>
     <string name="smart_device_entrance">Smart device</string>
     <string name="smartx_my_device">My device</string>
     <string name="smartx_my_recommend_device">Recommended device</string>
@@ -6923,8 +6703,6 @@
     <string name="timeline_type_upload">From upload</string>
     <string name="timeline_zoom_guide_text">Zoom with two fingers to switch view size</string>
     <string name="timeout">timed out, please try again</string>
-    <string name="timeout_bt_left">Continue to sweep</string>
-    <string name="timeout_default_msg">Since you have not operated for a long time, in order to reduce the energy consumption of the device, you have already paused the sweep function for you</string>
     <string name="tip_authentication">Corporate Certification Expired, Certification V Mark is no longer displayed.</string>
     <string name="tip_certification_expired">Corporate Certification Expiration. Go to the web and re-authenticate.</string>
     <string name="tip_fifth">• Transfers are not supported on the day the membership expires.</string>
@@ -7779,7 +7557,6 @@
     <string name="update_version_failed_mount_sdcard">Upgrade failed, please try to plug in sdcard</string>
     <string name="update_video_mark_fail">Failed to save mark</string>
     <string name="update_video_mark_success">Mark save success</string>
-    <string name="update_weishi">Install Now</string>
     <string name="upgrade_apk_invalid">Failed to D/L the installation package, please D/L again</string>
     <string name="upload">U/L</string>
     <string name="upload_backup_name">Backing up (remaining %s )</string>
@@ -8914,11 +8691,6 @@
     <string name="appbackup_failed_dlg_right_button">Learn more</string>
     <string name="appeal_failed">Complaint failure</string>
     <string name="apply_success">Apply for success</string>
-    <string name="ar_check_more">see more</string>
-    <string name="ar_error_dialog_left">Cancel</string>
-    <string name="ar_error_dialog_right">Retry</string>
-    <string name="ar_error_dialog_title">hint</string>
-    <string name="ar_menu_case">Case display</string>
     <string name="audio_add_to_play_list">Add to the playlist</string>
     <string name="audio_alarm_cancel">Cancel</string>
     <string name="audio_close_after_10m">10 minutes</string>
@@ -8949,7 +8721,6 @@
     <string name="auto_buy_vip_set_phone_num_dialog_btn_ignore">neglect</string>
     <string name="auto_buy_vip_set_phone_num_dialog_btn_know">Know it</string>
     <string name="auto_upgrade_svip_ok">I see</string>
-    <string name="av_title">Security scan</string>
     <string name="baby_age_days">%1$d天</string>
     <string name="baby_age_months">%1$d个月</string>
     <string name="baby_age_year_with_months">%1$d岁%2$d个月</string>
@@ -8998,57 +8769,6 @@
     <string name="baidu_account_login">Baidu account login</string>
     <string name="baidu_yun_no_storage">Baidu network disk space is insufficient</string>
     <string name="banner_download_hint">Start downloading, you can view progress in the transfer list</string>
-    <string name="barcode_address_book_address">address</string>
-    <string name="barcode_address_book_cell">cell phone</string>
-    <string name="barcode_address_book_mailbox">Mail</string>
-    <string name="barcode_address_book_name">Name</string>
-    <string name="barcode_address_book_telephone">telephone</string>
-    <string name="barcode_button_text_copy">copy</string>
-    <string name="barcode_button_text_online_display">play now</string>
-    <string name="barcode_button_text_search">search</string>
-    <string name="barcode_button_text_share">share</string>
-    <string name="barcode_cancel">Cancel</string>
-    <string name="barcode_category_question_title">topic</string>
-    <string name="barcode_category_translate_title">translation</string>
-    <string name="barcode_change">Changing a batch</string>
-    <string name="barcode_close_btn_text">closure</string>
-    <string name="barcode_email_result_title">Mail</string>
-    <string name="barcode_enter_tip">I see</string>
-    <string name="barcode_file_name_unknown">document</string>
-    <string name="barcode_googcase_button">Reload</string>
-    <string name="barcode_googcase_tip">Network does not force, please try again later</string>
-    <string name="barcode_help_button">use immediately</string>
-    <string name="barcode_help_sample_description">QR code scan</string>
-    <string name="barcode_history">search history</string>
-    <string name="barcode_history_clear">Empty</string>
-    <string name="barcode_history_fullname">search history</string>
-    <string name="barcode_history_time_day">Days ago</string>
-    <string name="barcode_history_time_hour">An hour ago</string>
-    <string name="barcode_history_time_min">minutes ago</string>
-    <string name="barcode_history_time_mon">Month ago</string>
-    <string name="barcode_identify_image_eror">Failure</string>
-    <string name="barcode_input_title">Handmade barcode</string>
-    <string name="barcode_introduction_button">understood</string>
-    <string name="barcode_introduction_confirm_button_title">Scan</string>
-    <string name="barcode_introduction_later_title">Later</string>
-    <string name="barcode_loading_message">loading…</string>
-    <string name="barcode_manual_input_confirm">Sure</string>
-    <string name="barcode_more">More</string>
-    <string name="barcode_multisubject_camera">Replay</string>
-    <string name="barcode_name2">barcode</string>
-    <string name="barcode_net_error">hint</string>
-    <string name="barcode_net_timeout">Network connection timeout</string>
-    <string name="barcode_network_unavailable">Network is not connected</string>
-    <string name="barcode_pick_picture">picture</string>
-    <string name="barcode_refresh_day_ago">Days ago</string>
-    <string name="barcode_refresh_time_recently">just</string>
-    <string name="barcode_result_url_file_title">document</string>
-    <string name="barcode_scan_title">Scan</string>
-    <string name="barcode_selectfile_error">Picture does not exist</string>
-    <string name="barcode_take_picture">Photograph</string>
-    <string name="barcode_type_sms">Short message</string>
-    <string name="barcode_upload_image_again">Retry</string>
-    <string name="barcode_upload_image_isagain">Does the network do not force? Do you try again?</string>
     <string name="barrier_free_clear">Empty</string>
     <string name="barrier_free_notice_back">return</string>
     <string name="barrier_free_notice_bookmark">Bookmark</string>
@@ -9238,7 +8958,6 @@
     <string name="book_shelf_wangpan_slid_left_show_all">Left slip View all</string>
     <string name="book_type_epub">EPUB</string>
     <string name="book_type_txt">TXT</string>
-    <string name="bookmark_menu_delete">delete</string>
     <string name="bottom_bar_action_alreday_download">Downloaded</string>
     <string name="bottom_bar_action_cancel_share">Cancel sharing</string>
     <string name="bottom_bar_action_delete">delete</string>
@@ -9261,7 +8980,6 @@
     <string name="bt_save_failed_button">understood</string>
     <string name="bt_save_failed_invalid_url">Link failure</string>
     <string name="bt_save_failed_task_not_found">The task has been deleted</string>
-    <string name="btn_ding_manager_title_bar_cancel">return</string>
     <string name="btn_ding_manager_title_bar_refresh">Refresh</string>
     <string name="business_card_download">Download business card</string>
     <string name="business_card_option_divider">|</string>
@@ -9589,14 +9307,14 @@
     <string name="default_nickname">Please enter a nickname</string>
     <string name="default_self_starting_guide_1">Find "Baidu network disk - automatic management or power consumption setting" 􏰹􏱻􏱼</string>
     <string name="delete">delete</string>
-    <string name="delete_all">confirm</string>
+
     <string name="delete_app_dialog_title">Delete tips</string>
     <string name="delete_app_fail_toast">failed to delete</string>
     <string name="delete_app_loading_title">deleting...</string>
     <string name="delete_app_succeed_toast">successfully deleted</string>
     <string name="delete_by_pear_extra_info">The file has been removed</string>
     <string name="delete_cancel_button">return</string>
-    <string name="delete_download">Empty</string>
+
     <string name="delete_failed">failed to delete</string>
     <string name="delete_file_dialog_title">Delete Files</string>
     <string name="delete_local_file_fail">failed to delete</string>
@@ -9659,7 +9377,6 @@
     <string name="dialog_title_save_long_picture_failed">Save failed</string>
     <string name="dialog_yike_guide_confirm">Experience immediately</string>
     <string name="didnt_open_auto_backup_tip_btn">Turn on immediately</string>
-    <string name="ding_manager_edit">edit</string>
     <string name="dir_info">Folder details</string>
     <string name="dlna_device_info_loading">Loading…</string>
     <string name="dlna_device_searching">Detection ...</string>
@@ -9854,14 +9571,6 @@
     <string name="ebpay_valid_date">Validity period</string>
 
     <string name="edit">edit</string>
-    <string name="edit_image_cancel">Cancel</string>
-    <string name="edit_image_confirm">confirm</string>
-    <string name="edit_image_identify">Baidu</string>
-    <string name="edit_image_identify_error">Failure</string>
-    <string name="edit_image_rephotograph">Replay</string>
-    <string name="edit_image_retake">Replay</string>
-    <string name="edit_image_retry">Retry</string>
-    <string name="edit_image_rotate">Rotate</string>
     <string name="edit_playlist_name">name</string>
     <string name="edit_playlist_name_fail">fail to edit</string>
     <string name="edit_playlist_name_format_invalid">Support for medium / English, numbers and symbols - and _</string>
@@ -10091,7 +9800,7 @@
     <string name="home_tab_self_start_guide_dialog_desc_day">You have%sDid not comment on network disk backup，&lt;font color=#1CA6FF>&lt;b>按上图步骤开启&lt;/b>&lt;/font>自启动相关权限，网盘在后台能为您提供更及时的自动备份。</string>
     <string name="host">host</string>
     <string name="host_info">host-info</string>
-    <string name="hot_search">interesting</string>
+
     <string name="http_1st_pkt_time">http-1st-pkt</string>
     <string name="http_authentication_cancel">Cancel</string>
     <string name="http_authentication_login">Log in</string>
@@ -10100,11 +9809,9 @@
     <string name="hybrid_notification_dialog_i_know">understood</string>
     <string name="hybrid_novel_resource_request_fail">Get resource failed, please wait</string>
     <string name="i_know">understood</string>
-    <string name="identify_error_negative_bt">I see</string>
-    <string name="identify_error_positive_bt">help</string>
-    <string name="ignore">neglect</string>
-    <string name="image_category_type_title_barcode">Scan QR</string>
-    <string name="image_category_type_title_chars">Text identification</string>
+
+    <string name="ignore">Ignore</string>
+
     <string name="image_count">%dopen</string>
     <string name="image_file_size">size:%s</string>
     <string name="image_path_root">My network disk</string>
@@ -10282,7 +9989,7 @@
     <string name="logout">Logout</string>
     <string name="long_picture_upload_network_error">Network abnormal network, please try again</string>
     <string name="look_for_friend">check the details</string>
-    <string name="lottery_edit_retake">Replay</string>
+
     <string name="low_quality">Smooth</string>
     <string name="m3ufile_download_dialog_content_origin_quality">Original picture</string>
     <string name="macard_dialog_commit_text">Look at</string>
@@ -10327,7 +10034,6 @@
     <string name="multi_select">Multiple choice</string>
     <string name="multi_window_tips">The current interface may display abnormal in sputum mode</string>
     <string name="multi_window_tips_close">Please cut it to full screen mode and then use this feature.</string>
-    <string name="multiscreen_default_button">I see</string>
     <string name="my_collect">my collection</string>
     <string name="my_netdisk_edit_delete">delete</string>
     <string name="my_pan_command">My disk password</string>
@@ -10360,8 +10066,7 @@
     <string name="net_alert_btn_cancel">Cancel</string>
     <string name="net_alert_title">Traffic reminder</string>
     <string name="net_error">Network does not force, please try again later</string>
-    <string name="net_error_negative_bt">Retry</string>
-    <string name="net_error_positive_bt">Cancel</string>
+
     <string name="net_error_retry_bt">Click to try</string>
     <string name="netcheck_none_title">Network is not connected</string>
     <string name="netdisk">Baidu network disk</string>
@@ -10509,12 +10214,6 @@
     <string name="numeric_keyboard_keycode_two">2</string>
     <string name="numeric_keyboard_keycode_zero">0</string>
     <string name="ocr_image_to_pdf">Document</string>
-    <string name="ocr_search_back">return</string>
-    <string name="ocr_search_cancle">Cancel</string>
-    <string name="ocr_search_help_title">How to correctly identify and search text</string>
-    <string name="ocr_search_rephoto">Replay</string>
-    <string name="ocr_search_string_cancel">Cancel</string>
-    <string name="ocr_search_string_done">Finish</string>
     <string name="ocr_to_word_copy_failed">Copy failed, please try again</string>
     <string name="ocr_to_word_error">Text identification failed</string>
     <string name="ocr_to_word_export_fail_tips_invalid">Cancel</string>
@@ -10736,8 +10435,7 @@
     <string name="push_to_device_helper">help</string>
     <string name="push_transferlist_delete_dialog_title1">Delete Record</string>
     <string name="qrcode_error_toast">Generate QR code failed, please try again</string>
-    <string name="qrcode_wifi_connect_fail">Connection failed</string>
-    <string name="qrcode_wifi_nopasswd">without</string>
+
     <string name="quick_action_add_cancelcollection_member">Cancel</string>
     <string name="quick_action_add_collection_member">collect</string>
     <string name="quick_action_copy">copy</string>
@@ -10909,8 +10607,7 @@ Automatic backups can be made more in time in the background."</string>
     <string name="scan_join_group_cant_join_other_reason">Join group failed</string>
     <string name="scan_qr">Scan QR</string>
     <string name="scan_qr_login">Scan QR</string>
-    <string name="sdk_flow_left">Quit</string>
-    <string name="sdk_flow_right">accept</string>
+
     <string name="search_box_hint_text_in_novel">search</string>
     <string name="search_category_all">all</string>
     <string name="search_category_audio">Audio</string>
@@ -11126,15 +10823,11 @@ Automatic backups can be made more in time in the background."</string>
     <string name="timeline_share_cannal_dialog">Cancel</string>
     <string name="timeline_share_location_i_know_dialog">OK</string>
     <string name="timeline_show_all">all</string>
-    <string name="timeout_bt_right">closure</string>
-    <string name="timeout_default_title">Tips</string>
     <string name="timneline_share_confirm_dialog">continue</string>
     <string name="tips">hint</string>
-    <string name="titile_toast">hint</string>
-    <string name="title_bar_back">return</string>
-    <string name="title_delete_all_barcode_history">hint</string>
+
     <string name="title_transferlist_button">Transmission list</string>
-    <string name="toast">hint</string>
+
     <string name="toast_download_transfer_finish">Download completed</string>
     <string name="toast_import_to_yike_all_success_prefix">Saved successfully</string>
     <string name="toast_novel_transfer_finish">upload completed</string>
@@ -12012,7 +11705,6 @@ Submit a material, the offline print will be more convenient ~"</string>
     <string name="audio_file_permission_denied_100">No file permissions, sharing/downloading is currently not supported</string>
     <string name="audio_file_permission_denied_200">No file permissions, sharing/deleting is not supported yet</string>
     <string name="buy_product">buy a package</string>
-    <string name="buy_unlimited_traffic">Open unlimited traffic</string>
     <string name="document_download_tips">File Download Tips</string>
     <string name="document_download_tips_text">The voice broadcast function needs to download the file before using it. Do you want to download the file immediately?</string>
     <string name="download_num">Downloads</string>
@@ -12149,7 +11841,7 @@ Submit a material, the offline print will be more convenient ~"</string>
     <string name="nad_download_error">Download error</string>
     <string name="nad_download_failed_retry">Click to try</string>
     <string name="nad_download_lp_forbid_tip">Third-party page applications are not reviewed</string>
-    <string name="chart_mark_view_data">%d/%dc</string>
+    <string name="chart_mark_view_data" formatted="false">%d/%dc</string>
     <string name="data_package_exhausted_low_speed">Excessive flow rate exhausted:</string>
     <string name="content_use_data_now">c</string>
     <string name="nad_download_lp_tip">Tips: You have visited the third party page</string>
@@ -12229,7 +11921,7 @@ Submit a material, the offline print will be more convenient ~"</string>
     <string name="nad_security_warning">safety warning</string>
     <string name="nad_separator">|</string>
     <string name="nad_share_text">share</string>
-    <string name="nad_sign_in_to">Login %s1“%s2</string>
+    <string name="nad_sign_in_to" formatted="false">Login %s1“%s2</string>
     <string name="nad_ssl_certificate">Security certificate</string>
     <string name="nad_ssl_certificate_is_valid">Certificate</string>
     <string name="nad_ssl_continue">Continue to browse</string>
@@ -12313,7 +12005,7 @@ Submit a material, the offline print will be more convenient ~"</string>
     <string name="save_num">Transfer amount</string>
     <string name="scan_doc">Document scan</string>
     <string name="scan_num">Browse</string>
-    <string name="seven_day"><font size="14">7</font><font size="10">sky</font></font>
+    <string name="seven_day"><font size="14">7</font><font size="10">sky</font></string>
     <string name="share_data_handle_unit">Second-rate</string>
     <string name="share_data_unenable_toast_content">Also supports sharing data created yourself</string>
     <string name="share_data_unit">Second-rate</string>
@@ -12338,7 +12030,7 @@ Submit a material, the offline print will be more convenient ~"</string>
     <string name="subtitle_preview">View only</string>
     <string name="subtitle_share_and_download">Share / download</string>
     <string name="super_manager">Super manager</string>
-    <string name="thirty_day"><font size="14">30</font><font size="10">OK</font></font>
+    <string name="thirty_day"><font size="14">30</font><font size="10">OK</font></string>
     <string name="title_use_data_now">Do files with download progress use traffic?</string>
     <string name="uk_inconsistent">The requested account is inconsistent with the current login account, please switch accounts and try again</string>
     <string name="understand">understood</string>
@@ -12375,4 +12067,5 @@ Submit a material, the offline print will be more convenient ~"</string>
     <string name="share_data_detail_title">Data details</string>
     <string name="share_data_detail_tip">Only support to display sharing details data after 2021.11.10</string>
     <string name="share_chart_no_data">No data</string>
+    <string name="bd_wallet_blank"></string>
 </resources>

@@ -41,7 +41,7 @@
     <string name="about_me_more_back_text">Я</string>
     <string name="about_me_more_title">Дополнительные возможности</string>
     <string name="about_title_text">О программе</string>
-    <string name="about_user_id">"Ваш ID %d \n Перевод:(2015~2016)Maksnogin,(~ 2019)Alexey arsenev\n (2020–2021)ZloiSupport"</string>
+    <string name="about_user_id">"Ваш ID %d \n Перевод:(2015~2016)Maksnogin,(~ 2019)Alexey arsenev\n (2020–2022)ZloiSupport"</string>
     <string name="about_vip_item">VIP</string>
     <string name="about_wallet_item">Кошелек</string>
     <string name="aboutme_settings_title">Установка и обслуживание</string>
@@ -1757,7 +1757,6 @@
     <string name="camera_toast_camera_not_use">Не удалось включить камеру, проверьте права использования или устройство</string>
     <string name="camera_toast_sdcard_not_use">Не удалось включить SD-карту, проверьте права использования или устройство</string>
     <string name="cameraview_default_autofocus_marker">com.otaliastudios.cameraview.markers.DefaultAutoFocusMarker</string>
-    <string name="cameraview_filter_autofix">com.otaliastudios.cameraview.filters.AutoFixFilter</string>
     <string name="cameraview_filter_black_and_white">com.otaliastudios.cameraview.filters.BlackAndWhiteFilter</string>
     <string name="cameraview_filter_brightness">com.otaliastudios.cameraview.filters.BrightnessFilter</string>
     <string name="cameraview_filter_contrast">com.otaliastudios.cameraview.filters.ContrastFilter</string>
