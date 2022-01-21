@@ -21,7 +21,7 @@ Translate Baidu Net Disk for Windows, Android to Russian,English languages.
 
 | Platform | Install                          |Version | Download                  |
 | -------- | -------------------------------- |--------| ------------------------- |
-| Windows  | [Replace Files][win-replace]     |7.11.0.9| [git][win_replace_files_git] 
+| Windows  | [Replace Files][win-replace]     |11.18.6| [git][win_replace_files_git] 
 | Windows  | [Repack Edition][win-repack]     |7.10.1.2| [mega.nz][win_repack_files_meganz] / [mediafire][win_repack_files_mfire] / [mirror][win_repack_files_mirror]   |
 | Windows  | [Portable Edition][win-portable] |7.10.1.2| [mega.nz][win_portable_files_meganz] / [mediafire][win_portable_files_mfire] / [mirror][win_portable_files_mirror]|
 | Android  | Install                          |11.17.1 | [mega.nz][win_apk_files_meganz] / [mediafire][win_apk_files_mfire] / [mirror][win_apk_files_mirror]      |
