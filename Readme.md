@@ -17,6 +17,12 @@
 
 Translate Baidu Net Disk for Windows, Android to Russian,English languages.
 
+# Translation correction form
+
+If you find an error or inaccuracy in the translation, please fill out the form below.
+
+[Translation Correction Form][trcform]
+
 # Download
 
 | Platform | Install                          |Version | Download                  |
@@ -111,3 +117,4 @@ The version portable does not require installation. Does not leave the tracks sy
 [win-portable]: #portable-edition
 [win-repack]: #repack-edition
 [win-replace]: #replace-files
+[trcform]: https://rebrand.ly/BndFixTranslate
