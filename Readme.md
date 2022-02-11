@@ -79,16 +79,18 @@ The version portable does not require installation. Does not leave the tracks sy
 [![imageban](https://i6.imageban.ru/thumbs/2021.10.26/7cc3ef56284a36bbbff946c214eed611.png)](https://imageban.ru/show/2021/10/26/7cc3ef56284a36bbbff946c214eed611/png)
 
 
-# License
-
-[The Unlicense][license]
 
 # Donation
-<p>If you'd like to donate to the developers please send Bitcoin or Doge to the following address: <br/>
-  <a href="bitcoin:bc1qyj8f3gzscpsqqk7ln9nshvhxgcvt8n6gk03yv02gwsdlrk8wmwfsjvygqx?time=1629135925">🪙  bc1qyj8f3gzscpsqqk7ln9nshvhxgcvt8n6gk03yv02gwsdlrk8wmwfsjvygqx</a> <br/>
-   <a href="dogecoin:DFRJHUFVTU3CJ9GU8Ye5dzURpvgQ9hyy2u">🐶 DFRJHUFVTU3CJ9GU8Ye5dzURpvgQ9hyy2u</a> <br/>Thank you.</p>
-   
-   
+If you'd like to donate to the developers please send to the following address: 
+
+  **BITCOIN:** bc1qyj8f3gzscpsqqk7ln9nshvhxgcvt8n6gk03yv02gwsdlrk8wmwfsjvygqx
+  **DOGECOIN:** DFRJHUFVTU3CJ9GU8Ye5dzURpvgQ9hyy2u
+  **Ethereum:** 0xf9104Dc601dc67855a547cE20f9a5c5E6624314b
+
+   # License
+
+See [The Unlicense][license]
+
 [license]: ./LICENSE
 [license-badge]: https://img.shields.io/github/license/zloisupport/BaiduNetDiskTranslation
 [win_replace_files_git]: https://rebrand.ly/BaiduNetDiskGitRelease

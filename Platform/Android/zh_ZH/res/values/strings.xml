@@ -792,6 +792,8 @@
 \"%s\""</string>
     <string name="audio_backup_quick_settings_title">音频自动备份</string>
     <string name="audio_circle_close_toast">可在首页音频服务中继续播放</string>
+    <string name="audio_classify_guide_desc">为更好地帮助用户管理、寻找文件，通过大数据算法提供音频分类能力。 此功能为保护隐私不会读取文件具体内容，并可随时关闭该分类功能。</string>
+    <string name="audio_classify_guide_title">内容分类功能上线啦</string>
     <string name="audio_close_after_10m">10分钟</string>
     <string name="audio_close_after_20m">20分钟</string>
     <string name="audio_close_after_30m">30分钟</string>
@@ -799,6 +801,8 @@
     <string name="audio_close_after_90m">90分钟</string>
     <string name="audio_close_after_this_finish">播完当前音频</string>
     <string name="audio_codec">audio-codec</string>
+    <string name="audio_collection">收藏的音乐</string>
+    <string name="audio_compilation">播单</string>
     <string name="audio_convert_doc_loading_time_tip">正在将音频转换为文稿</string>
     <string name="audio_dir_not_exist">手机中暂时没有音频文件</string>
     <string name="audio_doc_clear_cache">清空音频文稿缓存</string>
@@ -814,6 +818,8 @@
     <string name="audio_doc_export_to_target_dir">已导出到该音频所在目录</string>
     <string name="audio_doc_export_word_count_limit">文稿字数太太太多啦，暂不支持导出</string>
     <string name="audio_doc_export_word_loading">正在导出…</string>
+    <string name="audio_download">下载的音乐</string>
+    <string name="audio_download_load_data_nothing">暂无下载的音乐</string>
     <string name="audio_export_word">导出word</string>
     <string name="audio_file_count">%d个文件</string>
     <string name="audio_file_permission_denied_100">无文件权限，暂不支持分享/下载</string>
@@ -826,6 +832,7 @@
     <string name="audio_list_title">添加音频</string>
     <string name="audio_lrc_scroll_back">回播放处</string>
     <string name="audio_mode_playing">音频模式播放中</string>
+    <string name="audio_my_play_list">我的播单</string>
     <string name="audio_new_audio_play_list">新建播单</string>
     <string name="audio_not_set_alarm">关闭倒计时</string>
     <string name="audio_play_all">全部播放</string>
@@ -858,6 +865,7 @@
     <string name="audio_play_title_default">百度网盘</string>
     <string name="audio_playing_tip">在锁屏和切到后台时也能播放音频</string>
     <string name="audio_playlist_mode">循环列表</string>
+    <string name="audio_recent">最近播放</string>
     <string name="audio_record_remind_text">已定位到上次播放位置</string>
     <string name="audio_speed_cancel">取  消</string>
     <string name="audio_support_view_doc">音频支持查看文稿啦~</string>
@@ -868,6 +876,7 @@
     <string name="audio_to_doc_failed_need_retry">文稿转换失败，请重试</string>
     <string name="audio_to_doc_failed_time_long">暂不支持240分钟以上的音频文稿转换</string>
     <string name="audio_to_doc_not_support">该音频暂不支持文稿转换</string>
+    <string name="audio_transfer_save">转存的音乐</string>
     <string name="audio_where_to_see_playlist">可在网盘首页-常用服务-音频中查看播单</string>
     <string name="audioplay_audio_info">音频信息</string>
     <string name="audioplay_exit">退出</string>
@@ -1113,6 +1122,9 @@
     <string name="barrier_free_white_bg">白色背景</string>
     <string name="barrier_free_yellow_bg">淡黄色背景</string>
     <string name="barrier_my_note_detail_jump2book">跳转到图书对应位置</string>
+    <string name="base_media_load_record_fail">刷新失败，点击重试</string>
+    <string name="base_media_loading_record">正在加载…</string>
+    <string name="base_media_no_record">没有更多记录了</string>
     <string name="base_wallet_bankcard_detect_tips">将身份证人像面至于此区域，扫描身份证</string>
     <string name="base_wallet_bankcard_detect_to_detect">扫描证件</string>
     <string name="basic_info">basic-info</string>
@@ -2267,6 +2279,11 @@
     <string name="classification_text_title">人物分类说明</string>
     <string name="classification_things">事物</string>
     <string name="classification_view_all">查看全部</string>
+    <string name="classify_continue">将持续为您的内容进行分类</string>
+    <string name="classify_is_working">正在内容分类…</string>
+    <string name="classify_try_refresh">刷新看看</string>
+    <string name="classify_working_time_1">预计30秒到几分钟，后台持续加载</string>
+    <string name="classify_working_time_2">后台持续加载</string>
     <string name="clean_msg_success">清空消息成功</string>
     <string name="clean_netdisk">清理网盘</string>
     <string name="clean_netdisk_file">请选择文件删除</string>
@@ -2518,6 +2535,8 @@
     <string name="collection_code_off_line_remind_txt">感谢使用，此功能已停止服务，请使用转帐</string>
     <string name="collection_empty">文件收藏后可快捷查看</string>
     <string name="collection_hiden">收藏过的内容已隐藏</string>
+    <string name="collection_load_data_nothing">暂无收藏的音乐</string>
+    <string name="collection_long_click_edit">长按可进行编辑</string>
     <string name="collection_set">合辑</string>
     <string name="command_invite">群口令邀请</string>
     <string name="command_join_group_closed">该群已关闭群口令功能</string>
@@ -2583,6 +2602,7 @@
     <string name="common_tool_item_share_text">分享</string>
     <string name="common_tool_item_star_text">收藏</string>
     <string name="common_unknown_error">出错了</string>
+    <string name="compilations">合集</string>
     <string name="complete_btn_num">完成（%1$d/%2$d）</string>
     <string name="complete_offline_task">资源成功保存到百度网盘</string>
     <string name="conduct_choose_tip">请至少选择一个商品</string>
@@ -2931,6 +2951,8 @@
     <string name="delete_group_assistant_success">删除成功</string>
     <string name="delete_local_file_fail">删除失败</string>
     <string name="delete_local_file_seccuss">删除成功</string>
+    <string name="delete_media_play_record_fail">清除记录失败</string>
+    <string name="delete_media_play_record_success">清除记录成功</string>
     <string name="delete_number">删除(%d)</string>
     <string name="delete_ok_button">删除</string>
     <string name="delete_operate_canel_delete">取消删除</string>
@@ -3097,6 +3119,8 @@
     <string name="dialog_button_view_dir">打开文件夹</string>
     <string name="dialog_cancel_text">取消</string>
     <string name="dialog_clear_preview_cache_title">确定要清除缓存么?</string>
+    <string name="dialog_complaint_content">您在投诉前应当仔细审核您的投诉内容及相关材料，并确保相关内容真实、合法、有效。如因您的不当投诉造成第三方损失的，您应承担相关责任。另外，如果您的投诉涉及需向第三方网站核实或应由第三方网站处理的内容的，我们将向您投诉涉及的第三方网站移交您的投诉材料，以便第三方网站核实、处理。</string>
+    <string name="dialog_complaint_title">投诉须知</string>
     <string name="dialog_confirm_text">确认</string>
     <string name="dialog_content_save_long_picture_failed">网络开小差了，请重试</string>
     <string name="dialog_default_button_text">开通超级会员</string>
@@ -3135,6 +3159,9 @@
     <string name="dialog_title_change_file_category">更改文件类型</string>
     <string name="dialog_title_prompt">提示</string>
     <string name="dialog_title_save_long_picture_failed">保存失败</string>
+    <string name="dialog_tort_btn">我知道了</string>
+    <string name="dialog_tort_content">如果您作为权利人认为百家号平台上的信息侵犯了您的合法权益（内容涉嫌侵犯名誉/肖像/隐私权等），您可点击《百家号侵权投诉流程指引》查看反馈流程。</string>
+    <string name="dialog_tort_title">提示</string>
     <string name="dialog_unlimited_quota">无限量存储</string>
     <string name="dialog_webcall_common_title">网页提示</string>
     <string name="dialog_yike_guide_confirm">立即体验</string>
@@ -3760,6 +3787,7 @@
     <string name="empty_video">上传后可随时随地看你想看</string>
     <string name="empty_view_app_backup_no_data">你还没有备份应用哦~</string>
     <string name="empty_view_load_data_failed">数据加载失败</string>
+    <string name="empty_view_no_data">暂无数据</string>
     <string name="enable_directory_ask_backup_info">是否要将%s设置为共享文件夹？</string>
     <string name="enable_directory_ask_overlay_cancel">取消</string>
     <string name="enable_directory_ask_overlay_info">选中的文件中有已共享文件，若继续将删除原共享文件夹中文件，是否还要继续？</string>
@@ -4092,6 +4120,7 @@
     <string name="feedback_description">请选择您要反馈的问题，我们会尽快优化</string>
     <string name="feedback_edit_left_toast">*</string>
     <string name="feedback_input_hint">若有其他问题，请简要描述</string>
+    <string name="feedback_network_tips">网络不给力，请稍后重试</string>
     <string name="feedback_no_change_legibility">无法切换清晰度</string>
     <string name="feedback_no_connect_device">无法连接投屏设备</string>
     <string name="feedback_no_device">无法找到投屏设备</string>
@@ -4103,6 +4132,7 @@
     <string name="feedback_quota_error">请您退出帐号重新登录或者刷新页面。如仍有问题，可点击刷新容量按钮进行修复，因需重新计算您的网盘容量，预计5分钟后生效。</string>
     <string name="feedback_reason">初步定位为：%s</string>
     <string name="feedback_solution">建议您：%s</string>
+    <string name="feedback_start_host_service_fail">启动界面失败</string>
     <string name="feedback_submit">提交</string>
     <string name="feedback_submit_error">不得为空</string>
     <string name="feedback_submit_success">提交成功</string>
@@ -4110,6 +4140,10 @@
     <string name="feedback_success">反馈成功</string>
     <string name="feedback_test_speed">慢速检测</string>
     <string name="feedback_title">问题反馈</string>
+    <string name="feedback_title_edit">意见反馈</string>
+    <string name="feedback_titlebar_function_text">我的反馈</string>
+    <string name="feedback_titlebar_title">帮助与反馈</string>
+    <string name="feedbck_network_reload_button">重新加载</string>
     <string name="feedcard_username">%1$s分享了%2$d个%3$s</string>
     <string name="fileSizeSuffix">%1$s %2$s</string>
     <string name="file_add_water_mark_text">加水印</string>
@@ -4810,6 +4844,12 @@ progress: %d%%"</string>
     <string name="home_collect_card_guide">去添加更多常用文件</string>
     <string name="home_collect_card_tips">将常用或重要的文件夹收藏</string>
     <string name="home_entry_new_note">新建笔记</string>
+    <string name="home_face_yy_btn_agree">同意授权并继续</string>
+    <string name="home_face_yy_tips">请确保本人操作</string>
+    <string name="home_face_yy_tips_center">《个人信息处理授权书》</string>
+    <string name="home_face_yy_tips_left">点击按钮，即同意</string>
+    <string name="home_face_yy_tips_right">并确认授权</string>
+    <string name="home_face_yy_title">人脸验证</string>
     <string name="home_greet_sdk_txt">百度人脸采集SDK</string>
     <string name="home_greet_txt">欢迎使用</string>
     <string name="home_handset_explain_txt">保持您的脸出现在取景框内</string>
@@ -5440,6 +5480,16 @@ progress: %d%%"</string>
     <string name="material_timepicker_text_input_mode_description">Switch to text input mode for the time input.</string>
     <string name="max_photo_num">999+</string>
     <string name="max_share_count_text">最多支持分享500个文件</string>
+    <string name="media_collection_change_type_fail">调整分类失败</string>
+    <string name="media_collection_change_type_no_data">没有获取到分类类别</string>
+    <string name="media_collection_change_type_reconfirm_cancel">再考虑下</string>
+    <string name="media_collection_change_type_reconfirm_ok">确认移动</string>
+    <string name="media_collection_change_type_reconfirm_title" formatted="false">将 %s 移动至 [%s] 分类下，确认继续吗？</string>
+    <string name="media_collection_change_type_success">调整分类成功</string>
+    <string name="media_collection_operation">内容编辑</string>
+    <string name="media_collection_operation_change_type">调整所属分类</string>
+    <string name="media_collection_operation_change_type_title">将合集移动至</string>
+    <string name="media_collection_operation_rename">合集重命名</string>
     <string name="media_library_empty_text">"暂无使用记录
 图片的上传、转存记录会在这里显示"</string>
     <string name="media_library_error_text">列表加载失败，请检查网络</string>
@@ -5447,6 +5497,10 @@ progress: %d%%"</string>
     <string name="media_library_update_desc">图库展示了你在网盘中所有图片文件（不含隐藏文件），看图找图更方便～</string>
     <string name="media_library_update_title">图库频道全新升级</string>
     <string name="media_library_view_last_time">上次看过</string>
+    <string name="media_recent_section_earlier">更早</string>
+    <string name="media_recent_section_this_week">本周</string>
+    <string name="media_recent_section_today">今天</string>
+    <string name="media_recent_section_yesterday">昨天</string>
     <string name="megabyteShort">MB</string>
     <string name="meizu_id">118645</string>
     <string name="meizu_key">114c6777811b4faea741468bc6a67866</string>
@@ -5608,6 +5662,7 @@ progress: %d%%"</string>
     <string name="mute_video_play_error">数据获取失败，请稍等片刻</string>
     <string name="my_app_data">我的应用数据</string>
     <string name="my_asset_list">我的资产</string>
+    <string name="my_audio">我的音频</string>
     <string name="my_card_package_activity_title">我的卡包</string>
     <string name="my_collect">我的收藏</string>
     <string name="my_featured">我的精选</string>
@@ -5657,6 +5712,7 @@ progress: %d%%"</string>
     <string name="my_tools_bottom_tip">以上工具将展示在首页（最多9个）</string>
     <string name="my_tools_could_not_add">最多添加9个工具</string>
     <string name="my_tools_tilte_tips">长按拖动可调整顺序</string>
+    <string name="my_video">我的视频</string>
     <string name="mycard_dialog_title">我的卡包 搬家了</string>
     <string name="myshare_download">下载</string>
     <string name="myshare_limit_person">人</string>
@@ -6748,6 +6804,7 @@ progress: %d%%"</string>
     <string name="open_auto_backup_guide_dialog_title">备份提示</string>
     <string name="open_book_reader">开始阅读</string>
     <string name="open_decoder">open-decoder</string>
+    <string name="open_dir_operation">打开目录</string>
     <string name="open_failed_by_network_error">网络异常，开启失败</string>
     <string name="open_file">正在尝试打开，请稍候…</string>
     <string name="open_file_error">文件打开失败</string>
@@ -6987,6 +7044,7 @@ progress: %d%%"</string>
     <string name="pass_bio_error_msg_server_error">服务异常，请稍后重试</string>
     <string name="pass_bio_error_msg_so_error">人脸模块未初始化完成，请稍后</string>
     <string name="pass_bio_error_msg_ssl_peer_unverified">网站安全证书已过期或不可信，系统时间错误可能导致此问题</string>
+    <string name="pass_bio_error_msg_system_version_low_error">手机系统版本过低，暂无法进行人脸验证</string>
     <string name="pass_bio_error_msg_unknown">操作失败，请稍后重试</string>
     <string name="pass_bio_error_msg_user_cancel">用户取消操作</string>
     <string name="pass_bio_multi_window_tips">当前界面在分屏模式下可能显示不正常</string>
@@ -8126,6 +8184,7 @@ progress: %d%%"</string>
     <string name="rim_resolve_error">系统开小差，等一会儿再试吧</string>
     <string name="rim_ssl">网络连接异常，可能由于手机系统时间设置不正确导致，请修改后重试</string>
     <string name="rim_timeout_error">网络不佳，请检查网络后重试</string>
+    <string name="robot_reply_text">机器人客服正在成长阶段，很抱歉没能解答您的问题，不如进入人工反馈，有专业人员为您解答。</string>
     <string name="root_all_switch">全部切换</string>
     <string name="root_cloud">百度网盘</string>
     <string name="root_switch_loading">正在切换</string>
@@ -8402,6 +8461,8 @@ progress: %d%%"</string>
     <string name="sapi_sdk_glory_login_fail">授权荣耀帐号登录失败</string>
     <string name="sapi_sdk_google_loging">Authorizing</string>
     <string name="sapi_sdk_huawei_login_fail">授权华为帐号登录失败</string>
+    <string name="sapi_sdk_login_content_close">关闭</string>
+    <string name="sapi_sdk_login_content_des_back">返回</string>
     <string name="sapi_sdk_login_dialog_delete_account_btn_cancel">取消</string>
     <string name="sapi_sdk_login_dialog_delete_account_btn_ok">确定</string>
     <string name="sapi_sdk_login_dialog_delete_account_message">确定删除百度帐号%s</string>
@@ -9377,6 +9438,7 @@ progress: %d%%"</string>
     <string name="start_file_backup">"文件备份已开启，为您备份到文件夹
 \"%s\""</string>
     <string name="start_recovery">开始恢复</string>
+    <string name="start_screen_shot">开始截屏</string>
     <string name="start_switch">立即切换</string>
     <string name="state_download_finished">已下载</string>
     <string name="state_downloading">下载中</string>
@@ -9997,7 +10059,6 @@ progress: %d%%"</string>
     <string name="tips_debug_set">当前为测试环境</string>
     <string name="tips_new">新</string>
     <string name="title_account_explain">帐户说明</string>
-    <string name="title_activity_copy_right">CopyRightActivity</string>
     <string name="title_add_button">添加</string>
     <string name="title_aiapps_center">小程序广场</string>
     <string name="title_delete_play_list">删除播单</string>
@@ -10762,12 +10823,14 @@ progress: %d%%"</string>
     <string name="transfer_list_upload_tip_3">正在尊享大文件上传特权</string>
     <string name="transfer_list_yike_guide">无限空间·下载不限速</string>
     <string name="transfer_list_yike_guide_button">立即体验</string>
+    <string name="transfer_load_data_nothing">暂无转存记录</string>
     <string name="transfer_offline_list_empty">暂无下载记录</string>
     <string name="transfer_only_wifi">仅WiFi传输</string>
     <string name="transfer_pause">暂停传输</string>
     <string name="transfer_product_title">可转移商品</string>
     <string name="transfer_recorder_title">传输记录</string>
     <string name="transfer_task_text">发送给</string>
+    <string name="transfer_to_path">已转至：%s</string>
     <string name="transfer_upload_list_empty">暂无上传记录</string>
     <string name="transferlist_del_info">同时删除本地文件</string>
     <string name="transferlist_del_title">删除下载记录</string>
@@ -11310,6 +11373,8 @@ progress: %d%%"</string>
     <string name="video_backup_quick_settings_title">视频自动备份</string>
     <string name="video_backup_setting">自动备份视频</string>
     <string name="video_center_duration"> / %s</string>
+    <string name="video_classify_guide_desc">为更好的帮助用户管理、寻找文件，通过大数据算法提供视频分类能力。 此功能为保护隐私不会读取文件具体内容，并可随时关闭该分类功能</string>
+    <string name="video_classify_guide_title">内容分类功能上线啦</string>
     <string name="video_codec">video-codec</string>
     <string name="video_delay_play">立即播放</string>
     <string name="video_delay_playnext">%1$d秒后播放下一个</string>
@@ -11317,6 +11382,8 @@ progress: %d%%"</string>
     <string name="video_dlg_download">下载观看</string>
     <string name="video_dlg_play">在线播放</string>
     <string name="video_dlg_title">提示</string>
+    <string name="video_download">下载的视频</string>
+    <string name="video_download_load_data_nothing">暂无下载的视频</string>
     <string name="video_feedback_audio_not_match">音画不同步</string>
     <string name="video_feedback_button">用户反馈</string>
     <string name="video_feedback_cant_play">视频无法播放</string>
@@ -11424,6 +11491,7 @@ progress: %d%%"</string>
     <string name="video_quality_tip">流畅可节约70%空间</string>
     <string name="video_quick_settings_info">视频在线播放点开就能看</string>
     <string name="video_quick_settings_title">安装视频插件</string>
+    <string name="video_recent">最近观看</string>
     <string name="video_recent_record">观看至%1$s</string>
     <string name="video_recent_record_over">已看完</string>
     <string name="video_right_bar_feedback">问题反馈</string>
@@ -11453,6 +11521,7 @@ progress: %d%%"</string>
     <string name="video_to_audio_countdown_video_end">播完当前</string>
     <string name="video_to_audio_trial_tip">试听%1$d分钟，完整收听请</string>
     <string name="video_transcoding_toast">请稍后，视频还未转码到这里</string>
+    <string name="video_transfer_save">转存的视频</string>
     <string name="video_unknow_error">未知错误，无法播放</string>
     <string name="video_widget_cue">升级新版本，更流畅的观看体验，观影更满足！</string>
     <string name="video_widget_down_load_install">安装</string>
@@ -12184,6 +12253,15 @@ progress: %d%%"</string>
     <string name="youa_guide_sub_title">智能助手帮你快速管理本地和云端照片</string>
     <string name="youa_guide_title">使用一刻相册管理你的照片</string>
     <string name="your_space_full">容量超限提醒</string>
+    <string name="yt_brush">画笔</string>
+    <string name="yt_capture_edit">编辑截屏</string>
+    <string name="yt_clear">清除</string>
+    <string name="yt_color">颜色</string>
+    <string name="yt_rectangle">矩形</string>
+    <string name="yt_save">保存</string>
+    <string name="yt_savecap">截屏文件已保存至SDCard</string>
+    <string name="yt_share">分享</string>
+    <string name="yt_thickness">粗细</string>
     <string name="zero">0</string>
     <string name="zeroflow_invate_step_1">第 1 步</string>
     <string name="zeroflow_invate_step_2">第 2 步</string>
