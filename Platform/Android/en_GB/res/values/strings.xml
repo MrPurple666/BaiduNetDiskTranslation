@@ -521,7 +521,6 @@
     <string name="apply_recognition_error_too_many_apply_people">There are too many applicants, please try again later</string>
     <string name="apply_recognition_introduce">\"Intelligent classification of people Things are richer\"</string>
     <string name="applying">Applying…</string>
-
     <string name="audio_add_failed">Adding audio file failed, please try again</string>
     <string name="audio_alarm_dialog_notice">Set the timing off time</string>
     <string name="audio_backup">Audio backup</string>
@@ -727,7 +726,6 @@
     <string name="barrier_free_white_bg">White bkgnd</string>
     <string name="barrier_free_yellow_bg">Light yellow bkgnd</string>
     <string name="barrier_my_note_detail_jump2book">Jump to the corresponding position of the book</string>
-
     <string name="batchtransfer_files_overflow">Saved more than 100 files, please re-select</string>
     <string name="batchtransfer_not_save_files_myself">cannot save your own share</string>
     <string name="batchtransfer_status_dir_not_exist">The target folder does not exist</string>
@@ -1916,7 +1914,6 @@
     <string name="delete_from_blacklist">Remove from blacklist</string>
     <string name="delete_from_blacklist_failed">Failed to remove from blacklist</string>
     <string name="delete_from_blacklist_succeed">Has been %s Remove from blacklist</string>
-
     <string name="delete_number">Del(%d)</string>
     <string name="delete_overflow">Deleted more than 100 files, please re-select</string>
     <string name="delete_path_alert_msg">Delete custom backup folder</string>
@@ -1981,7 +1978,6 @@
     <string name="detect_zoom_out">Wipe your face</string>
     <string name="device_audio_play_guide">Wake up the device, enter the NetDisk mode, you can play audio on demand</string>
     <string name="device_binding">Linking</string>
-
     <string name="device_default_name">Device name not obtained</string>
     <string name="device_download_bt">BT D/L to device</string>
     <string name="device_download_customize_file">Push exclusive space files to the device</string>
@@ -2009,7 +2005,6 @@
     <string name="device_manager_name">Device mgmt</string>
     <string name="device_nonsupport_dialog_content">This version is not supported at this time. Please upgrade to the latest version of the NetDisk.</string>
     <string name="device_offline">Device is offline, task addition failed</string>
-
     <string name="device_playlist_add">Add sound</string>
     <string name="device_playlist_empty_desc">\"Adding audio netdisk to your device Demand on the device can be friends.\"</string>
     <string name="device_quota_fulled">Insufficient device capacity, task operation failed</string>
@@ -2486,7 +2481,6 @@
     <string name="enable_directory_ask_overlay_title">Share Settings</string>
     <string name="enable_share_directory">Set as shared folder</string>
     <string name="enter_dir_failed">Failed to enter folder</string>
-
     <string name="enterprise_auth">Authenticate now</string>
     <string name="enterprise_certification_invalid_text">Certification expired, please certify in time</string>
     <string name="enterprise_contact_invite_failed">Invitation failed, please try again later</string>
@@ -2655,7 +2649,6 @@
     <string name="feed_type_xls">XLS</string>
     <string name="feed_type_zip">ZIP</string>
     <string name="feedback_accept">Feedback received, we will optimize as soon as possible</string>
-
     <string name="feedback_description">Select the problem you want to feedback, we will optimize it as soon as possible</string>
     <string name="feedback_edit_left_toast">*</string>
     <string name="feedback_input_hint">다른 질문이 있으시면 간단히 설명해주십시오.</string>
@@ -2836,7 +2829,6 @@
     <string name="flash_screen_countdown">%s</string>
     <string name="flash_screen_countdown_skip">Skipping %s</string>
     <string name="flash_screen_jump_default_text">Click for details</string>
-
     <string name="float_advertise_countdown_with_day">%1$d day %2$s : %3$s : %4$s</string>
     <string name="float_advertise_countdown_with_day_without_time">%1$d day</string>
     <string name="flow_auto_backup_closed">Auto data backup is turned off</string>
@@ -3214,12 +3206,9 @@
     <string name="hybrid_notification_dialog_title">Turn on notification permissions</string>
     <string name="hybrid_vip_order_result_description_operating_new">Payment is successful, order processing /n please wait in the member center to view</string>
     <string name="icon_content_description">Dialog Icon</string>
-
     <string name="identify_pan_link">External link identification of netdisk</string>
     <string name="image_backup_finish">Photo backup completed</string>
-
     <string name="image_detail_guide_text">Swipe up to view more information</string>
-
     <string name="image_list_empty">There is nothing to add in the NetDisk %s Oh</string>
     <string name="image_list_title">Add %s</string>
     <string name="image_preview_failed_text">Preview error</string>
@@ -3227,7 +3216,6 @@
     <string name="image_reference_date">Photo taken on the day</string>
     <string name="image_reference_location">Photos taken nearby</string>
     <string name="image_resolution">Size, %s</string>
-
     <string name="image_search_box_hint_text">Search for people, places, things</string>
     <string name="image_search_box_hint_text_without_person">Search for places, things</string>
     <string name="image_search_diff_not_finish">\"Preparing a picture classification Please search later\"</string>
@@ -3287,7 +3275,6 @@
     <string name="inbox_list_item_multifiles">Shared with you %s Files</string>
     <string name="inbox_list_item_validatetime">Validity period: remaining %s day</string>
     <string name="inbox_title">Inbox</string>
-
     <string name="info_install">Video plugin required to play this video</string>
     <string name="info_update">Video plugin needs to be upgraded to play this video</string>
     <string name="init_failed">Initialization failure has been opened for you with third party App</string>
@@ -3738,7 +3725,6 @@
     <string name="net_alert_btn_confirm">Use traffic transfer</string>
     <string name="net_alert_content">The file needs to consume data to transmit in a non-Wifi environment, whether to continue U/Ling</string>
     <string name="net_error_retry_later">Network error, try again later</string>
-
     <string name="net_wrong">The network is abnormal, please check the network and try again</string>
     <string name="netcheck_checking_context">Checking the network. Please wait.</string>
     <string name="netcheck_checking_error_context">Report issues with one click.</string>
@@ -3771,10 +3757,8 @@
     <string name="network_error_when_delete_play_list">Network connection failed, please check the network</string>
     <string name="network_no_connected">No network, Check the network settings.</string>
     <string name="network_no_internet_connected">Unable to access the internet, please try again later</string>
-
     <string name="network_tomography_done">Busy network. Please try again later.</string>
     <string name="network_tomography_hints">Network detection</string>
-
     <string name="network_weak_and_hint">Poor network environment</string>
     <string name="network_weak_and_report">Click feedback</string>
     <string name="network_weak_and_report_end">Feedback received, we will try to optimize the service</string>
@@ -5811,7 +5795,6 @@
     <string name="setting_album_auto_backup">Auto photo album backup</string>
     <string name="setting_announcements_txt">Voice broadcast</string>
     <string name="setting_bind_singkil">Traffic free privilege</string>
-
     <string name="setting_edit_bottom_bar_dual">Double row display operation</string>
     <string name="setting_edit_bottom_bar_dual_tip">Single row display operation items can be set in \"ADV Settings\"</string>
     <string name="setting_full_filename">Newline display when file name is too long</string>
@@ -7584,7 +7567,6 @@
     <string name="upload_download_by_traffic">Enable data U/D</string>
     <string name="upload_download_upon_wifi">U/L/D/L only in WiFi environment</string>
     <string name="upload_failed">U/L failed(%1$s)</string>
-
     <string name="upload_failed_more_number">Too many files, please delete to less than 5 million</string>
     <string name="upload_failed_name_illegal">Filename cannot contain \\/:*?\"|</string>
     <string name="upload_failed_no_storage_normal">Insufficient space, open SVIPs to enjoy more space</string>
@@ -9307,14 +9289,12 @@
     <string name="default_nickname">Please enter a nickname</string>
     <string name="default_self_starting_guide_1">Find "Baidu network disk - automatic management or power consumption setting" 􏰹􏱻􏱼</string>
     <string name="delete">delete</string>
-
     <string name="delete_app_dialog_title">Delete tips</string>
     <string name="delete_app_fail_toast">failed to delete</string>
     <string name="delete_app_loading_title">deleting...</string>
     <string name="delete_app_succeed_toast">successfully deleted</string>
     <string name="delete_by_pear_extra_info">The file has been removed</string>
     <string name="delete_cancel_button">return</string>
-
     <string name="delete_failed">failed to delete</string>
     <string name="delete_file_dialog_title">Delete Files</string>
     <string name="delete_local_file_fail">failed to delete</string>
@@ -9448,25 +9428,19 @@
     <string name="dxm_ebpay_pay_next">Next step</string>
     <string name="dxm_ebpay_resolve_error">The system has a small difference, wait for a while, try again.</string>
     <string name="dxm_ebpay_result_btn_success">Finish</string>
-
     <string name="dxm_ebpay_setting">set up</string>
     <string name="dxm_ebpay_ssl">Network connection is abnormal, may be caused by incorrect mobile phone system time settings, please modify and try again</string>
     <string name="dxm_ebpay_tip">hint</string>
-
     <string name="dxm_ebpay_verify_pass">Password validation</string>
     <string name="dxm_ebpay_wallet">Degree small</string>
-
     <string name="dxm_finance_brand">Small full financial</string>
     <string name="dxm_fp_get_data_fail">The system has a small difference, wait for a while, try again.</string>
-
     <string name="dxm_price_format">¥%s</string>
     <string name="dxm_save_format">-¥%s</string>
-
     <string name="dxm_wallet_base_bdaction_more">More</string>
     <string name="dxm_wallet_base_bdaction_return">Return</string>
     <string name="dxm_wallet_base_bind_for_pay_actual_payment">actual payment</string>
-     <string name="dxm_wallet_base_delete">Delete</string>
-
+    <string name="dxm_wallet_base_delete">Delete</string>
     <string name="dxm_wallet_base_help_phone_no_dial">95055</string>
     <string name="dxm_wallet_base_loading_new">Degree small</string>
     <string name="dxm_wallet_base_logout">Sign out</string>
@@ -9488,7 +9462,6 @@
     <string name="dxm_wallet_base_permission_negative">Cancel</string>
     <string name="dxm_wallet_base_permission_positive">continue</string>
     <string name="dxm_wallet_base_please_login">You havent logged in yet, please log in first.</string>
-
     <string name="dxm_wallet_base_safekeyboard_key_0">0</string>
     <string name="dxm_wallet_base_safekeyboard_key_1">1</string>
     <string name="dxm_wallet_base_safekeyboard_key_2">2</string>
@@ -9500,11 +9473,9 @@
     <string name="dxm_wallet_base_safekeyboard_key_8">8</string>
     <string name="dxm_wallet_base_safekeyboard_key_9">9</string>
     <string name="dxm_wallet_base_safekeyboard_key_X">X</string>
-
     <string name="dxm_wallet_base_string_service_forbidden">thisServiceIsNotAvailable</string>
     <string name="dxm_wallet_base_third_login_negative">return</string>
     <string name="dxm_wallet_base_third_login_positive">switchAccount</string>
-
     <string name="dxm_wallet_base_unit">¥</string>
     <string name="dxm_wallet_base_verify_phone_no">verifyMobilePhoneNumber</string>
     <string name="dxm_wallet_camera_error">unableToOpenTheCamera,PleaseTryAgainAfterAccessingTheCameraPermissionsInTheMobilePhoneSystemSettings</string>
@@ -9542,7 +9513,7 @@
 "</string>
     <string name="ebpay_pay_fail">pay</string>
     <string name="ebpay_pay_next">nextStep</string>
-     <string name="ebpay_pwd_check_sub_tip_for_save">pleaseEnterYourPasswordToSaveTheSettings</string>
+    <string name="ebpay_pwd_check_sub_tip_for_save">pleaseEnterYourPasswordToSaveTheSettings</string>
     <string name="ebpay_pwd_check_sub_tip_for_unbind_card">pleaseEnterThePaymentPasswordToDissolveTheBankCard</string>
     <string name="ebpay_pwd_check_sub_tip_for_verify">pleaseEnterYourPasswordToVerifyYourIdentity</string>
     <string name="ebpay_pwd_close_promotion_dialog">iSee</string>
@@ -9550,26 +9521,21 @@
     <string name="ebpay_pwd_forget">forgetThePassword</string>
     <string name="ebpay_pwd_to_pay">passwordPayment</string>
     <string name="ebpay_pwdpay_payment_select">selectPaymentMethod</string>
-
     <string name="ebpay_recall">reacquire</string>
     <string name="ebpay_resolve_error">theSystemHasASmallDifference,WaitForAWhile,TryAgain</string>
     <string name="ebpay_result_btn_success">finish</string>
     <string name="ebpay_safe_handle">degreeSmall</string>
     <string name="ebpay_setting">setUp</string>
     <string name="ebpay_settings">setUp</string>
-
     <string name="ebpay_sign_fail">authorize</string>
     <string name="ebpay_sms_title_tip_security_check">verifyMobilePhoneNumber</string>
     <string name="ebpay_ssl">网络连接异常，可能由于手机系统时间设置不正确导致，请修改后重试</string>
     <string name="ebpay_submit_pay">confirmPayment</string>
-
     <string name="ebpay_tip">hint</string>
     <string name="ebpay_title_complete_info">improveInformation</string>
-
     <string name="ebpay_update_info_tips">Upgrade reminder</string>
     <string name="ebpay_use_new_card">Use new bank card</string>
     <string name="ebpay_valid_date">Validity period</string>
-
     <string name="edit">edit</string>
     <string name="edit_playlist_name">name</string>
     <string name="edit_playlist_name_fail">fail to edit</string>
@@ -9800,7 +9766,6 @@
     <string name="home_tab_self_start_guide_dialog_desc_day">You have%sDid not comment on network disk backup，&lt;font color=#1CA6FF>&lt;b>按上图步骤开启&lt;/b>&lt;/font>自启动相关权限，网盘在后台能为您提供更及时的自动备份。</string>
     <string name="host">host</string>
     <string name="host_info">host-info</string>
-
     <string name="http_1st_pkt_time">http-1st-pkt</string>
     <string name="http_authentication_cancel">Cancel</string>
     <string name="http_authentication_login">Log in</string>
@@ -9809,9 +9774,7 @@
     <string name="hybrid_notification_dialog_i_know">understood</string>
     <string name="hybrid_novel_resource_request_fail">Get resource failed, please wait</string>
     <string name="i_know">understood</string>
-
     <string name="ignore">Ignore</string>
-
     <string name="image_count">%dopen</string>
     <string name="image_file_size">size:%s</string>
     <string name="image_path_root">My network disk</string>
@@ -9932,12 +9895,9 @@
     <string name="lbspay_back">return</string>
     <string name="lbspay_cancel">Cancel</string>
     <string name="lbspay_confirm">Sure</string>
-
     <string name="lbspay_pay">confirm payment</string>
-
     <string name="lbspay_pay_confirm_payamount">%1$sYuan</string>
     <string name="lbspay_pay_confirm_paydesc">confirm payment</string>
-
     <string name="leave_share_directory_title">Exit sharing</string>
     <string name="limit_share_function_name">Enjoy</string>
     <string name="list_label_empty_tips">No match</string>
@@ -9989,7 +9949,6 @@
     <string name="logout">Logout</string>
     <string name="long_picture_upload_network_error">Network abnormal network, please try again</string>
     <string name="look_for_friend">check the details</string>
-
     <string name="low_quality">Smooth</string>
     <string name="m3ufile_download_dialog_content_origin_quality">Original picture</string>
     <string name="macard_dialog_commit_text">Look at</string>
@@ -10066,7 +10025,6 @@
     <string name="net_alert_btn_cancel">Cancel</string>
     <string name="net_alert_title">Traffic reminder</string>
     <string name="net_error">Network does not force, please try again later</string>
-
     <string name="net_error_retry_bt">Click to try</string>
     <string name="netcheck_none_title">Network is not connected</string>
     <string name="netdisk">Baidu network disk</string>
@@ -10435,7 +10393,6 @@
     <string name="push_to_device_helper">help</string>
     <string name="push_transferlist_delete_dialog_title1">Delete Record</string>
     <string name="qrcode_error_toast">Generate QR code failed, please try again</string>
-
     <string name="quick_action_add_cancelcollection_member">Cancel</string>
     <string name="quick_action_add_collection_member">collect</string>
     <string name="quick_action_copy">copy</string>
@@ -10607,7 +10564,6 @@ Automatic backups can be made more in time in the background."</string>
     <string name="scan_join_group_cant_join_other_reason">Join group failed</string>
     <string name="scan_qr">Scan QR</string>
     <string name="scan_qr_login">Scan QR</string>
-
     <string name="search_box_hint_text_in_novel">search</string>
     <string name="search_category_all">all</string>
     <string name="search_category_audio">Audio</string>
@@ -10825,9 +10781,7 @@ Automatic backups can be made more in time in the background."</string>
     <string name="timeline_show_all">all</string>
     <string name="timneline_share_confirm_dialog">continue</string>
     <string name="tips">hint</string>
-
     <string name="title_transferlist_button">Transmission list</string>
-
     <string name="toast_download_transfer_finish">Download completed</string>
     <string name="toast_import_to_yike_all_success_prefix">Saved successfully</string>
     <string name="toast_novel_transfer_finish">upload completed</string>
@@ -11127,7 +11081,6 @@ Automatic backups can be made more in time in the background."</string>
     <string name="voice_close_time_cancel">Cancel</string>
     <string name="voice_speed_cancel">Cancel</string>
     <string name="waiting">waiting…</string>
-
     <string name="wallet_bankcard_ok">Sure</string>
     <string name="wallet_base_bdaction_return">return</string>
     <string name="wallet_base_bind_for_pay_actual_payment">actual payment</string>
@@ -11140,11 +11093,9 @@ Automatic backups can be made more in time in the background."</string>
     <string name="wallet_base_safekeyboard_key_0">0</string>
     <string name="wallet_base_skip">jump over</string>
     <string name="wallet_cancel">Cancel</string>
-
     <string name="wallet_confirm_pay_order_sp_tips">order information</string>
     <string name="wallet_do_auth">Go real name</string>
     <string name="wallet_fp_charge_phone">Charge</string>
-
     <string name="wallet_fp_no_faces">Your operator in your mobile phone number is being upgraded, please try again later.</string>
     <string name="wallet_fp_open_failed">Fingerprint payment failed</string>
     <string name="wallet_fp_return">return</string>
@@ -11155,10 +11106,8 @@ Automatic backups can be made more in time in the background."</string>
     <string name="wallet_personal_coupon_detail_copy_success">Copy success</string>
     <string name="wallet_personal_coupon_logo_title">Small full financial</string>
     <string name="wallet_qr_scancode_cancel">Cancel</string>
-
     <string name="wallet_tab_pull_to_refresh_from_bottom_refreshing_label">@string/wallet_refresh_loading</string>
     <string name="wallet_tab_pull_to_refresh_from_bottom_release_label">@string/wallet_refresh_release</string>
-
     <string name="web_view_default_title">Loading…</string>
     <string name="wechat_auto_backup_status_initial">Open automatic backup</string>
     <string name="wechat_backup_quick_settings_title">WeChat file automatic backup</string>
@@ -11264,9 +11213,7 @@ Automatic backups can be made more in time in the background."</string>
     <string name="enterprise_product_buy">Go buy</string>
     <string name="enterprise_product_subTitle">Hanging employee / corporate business card / 20T space, etc.</string>
     <string name="err_anti_account_tips">Experts exception, you can switch other accounts~</string>
-
     <string name="err_no_authentication_tips">You have not yet carried out real name certifications.~</string>
-
     <string name="err_server_tips">The activity is too hot, please try again later~</string>
     <string name="exeception_network">Network does not force, please try again later</string>
     <string name="expand_capacity">Space expansion</string>
@@ -11947,7 +11894,7 @@ Submit a material, the offline print will be more convenient ~"</string>
     <string name="nad_video_net_tip_not_wifi">Watching under non-WiFi network</string>
     <string name="nad_video_net_tip_one_week">Allow playback under non-Wi-Fi within a week</string>
     <string name="nad_video_net_tip_rest_size">This video is about</string>
-    <string name="nad_video_net_tip_size">Flow content% SM</string>
+    <string name="nad_video_net_tip_size">Flow content %sM</string>
     <string name="nad_video_net_tip_size_no_unit">Traffic</string>
     <string name="nad_videoplayer_after_ad_play_next_tip">Advertising after playing the next video</string>
     <string name="nad_videoplayer_bd_video_mute_btn_tip">Click to open the video sound</string>
@@ -12067,5 +12014,86 @@ Submit a material, the offline print will be more convenient ~"</string>
     <string name="share_data_detail_title">Data details</string>
     <string name="share_data_detail_tip">Only support to display sharing details data after 2021.11.10</string>
     <string name="share_chart_no_data">No data</string>
-    <string name="bd_wallet_blank"></string>
+    <string name="bd_wallet_blank"/>
+    <string name="audio_classify_guide_desc">To better help user management, look for files, provide audio classification capabilities through large data algorithms. This feature does not read the specific content of the file to protect privacy, and you can turn off the classification function at any time.</string>
+    <string name="audio_classify_guide_title">The content classification is online.</string>
+    <string name="audio_collection">Music</string>
+    <string name="audio_compilation">Broadcast</string>
+    <string name="audio_download">Download music</string>
+    <string name="audio_download_load_data_nothing">No downloaded music</string>
+    <string name="audio_my_play_list">My broadcast</string>
+    <string name="audio_recent">Recently played</string>
+    <string name="audio_transfer_save">Save music</string>
+    <string name="base_media_load_record_fail">Refresh failed, click to retry</string>
+    <string name="base_media_loading_record">Loading…</string>
+    <string name="base_media_no_record">No more records</string>
+    <string name="buy_unlimited_traffic">Open unlimited traffic</string>
+    <string name="chart_tip">Second-rate/day</string>
+    <string name="classify_continue">Will continue to classify your content</string>
+    <string name="classify_is_working">Classification in content ...</string>
+    <string name="classify_try_refresh">Refresh</string>
+    <string name="classify_working_time_1">It is expected that 30 seconds to a few minutes, and the background continues to load.</string>
+    <string name="classify_working_time_2">Background continuous loading</string>
+    <string name="collection_load_data_nothing">No collection of music</string>
+    <string name="collection_long_click_edit">Long press edit</string>
+    <string name="compilations">Collect</string>
+    <string name="delete_media_play_record_fail">Clear record failed</string>
+    <string name="delete_media_play_record_success">Clear record success</string>
+    <string name="dialog_complaint_content">You should carefully review your complaint content and related materials before your complaint, and ensure that the content is true, legal, and effective.If you have lost a third party due to your improper complaint, you should bear the relevant responsibilities.In addition, if your complaint involves verifying to a third party website or should be processed by a third party website, we will hand over your complaint material to your complaint, so that the third party website is verified and handled.</string>
+    <string name="dialog_complaint_title">Complaint</string>
+    <string name="dialog_tort_btn">I see</string>
+    <string name="dialog_tort_content">If you think as the right to believe that the information on the family can infringe your legitimate rights (content is suspected of violations of the reputation)/Portrait/Privacy, etc.), you can view the feedback process by clicking the "Hundreds of Infringement Complaint Process Guidelines".</string>
+    <string name="dialog_tort_title">hint</string>
+    <string name="empty_view_no_data">No data</string>
+    <string name="feedback_network_tips">Network does not force, please try again later</string>
+    <string name="feedback_start_host_service_fail">Start interface failed</string>
+    <string name="feedback_title_edit">Feedback</string>
+    <string name="feedback_titlebar_function_text">My feedback</string>
+    <string name="feedback_titlebar_title">Help and feedback</string>
+    <string name="feedbck_network_reload_button">Reload</string>
+    <string name="home_face_yy_btn_agree">Agree to authorize and continue</string>
+    <string name="home_face_yy_tips">Please make sure you operate</string>
+    <string name="home_face_yy_tips_center">"Personal Information Processing Authorization"</string>
+    <string name="home_face_yy_tips_left">Click the button, that is, agree</string>
+    <string name="home_face_yy_tips_right">And confirm authorization</string>
+    <string name="home_face_yy_title">Face verification</string>
+    <string name="media_collection_change_type_fail">Adjusting classification failed</string>
+    <string name="media_collection_change_type_no_data">Did not get the classification category</string>
+    <string name="media_collection_change_type_reconfirm_cancel">Consider</string>
+    <string name="media_collection_change_type_reconfirm_ok">Confirm mobile</string>
+    <string name="media_collection_change_type_reconfirm_title" formatted="false">will %s Move to [%s] Classify, confirm?</string>
+    <string name="media_collection_change_type_success">Adjusting classification success</string>
+    <string name="media_collection_operation">edit content</string>
+    <string name="media_collection_operation_change_type">Adjust the classification</string>
+    <string name="media_collection_operation_change_type_title">Move the collection to</string>
+    <string name="media_collection_operation_rename">Collection rename</string>
+    <string name="media_recent_section_earlier">Earlier</string>
+    <string name="media_recent_section_this_week">This week</string>
+    <string name="media_recent_section_today">today</string>
+    <string name="media_recent_section_yesterday">yesterday</string>
+    <string name="my_audio">My audio</string>
+    <string name="my_video">My video</string>
+    <string name="open_dir_operation">open Directory</string>
+    <string name="pass_bio_error_msg_system_version_low_error">The mobile phone system version is too low, it is not possible to perform face verification</string>
+    <string name="robot_reply_text">The robot customer service is growing up, and I am sorry to answer your question, it is better to enter man-in-law, and some professionals will answer your questions.</string>
+    <string name="sapi_sdk_login_content_close">closure</string>
+    <string name="sapi_sdk_login_content_des_back">return</string>
+    <string name="start_screen_shot">Start screen capture</string>
+    <string name="transfer_load_data_nothing">No transfer record</string>
+    <string name="transfer_to_path">Turned to: %s</string>
+    <string name="video_classify_guide_desc">To better help user management, look for files, provide video classification capabilities through large data algorithms. This feature does not read the specific content of the file to protect privacy, and you can turn off the classification function at any time.</string>
+    <string name="video_classify_guide_title">The content classification is online.</string>
+    <string name="video_download">Download video</string>
+    <string name="video_download_load_data_nothing">No downloaded video</string>
+    <string name="video_recent">Recently watched</string>
+    <string name="video_transfer_save">Transport video</string>
+    <string name="yt_brush">brush</string>
+    <string name="yt_capture_edit">Screen capture</string>
+    <string name="yt_clear">Clear</string>
+    <string name="yt_color">color</string>
+    <string name="yt_rectangle">rectangle</string>
+    <string name="yt_save">keep</string>
+    <string name="yt_savecap">Screen capture files have been saved to SDCARD</string>
+    <string name="yt_share">share</string>
+    <string name="yt_thickness">Thick</string>
 </resources>
