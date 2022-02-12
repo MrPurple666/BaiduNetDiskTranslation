@@ -22,12 +22,12 @@
 | Windows   | [Замена файлов][win-replace]       |7.11.0.9|  [git][win_replace_files_git] |
 | Windows   | [Установка репака][win-repack]     |7.10.1.2|  [mega.nz][win_repack_files_meganz] / [mediafire][win_repack_files_mfire] / [mirror][win_repack_files_mirror]|
 | Windows   | [Портативная версия][win-portable] |7.10.1.2|  [mega.nz][win_portable_files_meganz] / [mediafire][win_portable_files_mfire] / [mirror][win_portable_files_mirror]|
-| Android   | Установить                         |11.17.1 |  [mega.nz][win_apk_files_meganz] / [mediafire][win_apk_files_mfire] / [mirror][win_apk_files_mirror]      |
+| Android   | Установить                         |11.19.2 |  [mega.nz][win_apk_files_meganz] / [mediafire][win_apk_files_mfire] / [mirror][win_apk_files_mirror]      |
 
 ## Замена файлов
 
 Для тех кто хочет перевести уже установленный оффициальный клиент.
-Распакуйте содержимое архива в папке:
+Распакуйте содержимое архива в папку:
 `C:\Users\[[**UserName**]]\AppData\Roaming\Baidu\BaiduNetDisk`
 
 ## Установка репака
@@ -69,9 +69,11 @@
 
 # Donation
 
-  <a href="bitcoin:bc1qyj8f3gzscpsqqk7ln9nshvhxgcvt8n6gk03yv02gwsdlrk8wmwfsjvygqx?time=1629135925">🪙  bc1qyj8f3gzscpsqqk7ln9nshvhxgcvt8n6gk03yv02gwsdlrk8wmwfsjvygqx</a> <br/>
-   <a href="dogecoin:DFRJHUFVTU3CJ9GU8Ye5dzURpvgQ9hyy2u">🐶 DFRJHUFVTU3CJ9GU8Ye5dzURpvgQ9hyy2u</a> </p>
-   
+  **BITCOIN:** bc1qyj8f3gzscpsqqk7ln9nshvhxgcvt8n6gk03yv02gwsdlrk8wmwfsjvygqx
+
+  **DOGECOIN:** DFRJHUFVTU3CJ9GU8Ye5dzURpvgQ9hyy2u
+  
+  **Ethereum:** 0xf9104Dc601dc67855a547cE20f9a5c5E6624314b
 
 
 [license]: ./LICENSE
