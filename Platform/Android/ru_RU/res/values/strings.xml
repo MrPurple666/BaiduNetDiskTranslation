@@ -417,7 +417,7 @@
     <string name="aiapps_loading_text">Загрузка ядра</string>
     <string name="aiapps_login_immediately">Войти сейчас</string>
     <string name="aiapps_login_refuse">Не входить в систему некоторое время</string>
-    <string name="aiapps_magicbox_on_empty_reload">Перезагрузка</string>
+    <string name="aiapps_magicbox_on_empty_reload">Обновить</string>
     <string name="aiapps_map_open_location_title">Информация о местоположении</string>
     <string name="aiapps_net_error">Сеть не работает, повторите попытку позже</string>
     <string name="aiapps_no_more_reminder">Больше не напоминать</string>
@@ -907,7 +907,7 @@
     <string name="backup_dialog_go_open">Открыть</string>
     <string name="backup_fail_listview_header_btn_text">Исправь это.</string>
     <string name="backup_fail_listview_header_tip">Рез.Коп.в фоновом режиме прерывается без включения приложения в белый список энергосбережения</string>
-    <string name="backup_fail_retry">Повторение ></string>
+    <string name="backup_fail_retry">Обновить ></string>
     <string name="backup_fail_text">Сервер на небольшом, пожалуйста, попробуйте позже.</string>
     <string name="backup_failed">Ошибка рез.коп. (%1$s）</string>
     <string name="backup_finish_go_to_clean">Чистить</string>
@@ -1016,7 +1016,7 @@
     <string name="barcode_enter_tip">ОК</string>
     <string name="barcode_file_name_unknown">Файл</string>
     <string name="barcode_goodcase_btn_text">Демонстрация примеров</string>
-    <string name="barcode_googcase_button">Перезагрузка</string>
+    <string name="barcode_googcase_button">Обновить</string>
     <string name="barcode_googcase_tip">Сеть не работает, повторите попытку позже</string>
     <string name="barcode_googcase_title">Ты можешь это сделать.</string>
     <string name="barcode_guide_tip">Поиск фотографий поможет вам сделать это.</string>
@@ -1140,7 +1140,7 @@
     <string name="batchtransfer_status_failed">Не удалось сохранить</string>
     <string name="batchtransfer_status_file_exist">Файл уже существует</string>
     <string name="batchtransfer_status_get_failed">Не удалось:</string>
-    <string name="batchtransfer_status_reload">Перезагрузка</string>
+    <string name="batchtransfer_status_reload">Обновить</string>
     <string name="batchtransfer_status_saving">Сохранение...</string>
     <string name="batchtransfer_status_share_not_exist">Файл не существует</string>
     <string name="batchtransfer_status_storge_not_enough">Недостаточно места</string>
@@ -1155,7 +1155,7 @@
     <string name="battery_optimization_dialog_title">Добавить в белый список</string>
     <string name="bd_oauth_sdk_common_loading_timeout">Сетевое подключение к сети, пожалуйста, попробуйте позже позже</string>
     <string name="bd_oauth_sdk_common_network_unavailable">Сеть не подключена, пожалуйста, попробуйте позже позже</string>
-    <string name="bd_oauth_sdk_common_retry_btn_text">Повторение</string>
+    <string name="bd_oauth_sdk_common_retry_btn_text">Обновить</string>
     <string name="bd_oauth_sdk_common_setting_btn_text">Настройки</string>
     <string name="bd_quick_replay">Воспроизведение</string>
     <string name="bd_quick_share_friends">Круг друзей</string>
@@ -1184,7 +1184,7 @@
     <string name="bd_video_mute_btn_tip">Нажмите, чтобы открыть громкость</string>
     <string name="bd_video_parse_error_tip">Есть проблема с выдачей данных</string>
     <string name="bd_video_switch_fullscreen_tip">Полноэкранный просмотр экрана лучше</string>
-    <string name="bd_video_update_toast_bad_net">Сеть не заставляет, пожалуйста, попробуйте позже позже</string>
+    <string name="bd_video_update_toast_bad_net">Не соединения,попробуйте позже</string>
     <string name="bd_wallet_add_new_card">+ Добавить банковскую карту</string>
     <string name="bd_wallet_auth_cancel_auth">подтверждать</string>
     <string name="bd_wallet_auth_card_need_detail">Информация о карте должна быть завершена</string>
@@ -1265,7 +1265,7 @@
     <string name="bd_wallet_payway">способ оплаты</string>
     <string name="bd_wallet_plugin_title">Плагин Подробности</string>
     <string name="bd_wallet_refresh_time">Последнее обновление времени:%1$s</string>
-    <string name="bd_wallet_reload">Перезагрузка</string>
+    <string name="bd_wallet_reload">Обновить</string>
     <string name="bd_wallet_scheme">@string/bd_wallet_common_scheme</string>
     <string name="bd_wallet_tab_coupon">Карточная сумка купона</string>
     <string name="bd_wallet_tab_home_finance_tab_nmae">Финансовый менеджмент</string>
@@ -1354,9 +1354,9 @@
     <string name="bdreader_empty_bookmark_text">Вы еще не добавили закладку</string>
     <string name="bdreader_empty_firstline_content">Приобретение контента безуспешно~~</string>
     <string name="bdreader_empty_secondline_content">Нажмите на экран, перезагрузите</string>
-    <string name="bdreader_emptyview_detail_text">Сеть не заставляет, пожалуйста, попробуйте позже позже</string>
+    <string name="bdreader_emptyview_detail_text">Не соединения,попробуйте позже</string>
     <string name="bdreader_emptyview_footer_text">Просмотр текущей ссылки в главе</string>
-    <string name="bdreader_emptyview_reload">Перезагрузка</string>
+    <string name="bdreader_emptyview_reload">Обновить</string>
     <string name="bdreader_error_sdfull">SD-карта заполнена, пожалуйста, попробуйте еще раз</string>
     <string name="bdreader_exit_auto_scroll">Выход автоматическая страница</string>
     <string name="bdreader_failed_site_change_button_text">Измените исходную станцию, чтобы найти эту главу</string>
@@ -1379,8 +1379,8 @@
     <string name="bdreader_interface_chapter_menu_empty">Не нашел каталога</string>
     <string name="bdreader_interface_chapter_menu_empty_remind">Вы можете назвать панель инструментов, чтобы добавить закладку в верхнем правом углу.</string>
     <string name="bdreader_interface_empty_bookmark_text">Вы еще не добавили закладку</string>
-    <string name="bdreader_interface_emptyview_detail_text">Сеть не заставляет, пожалуйста, попробуйте позже позже</string>
-    <string name="bdreader_interface_emptyview_reload">Перезагрузка</string>
+    <string name="bdreader_interface_emptyview_detail_text">Не соединения,попробуйте позже</string>
+    <string name="bdreader_interface_emptyview_reload">Обновить</string>
     <string name="bdreader_interface_pager_chapter_size">общий%sглава</string>
     <string name="bdreader_interface_pager_tab_bookmark">Закладки</string>
     <string name="bdreader_interface_pager_tab_dirctory">содержание</string>
@@ -1503,7 +1503,7 @@
     <string name="bdtrans_ocr_result_expand">Развернуть</string>
     <string name="bdtrans_ocr_result_merge_trans">Объединить переводы</string>
     <string name="bdtrans_ocr_result_narrow">Убрать</string>
-    <string name="bdtrans_ocr_result_network_error_reload">Перезагрузка</string>
+    <string name="bdtrans_ocr_result_network_error_reload">Обновить</string>
     <string name="bdtrans_ocr_result_network_error_retry">Сеть не работает, повторите попытку?</string>
     <string name="bdtrans_ocr_result_network_error_retry_later">Сеть не работает, повторите попытку позже.</string>
     <string name="bdtrans_ocr_result_recognize_error">Не удалось распознать текст для перевода</string>
@@ -1676,10 +1676,10 @@
     <string name="business_incentive_err_no_network_message">Проверьте текущее состояние сети</string>
     <string name="business_incentive_err_not_wifi_title">Советы по трафику</string>
     <string name="business_incentive_has_no_network">Нет сети, повторите попытку позже</string>
-    <string name="business_incentive_loading_error">Сбой загрузки, проверьте сеть или перезагрузите</string>
+    <string name="business_incentive_loading_error">Сбой загрузки, проверьте соединение</string>
     <string name="business_incentive_loading_with_progress">Загрузка %s</string>
     <string name="business_incentive_network_failed">Сбой сетевого подключения, повторите попытку позже</string>
-    <string name="business_incentive_reload">Перезагрузка</string>
+    <string name="business_incentive_reload">Обновить</string>
     <string name="business_incentive_second">%ds</string>
     <string name="business_incentive_server_no_advertise">Увы, слишком быстро.</string>
     <string name="business_incentive_video_loading">Загрузка...</string>
@@ -2445,14 +2445,14 @@
     <string name="common_comment_firstpraise">Возьми голову</string>
     <string name="common_comment_like">большой</string>
     <string name="common_comment_ten_thousand">десять тысяч</string>
-    <string name="common_emptyview_detail_text">Сеть не заставляет, пожалуйста, попробуйте позже позже</string>
-    <string name="common_error_tips">Сеть не заставляет, пожалуйста, попробуйте позже позже</string>
+    <string name="common_emptyview_detail_text">Не соединения,попробуйте позже</string>
+    <string name="common_error_tips">Не соединения,попробуйте позже</string>
     <string name="common_google_play_services_unknown_issue">%1$s is having trouble with Google Play services.Please try again.</string>
     <string name="common_launch_cancel">Oтмена</string>
     <string name="common_launch_load_error">Загрузка данных не удалась, попробуйте позже позже</string>
     <string name="common_launch_load_error_disable_by_business">Это устройство не поддерживает эту функцию.</string>
     <string name="common_launch_loading">Проверить обновление ...</string>
-    <string name="common_launch_reload">Повторение</string>
+    <string name="common_launch_reload">Обновить</string>
     <string name="common_launch_report">Немедленная обратная связь</string>
     <string name="common_launch_update">обновить немедленно</string>
     <string name="common_launch_update_error">Обновление не удалось, пожалуйста, попробуйте еще раз</string>
@@ -2784,7 +2784,7 @@
     <string name="debug_game_core_download_success">Успешно загрузите GameCore, включите переключатель в модуле отладки</string>
     <string name="debug_game_core_package_error">Нет игрового ядра в пакете услуг</string>
     <string name="debug_game_extension_download_failed">Ошибка загрузки GameExtensionCore</string>
-    <string name="debug_game_extension_download_success">Перезагрузка GameExtensionCore успешно завершена, поэтому включите переключатель в модуле debug.</string>
+    <string name="debug_game_extension_download_success">Обновить GameExtensionCore успешно завершена, поэтому включите переключатель в модуле debug.</string>
     <string name="decode_mode_change_error">Не удалось переключить режим декодирования, позже позже</string>
     <string name="default_app_icon">Значок по умолчанию</string>
     <string name="default_five_points">+5</string>
@@ -3254,7 +3254,7 @@
     <string name="dxm_ebpay_img">Image</string>
     <string name="dxm_ebpay_know">я понимаю</string>
     <string name="dxm_ebpay_loading">Загрузка ...</string>
-    <string name="dxm_ebpay_no_network">Сеть не заставляет, пожалуйста, попробуйте позже позже</string>
+    <string name="dxm_ebpay_no_network">Не соединения,попробуйте позже</string>
     <string name="dxm_ebpay_not_exit">Oтмена</string>
     <string name="dxm_ebpay_pay_next">Следующий шаг</string>
     <string name="dxm_ebpay_resolve_error">Система имеет небольшую разницу, подождать некоторое время, попробуйте еще раз.</string>
@@ -3277,7 +3277,7 @@
     <string name="dxm_wallet_base_logout">Выйти</string>
     <string name="dxm_wallet_base_multi_window_close">Пожалуйста, сократите его в полноэкранный режим, а затем используйте эту функцию.</string>
     <string name="dxm_wallet_base_multi_window_tips">Текущий интерфейс может отображать ненормальные в режиме мокроты</string>
-    <string name="dxm_wallet_base_no_network">Сеть не заставляет</string>
+    <string name="dxm_wallet_base_no_network">Нет соединения</string>
     <string name="dxm_wallet_base_no_network_reason">Прерывание сети, сетевой сигнал слабый или отказ маршрутизатора</string>
     <string name="dxm_wallet_base_open_bduss_network_error">Сетевая аномалия, пожалуйста, проверьте свою сеть</string>
     <string name="dxm_wallet_base_open_bduss_network_resolve_error">Система была маленькой, пожалуйста, попробуйте позже позже</string>
@@ -3322,7 +3322,7 @@
     <string name="dxm_wallet_lightapp_return">возвращение</string>
     <string name="dxm_wallet_logout">Выходная запись</string>
     <string name="dxm_wallet_not_include_tips">Не включено</string>
-    <string name="dxm_wallet_reload">Перезагрузка</string>
+    <string name="dxm_wallet_reload">Обновить</string>
     <string name="dxm_wallet_withhold_protocal_title">Договор на службах пользователей</string>
     <string name="dxm_wallet_withhold_success">Открыть и оплатить успех</string>
     <string name="dxmpay_banksign_dialog_title">Совет</string>
@@ -3434,7 +3434,7 @@
     <string name="ebpay_name_tip">Для вашей учетной записи вы можете связать только банковские карты держателей карты.</string>
     <string name="ebpay_name_title">Описание Держателя карты</string>
     <string name="ebpay_need_pay_amount">Требования к оплате</string>
-    <string name="ebpay_no_network">Сеть не заставляет, пожалуйста, попробуйте позже позже</string>
+    <string name="ebpay_no_network">Не соединения,попробуйте позже</string>
     <string name="ebpay_none_passid_tips">Другая сторона не получила денег в течение 15 дней, будет автоматически возвращена</string>
     <string name="ebpay_not_exit">Отменить</string>
     <string name="ebpay_operation_tip1">"• Пожалуйста, подтвердите, если зарезервированный номер мобильного телефона является номером мобильного телефона в настоящее время.\""</string>
@@ -3652,7 +3652,7 @@
     <string name="error_msg_liveness_video_toolarge">Файл видеозаписи слишком велик, пожалуйста, перезаписать</string>
     <string name="error_msg_may_be_no_camera_permission">Открыть сбой камеры, пожалуйста, проверьте, есть ли разрешение камеры</string>
     <string name="error_msg_may_be_no_record_audio_permission">Запись видео не удалось, пожалуйста, проверьте, есть ли микрофон или авторитет камеры</string>
-    <string name="error_msg_network_unavailable">Сеть не заставляет, пожалуйста, попробуйте позже позже</string>
+    <string name="error_msg_network_unavailable">Не соединения,попробуйте позже</string>
     <string name="error_msg_no_login">Пользователь не вошел в систему</string>
     <string name="error_msg_no_permission">Запись видео не удалось, пожалуйста, проверьте, есть ли разрешение камеры?</string>
     <string name="error_msg_open_camera_failure">Разрешения на камеру в настройках, используйте функцию распознавания человеческого лица</string>
@@ -3784,7 +3784,7 @@
     <string name="feed_type_vsd">VSD</string>
     <string name="feed_type_xls">XLS</string>
     <string name="feed_type_zip">ZIP</string>
-    <string name="feed_update_toast_bad_net">Сеть не заставляет, пожалуйста, попробуйте позже позже</string>
+    <string name="feed_update_toast_bad_net">Не соединения,попробуйте позже</string>
     <string name="feedback_accept">Я получил отзывов, мы будем оптимизировать как можно скорее</string>
     <string name="feedback_description">Пожалуйста, выберите вопрос, который вы хотите отменить, мы будем оптимизировать как можно скорее</string>
     <string name="feedback_input_hint">Если есть какие-либо другие проблемы, пожалуйста, кратко опишите</string>
@@ -4198,7 +4198,7 @@
     <string name="go_and_open">Перейти к открытому</string>
     <string name="go_novel_book_store_homepage">Перейти к книге город</string>
     <string name="go_to_album">Альбом</string>
-    <string name="go_to_appeal">Нажмите на жалобу</string>
+    <string name="go_to_appeal">Пожаловаться на файл</string>
     <string name="goto_friend_tab_manage_shares">Все акции могут просматривать и управлять вкладке сообщения или в [My] - [Мой обмен] </string>
     <string name="goto_set_recommand_friens">Открой сейчас</string>
     <string name="goto_time_machine">Перейти к машине времени, чтобы увидеть больше</string>
@@ -4364,7 +4364,7 @@
     <string name="home_collect_card_tips">Собирать общую или важной папке</string>
     <string name="home_entry_new_note">Заметки</string>
     <string name="home_list_empty_tips">Нет контента, пожалуйста, смотрите позже</string>
-    <string name="home_list_error_tips">Сеть не заставляет, нажмите еще раз ~</string>
+    <string name="home_list_error_tips">Нет соединения, нажмите еще раз ~</string>
     <string name="home_list_footer_tips">Baidu сетевой диск · Пусть ваше пребывание навсегда</string>
     <string name="home_list_recent_title">Недавние файлы</string>
     <string name="home_new_user_card_welcome_text">Привет, %s</string>
@@ -4807,7 +4807,7 @@
     <string name="m3ufile_download_dialog_without_sdcard">Местные без SD-карты доступны</string>
     <string name="macard_dialog_commit_text">смотреть на</string>
     <string name="macard_dialog_content">Пожалуйста, прыгайте на «Мой»-Вид в моем документе</string>
-    <string name="magicbox_on_empty_reload">Перезагрузка</string>
+    <string name="magicbox_on_empty_reload">Обновить</string>
     <string name="magnet_dialog_content_failed">Ошибка разрешения, повреждение ссылки!</string>
     <string name="magnet_file_list_title">Новая ссылка задача</string>
     <string name="magnet_file_to_upper_limit">Эта ссылка содержит слишком много файлов</string>
@@ -4843,7 +4843,7 @@
     <string name="max_photo_num">999+</string>
     <string name="media_library_empty_text">"Нет записиЗагрузка изображения, запись переливания будет отображаться здесь."</string>
     <string name="media_library_error_text">Список загрузка не удалась, проверьте сеть</string>
-    <string name="media_library_list_retry">Перезагрузка</string>
+    <string name="media_library_list_retry">Обновить</string>
     <string name="media_library_update_desc">Галерея показывает все файлы изображений в сети (исключая скрытые файлы), см.Изображение, чтобы найти изображение удобнее ~</string>
     <string name="media_library_update_title">Галерея карта Новое обновление</string>
     <string name="media_library_view_last_time">В последний раз я видел</string>
@@ -5044,7 +5044,7 @@
     <string name="nas_load_error">Чтение данных не удалось, попробуйте позже позже</string>
     <string name="nas_load_no_storage">Устройство не подключено к жесткому диску, пожалуйста, проверьте и попробуйте снова</string>
     <string name="nas_load_not_bind">Оборудование не связано с учетной записью Baidu, пожалуйста, проверьте после проверки</string>
-    <string name="nas_load_retry">Перезагрузка</string>
+    <string name="nas_load_retry">Обновить</string>
     <string name="nas_magnet_file_over_limit">Эта ссылка содержит слишком много файлов</string>
     <string name="nas_magnet_parse_failed">Ссылка для скачивания без эффекта</string>
     <string name="nas_operate_device_offline">Если операция не удалась, попробуйте позже позже</string>
@@ -5082,13 +5082,13 @@
     <string name="net_alert_btn_confirm">Передача потока</string>
     <string name="net_alert_content">Передача этого файла в среде без WiFi требует трафика, продолжать загружать</string>
     <string name="net_alert_title">Напоминание о движении</string>
-    <string name="net_error">Сеть не заставляет, пожалуйста, попробуйте позже позже</string>
-    <string name="net_error_msg">Сеть не заставляет? Вы снова пытаетесь?</string>
-    <string name="net_error_negative_bt">Повторение</string>
+    <string name="net_error">Не соединения,попробуйте позже</string>
+    <string name="net_error_msg">Нет соединения? Вы снова пытаетесь?</string>
+    <string name="net_error_negative_bt">Обновить</string>
     <string name="net_error_positive_bt">Oтмена</string>
     <string name="net_error_retry_bt">Нажмите, чтобы попробовать</string>
     <string name="net_error_retry_later">Ошибка сети, повторите попытку позже</string>
-    <string name="net_error_tip">Сеть не заставляет, пожалуйста, проверьте настройки</string>
+    <string name="net_error_tip">Нет соединения, пожалуйста, проверьте настройки</string>
     <string name="net_wrong">Нет соединения,проверьте сеть и попробуйте снова</string>
     <string name="netdisk">Baidu сетевой диск</string>
     <string name="netdisk_battery_privilege_content">Для того, чтобы дать вам лучший автоматический опыт рез.коп.,Теперь подать заявку на ваш игнор оптимизации батареи,Чтобы ваш альбом может продолжать создать резервную копию</string>
@@ -5108,13 +5108,13 @@
     <string name="network_carton_text_one">Открытые SVIP, играйте как шелк гладкий</string>
     <string name="network_carton_text_three">Открытый SVIP, видео высокая скорость</string>
     <string name="network_carton_text_two">Открытый SVIP, ключевые моменты никогда не остановятся</string>
-    <string name="network_error">Сетевое соединение не удалось, пожалуйста, попробуйте позже</string>
+    <string name="network_error">Нет соединения,попробуйте позже</string>
     <string name="network_error_msg">Соединение сетевого подключения</string>
-    <string name="network_error_try_later">Сетевое соединение не удалось, пожалуйста, попробуйте позже</string>
-    <string name="network_error_when_delete_play_list">Соединение сетевого подключения, пожалуйста, проверьте сеть</string>
+    <string name="network_error_try_later">Нет соединения,попробуйте позже</string>
+    <string name="network_error_when_delete_play_list">Ошибка подключения, пожалуйста, проверьте сеть</string>
     <string name="network_exception">сетевая аномалия</string>
     <string name="network_exception_message">Нет соединения,проверьте сеть</string>
-    <string name="network_no_connected">Сеть не подключена, пожалуйста, проверьте настройки сети</string>
+    <string name="network_no_connected">Сеть недоступна,проверьте настройки сети</string>
     <string name="network_no_internet_connected">Невозможно получить доступ к Интернету, пожалуйста, попробуйте позже позже</string>
     <string name="network_remind">Сетевая подсказка</string>
     <string name="network_tomography_done">Сеть слишком переполнена, пожалуйста, попробуйте позже позже</string>
@@ -5328,7 +5328,7 @@
     <string name="novel_chapter_no_update">Номана глава уже последняя</string>
     <string name="novel_chapter_offline">Не в сети</string>
     <string name="novel_chapter_unoffline">Не в автономном режиме</string>
-    <string name="novel_check_pay_status">Сеть не заставляет, пожалуйста, попробуйте позже позже</string>
+    <string name="novel_check_pay_status">Не соединения,попробуйте позже</string>
     <string name="novel_choose_favorite_book">Идите, чтобы выбрать свою любимую книгу.</string>
     <string name="novel_close_ad_video">Закрыть объявление</string>
     <string name="novel_close_cancel_btn">продолжить чтение</string>
@@ -5362,7 +5362,7 @@
     <string name="novel_comment_title_tieba">Обзор книги пост-бар</string>
     <string name="novel_common_cancel">Oтмена</string>
     <string name="novel_common_delete">удалять</string>
-    <string name="novel_common_net_error">Сеть не заставляет, пожалуйста, попробуйте позже позже</string>
+    <string name="novel_common_net_error">Не соединения,попробуйте позже</string>
     <string name="novel_common_no_sdcard">Невозможно распознать SD-карту</string>
     <string name="novel_common_select_all">выбрать все</string>
     <string name="novel_count_down_time120">120</string>
@@ -5400,7 +5400,7 @@
     <string name="novel_download_open">Открыть немедленно</string>
     <string name="novel_download_pause">Пауза</string>
     <string name="novel_download_resume">Продолжить</string>
-    <string name="novel_download_retry">Повторение</string>
+    <string name="novel_download_retry">Обновить</string>
     <string name="novel_download_searchbox_known">я понимаю</string>
     <string name="novel_download_speech_lib_dialog_install">скачать</string>
     <string name="novel_download_speech_lib_dialog_later">Потом</string>
@@ -5475,7 +5475,7 @@
     <string name="novel_native_refresh_jump_text">Обновить сейчас</string>
     <string name="novel_native_source_website_button">Оригинальный сайт</string>
     <string name="novel_native_sun_mode">Дневное время</string>
-    <string name="novel_net_error">Сеть не заставляет, пожалуйста, попробуйте позже позже</string>
+    <string name="novel_net_error">Не соединения,попробуйте позже</string>
     <string name="novel_new">возобновить</string>
     <string name="novel_new_act_adopt_bonus">набрал%dНаграда</string>
     <string name="novel_new_act_countdown_day">Прочитайте снова сегодня%dМинутная награда</string>
@@ -5663,7 +5663,7 @@
     <string name="novel_text_free_chapter">%sглава</string>
     <string name="novel_text_free_time">%sминута</string>
     <string name="novel_tts_change_to_online_better">Чтение вслух, используя онлайн-чтение Lang</string>
-    <string name="novel_tts_no_net_cannot_change_mode">Сеть не заставляет, переключаться на вас в автономный режим чтения</string>
+    <string name="novel_tts_no_net_cannot_change_mode">Нет соединения, переключаться на вас в автономный режим чтения</string>
     <string name="novel_txt_file_no_exists_tips">Не могу получить этот файл, вы не можете открыть</string>
     <string name="novel_txt_src">Внешний импорт</string>
     <string name="novel_under_shelf">Палуба</string>
@@ -5775,7 +5775,7 @@
     <string name="ocr_to_word_export_fail_tips_invalid">Oтмена</string>
     <string name="ocr_to_word_export_fail_tips_middle">Не удалось экспортировать документ, пожалуйста, попробуйте еще раз</string>
     <string name="ocr_to_word_export_fail_tips_top">Провал экспорта</string>
-    <string name="ocr_to_word_export_fail_tips_valid">Повторение</string>
+    <string name="ocr_to_word_export_fail_tips_valid">Обновить</string>
     <string name="ocr_to_word_export_success">Экспорт успехов!Был сохранен:%s</string>
     <string name="ocr_to_word_export_success_tips_invalid">Потом</string>
     <string name="ocr_to_word_export_success_tips_middle">Дополнительные документы экспорта были сохранены для вас</string>
@@ -5957,7 +5957,7 @@
     <string name="p2pshare_dataline_try_detection_2">2.Убедитесь, что телефон и компьютер одинаковы</string>
     <string name="p2pshare_dataline_try_detection_3">3.Повторите попытку в сетевом интерфейсе клиентских данных</string>
     <string name="p2pshare_dataline_uname">%sКомпьютерный</string>
-    <string name="p2pshare_dataline_wifi_scanner_replay">Повторение</string>
+    <string name="p2pshare_dataline_wifi_scanner_replay">Обновить</string>
     <string name="p2pshare_device_connecting_dialog_help">"Если подключение к точке не удается: вы можете:\"1.Поместите обе стороны одной и той же локальной сети\"2.Загрузите файл, который будет передан на сетевой диск Baidu, передайте через облако"</string>
     <string name="p2pshare_device_connecting_dialog_quit">Это связано с устройством?</string>
     <string name="p2pshare_device_local_transfer_record_button">Нажмите локальный файл</string>
@@ -6044,7 +6044,7 @@
     <string name="panlink_sending">Передача, пожалуйста, подождите ...</string>
     <string name="panlink_title_default">Передача файлов</string>
     <string name="parent_path_added">Эта папка была добавлена</string>
-    <string name="pass_bio_alert_dialog_btn_again">Повторение</string>
+    <string name="pass_bio_alert_dialog_btn_again">Обновить</string>
     <string name="pass_bio_alert_dialog_btn_back">покидать</string>
     <string name="pass_bio_alert_dialog_btn_cancel">Oтмена</string>
     <string name="pass_bio_alert_dialog_btn_go_setting">Установленный</string>
@@ -6056,7 +6056,7 @@
     <string name="pass_bio_error_msg_image_file_empty">Получение отказа изображения лица</string>
     <string name="pass_bio_error_msg_liveness_recognize_time_out">Распознавание лица не удалось, убедитесь, что свет достаточно или заменяется после устройства</string>
     <string name="pass_bio_error_msg_may_be_no_camera_permission">Открыть сбой камеры, пожалуйста, проверьте, есть ли разрешение камеры</string>
-    <string name="pass_bio_error_msg_network_unavailable">Сеть не заставляет, пожалуйста, попробуйте позже позже</string>
+    <string name="pass_bio_error_msg_network_unavailable">Не соединения,попробуйте позже</string>
     <string name="pass_bio_error_msg_no_login">Пользователь не вошел в систему</string>
     <string name="pass_bio_error_msg_open_camera_failure">Разрешения на камеру в настройках, используйте функцию распознавания человеческого лица</string>
     <string name="pass_bio_error_msg_param">Ошибка параметра, пожалуйста, проверьте, является ли параметр законным</string>
@@ -6396,7 +6396,7 @@
     <string name="player_common_replay">Воспроизводитель</string>
     <string name="player_common_share">Поделиться</string>
     <string name="player_message_network_3g">Воспроизведение потока</string>
-    <string name="player_message_network_down">Сеть не заставляет, пожалуйста, попробуйте позже позже</string>
+    <string name="player_message_network_down">Не соединения,попробуйте позже</string>
     <string name="player_message_network_wifi">"Переключился на сеть Wi-Fi,Пожалуйста, не стесняйтесь смотреть"</string>
     <string name="player_screen_adjust_disable">Экран адаптации</string>
     <string name="player_screen_adjust_enable">Полноэкранный</string>
@@ -6504,7 +6504,7 @@
     <string name="privilege_only_for_svip">Супер-VIP эксклюзивный</string>
     <string name="privilege_only_for_vip">VIP</string>
     <string name="privilege_remain">Иметь %d Использовать</string>
-    <string name="privilege_retry">Повторение</string>
+    <string name="privilege_retry">Обновить</string>
     <string name="privilege_setting">Сумма использования</string>
     <string name="privilege_setting_count">выбранный %d открытым</string>
     <string name="privilege_tips_start">Клиенты могут наслаждаться скоростью скачать и одиночную консервацию</string>
@@ -7030,9 +7030,9 @@
     <string name="result_permission_dialog_confirm">Установленный</string>
     <string name="result_quick_setting_permission_dialog_content">Не предоставляйте разрешения сетевого диска Baidu% S, пожалуйста, разрешите страницу настроек, в противном случае она повлияет на некоторые функции.</string>
     <string name="retrieve_pwd">Получить пароль</string>
-    <string name="retry">Повторение</string>
-    <string name="retry_button_text">Повторение</string>
-    <string name="retry_convert">Повторение</string>
+    <string name="retry">Обновить</string>
+    <string name="retry_button_text">Обновить</string>
+    <string name="retry_convert">Обновить</string>
     <string name="revert_default_sms_app_dialog_btn">Восстановить разрешения сейчас</string>
     <string name="revert_default_sms_app_dialog_des">Если вам нужно использовать функцию SMS, выберите «Да» в следующем всплывающем окне, восстановите, перед разрешениями приложения SMS по умолчанию</string>
     <string name="revert_default_sms_app_dialog_title">Настройки разрешений</string>
@@ -7041,7 +7041,7 @@
     <string name="right_bar_deccode_hw_mode">Жесткое решение (рекомендуется)</string>
     <string name="right_bar_deccode_sw_mode">Мягкое решение</string>
     <string name="right_bar_decode_mode">Настройки декодирования:</string>
-    <string name="rim_base__no_network">Сеть не заставляет, пожалуйста, попробуйте позже позже</string>
+    <string name="rim_base__no_network">Не соединения,попробуйте позже</string>
     <string name="rim_base_action_bar_text_close">закрытие</string>
     <string name="rim_base_action_bar_text_refresh">Обновить</string>
     <string name="rim_base_action_bar_text_return">возвращение</string>
@@ -7074,11 +7074,11 @@
     <string name="rim_face_video_tips_start_resocrd">Быть записывающим</string>
     <string name="rim_liveness_cancle">Oтмена</string>
     <string name="rim_liveness_network_set">Настройки</string>
-    <string name="rim_liveness_no_network_tip">Сеть не заставляет, пожалуйста, попробуйте позже позже</string>
+    <string name="rim_liveness_no_network_tip">Не соединения,попробуйте позже</string>
     <string name="rim_liveness_video_put_face_round">Пожалуйста, двигайте свое лицо в коробку</string>
     <string name="rim_liveness_video_tofar_from_camera">Пожалуйста, сделайте близкий момент</string>
     <string name="rim_liveness_video_tonear_from_camera">Пожалуйста, отличайте от сейчас</string>
-    <string name="rim_no_network">Сеть не заставляет, пожалуйста, попробуйте позже позже</string>
+    <string name="rim_no_network">Не соединения,попробуйте позже</string>
     <string name="rim_resolve_error">Система имеет небольшую разницу, подождать некоторое время, попробуйте еще раз.</string>
     <string name="rim_ssl">Нет соединения, может быть вызвано неверными настройками мобильных данных</string>
     <string name="rim_timeout_error">Превышен интервал ожидания,проверьте сеть и попробуйте снова</string>
@@ -7795,7 +7795,7 @@
     <string name="share_link_feedback_succeed_status">Обратная связь успешна</string>
     <string name="share_link_feedback_succeed_tips">Успех обратной связи, мы справимся как можно скорее</string>
     <string name="share_link_modify_success">Срок действия успешен</string>
-    <string name="share_link_network_connect_error">Сетевое соединение не удалось, пожалуйста, попробуйте позже</string>
+    <string name="share_link_network_connect_error">Нет соединения, попробуйте позже</string>
     <string name="share_link_pwd_code">%1$s Link:%2$s Извлечь код:%3$s</string>
     <string name="share_link_server_error">Сервер на небольшом, пожалуйста, попробуйте позже.</string>
     <string name="share_link_simple">Обмен ссылками</string>
@@ -8337,7 +8337,7 @@
     <string name="swanapp_login_fail">Авторизация не удалась</string>
     <string name="swanapp_login_getphonenum_tip">Добро пожаловать в счет Baidu</string>
     <string name="swanapp_login_loading">загрузка...</string>
-    <string name="swanapp_login_not_internet">Сеть не заставляет</string>
+    <string name="swanapp_login_not_internet">Нет соединения</string>
     <string name="swanapp_login_with_other_phone">Заменить номер мобильного телефона</string>
     <string name="swanapp_menu_font_setting">Шрифт</string>
     <string name="swanapp_message_setting_title">Настройка сообщений</string>
@@ -8382,8 +8382,8 @@
     <string name="swanapp_tip_get_pkg_poor_net">Сеть не сильна, пожалуйста, ждите терпеливо</string>
     <string name="swanapp_tip_load_fail">Загрузить медленно, пожалуйста, подождите терпеливо или перезапустите апплет</string>
     <string name="swanapp_tip_loading_slow">Пожалуйста, подождите терпеливо или попробуйте снова позже</string>
-    <string name="swanapp_tip_net_unavailable">Сеть не заставляет, пожалуйста, попробуйте позже позже</string>
-    <string name="swanapp_tip_request_bad_network">Сеть не заставляет, пожалуйста, подождите терпеливо или перезапустите апплет</string>
+    <string name="swanapp_tip_net_unavailable">Не соединения,попробуйте позже</string>
+    <string name="swanapp_tip_request_bad_network">Нет соединения, пожалуйста, подождите терпеливо или перезапустите апплет</string>
     <string name="swanapp_tip_request_default">Пожалуйста, подождите терпеливо или перезапустите апплет</string>
     <string name="swanapp_tip_request_fail">Открытие обслуживания, пожалуйста, подождите терпеливо или перезапустите апплет</string>
     <string name="swanapp_tip_request_slow">Медленный ответ обслуживания, пожалуйста, подождите терпеливо или перезапустите апплет</string>
@@ -8869,7 +8869,7 @@
     <string name="tradeplatform_main_hall_on_sale">Продажа с ограниченным сроком</string>
     <string name="tradeplatform_main_hall_shop">магазин качества</string>
     <string name="tradeplatform_main_hall_title">Торговый зал</string>
-    <string name="tradeplatform_main_loading_error">Сбой загрузки, проверьте сеть или перезагрузите</string>
+    <string name="tradeplatform_main_loading_error">Сбой загрузки, проверьте соединение</string>
     <string name="tradeplatform_make_recommend">Известные люди</string>
     <string name="tradeplatform_media_cache">Кэш</string>
     <string name="tradeplatform_media_cache_already">Кэширование успешно</string>
@@ -8993,7 +8993,7 @@
     <string name="tradeplatform_recently_updated">Недавно обновлено</string>
     <string name="tradeplatform_recommend_hits">Лучшие рекомендации</string>
     <string name="tradeplatform_refresh">Обновить страницу</string>
-    <string name="tradeplatform_reload">Перезагрузка</string>
+    <string name="tradeplatform_reload">Обновить</string>
     <string name="tradeplatform_renew_now">Обновить сейчас</string>
     <string name="tradeplatform_replay">Воспроизведение</string>
     <string name="tradeplatform_resource_too_low">Ваш отзыв получен</string>
@@ -9045,7 +9045,7 @@
     <string name="tradeplatform_video_obtain_now">Смотреть</string>
     <string name="tradeplatform_video_play_now">Воспроизвести</string>
     <string name="tradeplatform_video_refresh">Обновить</string>
-    <string name="tradeplatform_video_reloading">Перезагрузка</string>
+    <string name="tradeplatform_video_reloading">Обновить</string>
     <string name="tradeplatform_video_trial_finished">Пробная часть воспроизведения завершена После покупки вы можете Посмотреть все замечательные видео</string>
     <string name="tradeplatform_video_trial_is_empty">Мне очень жаль, нет прогрммы</string>
     <string name="tradeplatform_video_try">Попробовать</string>
@@ -9081,7 +9081,7 @@
     <string name="trans_assistant_invite_share">Отправить коллекцию своим друзьям</string>
     <string name="trans_assistant_invite_share_title">Удаленный прием документа</string>
     <string name="trans_assistant_pop_doc">Инструкция по применению</string>
-    <string name="trans_assistant_reload">Перезагрузка</string>
+    <string name="trans_assistant_reload">Обновить</string>
     <string name="trans_assistant_save_code">Сохранить QR код</string>
     <string name="trans_assistant_save_code_desc">Обновление каждый день 00:00, обновите исходный QR-код сбоя</string>
     <string name="trans_assistant_save_code_error">Сохранить код QR не удался, попробуйте еще раз</string>
@@ -9322,7 +9322,7 @@
     <string name="transfer_dialog_agree">подтверждать</string>
     <string name="transfer_dialog_checkbox">Я прочитал и согласился с «соглашением о передаче прав», «Соглашение об услуге Baidu» «Соглашение о конфиденциальности» «Секретное соглашение« Секретное соглашение »,« Соглашение о продлении », которое реализует службу сетевого диска Baidu для реализации« сетевого сервиса Baidu ».Соглашение".</string>
     <string name="transfer_dialog_context">Уважаемые пользователи сети Baidu Network Disk: Для того, чтобы позволить вам насладиться лучшим, профессиональным облачным хранением, операция сетевого диска Baidu будет мигрирована из Пекин Baidu Net News Technology Co., Ltd.Beijing Shengyou Technology Co., Ltd.далее именуемый «компанией»).Эта оперативная основная миграция не влияет на содержимое сервисов и акций пользователя Baidu Network Disk.</string>
-    <string name="transfer_download_list_empty">Пока нет загрузок</string>
+    <string name="transfer_download_list_empty">Список загрузок пуст</string>
     <string name="transfer_download_path">Путь загрузки:: %1$s ></string>
     <string name="transfer_error">Не удалось сохранить</string>
     <string name="transfer_error_by_network">Ошибка сети, не удалось сохранить</string>
@@ -9430,8 +9430,8 @@
     <string name="ufo_feedback_refresh_quota_success">Обновить успех, ожидайте%1$dЭто вступает в силу через минуту</string>
     <string name="ufo_feedback_refresh_quota_tomorrow">Вы уже обновились</string>
     <string name="ui_loading">Загрузка ...</string>
-    <string name="ui_no_network_retry">Сеть не заставляет, нажмите, чтобы попробовать еще раз</string>
-    <string name="ui_retry">Повторение</string>
+    <string name="ui_no_network_retry">Нет соединения, нажмите, чтобы попробовать еще раз</string>
+    <string name="ui_retry">Обновить</string>
     <string name="unbound_desc">Текущий счет не связан с номером мобильного телефона, существует риск безопасности, пожалуйста, свяжите номер мобильного телефона, а затем работайте.</string>
     <string name="unbound_title">Вы еще не связываете свой номер мобильного телефона</string>
     <string name="union_pay_backpress_cancel">union_pay_backpress_cancel</string>
@@ -11231,7 +11231,7 @@
     <string name="err_no_authentication_tips">Вы еще не провели настоящие сертификаты имени.~</string>
     <string name="err_no_product">Сегодняшние товары были распроданы~</string>
     <string name="err_server_tips">Деятельность слишком горячая, пожалуйста, попробуйте позже позже~</string>
-    <string name="exeception_network">Сеть не заставляет, пожалуйста, попробуйте позже позже</string>
+    <string name="exeception_network">Не соединения,попробуйте позже</string>
     <string name="expand_capacity">Пространство расширения</string>
     <string name="file_store_in">Пожалуйста, сначала храните этот файл на сетевом диске.~</string>
     <string name="filemanager_add_running_desc">Добавлять...</string>
@@ -11308,9 +11308,9 @@
     <string name="ksad_page_loading_data_error_sub_title">Содержание сбора контента не удалось, пожалуйста, нажмите Retry</string>
     <string name="ksad_page_loading_data_error_title">Пустой</string>
     <string name="ksad_page_loading_data_limit_error_title">Сегодняшний прекрасный контент был закончен, пожалуйста, вернитесь завтра.</string>
-    <string name="ksad_page_loading_error_retry">Повторение</string>
+    <string name="ksad_page_loading_error_retry">Обновить</string>
     <string name="ksad_page_loading_network_error_sub_title">Пожалуйста, проверьте сетевое соединение</string>
-    <string name="ksad_page_loading_network_error_title">Сеть не заставляет</string>
+    <string name="ksad_page_loading_network_error_title">Нет соединения</string>
     <string name="ksad_photo_hot_enter_label_text">горячий</string>
     <string name="ksad_photo_hot_enter_watch_count_format">%1$s Люди смотрят</string>
     <string name="ksad_photo_hot_scroll_more_hot_label">Hottest:</string>
@@ -12060,7 +12060,7 @@ Baidu Network Disk лучше из-за вас"</string>
     <string name="enterprise_space_name">Корпоративная версия-%1s</string>
     <string name="enterprise_tial_package_content">Бизнес пакет%sДень истекает</string>
     <string name="enterprise_unsupport_actoion_tips">Пожалуйста, переключите свой сетевой диск в свое личное пространство, а затем работайте</string>
-    <string name="feedback_network_tips">Сеть не заставляет, пожалуйста, попробуйте позже позже</string>
+    <string name="feedback_network_tips">Не соединения,попробуйте позже</string>
     <string name="feedback_start_host_service_fail">Запуск интерфейс не удался</string>
     <string name="feedback_title_edit">Обратная связь</string>
     <string name="feedback_titlebar_function_text">Мои отзывы</string>
@@ -12145,7 +12145,7 @@ Baidu Network Disk лучше из-за вас"</string>
     <string name="nad_bd_video_switch_fullscreen_tip">Полноэкранный просмотр экрана лучше</string>
     <string name="nad_bdvideoplayer_btn_net_error_retry">Нажмите, чтобы попробовать</string>
     <string name="nad_bdvideoplayer_tip_kernel_error">Воспроизведение видео не удалось</string>
-    <string name="nad_bdvideoplayer_tip_net_error">Сеть не заставляет, пожалуйста, попробуйте позже позже</string>
+    <string name="nad_bdvideoplayer_tip_net_error">Не соединения,попробуйте позже</string>
     <string name="nad_button_already_download">Загруженный</string>
     <string name="nad_button_cancel">Отмена</string>
     <string name="nad_button_continue">Продолжить скачать</string>
@@ -12175,7 +12175,7 @@ Baidu Network Disk лучше из-за вас"</string>
     <string name="nad_dialog_translate_alert_title">намекать</string>
     <string name="nad_dialog_translate_chinese">середина</string>
     <string name="nad_dialog_translate_failed_toast">Текущая страница не поддерживает перевод</string>
-    <string name="nad_dialog_translate_network_error">Сеть не заставляет, пожалуйста, попробуйте позже позже</string>
+    <string name="nad_dialog_translate_network_error">Не соединения,попробуйте позже</string>
     <string name="nad_dialog_translate_normal">перевести</string>
     <string name="nad_dialog_translate_not_ready_toast">В переводе, пожалуйста, попробуйте позже.</string>
     <string name="nad_dialog_webcall_common_title">Подсказка на веб-странице</string>
@@ -12191,7 +12191,7 @@ Baidu Network Disk лучше из-за вас"</string>
     <string name="nad_download_install">установить сейчас</string>
     <string name="nad_download_lp_forbid_tip">Приложения третьей сторонней страницы не рассмотрены</string>
     <string name="nad_download_lp_tip">Советы: Вы посетили третью сторону страницы</string>
-    <string name="nad_download_net_tip">Сеть не заставляет, пожалуйста, попробуйте позже позже</string>
+    <string name="nad_download_net_tip">Не соединения,попробуйте позже</string>
     <string name="nad_download_open">Открой сейчас</string>
     <string name="nad_download_pause">Пауза</string>
     <string name="nad_download_paused">Загрузка была приостановлена</string>
@@ -12220,7 +12220,7 @@ Baidu Network Disk лучше из-за вас"</string>
     <string name="nad_load_more_label">загрузка</string>
     <string name="nad_loading">Попробуйте загрузить</string>
     <string name="nad_mini_video_detail_ad_replay">Нажмите, чтобы воспроизвести</string>
-    <string name="nad_net_error">Сеть не заставляет, пожалуйста, попробуйте позже позже</string>
+    <string name="nad_net_error">Не соединения,попробуйте позже</string>
     <string name="nad_net_error_retry_bt">Нажмите, чтобы попробовать</string>
     <string name="nad_ng_copy">скопировать</string>
     <string name="nad_ng_error_word_report">Ошибка обратной связи</string>
@@ -12240,7 +12240,7 @@ Baidu Network Disk лучше из-за вас"</string>
     <string name="nad_player_brightness">яркость</string>
     <string name="nad_player_common_share">Поделиться</string>
     <string name="nad_player_message_network_3g">Воспроизведение потока</string>
-    <string name="nad_player_message_network_down">Сеть не заставляет, пожалуйста, попробуйте позже позже</string>
+    <string name="nad_player_message_network_down">Не соединения,попробуйте позже</string>
     <string name="nad_player_message_network_wifi">"Переключился на сеть Wi-Fi,
 Пожалуйста, не стесняйтесь смотреть"</string>
     <string name="nad_player_screen_adjust_enable">Полноэкранный</string>
