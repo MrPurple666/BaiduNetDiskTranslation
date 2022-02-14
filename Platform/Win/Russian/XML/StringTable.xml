@@ -1403,4 +1403,20 @@
   <String id="IDS_RESTART_NOW" value="Перезагрузить сейчас" />
   <String id="IDS_SYNC_ICON_SOLVE_QUESTION_TIP" value="Перезапуск не показал состояние синхронизации файлов, конкретное решение, см." />
   <String id="IDS_SYNC_HELP_CENER_TIP" value="Центр помощи" />
+
+  <String id="IDS_LINK_GET_PASSWORD_TYPE" value="Метод добычи:" />
+  <String id="IDS_AUTO_FILL_LINK_PASSWORD" value="Поделиться ссылку Автоматический код экстракции населения" />
+  <String id="IDS_AUTO_FILL_LINK_PASSWORD_TIP" value="После открытия ссылка обмена не нужно вводить код извлечения, вы можете напрямую просмотреть файл обмена." />
+  <String id="IDS_AUTO_FILL_PASSWORD_LINK_COPY_SUCCESS" value="Общие ссылки были скопированы, посетители не нужно извлечь код напрямую для просмотра файлов для обмена" />
+  <!--Краткие настройки загрузки-->
+  <String id="IDS_QUICKUPLOAD_SETTING" value="Быстрая загрузка" />
+  <String id="IDS_QUICKUPLOAD_SETTING_START_TITLE" value="Быстрый плагин загрузки:" />
+  <String id="IDS_QUICKUPLOAD_SETTING_START" value="Когда сетевой диск работает, запустите плагин" />
+  <String id="IDS_QUICKUPLOAD_HOTKEY_TITLE" value="Клавищы сокращения:" />
+  <String id="IDS_QUICKUPLOAD_HOTKEY_TYPE" value="Держите колесо мыши или Ctrl+1" />
+  <String id="IDS_QUICKUPLOAD_TIPS" value="Подсказки:" />
+  <String id="IDS_QUICKUPLOAD_WECHAT_TIPS" value="1.Изображение WECHAT или браузера/Документ, первая копия, затем вызвать ярлыки" />
+  <String id="IDS_QUICKUPLOAD_SELECT_TIPS" value="2.Если файл не обновляется после выбора файла, пожалуйста, скопируйте файл и попробуйте снова." />
+  <String id="IDS_QUICKUPLOAD_TASK_CREATE_TIP" value="Добавлено в список загрузки" />
+
 </StringTable>
