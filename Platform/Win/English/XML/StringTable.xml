@@ -1397,11 +1397,28 @@
   <String id="IDS_WORKSPACE_CHANGE_LOCAL_SYNC_PACH_SAME_TIP"  value="The original synchronization path is the same as the selected synchronization path, please select" />
   <String id="IDS_WORKSPACE_LOCAL_SYNC_SET"  value="Go to set up" />
   
-  <!--商业化-->
+  <!--commercialize-->
   <String id="IDS_PRODUCT_RECOMMEND_SETTING" value="Product recommendation setting:" />
-  <!--重启资源管理器-->
+  <!--Restart the resource manager-->
   <String id="IDS_RESTART_EXPLORER" value="The local file is not synchronized?Restart the resource manager try?"/>
   <String id="IDS_RESTART_NOW" value="Restart now" />
   <String id="IDS_SYNC_ICON_SOLVE_QUESTION_TIP" value="Restart has not shown file synchronization status, specific solution, please see" />
   <String id="IDS_SYNC_HELP_CENER_TIP" value="Help Center" />
+    <!--Automatic population extract-->
+  <String id="IDS_LINK_GET_PASSWORD_TYPE" value="Extraction method:" />
+  <String id="IDS_AUTO_FILL_LINK_PASSWORD" value="Share link automatic population extraction code" />
+  <String id="IDS_AUTO_FILL_LINK_PASSWORD_TIP" value="After opening, the sharing link does not need to enter the extraction code, you can directly view the sharing file." />
+  <String id="IDS_AUTO_FILL_PASSWORD_LINK_COPY_SUCCESS" value="Sharing links have been copied, visitors do not need to extract the code directly to view sharing files" />
+  
+  <!--Quick upload settings-->
+  <String id="IDS_QUICKUPLOAD_SETTING" value="Fast upload" />
+  <String id="IDS_QUICKUPLOAD_SETTING_START_TITLE" value="Quick upload plugin:" />
+  <String id="IDS_QUICKUPLOAD_SETTING_START" value="When the network disk is running, start the plugin" />
+  <String id="IDS_QUICKUPLOAD_HOTKEY_TITLE" value="HOTKEY Shortcut:" />
+  <String id="IDS_QUICKUPLOAD_HOTKEY_TYPE" value="Long press the mouse or CTRL + 1" />
+  <String id="IDS_QUICKUPLOAD_TIPS" value="TIPS:" />
+  <String id="IDS_QUICKUPLOAD_WECHAT_TIPS" value="1.The picture / file in the web or browser, first copy, then evoke shortcuts" />
+  <String id="IDS_QUICKUPLOAD_SELECT_TIPS" value="2.If the file is not upgraded after selecting the file, please copy the file and try again." />
+  <String id="IDS_QUICKUPLOAD_TASK_CREATE_TIP" value="Added to upload list" />
+
 </StringTable>

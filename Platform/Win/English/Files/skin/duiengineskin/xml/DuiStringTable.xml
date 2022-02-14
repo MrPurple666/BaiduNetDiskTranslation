@@ -979,7 +979,9 @@
   <s id="2192">Blank document</s>
   <s id="2193">More templates</s>
   <s id="2194">Batch Rename</s>
-  <!--地址栏-->
+  <s id="2195">Cloud editing</s>
+
+  <!--Address Bar-->
   <s id="2200">My network drive</s>
   <s id="2201">Safe</s>
   <s id="2202">Search results</s>
@@ -1314,7 +1316,11 @@
   <s id="3452">Download</s>
   <s id="3453">Network failure</s>
   <s id="3454">Replay</s>
-
+  <!--Cloud editing function-->
+  <s id="3480">Cloud editing</s>
+  <s id="3481">Network failure</s>
+  <s id="3482">Retry</s>
+  
   <!--Scan code to open file dialog-->
   <s id="3500">Mobile phone scan code to view</s>
   <s id="3501">Scan and view on mobile phone</s>
@@ -1508,7 +1514,13 @@
   <s id="4089">Multi-brand safe, accurate, fast and low price</s>
   <s id="4090">Game Center</s>
   <s id="4091">Popular games</s>
-
+  <s id="4092">企业认证</s>
+  <s id="4093">团队共享协作，对外安全分享</s>
+  <s id="4094">企业认证限时免费</s>
+  <s id="4095">团队协作更高效，对外分享安全且权威</s>
+  <s id="4096">去认证</s>
+  <s id="4097">云编辑</s>
+  <s id="4098">随时随地，编辑图片</s>
   <!-- Navigation bar widget -->
   <s id="4100">File cleanup</s>
   <s id="4101">Automatic backup</s>
@@ -1757,6 +1769,7 @@
   <s id="4587">The network disk capacity is insufficient, the file recovery failed, please</s>
   <s id="4588">Expand</s>
   <s id="4589">Request</s>
+  <s id="4590">Preparing data, please wait patiently</s>
   <!-- File page -->
   <s id="4559">What can I do?</s>
   <s id="4600">Add a network disk file</s>
@@ -1996,6 +2009,15 @@
   <s id="5028">Switch account</s>
   <s id="5029">Space expansion</s>
 
+  <!--Traffic package-->
+  <s id="5040">Confirm that it is immediately used</s>
+  <s id="5041">Detecting a file is being downloaded, is it immediately using 1G speed traffic?</s>
+  <s id="5042">This will deduct traffic consumed by all file size</s>
+  <s id="5043">Speed traffic</s>
+  <s id="5044">Extend</s>
+  <s id="5045">Enjoy the speed of speed traffic</s>
+  <s id="5046">download(%s)</s>
+  <s id="5047">Buy a fuel bag</s>
   <!--Synchronization directory is a U disk or network drive-->
   <s id="5060">The current synchronization directory is a U disk/Mobile hard drives, plugging equipment is easy to cause synchronous abnormalities, and it is recommended to replace it with a computer directory.</s>
   <s id="5061">The network drive has now set to the synchronous directory, to avoid synchronous exceptions, please replace it with a computer directory</s>
@@ -2005,5 +2027,38 @@
   <s id="5070">Share prompt</s>
   <s id="5071">Open "Automatic Fill Extraction Code"</s>
   <s id="5072">Visitors click on the link to view the sharing file directly.</s>
-
+   <!--research all-->
+  <s id="5080">File name%d item）</s>
+  <s id="5081">File content related %d item）</s>
+  <s id="5082">(File name related %d Item, file content %d item）</s>
+  <s id="5083">(File name related %d +item）</s>
+  
+  <!--Quick upload plugin-->
+  <s id="5100">Baidu network disk fast upload</s>
+  <s id="5101">Upload to: My network disk</s>
+  <s id="5102">Select save location</s>
+  <s id="5103">Open Baidu network disk</s>
+  <s id="5104">Upload files in clipboard</s>
+  <s id="5105">Custom location</s>
+  <s id="5106">Recently selected folder</s>
+  <s id="5107">talk about it later</s>
+  <s id="5108">One-button open</s>
+  <s id="5109">Web disk fast</s>
+  <s id="5110">The network disk is fast online.</s>
+  <s id="5111">Turn off this feature in [Setting - Quick Upload] after opening.</s>
+  <s id="5112">Upload more convenient after opening, come and experience</s>
+  <s id="5113">Wait%dFile</s>
+  <s id="5114">Expressfully connected to the inner plugin</s>
+  <s id="5115">You can set up in the setting - fast upload</s>
+  <s id="5116">Save to the current directory</s>
+  
+  <s id="5200">Other computer equipment, mobile phone APP terminals and network disk clouds will be deleted%s, If you need to cancel the delete, you can restore from the synchronous space recycle station</s>
+  <s id="5201">Other files</s>
+  <s id="5202">Deleted files are deleted in all locations</s>
+  <s id="5203">Open recycle bin</s>
+  <s id="5204">Not in prompt</s>
+  <s id="5205">You currently recover 2 historical versions recently updated, open super members or work packages Enjoy 100 historical versions</s>
+  <s id="5206">Distinguished Super Member, you have enjoyed each file to keep 100 historical version privileges</s>
+  <s id="5207">Work Package Users have enjoyed each file to keep 100 historical versions of privileges</s>
+    
 </string>
