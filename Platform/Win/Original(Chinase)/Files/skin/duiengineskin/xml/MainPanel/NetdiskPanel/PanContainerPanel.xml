@@ -10,6 +10,7 @@
   </dlg>
   <!-- 加速相关引导提示-->
   <dlg name="pan_speedup_tip_panel" pos="-560,-102,-20,-34" skin="speeduptippanel_bg" show="0">
+    <img name="guide_speedup_recommend_icon" pos="0,0,@36,@18" skin="speeduptippanel_recommend_icon" show="0"></img>
     <img name="guide_speedup_img" pos="14,26,@15,@15" skin="speeduptippanel_smile"></img>
     <link name="guide_speedup_tip" pos="37,26" class="cls_speedup_tip_txt"></link>
     <imgbtn name="speedup_btn1" pos="[20,14,@132,@40" class="cls_speedup_btn_txt" show="0"></imgbtn>

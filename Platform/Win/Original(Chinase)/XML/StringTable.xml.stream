@@ -1404,4 +1404,14 @@
   <String id="IDS_AUTO_FILL_LINK_PASSWORD" value="分享链接自动填充提取码" />
   <String id="IDS_AUTO_FILL_LINK_PASSWORD_TIP" value="开启后，分享链接无需输入提取码，可直接查看分享文件。" />
   <String id="IDS_AUTO_FILL_PASSWORD_LINK_COPY_SUCCESS" value="分享链接已复制，访问者无需提取码可直接查看分享文件" />
+  <!--快捷上传设置-->
+  <String id="IDS_QUICKUPLOAD_SETTING" value="快捷上传" />
+  <String id="IDS_QUICKUPLOAD_SETTING_START_TITLE" value="快捷上传插件：" />
+  <String id="IDS_QUICKUPLOAD_SETTING_START" value="网盘运行时启动插件" />
+  <String id="IDS_QUICKUPLOAD_HOTKEY_TITLE" value="唤起快捷键：" />
+  <String id="IDS_QUICKUPLOAD_HOTKEY_TYPE" value="长按鼠标滚轮 或 Ctrl+1" />
+  <String id="IDS_QUICKUPLOAD_TIPS" value="提示：" />
+  <String id="IDS_QUICKUPLOAD_WECHAT_TIPS" value="1.微信或浏览器内的图片/文件，先复制后，再唤起快捷键" />
+  <String id="IDS_QUICKUPLOAD_SELECT_TIPS" value="2.若选中文件后没有调起上传面板，请复制该文件后再试" />
+  <String id="IDS_QUICKUPLOAD_TASK_CREATE_TIP" value="已添加至上传列表" />
 </StringTable>

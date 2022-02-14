@@ -314,7 +314,13 @@
       <IBGVeins drawStyle="DRAWMODE_33Mesh_TILE" file="Resource:MainFrame\SettingDlg\background_tip.png" veinsRect="0, 0, 16, 16" stretchArea="3, 3, 13, 13"/>
     </Property>
   </Config>
-     
+  
+  <Config name="QuickUploadSettingTipPanel" interface="IBGRegionPanel">
+    <Property name="bkground">
+      <IBGVeins drawStyle="DRAWMODE_33Mesh_TILE" file="Resource:MainFrame\SettingDlg\quickupload_tip_bg.png" veinsRect="0, 0, 226, 32" stretchArea="3, 3, 13, 13"/>
+    </Property>
+  </Config>
+  
   <Config name="ErrorTipPanel" interface="IBGRegionPanel">
 	<Property name="bkground">
 	   <IBGVeins drawStyle="DRAWMODE_33Mesh_TILE" file="Resource:MainFrame\MainPanel\float_tip_bg.png"  veinsRect="0, 0, 56, 56" stretchArea="12, 10, 42, 45" transparent="true"/>

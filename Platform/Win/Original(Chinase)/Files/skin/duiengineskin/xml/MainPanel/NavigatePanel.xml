@@ -27,17 +27,18 @@
       <dlg name="dlg_tools" pos="0,-187,-1,@181">
         <hr pos="13,0,-13,0" size="1" crbg="EDEDED"/>
         <!-- 工具 -->
-        <listboxex name="listview_tools" pos="0,[1,-0,@180" virtual="1" itemheight="60">
+        <listboxex name="listview_tools" pos="0,[1,-0,@180" virtual="1" itemheight="65">
           <template>
             <dlg pos="0,0,-0,-0">
-              <imgbtn name="item_img_tool" pos="22,14,@24,@24" skin="function_lock_img" 
+              <imgbtn name="item_img_tool" pos="22,14,@32,@32" skin="function_lock_img" 
               cursor="arrow"/>
               <dlg name="dlg_sync_status" pos="0,0,@25,@16" msgtransparent="1">
-                  <img name="img_sync_status" pos="43,8,@20,@16" skin="titlepanel_redbg" show="0">
+                  <img name="img_sync_num" pos="43,8,@20,@16" skin="titlepanel_redbg" show="0">
                       <text name="txt_syncnum" pos="0,|-7,-0,@15" crtext="ffffff" font2="facename:Arial;adding:-1" align="center" valign="middle"></text>
                   </img>
+                  <img name="img_sync_status" pos="43,28,@14,@14" skin="titlepanel_redbg" show="0"/>
               </dlg>
-              <text name="item_txt_tool" pos="0,40,-0,-0" crtext="636D7E" font="0000:微软雅黑" align="center">%str1653%</text>
+              <text name="item_txt_tool" pos="0,52,-0,-0" crtext="636D7E" font="0000:微软雅黑" align="center">%str1653%</text>
             </dlg>
           </template>
         </listboxex>

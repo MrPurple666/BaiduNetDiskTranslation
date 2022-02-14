@@ -144,6 +144,7 @@
 					<!-- 提速提示区域 （用于正在上传，正在下载列表，历史记录列表，包括北京联通，安徽电信, VIP加速等）-->
 					<IBGRegionPanel name="SpeedupTipPannel" unseen="true" ncHitTest="1" size="0,68" dock="DOCK_TOP" config="SpeedupTipPannel">
 						<Children>
+							<IBGGIFControl name="RecommendIcon" dock="DOCK_NULL" margin="0, 0, 0, 0" image="Resource:MainFrame\\MainPanel\\SpeedupTip\\recommend_icon.png" size="36, 18"></IBGGIFControl>
 							<IBGGIFControl name="speedupImg" dock="DOCK_LEFT" margin="14, 26, 8, 27" image="Resource:MainFrame\\MainPanel\\SpeedupTip\\tip_smile.png" size="15, 15"></IBGGIFControl>
 							<IBGStaticEx name="speedupTip" autoCalcHeight="true" autoCalcWidth="true" dock="DOCK_LEFT" textClr="0x333333" margin="0, 26, 0, 24">
 								<Properties>

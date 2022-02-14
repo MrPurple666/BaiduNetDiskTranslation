@@ -9,11 +9,15 @@
       </caption>
 
       <!--文件列表视图-->
-      <dlg name="dlg_list_view" pos="0,38,-0,-35" show="0">
-        <header name="file_list_header" pos="1,0,-1,@30" checkSkin="listhead_check" itemSkin="listhead_btn" noitemSkin="listhead_bkg"
+      <dlg name="dlg_list_view" pos="0,36,-0,-35" show="0">
+        <dlg pos="1,0,-2,42" name="history_float" skin="workspace_history_frame">
+            <text pos="24,13" name="txt_history_guide" crtext="CC9029" font="0000:微软雅黑"></text>
+            <imgbtn name="btn_buy" pos="-84,7,@80,@28" skin="usercard_svip_btn" crtext="64360D" font="0000:微软雅黑" cursor="hand" show="0">%str1100%</imgbtn>
+        </dlg>
+        <header name="file_list_header" pos="1,42,-1,@30" checkSkin="listhead_check" itemSkin="listhead_btn" noitemSkin="listhead_bkg"
                 fixWidth="0" itemSwapEnable="0" sortHeader="1" sortSkin="listhead_arrow" check_txt_margin="12" crtext="757880" align="left">
         </header>
-        <dlg name="dlg_file_list" pos="0,30,-0,-0">
+        <dlg name="dlg_file_list" pos="0,72,-0,-0">
           <listboxex name="file_list_view" pos="0,0,-0,-0" itemheight="50" itemwidth="-1" virtual="1" frameskin="mainpanel_frame_select_bg">
             <template>
               <!--背景-->

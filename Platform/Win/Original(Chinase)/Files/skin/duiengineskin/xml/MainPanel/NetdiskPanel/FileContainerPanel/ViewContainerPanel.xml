@@ -4,10 +4,11 @@
     <header name="file_list_header" pos="0,0,-0,@30" checkSkin="listhead_check" itemSkin="listhead_btn" noitemSkin="listhead_bkg"
             fixWidth="0" itemSwapEnable="0" sortHeader="1" sortSkin="listhead_arrow" check_txt_margin="12" crtext="757880" align="left">
     </header>
-	<dlg name="dlg_file_list_search_file_tip" pos="0,30,-0,@36" show="0">
-		<img name="search_yun_file_failed_tip__bkg" pos="0,0,-0,-0" skin="search_yun_file_failed_tip_bkg" show="1"/>
-		<img name="search_yun_file_failed_tip_icon" pos="24,12" skin="search_yun_file_failed_tip_icon" show="1"/>
-		<text name="search_yun_file_list_failed_tip_txt" pos="44,10" crtext="818999" font="0000:微软雅黑" align="left">%str4404%</text>
+	<dlg name="dlg_file_list_search_file_tip" pos="12,30,-12,@36" show="0">
+		<img name="search_yun_file_list_tip_bkg" pos="0,4,-0,-0" skin="search_yun_file_failed_tip_bkg" show="1"/>
+		<img name="search_yun_file_list_tip_icon" pos="16,14" skin="search_yun_file_failed_tip_icon" show="1"/>
+		<text name="search_yun_file_list_tip_txt" pos="40,12" crtext="495366" font="0000:微软雅黑" align="left">%str4404%</text>
+        <imgbtn name="search_yun_file_list_tip_close_btn" pos="-26,12,@16,@16" cursor="arrow" skin="titlepanel_close_btn"></imgbtn>
 	</dlg>
 	<gifplayer name="file_list_loading_gif" pos="|-16,|-16,@32,@32" skin="gif_statuspanel_loading" show="0"/>
     <text name="file_list_loading_txt_tip" pos="|-150,[12,@300,@18" crtext="333333" font="0200:微软雅黑" align="center" show="0">%str2311%</text>
@@ -53,6 +54,7 @@
                 <imgbtn name="btn_rename" pos="[18,|-8,@16,@16" skin="mainpanel_listview_rename" cursor="arrow" tip="%str2332%" show="0"></imgbtn>
                 <imgbtn name="btn_pdftoword" pos="[18,|-8,@16,@16" skin="mainpanel_listview_pdf_to_word" cursor="arrow" tip="%str2361%" show="0"></imgbtn>
                 <imgbtn name="btn_mobileview" pos="[18,|-8,@16,@16" skin="mainpanel_listview_mobile_view" cursor="arrow" tip="%str2362%" show="0"></imgbtn>
+                <imgbtn name="btn_cloudedit" pos="[18,|-8,@16,@16" skin="mainpanel_listview_cloud_edit" cursor="arrow" tip="%str2195%" show="0"></imgbtn>
                 <imgbtn name="btn_edit_onlinedoc" pos="[18,|-8,@16,@16" skin="mainpanel_listview_doc_to_onlinedoc" cursor="arrow" tip="%str2191%" show="0"></imgbtn>
                 <imgbtn name="btn_export_onlinedoc" pos="42,|-8,@16,@16" skin="mainpanel_listview_export_onlinedoc" cursor="arrow" tip="%str2363%" show="0"></imgbtn>
             </dlg>
@@ -71,10 +73,11 @@
   <dlg name="dlg_thumb_view" pos="14,0,-0,-0" show="0">
 	<gifplayer name="file_thumb_loading_gif" pos="|-16,|-16,@32,@32" skin="gif_statuspanel_loading" show="0"/>
     <text name="file_thumb_loading_txt_tip" pos="|-150,[12,@300,@18" crtext="333333" font="0200:微软雅黑" align="center" show="0">%str2311%</text>
-    <dlg name="dlg_file_thumb_search_file_tip" pos="0,0,-0,36" show="0">
-      <img name="search_yun_file_thumb_failed_tip__bkg" pos="0,0,-0,-0" skin="search_yun_file_failed_tip_bkg"/>
-      <img name="search_yun_file_thumb_failed_tip_icon" pos="24,12" skin="search_yun_file_failed_tip_icon"/>
-      <text name="search_yun_file_thumb_failed_tip_txt" pos="44,10" crtext="818999" font="0000:微软雅黑" align="left">%str4404%</text>
+    <dlg name="dlg_file_thumb_search_file_tip" pos="0,0,-12,36" show="0">
+      <img name="search_yun_file_thumb_tip_bkg" pos="0,4,-0,-0" skin="search_yun_file_failed_tip_bkg"/>
+      <img name="search_yun_file_thumb_tip_icon" pos="16,14" skin="search_yun_file_failed_tip_icon"/>
+      <text name="search_yun_file_thumb_tip_txt" pos="40,12" crtext="495366" font="0000:微软雅黑" align="left">%str4404%</text>
+      <imgbtn name="search_yun_file_thumb_tip_close_btn" pos="-26,12,@16,@16" cursor="arrow" skin="titlepanel_close_btn"></imgbtn>
     </dlg>
     <filethumbview name="file_thumb_view" pos="0,0,-0,-0" itemwidth="138" itemheight="134" frameskin="mainpanel_frame_select_bg">
       <template>
@@ -132,7 +135,7 @@
   <!--运营位图标-->
   <dlg name="dlg_operate_pos" pos="-90,-190,@80,@100" show="0">
     <dlg name="dlg_op_max" pos="0,0,@80,@100">
-      <imgbtn name="op_btn_img" pos="0,0,@80,@80"></imgbtn>
+      <gifplayer name="op_gif" pos="0,0,@80,@80"></gifplayer>
       <imgbtn name="op_btn_close" pos="|-10,-20,@20,@20" class="defultbtn" crtext="ffffff" cursor="arrow" skin="operatingpos_close_btn_bkg"></imgbtn>
     </dlg>
     <dlg name="dlg_op_min" pos="0,0,@20,@80" show="0" clipclient="1">

@@ -16,5 +16,8 @@
         </template>
       </listboxex>
     </dlg>
+    <dlg name="dlg_guide" pos="0,0,-0,-0" skin="titlepanel_textad_bgk" show="0" >
+      <imgbtn name="guide_btn" pos="30,34,@300,@190" skin="titlepanel_translucent" cursor="hard" ></imgbtn>
+    </dlg>
   </body>
 </layer>

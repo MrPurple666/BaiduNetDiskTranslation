@@ -239,6 +239,8 @@
         <imgframe name="function_phonecall_records_img"  src="IDP_IMG_FUNTION_PHONECALL_RECORDS" subwidth="31"/>
         <imgframe name="function_phone_message_img"  src="IDP_IMG_FUNTION_PHONE_MESSAGE" subwidth="31"/>
         <imgframe name="function_game_center_img" src="IDP_IMG_FUNTION_GAME_CENTER" subwidth="31"/>
+        <imgframe name="function_enterprise_guide_img" src="IDP_IMG_FUNTION_ENTERPRISE_GUIDE" subwidth="31"/>
+        <imgframe name="function_cloud_edit_img" src="IDP_IMG_FUNTION_CLOUD_EDIT" subwidth="31"/>
 
       <!--视频清晰度皮肤定义-->
         <imgframe name="definition_sviponly_script" src="IDP_IMG_DEFINITION_SVIPONLY_SCRIPT" />
@@ -693,6 +695,7 @@
         <imgframe name="speeduptippanel_bg" src="IDP_SPEEDUPTIPPANEL_BG" left="3" top="3" right="3" bottom="3"/>
         <imgframe name="speeduptippanel_try_btn" src="IDP_SPEEDUPTIPPANEL_SPEEDUP_BTN" subwidth="60" left="20" right="20"/>
         <imgframe name="speeduptippanel_close_btn" src="IDP_SPEEDUPTIPPANEL_CLOSE_BTN" subwidth="10"/>
+        <imgframe name="speeduptippanel_recommend_icon" src="IDP_SPEEDUPTIPPANEL_TIP_RECOMMEND_ICON"/>
         <imgframe name="speeduptippanel_smile" src="IDP_SPEEDUPTIPPANEL_TIP_SMILE"/>
         <imgframe name="speeduptippanel_detail" src="IDP_SPEEDUPTIPPANEL_TIP_DETAIL"/>
         <imgframe name="speeduptickettippanel_bg" src="IDP_SPEEDUPTICKETTIPPANEL_BG" left="3" top="3" right="3" bottom="3"/>
@@ -714,6 +717,7 @@
         <imgframe name="mainpanel_toolbar_createdir" src="IDP_MAINPANEL_TOOLBAR_CREATEDIR" subwidth="16"/>
         <imgframe name="mainpanel_toolbar_pdftoword" src="IDP_MAINPANEL_TOOLBAR_PDFTOWORD" subwidth="16"/>
         <imgframe name="mainpanel_toolbar_mobileview" src="IDP_MAINPANEL_TOOLBAR_MOBILEVIEW" subwidth="16"/>
+        <imgframe name="mainpanel_toolbar_cloudedit" src="IDP_MAINPANEL_TOOLBAR_CLOUDEDIT" subwidth="16"/>
         <imgframe name="mainpanel_toolbar_drop_arrow" src="IDP_MAINPANEL_TOOLBAR_DROPDOWN" subwidth="16"/>
         <imgframe name="mainpanel_toolbar_offlinedownload" src="IDP_MAINPANEL_TOOLBAR_OFFLINEDOWNLOAD" subwidth="16"/>
         <imgframe name="mainpanel_toolbar_more" src="IDP_MAINPANEL_TOOLBAR_MORE" subwidth="16"/>
@@ -759,9 +763,14 @@
         <imgframe name="mainpanel_addresspanel_pathnavigator_subdirpanel_directory" src="IDP_MAINPANEL_ADDRESSPANEL_PATHNAV_SUBDIRPANEL_DIRECTORY" subwidth="16"/>
         <imgframe name="mainpanel_addresspanel_pathnavigator_subdirpanel_bg" src="IDP_MAINPANEL_ADDRESSPANEL_PATHNAV_SUBDIRPANEL_BG" left="4" top="4" right="4" bottom="4"/>
         <imgframe name="mainpanel_addresspanel_pathnavigator_subdirpanel_normal" src="IDP_MAINPANEL_ADDRESSPANEL_PATHNAV_SUBDIRPANEL_NORMAL" left="34" top="4" right="4" bottom="4"/>
-        <imgframe name="mainpanel_addresspanel_pathnavigator_subdirpanel_hover" src="IDP_MAINPANEL_ADDRESSPANEL_PATHNAV_SUBDIRPANEL_HOVER" left="4" top="4" right="4" bottom="4"/>
+        <imgframe name="mainpanel_addresspanel_pathnavigator_subdirpanel_hover" src="IDP_MAINPANEL_ADDRESSPANEL_PATHNAV_SUBDIRPANEL_HOVER" left="4" top="4" right="4" bottom="4"/>     
+        <imgframe name="mainpanel_addresspanel_search_tip_icon" src="IDP_MAINPANEL_ADDRESSPANEL_SEARCHBOX_TIP_ICON" subwidth="14"/>
         <imgframe name="mainpanel_addresspanel_searchbox_search" src="IDP_MAINPANEL_ADDRESSPANEL_SEARCHBOX_SEARCH" subwidth="16"/>
         <imgframe name="mainpanel_addresspanel_searchbox_delete" src="IDP_MAINPANEL_ADDRESSPANEL_SEARCHBOX_DELETE" subwidth="16"/>
+        <imgframe name="mainpanel_addresspanel_searchbox_clear" src="IDP_MAINPANEL_ADDRESSPANEL_SEARCHBOX_CLEAR" subwidth="12"/>
+        <imgframe name="mainpanel_addresspanel_searchbox_edit_bgk" src="IDP_MAINPANEL_ADDRESSPANEL_SEARCHBOX_EDIT_BGK" left="30" right="30" subwidth="270"/>
+        <imgframe name="mainpanel_addresspanel_searchbox_edit_hover" src="IDP_MAINPANEL_ADDRESSPANEL_SEARCHBOX_EDIT_HOVER" left="30" right="30" subwidth="270"/>
+        <imgframe name="mainpanel_addresspanel_searchbox_full_text_tip_bgk" src="IDP_MAINPANEL_ADDRESSPANEL_SEARCHBOX_FULL_TEXT_TIP_BG" left="40" top="30" right="30" bottom="30"/>
         <imgframe name="mainpanel_addresspanel_searchbox_bg" src="IDP_MAINPANEL_ADDRESSPANEL_SEARCHBOX_BG" left="4" top="4" right="4" bottom="4"/>
         <imgframe name="mainpanel_addresspanel_searchbox_hisitem_hover" src="IDP_MAINPANEL_ADDRESSPANEL_SEARCHBOX_HISITEM_HOVER" left="4" top="0" right="4" bottom="0"/>
         <imgframe name="mainpanel_addresspanel_searchbox_hisitem_normal" src="IDP_MAINPANEL_ADDRESSPANEL_SEARCHBOX_HISITEM_NORMAL" left="4" top="4" right="4" bottom="4"/>
@@ -783,6 +792,7 @@
         <!--主面板视图面板-->
         <imgframe name="mainpanel_listview_pdf_to_word" src="IDP_MAINPANEL_LISTVIEW_PDFTOWORD" subwidth="16"/>
         <imgframe name="mainpanel_listview_mobile_view" src="IDP_MAINPANEL_LISTVIEW_MOBILEVIEW" subwidth="16"/>
+        <imgframe name="mainpanel_listview_cloud_edit" src="IDP_MAINPANEL_LISTVIEW_CLOUDEDIT" subwidth="16"/>
         <imgframe name="mainpanel_listview_share" src="IDP_MAINPANEL_LISTVIEW_SHARE" subwidth="16"/>
         <imgframe name="mainpanel_listview_down" src="IDP_MAINPANEL_LISTVIEW_DOWN" subwidth="16"/>
         <imgframe name="mainpanel_listview_del" src="IDP_MAINPANEL_LISTVIEW_DELETE" subwidth="16"/>
@@ -1006,6 +1016,7 @@
         <imglst name="navigatepanel_transfer_btn" src="IDP_NAVIGATEPANEL_BTN_TRANSFER" subwidth="42" />
         <imglst name="navigatepanel_moretools_btn" src="IDP_NAVIGATEPANEL_BTN_MORETOOLS" subwidth="42" />
         <imgframe name="navigatepanel_bubble_bg" src="IDP_NAVIGATEPANEL_BG_BUBBLE" left="50" right="50" top="50" bottom="50"/>
+        <imgframe name="navigatepanel_enterprise_bg" src="IDP_NAVIGATEPANEL_BG_ENTERPRISE" left="50" right="50" top="50" bottom="50"/>
         <imgframe name="navigatepanel_sync_dir_icon_bubble_bg" src="IDP_NAVIGATEPANEL_SYNC_DIR_ICON_BG_BUBBLE" left="50" right="50" top="50" bottom="50"/>
         <imgframe name="navigatepanel_bubble_content_default" src="IDP_NAVIGATEPANEL_CONTENT_BUBBLE_DEFAULT"/>
         <gif name="gif_navigatepanel_transfer_blue" src="IDP_NAVIGATEPANEL_GIF_TRANSFER_BLUE"/>
@@ -1013,6 +1024,7 @@
         <imgframe name="navigatepanel_transfer_pause_blue" src="IDP_NAVIGATEPANEL_PAUSE_TRANSFER_BLUE"/>
         <imgframe name="navigatepanel_transfer_pause_gray" src="IDP_NAVIGATEPANEL_PAUSE_TRANSFER_GRAY"/>
         <imgframe name="navigatepanel_bg" src="IDP_NAVIGATEPANEL_BG" left="10" right="20" top="5" bottom="5"/>
+        <imgframe name="navigatepanel_enterprise_cert_bg" src="IDP_NAVIGATEPANEL_ENTERPRISE_CERT_BG" subwidth="80"/>
 
         <!-- 企业空间 -->
         <imglst name="enterprise_up_btn" src="IDP_ENTERPRISE_BTN_UP"/>
@@ -1178,9 +1190,11 @@
         <imgframe name="workspace_status_guide" src="IDP_DUI_WORKSPACE_FILE_THUMB_ITEM_STATUS_GUIDE"/>
         <imgframe name="workspace_feedback" src="IDP_DUI_WORKSPACE_FEEDBACK" subwidth="15"/>
         <gif name="workspace_syncing_gif" src="IDP_DUI_WORKSPACE_SYNCING_GIF" minframedelay="30"></gif>
-
+        <imgframe name="workspace_history_frame" src="IDP_DUI_WORKSPACE_HISTORY_FRAME"/>
+        
         <imgframe name="enterprise_guide_img" src="IDP_DUI_ENTERPRISE_GUIDE_IMG"/>
         <imgframe name="enterprise_guide_dlg_btn" src="IDP_DUI_ENTERPRISE_GUIDE_BTN_IMG"/>
+        <imgframe name="enterprise_card_img" src="IDP_DUI_ENTERPRISE_CARD_IMG" subwidth="300"/>
         <imglst name="workspace_record_op_local" src="IDP_WORKSPACE_RECORD_OP_LOCAL"/>
         <imglst name="workspace_record_op_cloud" src="IDP_WORKSPACE_RECORD_OP_CLOUD"/>
 
@@ -1209,6 +1223,13 @@
         <imgframe name="workspace_status_expire" src="IDP_DUI_WORKSPACE_STATUS_EXPIRE"/>
         <imgframe name="workspace_status_flow_out" src="IDP_DUI_WORKSPACE_STATUS_FLOW_OUT"/>
         <imgframe name="workspace_status_success" src="IDP_DUI_WORKSPACE_STATUS_SUCCESS"/>
+        <imgframe name="workspace_status_dir_no_set" src="IDP_DUI_WORKSPACE_STATUS_DIR_NO_SET"/>
+        <imgframe name="workspace_status_pause" src="IDP_DUI_WORKSPACE_STATUS_PAUSE"/>
+        <imgframe name="workspace_status_red" src="IDP_DUI_WORKSPACE_STATUS_RED"/>
+        <imgframe name="workspace_status_phone_rec" src="IDP_DUI_WORKSPACE_STATUS_PHONE_REC"/>
+        <imgframe name="workspace_logo_icon" src="IDP_DUI_WORKSPACE_LOGO_ICON"/>
+        <imgframe name="workspace_attention" src="IDP_DUI_WORKSPACE_ATTENTION"/>
+
         <!-- 游戏中心 -->
         <imgframe name="gamecenter_dlg_btn_refresh" src="IDP_DUI_GAMECENTER_BTN_REFRESH" subwidth="15"/>
       
@@ -1221,8 +1242,18 @@
         <imgframe name="speedup_package_light_blue_btn" src="IDP_SPEEDUP_PACKAGE_LIGHT_BLUE_BTN" subwidth="128"/>
         <imgframe name="speedup_package_dark_blue_btn" src="IDP_SPEEDUP_PACKAGE_DARK_BLUE_BTN"  subwidth="128"/>
         <imgframe name="speedup_package_question_icon" src="IDP_SPEEDUP_PACKAGE_QUESTION_ICON"  subwidth="14"/>
-      <!-- 文件列表运营位 -->
-      <imgframe name="operatingpos_close_btn_bkg" src="IDP_OPERATINGPOS_CLOSE_BTN"/>
+        <!-- 文件列表运营位 -->
+        <imgframe name="operatingpos_close_btn_bkg" src="IDP_OPERATINGPOS_CLOSE_BTN"/>
+      
+        <!-- 快捷上传 -->
+        <imgframe name="skin_quickupload_menu_item" src="IDP_QUICKUPLOAD_MENU_ITEM_BKG" subwidth="90" left="15" right="15"/>
+        <imgframe name="skin_quickupload_menu_title" src="IDP_QUICKUPLOAD_MENU_TITLE_BKG" left="15" right="15"/>
+        <imgframe name="skin_quickupload_menu_split" src="IDP_QUICKUPLOAD_MENU_SPLIT_BKG" left="15" right="15"/>
+        <imgframe name="skin_quickupload_menu_icon" src="IDP_QUICKUPLOAD_MENU_ICON"/>
+        <imgframe name="skin_quickupload_guide_bg" src="IDP_QUICKUPLOAD_GUIDE_BG" top="50" bottom="50"/>
+        <gif name="quickupload_guide_gif" src="IDP_QUICKUPLOAD_GUIDE_GIF" minframedelay="30"/>
+        <imgframe name="skin_quickupload_guide_later_btn" src="IDP_QUICKUPLOAD_GUIDE_LATER_BTN_BG" subwidth="98" left="30" right="30"/>
+        <imgframe name="skin_quickupload_guide_open_btn" src="IDP_QUICKUPLOAD_GUIDE_OPEN_BTN_BG" subwidth="98" left="30" right="30"/>
     </skins>
 
     <style>

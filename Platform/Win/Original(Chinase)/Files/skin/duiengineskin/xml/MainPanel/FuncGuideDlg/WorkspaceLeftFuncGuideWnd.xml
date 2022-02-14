@@ -27,7 +27,7 @@
               <text name="txt_sub_title" pos="38,28" font="0000:微软雅黑" crtext="878C9C"></text>
           </dlg>
           <dlg name="dlg_dataflow_info" pos="35,[0,-0,-70">
-              <dlg name="progress_bkg" pos="0,20,@200,@6" class="cls_leftpanel_progress_bkg">
+              <dlg name="progress_bkg" pos="0,20,@180,@6" class="cls_leftpanel_progress_bkg">
                   <dlg name="progress_frg" pos="0,0,0,-0" class="cls_leftpanel_progress_frg_green"/>
               </dlg>
               <text name="txt_used_flow" font="0000:微软雅黑" pos="[5,14" crtext="454D5A" align="left"></text>
