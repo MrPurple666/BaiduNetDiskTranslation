@@ -1391,6 +1391,10 @@
   <String id="IDS_WORKSPACE_CHANGE_LOCAL_SYNC_PACH_ACCESS_DENY_TIP"  value="文件夹无写入权限，请重新选择" />
   <String id="IDS_WORKSPACE_CHANGE_LOCAL_SYNC_PACH_QUOTA_LESS_TIP"  value="磁盘剩余空间不足，请重新选择" />
   <String id="IDS_WORKSPACE_CHANGE_LOCAL_SYNC_PACH_SAME_TIP"  value="原同步路径和所选同步路径相同，请重新选择" />
+  <String id="IDS_WORKSPACE_QUICK_SYNC_SETTING" value="文件同步方式：" />
+  <String id="IDS_WORKSPACE_AUTO_DOWNLOAD_LOCAL" value="文件自动下载到本地" />
+  <String id="IDS_WORKSPACE_FREE_SPACE" value="释放电脑空间，仅下载快捷方式" />
+  <String id="IDS_WORKSPACE_QUICK_SYNC_ERROR" value="检测到您的同步目录所在硬盘分区为非NTFS格式，因系统限制无法使用“释放电脑空间”功能，请更换目录所在硬盘" />
   <String id="IDS_WORKSPACE_LOCAL_SYNC_SET"  value="前往设置" />
   <!--商业化-->
   <String id="IDS_PRODUCT_RECOMMEND_SETTING" value="商品推荐设置：" />
@@ -1399,6 +1403,8 @@
   <String id="IDS_RESTART_NOW" value="立即重启" />
   <String id="IDS_SYNC_ICON_SOLVE_QUESTION_TIP" value="重启还未展示文件同步状态，具体解决办法，详情请见" />
   <String id="IDS_SYNC_HELP_CENER_TIP" value="帮助中心" />
+  <String id="IDS_SYNC_LOCALPATH_DISAPPEAR" value="本地同步目录不存在，请重新设置" />
+  <String id="IDS_SYNC_LOCALPATH_UNSETTING" value="请设置本地同步目录" />
   <!--自动填充提取码-->
   <String id="IDS_LINK_GET_PASSWORD_TYPE" value="提取方式：" />
   <String id="IDS_AUTO_FILL_LINK_PASSWORD" value="分享链接自动填充提取码" />
@@ -1414,4 +1420,7 @@
   <String id="IDS_QUICKUPLOAD_WECHAT_TIPS" value="1.微信或浏览器内的图片/文件，先复制后，再唤起快捷键" />
   <String id="IDS_QUICKUPLOAD_SELECT_TIPS" value="2.若选中文件后没有调起上传面板，请复制该文件后再试" />
   <String id="IDS_QUICKUPLOAD_TASK_CREATE_TIP" value="已添加至上传列表" />
+  <!--物理带宽提速-->
+  <String id="IDS_BANDWIDTH_SPEEDUP_USEING_TIP" value="移动宽带运营商提升物理宽带中，%d秒后关闭，同一宽带下所有设备均享受提速，快去试试其他设备吧！" />
+  <String id="IDS_BANDWIDTH_SPEEDUP_END_TIP" value="移动运营商提升物理带宽体验结束。" />
 </StringTable>

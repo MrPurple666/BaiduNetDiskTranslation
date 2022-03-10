@@ -32,7 +32,7 @@
 					</IBGStaticEx>
 				</Children>
 			</IBGRegionPanel>
-			<IBGRegionPanel dock="DOCK_TOP" size="320,74" margin="0,0,0,0">
+			<IBGRegionPanel name="workspaceContentPanel" dock="DOCK_TOP" size="320,74" margin="0,0,0,0">
 				<Children>
 					<IBGRegionPanel dock="DOCK_LEFT" margin="0,0,0,0" size="54,84">
 						<Children>
@@ -65,8 +65,15 @@
 									</IBGRegionPanel>
 								</Children>
 							</IBGRegionPanel>
-							<IBGRegionPanel dock="DOCK_TOP" margin="0,0,0,0" size="266,36">
+							<IBGRegionPanel name="workSpcaeTipPanel" dock="DOCK_TOP" margin="0,0,0,0" size="266,64">
 								<Children>
+									<IBGStaticEx name="workSpaceTipMoreContent" size="260,64" unMultiline="FALSE" textClr="0x878C9C" handCursor="true" margin="0,0,0,0" unseen="true" dock="DOCK_LEFT">
+										<Properties>
+											<textFont>
+												<IBGFont height="18"/>
+											</textFont>
+										</Properties>
+									</IBGStaticEx>
 									<IBGStaticEx name="workSpaceTipContent" autoCalcHeight="true" autoCalcWidth="true" textClr="0x878C9C" handCursor="true" endEllipsis="true" margin="0,0,0,0" dock="DOCK_LEFT">
 										<Properties>
 											<textFont>

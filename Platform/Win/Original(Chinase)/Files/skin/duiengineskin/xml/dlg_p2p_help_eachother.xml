@@ -1,4 +1,4 @@
-﻿<layer name="P2pHelpEachotherDlg" width="500" height="400" appwin="0" ncRect="0,0,0,0" resize="0" translucent="1" nomaxsize="1">
+﻿<layer name="P2pHelpEachotherDlg" width="500" height="410" appwin="0" ncRect="0,0,0,0" resize="0" translucent="1" nomaxsize="1">
   <body>
     <dlg pos="0,0,-0,-0" class="cls_dlg_frame">
       <!--标题栏-->
@@ -20,7 +20,8 @@
             <text name="p2p_help_eachother_acquire_introduction" pos="10,40,@192,@38" align="left" multilines="1" crtext="333333" font="0000:微软雅黑">%str3420%</text> 
             <text name="p2p_help_eachother_acquire_introduction2" pos="10,90" align="left" multilines="0" crtext="666666"  font2="facename:微软雅黑;adding:-1">%str3429%</text> 
         </dlg>
-		<text name="p2p_help_eachother_attention" pos="24,[10,@462,@20" align="center" multilines="0" crtext="666666" font2="facename:微软雅黑;adding:-1">%str3430%</text> 
+		<text name="p2p_help_eachother_attention" pos="24,[10,@462,@14" align="center" multilines="0" crtext="666666" font2="facename:微软雅黑;adding:-1">%str3430%</text> 
+        <text name="p2p_help_eachother_attention2" pos="24,[6,@462,@14" align="left" multilines="0" crtext="666666" font2="facename:微软雅黑;adding:-1">%str3414%</text> 
       </dlg>	
       <dlg pos="0,-90,-0,-0">	 
         <check name="have_read_protocol_checkbox" pos="142,-74" skin="btncheckbox" class="vcentertext">%str3421%</check>

@@ -30,7 +30,7 @@
         <listboxex name="listview_tools" pos="0,[1,-0,@180" virtual="1" itemheight="65">
           <template>
             <dlg pos="0,0,-0,-0">
-              <imgbtn name="item_img_tool" pos="22,14,@32,@32" skin="function_lock_img" 
+              <imgbtn name="item_img_tool" pos="19,14,@32,@32" skin="function_lock_img" 
               cursor="arrow"/>
               <dlg name="dlg_sync_status" pos="0,0,@25,@16" msgtransparent="1">
                   <img name="img_sync_num" pos="43,8,@20,@16" skin="titlepanel_redbg" show="0">

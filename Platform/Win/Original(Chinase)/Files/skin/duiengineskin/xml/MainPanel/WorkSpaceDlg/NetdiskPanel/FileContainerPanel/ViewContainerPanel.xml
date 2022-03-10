@@ -5,6 +5,8 @@
             fixWidth="0" itemSwapEnable="0" sortHeader="1" sortSkin="listhead_arrow" check_txt_margin="12" crtext="757880" align="left">
     </header>
     <dlg name="dlg_file_list" pos="0,30,-0,-0">
+      <dlg name="workspace_drag_mask_dlg"  pos="0,0,-0,-0" skin="workspace_drag_mask" show="0">
+      </dlg>
       <listboxex name="file_list_view" pos="0,0,-0,-0" itemheight="40" itemwidth="-1" virtual="1" frameskin="mainpanel_frame_select_bg">
         <template>
           <!--背景-->
@@ -56,7 +58,9 @@
   </dlg>
   
   <!--文件缩略图视图-->
-  <dlg name="dlg_thumb_view" pos="14,0,-0,-0" show="0">
+  <dlg name="dlg_thumb_view" pos="0,0,-0,-0" show="0">
+    <dlg name="workspace_drag_mask_dlg"  pos="0,0,-0,-0" skin="workspace_drag_mask" show="0">
+    </dlg>
     <filethumbview name="file_thumb_view" pos="0,0,-0,-0" itemwidth="144" itemheight="140" frameskin="mainpanel_frame_select_bg">
       <template>
         <dlg name="dlg_thumb_item" pos="8,4,-8,-4">
@@ -77,6 +81,8 @@
 
   <!--空文件列表视图-->
   <dlg name="dlg_empty_view" pos="0,0,-0,-0" show="0">
+    <dlg name="workspace_drag_mask_dlg"  pos="0,0,-0,-0" skin="workspace_drag_mask" show="0">
+    </dlg>
     <img name="empty_view_bg" pos="|-132,80,@264,@198" skin="workspace_file_empty"></img>
     <dlg name="dlg_tips" pos="0,0,-0,@44" show="0">
       <text name="txt_empty_tip" pos="0,0,-0,@22" crtext="333333" font="0200:微软雅黑" align="center">%str2307%</text>

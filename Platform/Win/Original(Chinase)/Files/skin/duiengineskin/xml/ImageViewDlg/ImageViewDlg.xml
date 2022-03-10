@@ -60,6 +60,7 @@
           <imgbtn name="btn_op_image_download" skin="imageviewpanel_btn_download" pos="180,23,@24,@24" cursor="arrow" tip="%str2105%"></imgbtn>
           <imgbtn name="btn_op_image_delete" skin="imageviewpanel_btn_delete" pos="240,23,@24,@24" cursor="arrow" tip="%str2106%" show="1"></imgbtn>
           <imgbtn name="btn_op_image_detail" skin="imageviewpanel_btn_detail" pos="300,23,@24,@24" cursor="arrow" tip="%str2107%"></imgbtn>
+          <imgbtn name="btn_op_image_cloudedit" skin="imageviewpanel_btn_cloudedit" pos="360,23,@24,@24" cursor="arrow" tip="%str2128%"></imgbtn>
           <img name="oplist_sep" pos="-123,30,@1,@10" skin="imageviewpanel_opbtnlist_view_sep"/>
           <link name="txt_op_index" pos="-100,23" crtext="ffffff" font="0400:微软雅黑" show="0"></link>
           <imgbtn name="btn_op_collaspe" class="cls_imagepanel_btn_collapse" pos="-100,23,@100,@24" cursor="arrow">%str2121%</imgbtn>

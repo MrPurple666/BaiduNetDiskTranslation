@@ -41,6 +41,7 @@
         <imgframe name="toast_btn_white_close" src="IDP_TOAST_BTN_WHITE_CLOSE" subwidth="16"/>
         <imgframe name="toast_btn_black_close" src="IDP_TOAST_BTN_BLACK_CLOSE" subwidth="16"/>
         <imgframe name="toast_ok_bg" src="IDP_TOAST_OK_BKG" left="15" top="15" right="15" bottom="15"/>
+        <imgframe name="toast_blue_bg" src="IDP_TOAST_BLUE_BKG" left="35" top="30" right="35" bottom="30"/>
         <imgframe name="toast_fail_bg" src="IDP_TOAST_FAIL_BKG" left="15" top="15" right="15" bottom="15"/>
         <imgframe name="toast_vip_bg" src="IDP_TOAST_VIP_BKG" left="60" top="15" right="15" bottom="15"/>
         <imgframe name="toast_svip_bg" src="IDP_TOAST_SVIP_BKG" left="60" top="15" right="15" bottom="15"/>
@@ -513,7 +514,8 @@
         <imglst name="video_overspeed_yellow_btn" src="IDP_VIDEO_OVERSPEED_YELLOW_BTN" subwidth="200"/>
         <imglst name="video_overspeed_svip_btn" src="IDP_VIDEO_OVERSPEED_SVIP_BTN" subwidth="78"/>
         <imgframe name="video_overspeed_svip_img" src="IDP_VIDEO_OVERSPEED_SVIP_IMG"/>
-        <imgframe name="video_overspeed_new_img" src="IDP_VIDEO_OVERSPEED_NEW_IMG"/>      
+        <imgframe name="video_overspeed_new_img" src="IDP_VIDEO_OVERSPEED_NEW_IMG"/>
+        <imgframe name="video_definition_guide_img" src="IDP_VIDEO_DEFINITION_GUIDE_IMG"/>
         <imgframe name="video_underline_normal" src="IDP_VIDEO_UNDERLINE_NORMAL" left="3" top="0" right="3" bottom="2"/>
         <imgframe name="video_underline_hover" src="IDP_VIDEO_UNDERLINE_HOVER" left="3" top="0" right="3" bottom="2"/>
         <scrollbar name="sb_video" src="IDP_VIDEO_SCROLL" margin="6" hasgripper="0"/>
@@ -863,6 +865,7 @@
         <imglst name="imageviewpanel_btn_download" src="IDP_IMAGEPANEL_BTN_DOWNLOAD" subwidth="24"/>
         <imglst name="imageviewpanel_btn_delete" src="IDP_IMAGEPANEL_BTN_DELETE" subwidth="24"/>
         <imglst name="imageviewpanel_btn_detail" src="IDP_IMAGEPANEL_BTN_DETAIL" subwidth="24"/>
+        <imglst name="imageviewpanel_btn_cloudedit" src="IDP_IMAGEPANEL_BTN_CLOUDEDIT" subwidth="24"/>
         <imglst name="imageviewpanel_btn_bottom_left" src="IDP_IMAGEPANEL_BTN_BOTTOM_LEFT" subwidth="9"/>
         <imgframe name="imageviewpanel_btn_bottom_left_disable" src="IDP_IMAGEPANEL_BTN_BOTTOM_LEFT_DISABLE" subwidth="9"/>
         <imglst name="imageviewpanel_btn_bottom_right" src="IDP_IMAGEPANEL_BTN_BOTTOM_RIGHT" subwidth="9"/>
@@ -1142,6 +1145,7 @@
         <imgframe name="workspace_file_sync_status_syncing" src="IDP_DUI_WORKSPACE_FILE_SYNC_STATUS_SYNCING"/>
         <imgframe name="workspace_file_sync_status_uptodate" src="IDP_DUI_WORKSPACE_FILE_SYNC_STATUS_UPTODATE"/>
         <imgframe name="workspace_file_sync_status_pause" src="IDP_DUI_WORKSPACE_FILE_SYNC_STATUS_PAUSE"/>
+        <imgframe name="workspace_file_sync_status_cloudbridge" src="IDP_DUI_WORKSPACE_FILE_SYNC_STATUS_CLOUDBRIDGE"/>
         <imgframe name="workspace_file_empty" src="IDP_DUI_WORKSPACE_FILE_EMPTY"/>
         <imgframe name="workspace_bg_normal" src="IDP_DUI_WORKSPACE_BG_NORMAL"/>
         <imgframe name="workspace_sync_dir" src="IDP_DUI_WORKSPACE_SYNC_DIR" subwidth="20"/>
@@ -1165,7 +1169,9 @@
         <gif name="gif_workspace_guide_upload" src="IDP_DUI_WORKSPACE_GIF_GUIDE_UPLOAD" minframedelay="30"/>
         <gif name="gif_workspace_guide_history" src="IDP_DUI_WORKSPACE_GIF_GUIDE_HISTORY" minframedelay="30"/>
         <gif name="gif_workspace_guide_viptest" src="IDP_DUI_WORKSPACE_GIF_GUIDE_VIPTEST" minframedelay="30"/>
-        
+        <gif name="gif_workspace_guide_quick_sync" src="IDP_DUI_WORKSPACE_GIF_GUIDE_QUICK_SYNC" minframedelay="30"/>
+        <gif name="gif_workspace_quick_sync" src="IDP_DUI_WORKSPACE_GIF_QUICK_SYNC" minframedelay="30"/>
+
         <imgframe name="workspace_guide_backup_select" src="IDP_DUI_WORKSPACE_GUIDE_BACKUP_SELECT"/>
         <imgframe name="workspace_guide_viptest_select" src="IDP_DUI_WORKSPACE_GUIDE_VIPTEST_SELECT"/>
         <imgframe name="workspace_guide_history_select" src="IDP_DUI_WORKSPACE_GUIDE_HISTORY_SELECT"/>
@@ -1184,6 +1190,7 @@
         <imgframe name="workspace_file_thumb_item_bg_check" src="IDP_DUI_WORKSPACE_FILE_THUMB_ITEM_BG_CHECK" left="8" right="8" top="8" bottom="8"/>
         <imgframe name="workspace_guide_bkg" src="IDP_DUI_WORKSPACE_GUIDE_BKG"/>
         <imgframe name="workspace_guide_frame" src="IDP_DUI_WORKSPACE_GUIDE_FRAME"/>
+        <imgframe name="workspace_guide_frame_mask" src="IDP_DUI_WORKSPACE_GUIDE_FRAME_MASK"/>
         <imgframe name="workspace_guide_left_frame" src="IDP_DUI_WORKSPACE_GUIDE_LEFT_FRAME"/>
         <imgframe name="workspace_guide_mask" src="IDP_DUI_WORKSPACE_GUIDE_MASK"/>
         <imgframe name="workspace_status_panel" src="IDP_DUI_WORKSPACE_STATUS_PANEL" subwidth="20"/>
@@ -1200,6 +1207,8 @@
 
         <imgframe name="workspace_filever_saveas" src="IDP_WORKSPACE_FILEVER_SAVEAS" subwidth="24"/>
         <imgframe name="workspace_filever_svip" src="IDP_WORKSPACE_FILEVER_SVIP" subwidth="34"/>
+
+        <imgframe name="workspace_drag_mask" src="IDP_WORKSPACE_DRAG_MASK" left="3" right="3" top="3" bottom="3"/>
 
         <!-- 工作空间目录迁移 -->
         <imgframe name="workspace_filecopy_progress_bg_dlg" src="IDP_DUI_WORKSPACE_FILECOPY_PROGRESS_BG_DLG" left="50" right="50" top="80" bottom="80"/>
@@ -1232,7 +1241,18 @@
 
         <!-- 游戏中心 -->
         <imgframe name="gamecenter_dlg_btn_refresh" src="IDP_DUI_GAMECENTER_BTN_REFRESH" subwidth="15"/>
-      
+        <!--云桥-->
+        <imgframe name="cloudbridge_blue_btn" src="IDR_DUI_CLOUDBRIDGE_BLUE_BTN" subwidth="184"/>
+        <imgframe name="cloudbridge_file" src="IDR_DUI_CLOUDBRIDGE_FILE"/>
+        <imgframe name="cloudbridge_svip" src="IDR_DUI_CLOUDBRIDGE_SVIP"/>
+        <imgframe name="cloudbridge_mode_frame" src="IDR_DUI_CLOUDBRIDGE_MODE_FRAME" subwidth="200"/>
+        <imgframe name="cloudbridge_yellow_btn" src="IDR_DUI_CLOUDBRIDGE_YELLOW_BRN" subwidth="184"/>
+        <imgframe name="cloudbridge_yellow_frame" src="IDR_DUI_CLOUDBRIDGE_YELLOW_FRAME"/>
+        <imgframe name="cloudbridge_svip_frame" src="IDR_DUI_CLOUDBRIDGE_SVIP_FRAME"/>
+        <imgframe name="cloudbridge_unridio" src="IDR_DUI_CLOUDBRIDGE_UNRIDIO"/>
+        <imgframe name="cloudbridge_inridio" src="IDR_DUI_CLOUDBRIDGE_INRIDIO"/>
+        <imgframe name="cloudbridge_question" src="IDR_DUI_CLOUDBRIDGE_QUESTION" subwidth="14"/>
+        
         <!-- 搜索文件 -->
         <imgframe name="search_yun_file_failed_tip_icon" src="IDP_SEARCH_YUN_FAILED_TIP_ICON"/>
         <imgframe name="search_yun_file_failed_tip_bkg" src="IDP_SEARCH_YUN_FAILED_TIP_BKG"/>
@@ -1254,6 +1274,8 @@
         <gif name="quickupload_guide_gif" src="IDP_QUICKUPLOAD_GUIDE_GIF" minframedelay="30"/>
         <imgframe name="skin_quickupload_guide_later_btn" src="IDP_QUICKUPLOAD_GUIDE_LATER_BTN_BG" subwidth="98" left="30" right="30"/>
         <imgframe name="skin_quickupload_guide_open_btn" src="IDP_QUICKUPLOAD_GUIDE_OPEN_BTN_BG" subwidth="98" left="30" right="30"/>
+        
+        <imgframe name="workspace_receive_na_file_unused" src="IDP_WORKSPACE_RECEIVE_NA_FILE_UNUSED"/>
     </skins>
 
     <style>

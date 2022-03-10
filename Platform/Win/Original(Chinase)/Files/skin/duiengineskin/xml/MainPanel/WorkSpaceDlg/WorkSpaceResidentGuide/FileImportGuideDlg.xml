@@ -1,7 +1,7 @@
-<layer name="FileImportGuide" width="660" height="665" appwin="0" toolwindow="1" ncRect="5,5,5,5" translucent="1" nomaxsize="1">
+<layer name="FileImportGuide" width="790" height="665" appwin="0" toolwindow="1" ncRect="5,5,5,5" translucent="1" nomaxsize="1">
     <body>
         <dlg skin="workspace_guide_mask" pos="0,0,-0,-0">
-            <dlg name="dlg_main" pos="88,146,@484,@350" skin="workspace_guide_frame">
+            <dlg name="dlg_main" pos="153,146,@484,@350" skin="workspace_guide_frame">
                 <dlg pos="10,10,-10,-10">
                     <text name="dlg_title" pos="24,18">%str4576%</text>
                     <hr name="dlg_line" pos="0,48,-0,48" crbg="EEEEEE"></hr>

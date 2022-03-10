@@ -265,6 +265,14 @@
 							</IBGRegionPanel>
 						</Children>
 					</IBGRegionPanel>
+					<IBGRegionPanel name="BandwidthSpeedupTipPanel" unseen="true" size="0,54" dock="DOCK_TOP" config="SpeedupTipPannel">
+						<Children>
+							<IBGGIFControl name="svipIcon" image="Resource:MainFrame\\MainPanel\\TransPanel\\tips_smile.png" dock="DOCK_LEFT" margin="10,16,0,16" size="16,16"/>
+							<IBGStaticEx name="bandwidthSpeedupStatic" autoCalcHeight="true" autoCalcWidth="true" textClr="0x333333" margin="10,19,0,4" dock="DOCK_LEFT"/>
+							<IBGButton name="bandwidthSpeedupCloseBtn" dock="DOCK_RIGHT" size="10,10" config="SpeedupCloseBtn" toolText="$2790" margin="0,22,20,22"/>
+							<IBGButton name="bandwidthSpeedupTryBtn" dock="DOCK_RIGHT" size="100,30" text="$2786" config="SpeedupTryBtn" margin="0,10,20,10"/>
+						</Children>
+					</IBGRegionPanel>
 					<!-- 流量包（下载列表） -->
 					<IBGRegionPanel name="SpeedupPackagePanel" unseen="true" ncHitTest="1" size="0,54" dock="DOCK_BOTTOM" config="SpeedupTipPannel">
 						<Children>

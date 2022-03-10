@@ -16,7 +16,7 @@
                 <imgbtn name="btn_list_status_close" skin="titlepanel_close_btn" pos="-40,-30,@15,@16" cursor="arrow" tip="%str250%"></imgbtn>
             </dlg>
             <hr pos="0,47,-0,@1" size="1" crbg="F5F6FA"></hr>
-            <dlg name="dlg_top_float" pos="0,49,-0,@36" crbg="F5F6FA" show="0">
+            <dlg name="dlg_top_float" pos="10,49,-10,@36" crbg="F5F6FA" show="0">
                 <text name="txt_float_tip" pos="24,9,@280,@18" crtext="878C9C"></text>
                 <link name="link_float" pos="-72,9,@48,@18" crtext="06A7FF" cursor="hand"></link>
             </dlg>
@@ -36,8 +36,8 @@
                             <text name="txt_speed" pos="[8,40" crtext="AFB3BF" font="0000:微软雅黑"/>
                         </dlg>
                         <dlg name="dlg_sync_error_file" show="0" pos="-355,10,-0,-0">
-                            <text name="txt_error_msg" pos="95,20,@240,@12" crtext="FF436A" align="right" font="0000:微软雅黑"/>
-                            <imgbtn name="btn_error_svip" pos="-97,12,@90,@30" crtext="C99E47" font="0000:微软雅黑" skin="titlepanel_translucent"></imgbtn>
+                            <text name="txt_error_msg" pos="0,10,-25,@16" crtext="FF436A" align="right" font="0200:微软雅黑"/>
+                            <imgbtn name="btn_error_svip" pos="-350,30,-25,@12" crtext="BF8726" align="right" font="0000:微软雅黑" skin="titlepanel_translucent"></imgbtn>
                         </dlg>
                     </dlg>
                 </template>

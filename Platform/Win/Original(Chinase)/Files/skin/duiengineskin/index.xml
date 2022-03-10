@@ -40,6 +40,7 @@
 <resid type="XML" name="IDR_DUI_SHARE_PERSONALDATA_DIALOG" layer="1" file="xml\dlg_share_personaldata.xml"/>
 <resid type="XML" name="IDR_DUI_MENU" file="xml\Menu.xml"/>
 <resid type="XML" name="IDR_DUI_TOAST_DIALOG" file="xml\Toast\ToastDlg.xml"/>
+<resid type="XML" name="IDR_DUI_FLOATTOAST_DIALOG" file="xml\Toast\FloatToastDlg.xml"/>
 <resid type="XML" name="IDR_DUI_CLEARSTORAGECACHE_DIALOG" layer="1" file="xml\dlg_clear_storage_cache.xml"/>
 <resid type="XML" name="IDR_DUI_BACKUPUPDATE_DIALOG" layer="1" file="xml\dlg_backup_update.xml"/>
 <resid type="XML" name="IDR_DUI_BACKUPUNLOCK_DIALOG" layer="1" file="xml\dlg_backup_unlock.xml"/>
@@ -135,6 +136,10 @@
 <resid type="XML" name="IDR_DUI_SPEEDUP_PACKAGE_USE_DLG" layer="1" file="xml\MainPanel\SpeedupPackage\SpeedupPackageUseDlg.xml"/>
 <resid type="XML" name="IDR_DUI_DEVICE_FINGER_SDK_WEB_DIALOG" layer="1" file="xml\MainPanel\DeviceFingerSdkWebPageDlg.xml"/>
 <resid type="XML" name="IDR_DUI_CONFIRM_USE_AUTO_FILL_PASSWORD_DIALOG" layer="1" file="xml\MainPanel\SharePanel\ConfirmUseAutoFillPasswordLinkDlg.xml"/>
+<!--物理带宽提速-->
+<resid type="XML" name="IDR_DUI_BANDWIDTH_SPEEDUP_DLG" layer="1" file="xml\MainPanel\BandwidthSpeedup\BandwidthSpeedupDlg.xml"/>
+<!--活动-->
+<resid type="XML" name="IDR_DUI_ACTIVITY_RECEIVE_DIALOG" layer="1" file="xml\MainPanel\ActivityReceiveDlg.xml"/>
 
 <!--窗口背景资源-->
 <resid type="IMGX" name="IDP_MAIN_DLG_FRAME" file="image\common\window\windowBkg.png"  />
@@ -198,6 +203,7 @@
 <resid type="IMGX" name="IDP_TOAST_BTN_WHITE_CLOSE" file="image\common\Toast\toast_close_white.png"/>
 <resid type="IMGX" name="IDP_TOAST_BTN_BLACK_CLOSE" file="image\common\Toast\toast_close_black.png"/>
 <resid type="IMGX" name="IDP_TOAST_OK_BKG" file="image\common\Toast\ToastOkBg.png"/>
+<resid type="IMGX" name="IDP_TOAST_BLUE_BKG" file="image\common\Toast\ToastBlueBg.png"/>
 <resid type="IMGX" name="IDP_TOAST_FAIL_BKG" file="image\common\Toast\ToastFailBg.png"/>
 <resid type="IMGX" name="IDP_TOAST_VIP_BKG" file="image\common\Toast\ToastVipBg.png"/>
 <resid type="IMGX" name="IDP_TOAST_SVIP_BKG" file="image\common\Toast\ToastSVipBg.png"/>
@@ -667,6 +673,7 @@
 <resid type="IMGX" name="IDP_VIDEO_OVERSPEED_SVIP_BTN" file="image\VideoPlayDlg\overspeed\btn_overspeed_open_svip.png"/>
 <resid type="IMGX" name="IDP_VIDEO_OVERSPEED_SVIP_IMG" file="image\VideoPlayDlg\overspeed\overspeed_svip.png"/>
 <resid type="IMGX" name="IDP_VIDEO_OVERSPEED_NEW_IMG" file="image\VideoPlayDlg\new.png"/>
+<resid type="IMGX" name="IDP_VIDEO_DEFINITION_GUIDE_IMG" file="image\VideoPlayDlg\definition_guide.png"/>
 <resid type="IMGX" name="IDP_VIDEO_PLAYLIST_EMPTY" file="image\VideoPlayDlg\empty.png"/>
 <resid type="IMGX" name="IDP_VIDEO_UNDERLINE_NORMAL" file="image\VideoPlayDlg\underline_normal.png"/>
 <resid type="IMGX" name="IDP_VIDEO_UNDERLINE_HOVER" file="image\VideoPlayDlg\underline_hover.png"/>
@@ -1011,6 +1018,7 @@
 <resid type="IMGX" name="IDP_IMAGEPANEL_BTN_DOWNLOAD" file="image\ImageViewDlg\btn_download.png"/>
 <resid type="IMGX" name="IDP_IMAGEPANEL_BTN_DELETE" file="image\ImageViewDlg\btn_delete.png"/>
 <resid type="IMGX" name="IDP_IMAGEPANEL_BTN_DETAIL" file="image\ImageViewDlg\btn_detail.png"/>
+<resid type="IMGX" name="IDP_IMAGEPANEL_BTN_CLOUDEDIT" file="image\ImageViewDlg\btn_cloudedit.png"/>
 <resid type="IMGX" name="IDP_IMAGEPANEL_BTN_BOTTOM_LEFT" file="image\ImageViewDlg\btn_bottom_left.png"/>
 <resid type="IMGX" name="IDP_IMAGEPANEL_BTN_BOTTOM_LEFT_DISABLE" file="image\ImageViewDlg\btn_bottom_left_disable.png"/>
 <resid type="IMGX" name="IDP_IMAGEPANEL_BTN_BOTTOM_RIGHT" file="image\ImageViewDlg\btn_bottom_right.png"/>
@@ -1327,6 +1335,8 @@
 <resid type="IMGX" name="IDP_WORKSPACE_FILEVER_SAVEAS" file="image\WorkSpaceDlg\workspace_filever_saveas.png"/>
 <resid type="IMGX" name="IDP_WORKSPACE_FILEVER_SVIP" file="image\WorkSpaceDlg\workspace_filever_svip.png"/>
 
+<resid type="IMGX" name="IDP_WORKSPACE_DRAG_MASK" file="image\WorkSpaceDlg\workspace_drag_mask.png"/>
+
 <!-- 文件页 -->
 <resid type="IMGX" name="IDP_DUI_WORKSPACE_FILE_BTN_IMPORT" file="image\WorkSpaceDlg\FilePanel\ToolBar\Import.png"/>
 <resid type="IMGX" name="IDP_DUI_WORKSPACE_FILE_BTN_UPLOAD" file="image\WorkSpaceDlg\FilePanel\ToolBar\upload.png"/>
@@ -1335,6 +1345,7 @@
 <resid type="IMGX" name="IDP_DUI_WORKSPACE_FILE_SYNC_STATUS_SYNCING" file="image\WorkSpaceDlg\FilePanel\FileView\SyncStatus\Syncing.png"/>
 <resid type="IMGX" name="IDP_DUI_WORKSPACE_FILE_SYNC_STATUS_UPTODATE" file="image\WorkSpaceDlg\FilePanel\FileView\SyncStatus\UpToDate.png"/>
 <resid type="IMGX" name="IDP_DUI_WORKSPACE_FILE_SYNC_STATUS_PAUSE" file="image\WorkSpaceDlg\FilePanel\FileView\SyncStatus\Pause.png"/>
+<resid type="IMGX" name="IDP_DUI_WORKSPACE_FILE_SYNC_STATUS_CLOUDBRIDGE" file="image\WorkSpaceDlg\FilePanel\FileView\SyncStatus\CloudBridge.png"/>
 <resid type="IMGX" name="IDP_DUI_WORKSPACE_FILE_EMPTY" file="image\WorkSpaceDlg\FilePanel\FileView\EmptyView\emptyfile.png"/>
 
 <resid type="IMGX" name="IDP_DUI_WORKSPACE_BG_NORMAL" file="image\WorkSpaceDlg\background_normal.png"/>
@@ -1371,6 +1382,8 @@
 <resid type="IMGX" name="IDP_DUI_WORKSPACE_GUIDE_VIPTEST_NORMAL" file="image\WorkSpaceDlg\GuideGifPanel\guide_viptest_normal.png"/>
 <resid type="IMGX" name="IDP_DUI_WORKSPACE_GUIDE_HISTORY_NORMAL" file="image\WorkSpaceDlg\GuideGifPanel\guide_history_normal.png"/>
 <resid type="IMGX" name="IDP_DUI_WORKSPACE_GUIDE_UPLOAD_NORMAL" file="image\WorkSpaceDlg\GuideGifPanel\guide_upload_normal.png"/>
+<resid type="IMGX" name="IDP_DUI_WORKSPACE_GIF_GUIDE_QUICK_SYNC" file="image\WorkSpaceDlg\GuidePanel\workspac_guide_quick_sync.gif"/>
+<resid type="IMGX" name="IDP_DUI_WORKSPACE_GIF_QUICK_SYNC" file="image\WorkSpaceDlg\GuidePanel\workspace_quick_sync.gif"/>
 
 <resid type="IMGX" name="IDP_DUI_WORKSPACE_FILE_TOOLBAR_DARKBLUE_BTN" file="image\WorkSpaceDlg\FilePanel\ToolBar\blue_dark_btn.png"/>
 <resid type="IMGX" name="IDP_DUI_WORKSPACE_FILE_TOOLBAR_LIGHTBLUE_BTN" file="image\WorkSpaceDlg\FilePanel\ToolBar\blue_light_btn.png"/>
@@ -1388,6 +1401,7 @@
 <resid type="XML" name="IDR_DUI_BATCHRENAME_DLG" layer="1" file="xml\BatchRename\BatchRenameDlg.xml"/>
 <resid type="IMGX" name="IDP_DUI_WORKSPACE_GUIDE_BKG" file="image\WorkSpaceDlg\guide_bkg.png"/>
 <resid type="IMGX" name="IDP_DUI_WORKSPACE_GUIDE_FRAME" file="image\WorkSpaceDlg\guide_frame.png"/>
+<resid type="IMGX" name="IDP_DUI_WORKSPACE_GUIDE_FRAME_MASK" file="image\common\window\workspace_guide_frame_with_mask.png"/>
 <resid type="IMGX" name="IDP_DUI_WORKSPACE_GUIDE_LEFT_FRAME" file="image\WorkSpaceDlg\guide_left.png"/>
 <resid type="IMGX" name="IDP_DUI_WORKSPACE_GUIDE_MASK" file="image\WorkSpaceDlg\guide_mask.png"/>
 <resid type="IMGX" name="IDP_DUI_WORKSPACE_STATUS_PANEL" file="image\WorkSpaceDlg\workspace_status_panel.png"/>
@@ -1430,6 +1444,22 @@
 <!-- 游戏中心 -->
 <resid type="XML" name="IDR_DUI_GAMECENTER_DLG" layer="1" file="xml\GameCenterDlg\GameCenterDlg.xml"/>
 <resid type="IMGX" name="IDP_DUI_GAMECENTER_BTN_REFRESH" file="image\GameCenterDlg\btn_refresh.png"/>
+<!--云桥-->
+<resid type="XML" name="IDR_DUI_CLOUDBRIDGE_FAT32_DLG" layer="1" file="xml\MainPanel\WorkSpaceDlg\CloudbridgeDlg\CloudbridgeFAT32.xml"/>
+<resid type="XML" name="IDR_DUI_CLOUDBRIDGE_SVIP_DLG" layer="1" file="xml\MainPanel\WorkSpaceDlg\CloudbridgeDlg\CloudbridgeSvip.xml"/>
+<resid type="IMGX" name="IDR_DUI_CLOUDBRIDGE_BLUE_BTN" file="image\WorkSpaceDlg\CloudBridge\blue_btn.png"/>
+<resid type="IMGX" name="IDR_DUI_CLOUDBRIDGE_FILE" file="image\WorkSpaceDlg\CloudBridge\cloudbridge_file.png"/>
+<resid type="IMGX" name="IDR_DUI_CLOUDBRIDGE_SVIP" file="image\WorkSpaceDlg\CloudBridge\cloudbridge_svip.png"/>
+<resid type="IMGX" name="IDR_DUI_CLOUDBRIDGE_MODE_FRAME" file="image\WorkSpaceDlg\CloudBridge\mode_frame.png"/>
+<resid type="IMGX" name="IDR_DUI_CLOUDBRIDGE_YELLOW_BRN" file="image\WorkSpaceDlg\CloudBridge\yellow_btn.png"/>
+<resid type="IMGX" name="IDR_DUI_CLOUDBRIDGE_YELLOW_FRAME" file="image\WorkSpaceDlg\CloudBridge\yellow_frame.png"/>
+<resid type="IMGX" name="IDR_DUI_CLOUDBRIDGE_SVIP_FRAME" file="image\WorkSpaceDlg\CloudBridge\svip_frame.png"/>
+<resid type="IMGX" name="IDR_DUI_CLOUDBRIDGE_UNRIDIO" file="image\WorkSpaceDlg\CloudBridge\un_ridio.png"/>
+<resid type="IMGX" name="IDR_DUI_CLOUDBRIDGE_INRIDIO" file="image\WorkSpaceDlg\CloudBridge\in_ridio.png"/>
+<resid type="IMGX" name="IDR_DUI_CLOUDBRIDGE_QUESTION" file="image\WorkSpaceDlg\CloudBridge\question.png"/>
+<resid type="XML" name="IDR_DUI_CLOUDBRIDGE_INTRODUCE" layer="1" file="xml\MainPanel\WorkSpaceDlg\CloudbridgeDlg\CloudbridgeIntroduce.xml"/>
+<resid type="XML" name="IDR_DUI_CLOUDBRIDGE_DOWNLOAD" layer="1" file="xml\MainPanel\WorkSpaceDlg\CloudbridgeDlg\CloudbridgeDownload.xml"/>
+<resid type="XML" name="IDR_DUI_CLOUDBRIDGE_OPERATE" layer="1" file="xml\MainPanel\WorkSpaceDlg\CloudbridgeDlg\CloudbridgeOperateProgress.xml"/>
 
 <!-- 文件搜索tip资源 -->
 <resid type="IMGX" name="IDP_SEARCH_YUN_FAILED_TIP_ICON" file="image\SearchFileTip\tip_icon.png"/>
@@ -1456,3 +1486,5 @@
 <resid type="IMGX" name="IDP_QUICKUPLOAD_GUIDE_GIF" file="image\QuickUploadDlg\GuideGif.gif" />
 <resid type="IMGX" name="IDP_QUICKUPLOAD_GUIDE_LATER_BTN_BG" file="image\QuickUploadDlg\LaterBtn.png"/>
 <resid type="IMGX" name="IDP_QUICKUPLOAD_GUIDE_OPEN_BTN_BG" file="image\QuickUploadDlg\OpenBtn.png" />
+
+<resid type="IMGX" name="IDP_WORKSPACE_RECEIVE_NA_FILE_UNUSED" file="image\WorkSpaceDlg\workspace_receive_na_file_used.png" />

@@ -1,6 +1,12 @@
 ﻿<layer name="WorkspaceLeftFuncGuideWnd"  width="388" height="306" toolwindow="1" ncRect="0,0,0,0"  resize="0" translucent="1"  nomaxsize="1">
   <body>
     <dlg name="workspace_left_guide" pos="0,0,-0,-0" >
+      <dlg pos="0,0,-0,-0" name="workspace_receive_file_unused_guide" skin="workspace_guide_bkg_two" show="0">
+          <text pos="38,46,-30,66" align="center" crtext="03081A" font="0200:微软雅黑" >%str5250%</text>
+          <text pos="38,74,-30,94" align="center" crtext="636D7E" font="0200:微软雅黑" >%str5251%</text>
+          <img pos="38,100,@320,@115" skin="workspace_receive_na_file_unused"/>
+          <imgbtn name="btn_ok" skin="wechatbackup_guide_dlg_btn" pos="134,-75,@128,@36" align="center" crtext="FFFFFF" font="0200:微软雅黑">%str4202%</imgbtn>
+      </dlg>
       <dlg pos="0,0,-0,-0" name="workspace_first_guide" skin="workspace_guide_bkg_two" show="0">
           <imgbtn name="btn_close" skin="wechatbackup_guide_dlg_close" pos="-62,46,@16,@16" cursor="arrow" tip="%str250%"/>
           <text pos="38,46,-30,66" align="center" crtext="03081A" font="0200:微软雅黑" >%str4614%</text>

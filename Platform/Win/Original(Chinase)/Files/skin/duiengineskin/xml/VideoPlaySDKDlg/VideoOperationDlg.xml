@@ -138,7 +138,8 @@
           <imgbtn name="btn_download_othershare" pos="10,74,@32,@30" skin="video_imglist_download" cursor="arrow"/>
         </dlg>
         <!--底部操作栏-->
-        <dlg name="taskbar" pos="0,-88,-0,-0" skin="video_skin_taskbar_bg">
+        <dlg name="taskbar" pos="0,-106,-0,-0" skin="video_skin_taskbar_bg">
+          <dlg pos="0,18,-0,-0" skin="video_skin_taskbar_bg">
             <progress name="progress_bar" pos="0,22,-0,24" bgskin="video_prog_bg" posskin="video_prog_bar" pointskin="video_note_process_bar_point" value="12" min="0" max="100" showpercent="0" show="1"/>
             <sliderbar name="sliderbar_progress_control" pos="0,16,-0,32" alpha="255" bgskin="video_big_prog_bg" pointskin="video_note_process_bar_big_point" posskin="video_big_prog_bar" thumbskin="video_slide_thumb" value="0" min="0" max="100" show="0"/>
             <imgbtn name="btn_play" pos="19,44" width="20" height="24" skin="video_imglist_pause" cursor="arrow"/>
@@ -165,6 +166,8 @@
             <img name="img_vedio_note_new" pos="-320,40,@26,@12" skin="video_overspeed_new_img" show="1"></img>
             <img name="img_overspeed_new" pos="-253,40,@26,@12" skin="video_overspeed_new_img" show="1"></img>
             <img name="img_definition_new" pos="-187,40,@26,@12" skin="video_overspeed_new_img" show="0"></img>
+          </dlg>
+          <img name="img_definition_guide" pos="-293,0,@206,@72" skin="video_definition_guide_img" show="0"></img>
         </dlg>
         <!--tip panel begin-->
         <!--下载Tip-->
@@ -173,8 +176,9 @@
           <text name="myfile_download_tip" pos="30,4" class="cls_txt_white" txtalpha="0">%str1409%</text>
         </dlg>
         <!--加载中Tip-->
-        <dlg name="tip_loading" pos="|-20,|-40" width="80" height="80" show="0">
-          <animateimg name="gif_loading" pos="0,0" width="42" height="40" skin="video_skin_loading_png" autostart="1"/>
+        <dlg name="tip_loading" pos="|-50,|-40" width="100" height="80" show="0">
+          <animateimg name="gif_loading" pos="|-21,0" width="42" height="40" skin="video_skin_loading_png" autostart="1"/>
+          <text name="loading_tip" pos="6,[10" class="cls_txt_white" txtalpha="0">%str1365%</text>
         </dlg>
         <!--播放控制Tip-->
         <dlg name="play_control_tip" pos="10,-102,112,-74" skin="video_skin_tip_bg" show="0">
@@ -276,20 +280,22 @@
           <text name="sutitle_font_very_large" pos="244,-38" class="cls_video_subtitle_txt_gray">%str1439%</text>
         </dlg>
 		    <!--清晰度选择面板-->
-        <dlg name="video_definition_panel" pos="-281,-340" width="208" height="270" show="0">
+        <dlg name="video_definition_panel" pos="-281,-351" width="208" height="281" show="0">
           <dlg name="video_definition_panel_guide" pos="0,0,-0,-0" skin="video_time_tip_bg">
-            <imgbtn name="video_definition_2000" pos="4,20,@200,@32" class="cls_video_definition_item_blue_btn" txtalpha="0">%str3305%</imgbtn>        
-            <imgbtn name="video_definition_1080" pos="4,52,@200,@32" class="cls_video_definition_item_blue_btn" txtalpha="0">%str3304%</imgbtn>        
-            <imgbtn name="video_definition_720" pos="4,84,@200,@32" class="cls_video_definition_item_blue_btn" txtalpha="0">%str3303%</imgbtn>
-            <imgbtn name="video_definition_480" pos="4,116,@200,@32" class="cls_video_definition_item_blue_btn" txtalpha="0">%str3302%</imgbtn>
-            <imgbtn name="video_definition_360" pos="4,148,@200,@32" class="cls_video_definition_item_blue_btn" txtalpha="0">%str3301%</imgbtn>	
-            <text name="video_definition_script_txt_2000" pos="145,30,@30,@12" class="cls_video_definition_script_text" show="0"></text>
-            <text name="video_definition_script_txt_1080" pos="145,62,@30,@12" class="cls_video_definition_script_text" show="0"></text>
-            <text name="video_definition_script_txt_720" pos="145,94,@30,@12" class="cls_video_definition_script_text" show="0"></text>
-            <dlg name="video_definition_display" pos="0,-82,-0,-0">
-                <hr pos="16,0,-16,1" crbg="333333"></hr>
-                <text name="video_definition_type_tip" pos="20,30" class="cls_txt_white" txtalpha="0">%str3306%</text>
-                <text name="video_definition_type" pos="124,30" font="0000:微软雅黑" align="center" crtext="ffffff" txtalpha="0">%str3308%</text>  
+            <imgbtn name="video_definition_2000" pos="4,-241,@200,@30" class="cls_video_definition_item_blue_btn" txtalpha="0">%str3305%</imgbtn>
+            <imgbtn name="video_definition_1080_hq" pos="4,-211,@200,@30" class="cls_video_definition_item_blue_btn" txtalpha="0">%str3322%</imgbtn>
+            <imgbtn name="video_definition_1080" pos="4,-181,@200,@30" class="cls_video_definition_item_blue_btn" txtalpha="0">%str3304%</imgbtn>
+            <imgbtn name="video_definition_720" pos="4,-151,@200,@30" class="cls_video_definition_item_blue_btn" txtalpha="0">%str3303%</imgbtn>
+            <imgbtn name="video_definition_480" pos="4,-121,@200,@30" class="cls_video_definition_item_blue_btn" txtalpha="0">%str3302%</imgbtn>
+            <imgbtn name="video_definition_360" pos="4,-91,@200,@30" class="cls_video_definition_item_blue_btn" txtalpha="0">%str3301%</imgbtn>
+            <text name="video_definition_script_txt_2000" pos="145,-232,@30,@12" class="cls_video_definition_script_text" show="0"></text>
+            <text name="video_definition_script_txt_1080_hq" pos="145,-202,@30,@12" class="cls_video_definition_script_text" show="0"></text>
+            <text name="video_definition_script_txt_1080" pos="145,-172,@30,@12" class="cls_video_definition_script_text" show="0"></text>
+            <text name="video_definition_script_txt_720" pos="145,-142,@30,@12" class="cls_video_definition_script_text" show="0"></text>
+            <dlg name="video_definition_display" pos="0,-53,-0,-0">
+              <hr pos="16,0,-16,1" crbg="333333"></hr>
+              <text name="video_definition_type_tip" pos="20,16" class="cls_txt_white" txtalpha="0">%str3306%</text>
+              <text name="video_definition_type" pos="124,16" font="0000:微软雅黑" align="center" crtext="ffffff" txtalpha="0">%str3308%</text>
             </dlg>
           </dlg>
         </dlg>

@@ -1,6 +1,6 @@
 <layer name="WorkspaceDeletePromptDlg" width="464" height="338" appwin="0" ncRect="0,0,0,0" resize="0" translucent="1" nomaxsize="1">
     <body>
-        <dlg name="content" pos="0,0,-0,-0" skin="workspace_guide_frame">
+        <dlg name="content" pos="0,0,-0,-0" skin="workspace_guide_frame_mask">
             <dlg pos="8,8,-8,-8">
                 <caption pos="0,0,-0,@48">
                     <img pos="16,8,@32,@32" skin="workspace_logo_icon"/>
