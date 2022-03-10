@@ -1395,6 +1395,11 @@
   <String id="IDS_WORKSPACE_CHANGE_LOCAL_SYNC_PACH_ACCESS_DENY_TIP"  value="Если папка не написана, пожалуйста, повторно выберите" />
   <String id="IDS_WORKSPACE_CHANGE_LOCAL_SYNC_PACH_QUOTA_LESS_TIP"  value="Если диск остается на диске, пожалуйста, выберите" />
   <String id="IDS_WORKSPACE_CHANGE_LOCAL_SYNC_PACH_SAME_TIP"  value="Оригинальный путь синхронизации такой же, как выбранный путь синхронизации, пожалуйста, выберите" />
+  <String id="IDS_WORKSPACE_QUICK_SYNC_SETTING" value="Режим синхронизации файлов:" />
+  <String id="IDS_WORKSPACE_AUTO_DOWNLOAD_LOCAL" value="Загрузите автоматически на локальный" />
+  <String id="IDS_WORKSPACE_FREE_SPACE" value="Выпустить компьютерное пространство, только скачать ярлыки" />
+  <String id="IDS_WORKSPACE_QUICK_SYNC_ERROR" value="Раздел жесткого диска, в котором находится ваш каталог синхронизации, является форматом не-NTFS, который нельзя использовать системными ограничениями, замените жесткий диск, в котором находится каталог." />
+ 
   <String id="IDS_WORKSPACE_LOCAL_SYNC_SET"  value="Перейти к настройке" />
   <!--Коммерциализация-->
   <String id="IDS_PRODUCT_RECOMMEND_SETTING" value="Настройка рекомендации продукта:" />
@@ -1403,6 +1408,8 @@
   <String id="IDS_RESTART_NOW" value="Перезагрузить сейчас" />
   <String id="IDS_SYNC_ICON_SOLVE_QUESTION_TIP" value="Перезапуск не показал состояние синхронизации файлов, конкретное решение, см." />
   <String id="IDS_SYNC_HELP_CENER_TIP" value="Центр помощи" />
+  <String id="IDS_SYNC_LOCALPATH_DISAPPEAR" value="Локальная папка синхронизации не существует" />
+  <String id="IDS_SYNC_LOCALPATH_UNSETTING" value="Пожалуйста, настройте локальную папку синхронизации" />
 
   <String id="IDS_LINK_GET_PASSWORD_TYPE" value="Метод добычи:" />
   <String id="IDS_AUTO_FILL_LINK_PASSWORD" value="Поделиться ссылку Автоматический код экстракции населения" />
@@ -1418,5 +1425,8 @@
   <String id="IDS_QUICKUPLOAD_WECHAT_TIPS" value="1.Изображение WECHAT или браузера/Документ, первая копия, затем вызвать ярлыки" />
   <String id="IDS_QUICKUPLOAD_SELECT_TIPS" value="2.Если файл не обновляется после выбора файла, пожалуйста, скопируйте файл и попробуйте снова." />
   <String id="IDS_QUICKUPLOAD_TASK_CREATE_TIP" value="Добавлено в список загрузки" />
+ <!--Физическая пропускная способность скорость-->
+  <String id="IDS_BANDWIDTH_SPEEDUP_USEING_TIP" value="Мобильные широкополосные операторы улучшают физическую широкополосную связь,%dЧерез несколько секунд все оборудование под той же широкополосной связью наслаждается скоростью, попробуйте другое оборудование.！" />
+  <String id="IDS_BANDWIDTH_SPEEDUP_END_TIP" value="Операторы мобильной связи усиливают конец опыта физической полосы пропускания." />
 
 </StringTable>
