@@ -1395,6 +1395,10 @@
   <String id="IDS_WORKSPACE_CHANGE_LOCAL_SYNC_PACH_ACCESS_DENY_TIP"  value="If the folder is not written, please select" />
   <String id="IDS_WORKSPACE_CHANGE_LOCAL_SYNC_PACH_QUOTA_LESS_TIP"  value="If the disk remains on the disk, please select" />
   <String id="IDS_WORKSPACE_CHANGE_LOCAL_SYNC_PACH_SAME_TIP"  value="The original synchronization path is the same as the selected synchronization path, please select" />
+  <String id="IDS_WORKSPACE_QUICK_SYNC_SETTING" value="File synchronization mode:" />
+  <String id="IDS_WORKSPACE_AUTO_DOWNLOAD_LOCAL" value="Download automatically to the local" />
+  <String id="IDS_WORKSPACE_FREE_SPACE" value="Release computer space, only download shortcuts" />
+  <String id="IDS_WORKSPACE_QUICK_SYNC_ERROR" value="The hard disk partition where your sync directory is located is non-NTFS format, which cannot be used by system restrictions, replace the hard disk where the directory is located." />
   <String id="IDS_WORKSPACE_LOCAL_SYNC_SET"  value="Go to set up" />
   
   <!--commercialize-->
@@ -1404,6 +1408,9 @@
   <String id="IDS_RESTART_NOW" value="Restart now" />
   <String id="IDS_SYNC_ICON_SOLVE_QUESTION_TIP" value="Restart has not shown file synchronization status, specific solution, please see" />
   <String id="IDS_SYNC_HELP_CENER_TIP" value="Help Center" />
+  <String id="IDS_SYNC_LOCALPATH_DISAPPEAR" value="Local synchronization directory does not exist, please reset" />
+  <String id="IDS_SYNC_LOCALPATH_UNSETTING" value="Please set up a local synchronization directory" />
+
     <!--Automatic population extract-->
   <String id="IDS_LINK_GET_PASSWORD_TYPE" value="Extraction method:" />
   <String id="IDS_AUTO_FILL_LINK_PASSWORD" value="Share link automatic population extraction code" />
@@ -1420,5 +1427,8 @@
   <String id="IDS_QUICKUPLOAD_WECHAT_TIPS" value="1.The picture / file in the web or browser, first copy, then evoke shortcuts" />
   <String id="IDS_QUICKUPLOAD_SELECT_TIPS" value="2.If the file is not upgraded after selecting the file, please copy the file and try again." />
   <String id="IDS_QUICKUPLOAD_TASK_CREATE_TIP" value="Added to upload list" />
+ <!--Physical bandwidth speed-->
+  <String id="IDS_BANDWIDTH_SPEEDUP_USEING_TIP" value="Mobile broadband operators enhance physical broadband,%d Close after seconds, all equipment under the same broadband will enjoy speed, try other devices!" />
+  <String id="IDS_BANDWIDTH_SPEEDUP_END_TIP" value="Mobile operators enhance the end of the physical bandwidth experience." />
 
 </StringTable>

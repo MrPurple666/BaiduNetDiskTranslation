@@ -1265,7 +1265,8 @@
   <s id="3319">1080P</s>
   <s id="3320">2K</s>
   <s id="3321">4K</s>
-
+  <s id="3322">High yard ratio 1080p</s>
+  <s id="3323">High-size rate</s>
   <!--File Uploadtip-->
   <s id="3400">Save to Baidu Net Disk</s>
   <s id="3401">Uploading to(%s) folder</s>
@@ -1279,6 +1280,7 @@
   <s id="3412"> OK </s>
 
     <!--Mutual assistance speed-up function-->
+  <s id="3414">After opening, the current account will log in again to keep the open state, if you need to turn it off, you can operate in the settings.</s>
   <s id="3415">Download speedup</s>
   <s id="3416">[Download speedup] is to set the idle upload bandwidth on the computer side into a unique transmission channel to accelerate the files downloaded and entered into the transmission channel using the computer side. The upload bandwidth will continue to optimize the quality of the transmission channel. The higher the channel quality, the more obvious the acceleration effect.</s>
   <s id="3417">What you get</s>
@@ -1514,13 +1516,14 @@
   <s id="4089">Multi-brand safe, accurate, fast and low price</s>
   <s id="4090">Game Center</s>
   <s id="4091">Popular games</s>
-  <s id="4092">企业认证</s>
-  <s id="4093">团队共享协作，对外安全分享</s>
-  <s id="4094">企业认证限时免费</s>
-  <s id="4095">团队协作更高效，对外分享安全且权威</s>
-  <s id="4096">去认证</s>
-  <s id="4097">云编辑</s>
-  <s id="4098">随时随地，编辑图片</s>
+  <s id="4092">Enterprise Certification</s>
+  <s id="4093">Team sharing collaboration, security sharing</s>
+  <s id="4094">Corporate certification limited time</s>
+  <s id="4095">Team collaborate more efficient, sharing security and authority</s>
+  <s id="4096">Verify</s>
+  <s id="4097">Cloud editing (test)</s>
+  <s id="4098">Easy, anywhere, editors</s>
+  <s id="4099">Cloud editing</s>
   <!-- Navigation bar widget -->
   <s id="4100">File cleanup</s>
   <s id="4101">Automatic backup</s>
@@ -1770,6 +1773,12 @@
   <s id="4588">Expand</s>
   <s id="4589">Request</s>
   <s id="4590">Preparing data, please wait patiently</s>
+  <s id="4591">Upload file size overrun</s>
+  <s id="4592">Open SVIP to enjoy unlimited synchronous traffic</s>
+  <s id="4593">Open SVIP to enjoy 5T super large space</s>
+  <s id="4594">Open SVIP to enjoy 4G above large files</s>
+  <s id="4595">Move it to the local"Synchronous space"folder</s>
+  <s id="4596">No synchronous space is set, will help you open after leil"Synchronization directory setting"</s>
   <!-- File page -->
   <s id="4559">What can I do?</s>
   <s id="4600">Add a network disk file</s>
@@ -1793,6 +1802,8 @@
   <s id="4618">Enjoy mobile office, access work file anytime, anywhere</s>
   <s id="4619">Synchronous traffic this month has been used</s>
   <s id="4620">Unlimited sync privilege has expired</s>
+  <s id="4621">The synchronization traffic of this month has been used, and the SVIP is opened to enjoy unlimited synchronous traffic.</s>
+  <s id="4622">The network disk space is insufficient, and the SVIP is opened 5T super large space. </s>
 
   <s id="4650">Function boot</s>
   <s id="4651">View local file location</s>
@@ -1846,6 +1857,9 @@
   <s id="4725">The remaining synchronous traffic this month is insufficient, soon to stop synchronization</s>
   <s id="4726">Synchronous information comparison, please wait patiently</s>
   <s id="4727">Synchronous exception, please try again</s>
+  <s id="4728">Document modification is successful</s>
+  <s id="4729">Reserved for you</s>
+  <s id="4730">File history version,Restore historical files at any time</s>
 
   <!-- Synchronous disk operation record-->
   <s id="4750">Operating type</s>
@@ -1875,6 +1889,7 @@
   <s id="4773">Document processing</s>
   <s id="4774">Text identification</s>
   <s id="4775">Document moves to personal space</s>
+  <s id="4776">File location</s>
 
   <s id="4801">The file is too large, more than%dG upload size limit</s>
   <s id="4802">The file is too large, and the member supports uploading the largest%dGtext.件</s>
@@ -2027,6 +2042,11 @@
   <s id="5070">Share prompt</s>
   <s id="5071">Open "Automatic Fill Extraction Code"</s>
   <s id="5072">Visitors click on the link to view the sharing file directly.</s>
+  <s id="5073">Copy sharing link</s>
+  <s id="5074">Whether to open "Auto Pack Extract"</s>
+  <s id="5075">After opening "Automatic Fill Extraction Code", the visitor does not need to enter the extraction code.</s>
+  <s id="5076">You can view sharing files directly</s>
+  
    <!--research all-->
   <s id="5080">File name%d item）</s>
   <s id="5081">File content related %d item）</s>
@@ -2034,12 +2054,12 @@
   <s id="5083">(File name related %d +item）</s>
   
   <!--Quick upload plugin-->
-  <s id="5100">Baidu network disk fast upload</s>
+  <s id="5100">Baidu Net Disk fast upload</s>
   <s id="5101">Upload to: My network disk</s>
   <s id="5102">Select save location</s>
   <s id="5103">Open Baidu network disk</s>
   <s id="5104">Upload files in clipboard</s>
-  <s id="5105">Custom location</s>
+  <s id="5105">Browse...</s>
   <s id="5106">Recently selected folder</s>
   <s id="5107">talk about it later</s>
   <s id="5108">One-button open</s>
@@ -2056,9 +2076,72 @@
   <s id="5201">Other files</s>
   <s id="5202">Deleted files are deleted in all locations</s>
   <s id="5203">Open recycle bin</s>
-  <s id="5204">Not in prompt</s>
+  <s id="5204">Do not remind again</s>
   <s id="5205">You currently recover 2 historical versions recently updated, open super members or work packages Enjoy 100 historical versions</s>
   <s id="5206">Distinguished Super Member, you have enjoyed each file to keep 100 historical version privileges</s>
   <s id="5207">Work Package Users have enjoyed each file to keep 100 historical versions of privileges</s>
-    
+     
+  <s id="5250">Still a way to sync the file from the phone</s>
+  <s id="5251">Turn on the synchronous space, the mobile file is speedful download to the computer</s>
+
+  <!--Operator physical bandwidth speed-->
+  <s id="5260">Confirm binding mobile phone number</s>
+  <s id="5261">Please confirm your broadband binding mobile phone number</s>
+  <s id="5262">The service is provided by broadband operators, and Baidu network disk cannot determine if binding is correct, please check the check</s>
+  <s id="5263">Your broadband corresponding mobile phone number, such as binding errors will not be able to achieve broadband lifting effects.</s>
+  <s id="5264">Manual input</s>
+  <s id="5265">Please enter the mobile phone number with wide boundary</s>
+  <s id="5266">Return to the number of trials</s>
+  <s id="5267">Trial interval is less than 4 hours</s>
+  <s id="5268">Non-mobile user</s>
+  <s id="5269">Mobile side service error</s>
+  <s id="5270">Trial failure, error code[%d]</s>
+
+  <!--Cloud bridge-->
+  <s id="6000">Note: After "Release Computer Space", the new files will not be downloaded automatically, but the downloaded file will not be cleared, still occupying the hard disk space, if you need to clear: Please click the local file - click "Release Space"Manual removal</s>
+  <s id="6001">Save Settings</s>
+  <s id="6002">The disk where the selected directory is located is non-NTFS format, which cannot be used "Release Computer Space"</s>
+  <s id="6003">"Release computer space" brand new online!Download on demand, release hard disk space</s>
+  <s id="6004">The computer only shows the file shortcut, downloads the time to download, save the hard disk space (NTFS only)</s>
+  <s id="6005">Document automatic download</s>
+  <s id="6006">The cloud file is automatically downloaded to the local, occupying hard disk space</s>
+  <s id="6007">Release computer space</s>
+  <s id="6008">Files on demand download, release computer disk space</s>
+  <s id="6009">Super Member 30+Privilege:</s>
+  <s id="6010">5T space . Unlimited synchronous traffic . Speed download, etc.</s>
+  <s id="6011">Become a super member</s>
+  <s id="6012">Work package</s>
+  <s id="6013">The hard disk partition where your sync directory is located is non-NTFS format, which cannot be used by system restrictions, replace the hard disk where the directory is located.</s>
+  <s id="6014">Right-click hard disk such as C drive, click [Properties] to view [File System] Only NTFS format can be used</s>
+  <s id="6015">How to view your hard drive format?</s>
+  <s id="6016">The disk where the selected directory is located is non-NTFS format, which cannot be used "Release Computer Space"</s>
+  <s id="6017">You are closing the "Release Computer Space" function, the new file added in the cloud will be downloaded to the local, is it?</s>
+  <s id="6018">"Release computer space"Features</s>
+  <s id="6019">1."Release computer space"What is it?</s>
+  <s id="6020">Synchronize the file icon to the local, double-click the cloud download, reduce the computer hard disk, shorten the synchronization time</s>
+  <s id="6021">2.Is the local file will be deleted after opening?</s>
+  <s id="6022">No, the open state only results in subsequent new files, local existing files do not automatically delete, if you need to clean it, you can choose the right key menu."Release space ", manually release.</s>
+  <s id="6023">Synchronize to local</s>
+  <s id="6024">Local space is less than 10g</s>
+  <s id="6025">It is recommended to open "Release Computer Space", simultaneously shortcut to local</s>
+  <s id="6026">Super Member enjoys the release of computer space privileges</s>
+  <s id="6027">Download from the cloud to the local</s>
+  <s id="6028">Download %u A total%u indivual)</s>
+  <s id="6029">File download is completed,%u Download success，</s>
+  <s id="6030">%u Download failed</s>
+  <s id="6031">reason:</s>
+  <s id="6032">Release computer space is closed</s>^M
+  <s id="6033">SVIP has expired, synchronous files will occupy hard disk space</s>^M
+  <s id="6034">Become a super member></s>
+  <s id="6035">Set success, the synchronization file will be saved in the cloud</s>
+  <s id="6036">Set success, file will be re-downloaded to local disks</s>
+  <s id="6037">After canceling the download, the file will keep the cloud state, the local is not retained.</s>
+  <s id="6038">NTFS hard disk</s>
+  <s id="6039">In order to avoid synchronous abnormalities, please access the synchronization space through the system desktop, the [Synchronous Space] on the left side of the resource manager after the file is released.</s>
+  <s id="6040">File operation</s>
+  <s id="6041">In operation, please wait patiently...</s>
+  <s id="6042">Custom directory download</s>
+  <s id="6043">1. Only support NTFS hard drive, right click hard disk property check hard disk format \n 2. Right-click on local file - release space, can be manually released</s>
+  <s id="6044">This function is in betrayal, so stay tuned~ \r\n If you need to know more, you can add QQ group：1029132738</s>
+
 </string>
