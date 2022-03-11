@@ -43,7 +43,8 @@ Unpack the contents of the archive to the folder:
 
 Repack edition is the ability to select the language installed for the program, the possibility of a quiet installation. Nothing needs to be copied and replaced everything in the installer.
 
-[![imageban](https://i3.imageban.ru/thumbs/2021.10.18/4514b68715e989f0964e63818d29e1a4.png)](https://imageban.ru/show/2021/10/18/4514b68715e989f0964e63818d29e1a4/png)[![imageban](https://i1.imageban.ru/thumbs/2021.10.18/4deceb483575f4e92c3fb7bc9a04af75.png)](https://imageban.ru/show/2021/10/18/4deceb483575f4e92c3fb7bc9a04af75/png)
+[![imageban](https://i5.imageban.ru/thumbs/2022.03.11/3e1c54ef692facf2c979aabf352b3659.png)](https://imageban.ru/show/2022/03/11/3e1c54ef692facf2c979aabf352b3659/png)
+[![imageban](https://i2.imageban.ru/thumbs/2022.03.11/7a9d35abe8fd9e47c75b513278364873.png)](https://imageban.ru/show/2022/03/11/7a9d35abe8fd9e47c75b513278364873/png)
 
 ### Portable edition
 
