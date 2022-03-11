@@ -482,10 +482,10 @@
   <String id="IDS_LOGINDLG_TIP_HTTPS_ERROR" value="Ошибка проверки сети" />
   <!--Окно системных настроек -->
   <String id="IDS_SETTINGDLG_TASKITEM_NAME" value="Настройки Baidu NetDisk" />
-  <String id="IDS_SETTINGDLG_TAB_GENERAL_SETTING" value="Общая" />
+  <String id="IDS_SETTINGDLG_TAB_GENERAL_SETTING" value="Общие" />
   <String id="IDS_SETTINGDLG_TAB_NET_SETTING" value="Сеть" />
-  <String id="IDS_SETTINGDLG_TAB_PRIVATE_SETTING" value="Конф-ть" />
-  <String id="IDS_SETTINGDLG_TAB_ADVANCE_SETTING" value="Расширенные" />
+  <String id="IDS_SETTINGDLG_TAB_PRIVATE_SETTING" value="Конфиденциальность" />
+  <String id="IDS_SETTINGDLG_TAB_ADVANCE_SETTING" value="Безопасность" />
   <String id="IDS_SETTINGDLG_TAB_OTHER_SETTING" value="Прочее" />
   <String id="IDS_STATIC_DISPALY_FLOATTING_DLG" value="Показать плавающее окно на рабочем столе" />
   <String id="IDS_STATIC_DISPALY_TRAY_TIP" value="Показать всплывающую подсказку" />
@@ -546,8 +546,8 @@
   <String id="IDS_STATIC_SETTING_FRIENDVERIFY_QUESTION_EMPTY" value="Вопрос не может сожержать пустое значение" />
   <String id="IDS_STATIC_SETTING_FRIENDVERIFY_ANSWER_TOO_SHORT" value="Ответ должен быть не менее 2 слов" />
   <String id="IDS_STATIC_SETTING_TRANS_SPEED" value="Скорость передачи" />
-  <String id="IDS_STATIC_DOWNLOAD_SPEED" value="За" />
-  <String id="IDS_STATIC_UPLOAD_SPEED" value="Вы" />
+  <String id="IDS_STATIC_DOWNLOAD_SPEED" value="🔽" />
+  <String id="IDS_STATIC_UPLOAD_SPEED" value="🔼" />
   <String id="IDS_STATIC_NO_LIMIT_SPEED" value="Неогр" />
   <String id="IDS_STATIC_LIMIT_TO" value="Огр" />
   <String id="IDS_STATIC_STANDARD_SPEED" value="128" />
@@ -1382,14 +1382,14 @@
   <String id="IDS_EXPORTONLINEDOC_NOTIFY_FAIL_EXISTEXPORTING" value="Некоторые файлы экспортируются, попробуйте еще раз" />
   <!--Рабочий диск-->
   <String id="IDS_WORKSPACE_SETTING" value="Синхронное пространство" />
-  <String id="IDS_WORKSPACE_SYNC_TRAY_TITLE" value="Рабочая среда:" />
+  <String id="IDS_WORKSPACE_SYNC_TRAY_TITLE" value="Каталог синхронизации" />
   <String id="IDS_WORKSPACE_SYNC_TRAY_TIP" value="Показывать состояния синхронизации" />
-  <String id="IDS_WORKSPACE_VIRTUAL_FOLDER_SHOW" value="Показать синхронный виртуальный диск" />
+  <String id="IDS_WORKSPACE_VIRTUAL_FOLDER_SHOW" value="Показать виртуальный диск синхронизаци" />
   <String id="IDS_WORKSPACE_SAVE_LOCAL_PATH" value="Каталог локальной синхронизации:" />
   <String id="IDS_WORKSPACE_TRAY_NAME" value="Сетевое дисковое синхронное пространство" />
   <String id="IDS_WORKSPACE_FILEVERSIONDLG_TITLENAME"  value="История версий" />
 
-  <String id="IDS_WORKSPACE_CHANGE_LOCAL_SYNC_PACH"  value="Заменить каталог синхронизации" />
+  <String id="IDS_WORKSPACE_CHANGE_LOCAL_SYNC_PACH"  value="Сменить каталог" />
   <String id="IDS_WORKSPACE_CHANGE_LOCAL_SYNC_PACH_INVALID_TIP"  value="Если путь недействителен, пожалуйста, выберите" />
   <String id="IDS_WORKSPACE_CHANGE_LOCAL_SYNC_PACH_IS_SUBDIR_TIP"  value="Вы не можете выбрать свой собственный подкаталог, пожалуйста, повторно выберите" />
   <String id="IDS_WORKSPACE_CHANGE_LOCAL_SYNC_PACH_ACCESS_DENY_TIP"  value="Если папка не написана, пожалуйста, повторно выберите" />
@@ -1402,12 +1402,12 @@
  
   <String id="IDS_WORKSPACE_LOCAL_SYNC_SET"  value="Перейти к настройке" />
   <!--Коммерциализация-->
-  <String id="IDS_PRODUCT_RECOMMEND_SETTING" value="Настройка рекомендации продукта:" />
+  <String id="IDS_PRODUCT_RECOMMEND_SETTING" value="Рекомендации:" />
   <!--Перезагрузите диспетчер ресурсов-->
-  <String id="IDS_RESTART_EXPLORER" value="Локальный файл не синхронизирован?Перезапустите диспетчер ресурсов Попробуйте?"/>
-  <String id="IDS_RESTART_NOW" value="Перезагрузить сейчас" />
-  <String id="IDS_SYNC_ICON_SOLVE_QUESTION_TIP" value="Перезапуск не показал состояние синхронизации файлов, конкретное решение, см." />
-  <String id="IDS_SYNC_HELP_CENER_TIP" value="Центр помощи" />
+  <String id="IDS_RESTART_EXPLORER" value="Локальные файл не синхронизирован?.Перезагрузите процесс"/>
+  <String id="IDS_RESTART_NOW" value="Перезагрузить" />
+  <String id="IDS_SYNC_ICON_SOLVE_QUESTION_TIP" value="Не можете просмотреть синх-файлы ,прочитайте" />
+  <String id="IDS_SYNC_HELP_CENER_TIP" value="Базу знаний" />
   <String id="IDS_SYNC_LOCALPATH_DISAPPEAR" value="Локальная папка синхронизации не существует" />
   <String id="IDS_SYNC_LOCALPATH_UNSETTING" value="Пожалуйста, настройте локальную папку синхронизации" />
 
@@ -1419,8 +1419,8 @@
   <String id="IDS_QUICKUPLOAD_SETTING" value="Быстрая загрузка" />
   <String id="IDS_QUICKUPLOAD_SETTING_START_TITLE" value="Быстрый плагин загрузки:" />
   <String id="IDS_QUICKUPLOAD_SETTING_START" value="Когда сетевой диск работает, запустите плагин" />
-  <String id="IDS_QUICKUPLOAD_HOTKEY_TITLE" value="Клавищы сокращения:" />
-  <String id="IDS_QUICKUPLOAD_HOTKEY_TYPE" value="Держите колесо мыши или Ctrl+1" />
+  <String id="IDS_QUICKUPLOAD_HOTKEY_TITLE" value="Сочетания клавиш:" />
+  <String id="IDS_QUICKUPLOAD_HOTKEY_TYPE" value="Удерживайте колесо мыши или Ctrl+1" />
   <String id="IDS_QUICKUPLOAD_TIPS" value="Подсказки:" />
   <String id="IDS_QUICKUPLOAD_WECHAT_TIPS" value="1.Изображение WECHAT или браузера/Документ, первая копия, затем вызвать ярлыки" />
   <String id="IDS_QUICKUPLOAD_SELECT_TIPS" value="2.Если файл не обновляется после выбора файла, пожалуйста, скопируйте файл и попробуйте снова." />
