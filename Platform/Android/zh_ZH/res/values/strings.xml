@@ -69,6 +69,7 @@
     <string name="accept_share_directory_member_msg_fname">「%s」</string>
     <string name="accept_share_directory_member_succeed">加入成功</string>
     <string name="accept_share_directory_member_title">邀你共享</string>
+    <string name="accessibility_fingerprint_dialog_help_area">Help message area</string>
     <string name="account_abnormal_login_again">帐号异常，请重新登录</string>
     <string name="account_change_text">登录信息获取失败，请重新登录后再试</string>
     <string name="account_dialog_negative_title_cancel">取消</string>
@@ -591,6 +592,7 @@
     <string name="album_backup_running_title">已开启照片自动备份</string>
     <string name="album_backup_start_button">开启备份</string>
     <string name="album_backup_wifi_backup">默认在WIFI下自动备份，可允许流量备份</string>
+    <string name="album_button_text">立即备份</string>
     <string name="album_classification_empty">备份图片智能分类，查找更方便</string>
     <string name="album_detail_preview">预览</string>
     <string name="album_detail_select_operation">请选择操作</string>
@@ -653,9 +655,9 @@
     <string name="all_tab_name">全部分享</string>
     <string name="all_tools">全部工具</string>
     <string name="all_tools_edit_ok">确定</string>
-    <string name="all_tools_edit_title">编辑全部工具（%d/9）</string>
-    <string name="all_tools_page_personal_tools_edit_guide">你可以自定义9个工具展示在首页</string>
-    <string name="all_tools_page_personal_tools_guide">点击自定义我的工具</string>
+    <string name="all_tools_edit_title">编辑全部工具（%d/4）</string>
+    <string name="all_tools_page_personal_tools_edit_guide">你最多可以自定义4个工具展示在首页</string>
+    <string name="all_tools_page_personal_tools_guide">点击自定义常用工具</string>
     <string name="all_video">全部视频</string>
     <string name="allow_group_member_invite">允许群成员邀请</string>
     <string name="alphabet_and_number">abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789</string>
@@ -1183,12 +1185,12 @@
     <string name="bd_wallet_bind_card_first_pay">首次填卡支付</string>
     <string name="bd_wallet_bind_card_number_overrun">您绑卡数量已达上限，请解绑后，再进行绑定！</string>
     <string name="bd_wallet_bind_card_second">填写卡信息</string>
-    <string name="bd_wallet_blank" />
+    <string name="bd_wallet_blank" translatable="false" />
     <string name="bd_wallet_cancel_bind">解除绑定</string>
     <string name="bd_wallet_cancel_bind_entrance">解绑</string>
     <string name="bd_wallet_cancel_bind_tip">确定解除绑定当前银行卡？</string>
     <string name="bd_wallet_cancel_bind_title">解绑银行卡</string>
-    <string name="bd_wallet_common_scheme">walletinnerpay</string>
+    <string name="bd_wallet_common_scheme">walletboxpay</string>
     <string name="bd_wallet_coupon_all_address">查看全部使用门店地址</string>
     <string name="bd_wallet_coupon_detail">卡券详情</string>
     <string name="bd_wallet_coupon_detail_fail">请求优惠券详情失败，请稍后重试</string>
@@ -1586,8 +1588,8 @@
     <string name="bottom_bar_action_single_page_mode">单页阅读</string>
     <string name="bottom_bar_action_smooth_mode">连续翻页</string>
     <string name="bottom_bar_action_translate">全文翻译</string>
-    <string name="bottom_bar_cant_edit_toast">需先将文档转存到网盘后才可使用</string>
-    <string name="bottom_bar_cant_share_toast">请先将文档转存到网盘</string>
+    <string name="bottom_bar_cant_edit_toast">需先将文档保存到网盘后才可使用</string>
+    <string name="bottom_bar_cant_share_toast">请先将文档保存到网盘</string>
     <string name="bottom_btn_not_change_account">已登录帐号：%s</string>
     <string name="bottom_sheet_behavior">com.google.android.material.bottomsheet.BottomSheetBehavior</string>
     <string name="bottomsheet_action_expand_halfway">Expand halfway</string>
@@ -2585,6 +2587,7 @@
 的手机号：%s"</string>
     <string name="confirm_complete">完善信息</string>
     <string name="confirm_delete_play_list">确定</string>
+    <string name="confirm_device_credential_password">Use password</string>
     <string name="confirm_download_filename_label">确认下载</string>
     <string name="confirm_download_sure_btn">下载</string>
     <string name="confirm_download_title">文件下载</string>
@@ -2709,6 +2712,7 @@
     <string name="contacts_myself">这是我自己</string>
     <string name="content_notification1">下载不安装，怎么玩游戏？</string>
     <string name="content_notification_download">已经下载完成，请安装</string>
+    <string name="content_select_hide_text">内容精选已隐藏</string>
     <string name="content_use_data_now">若立即使用，将扣除整个文件大小的流量；若暂不使用，可通过删除后重新下载实现极速。从0开始下载的文件默认极速。</string>
     <string name="continuation">继续</string>
     <string name="continue_bar_close">关闭</string>
@@ -2773,6 +2777,9 @@
     <string name="core_permission_phone_text">电话状态</string>
     <string name="core_permission_show_permission_cycle">确定</string>
     <string name="core_permission_storage_text">存储空间</string>
+    <string name="core_time_format_hours_ago">%d小时前</string>
+    <string name="core_time_format_minutes_ago">%d分钟前</string>
+    <string name="core_time_format_moment_ago">刚刚</string>
     <string name="coupon_already_use">所选优惠券已被使用，请选择其他优惠券</string>
     <string name="coupon_calculate_error">优惠券选择失败，请稍后重试</string>
     <string name="coupon_close">关闭</string>
@@ -2838,11 +2845,21 @@
     <string name="current_account_tips">当前登录帐号</string>
     <string name="current_account_unbind_phone_tips">当前手机号未绑手机号，无法进行转移</string>
     <string name="current_account_unbind_tips">当前手机号未绑定其他帐号，无法进行转移</string>
+    <string name="current_collection">合集·</string>
     <string name="current_device_never_bind">本设备未关联到当前帐户，请重新登录试试</string>
     <string name="current_download_path">"当前下载位置：
 %s"</string>
     <string name="current_download_path_single_line">当前下载位置：%s</string>
+    <string name="current_hide_text">正在追的内容已隐藏</string>
+    <string name="current_item_collection">合集</string>
+    <string name="current_item_playlist">播单</string>
+    <string name="current_listen">正在听</string>
+    <string name="current_listen_empty">没有正在听的音频</string>
+    <string name="current_play">正在看</string>
+    <string name="current_play_empty">没有正在看的视频</string>
     <string name="current_problem">当前有什么问题？</string>
+    <string name="current_read">正在读</string>
+    <string name="current_read_empty">没有正在读的文档</string>
     <string name="current_space_capacity">当前空间容量</string>
     <string name="custom_lable">自定义标签</string>
     <string name="custom_share_default_tip">可设定365天内任意有效期</string>
@@ -2876,6 +2893,7 @@
     <string name="debug_game_extension_download_success">下载GameExtensionCore成功，请在Debug模块开启开关</string>
     <string name="decode_mode_change_error">切换解码方式失败，请稍后重试</string>
     <string name="default_app_icon">默认图标</string>
+    <string name="default_error_msg">Unknown error</string>
     <string name="default_five_points">+5</string>
     <string name="default_group_intro">暂无介绍</string>
     <string name="default_nickname">请输入昵称</string>
@@ -2884,7 +2902,7 @@
     <string name="default_self_starting_guide_2">开启自启动相关权限</string>
     <string name="default_self_starting_guide_name">自启动</string>
     <string name="default_show_text">返回</string>
-    <string name="define_roundedimageview" />
+    <string name="define_roundedimageview" translatable="false" />
     <string name="delete">删除</string>
     <string name="delete_alert_confirm">放入同步空间回收站</string>
     <string name="delete_alert_svip_guide_text">成为超级会员延长期限至 60 天</string>
@@ -3182,6 +3200,9 @@
     <string name="doc_play">播放</string>
     <string name="doc_read_end">文档结束了</string>
     <string name="doc_restore_progress">已定位到上次浏览位置</string>
+    <string name="doc_scan_button_text">立即使用</string>
+    <string name="doc_scan_card_title">文档扫描</string>
+    <string name="doc_scan_subtitle">高清扫描无水印</string>
     <string name="doc_tips_recent_read_history">已经定位到上次浏览位置</string>
     <string name="document_add_ocr">文字识别</string>
     <string name="document_add_upload">上传文档</string>
@@ -3385,6 +3406,7 @@
     <string name="download_list">下载列表</string>
     <string name="download_list_privilege_tip">极速下载特权加速中</string>
     <string name="download_list_svip_tip">尊享特权加速中</string>
+    <string name="download_loading_hint">正在下载，完成后开始扫描</string>
     <string name="download_no_enough_space">你的存储空间不足</string>
     <string name="download_no_enough_space_toast">手机空间不足，已暂停下载</string>
     <string name="download_no_sdcard_dlg_title">无法识别SD卡</string>
@@ -3408,7 +3430,7 @@
     <string name="duplicated_files_overwrite">替换</string>
     <string name="duplicated_files_overwrite_all">全部替换</string>
     <string name="duplicated_files_title">检测到%s个同名文件</string>
-    <string name="duplicated_files_transfer_success">同名文件转存成功</string>
+    <string name="duplicated_files_transfer_success">同名文件保存成功</string>
     <string name="duration_too_long_error">视频时长过长，暂不支持线上解析，请下载后观看</string>
     <string name="dwg_file_resolve_title">dwg文件解析</string>
     <string name="dxm_ebpay_add_bankcard">添加银行卡</string>
@@ -3455,13 +3477,13 @@
     <string name="dxm_wallet_base_open_bduss_system_error_retry">稍后再试</string>
     <string name="dxm_wallet_base_payresult_goto_next">还差一步，继续写卡</string>
     <string name="dxm_wallet_base_permission_dialog_access_camera">为了向您提供扫码、拍照、身份验证服务，请您开启相机权限。</string>
-    <string name="dxm_wallet_base_permission_dialog_access_fine_location">为了保护您的账号安全，或便于为您提供适合的本地服务，请您开启定位权限。</string>
+    <string name="dxm_wallet_base_permission_dialog_access_fine_location">为了保护您的账号安全，或便于为您提供所在区域专属的产品和服务，请您开启定位权限。</string>
     <string name="dxm_wallet_base_permission_dialog_external_storage">为了给您更流畅的使用体验，或便于您使用扫码、提交或发送图片等功能，请您开启存储权限。</string>
     <string name="dxm_wallet_base_permission_dialog_read_contacts">为了便于您填写本人或联系人电话号码，请您开启通讯录权限。我们将确保您通讯录信息的安全。</string>
     <string name="dxm_wallet_base_permission_dialog_record_audio">为了向您提供身份验证服务，请您开启麦克风权限。</string>
     <string name="dxm_wallet_base_permission_negative">取消</string>
     <string name="dxm_wallet_base_permission_positive">继续</string>
-    <string name="dxm_wallet_base_permission_title">>温馨提示</string>
+    <string name="dxm_wallet_base_permission_title">温馨提示</string>
     <string name="dxm_wallet_base_please_login">你还没有登录，请先登录</string>
     <string name="dxm_wallet_base_safekeyboard_key_0">0</string>
     <string name="dxm_wallet_base_safekeyboard_key_1">1</string>
@@ -3484,7 +3506,7 @@
     <string name="dxm_wallet_base_third_login_title">请切换为百度帐号</string>
     <string name="dxm_wallet_base_unit">¥</string>
     <string name="dxm_wallet_base_verify_phone_no">验证手机号</string>
-    <string name="dxm_wallet_camera_blank" />
+    <string name="dxm_wallet_camera_blank" translatable="false" />
     <string name="dxm_wallet_camera_error">无法打开摄像头，请在手机系统设置中开启访问摄像头权限后重试。</string>
     <string name="dxm_wallet_gathering_failed">收款失败！</string>
     <string name="dxm_wallet_lightapp_close">关闭</string>
@@ -3539,7 +3561,7 @@
     <string name="ebpay_bind_card_success">绑卡成功</string>
     <string name="ebpay_cancel">取消</string>
     <string name="ebpay_cancel_pay">取消付款</string>
-    <string name="ebpay_card_end_dim">卡背面末三位数</string>
+    <string name="ebpay_card_end_dim">请输入卡背面末尾三位数字</string>
     <string name="ebpay_card_no">银行卡号</string>
     <string name="ebpay_card_tip">请输入本人银行卡号</string>
     <string name="ebpay_certificate">身份证</string>
@@ -3588,7 +3610,7 @@
     <string name="ebpay_hint_last4num">请输入尾号是%1$s的银行卡号</string>
     <string name="ebpay_id_card">证件号</string>
     <string name="ebpay_id_card_errortip">输入的证件号有误</string>
-    <string name="ebpay_id_cardholder_id_cardnum">持卡人证件号</string>
+    <string name="ebpay_id_cardholder_id_cardnum">请输入持卡人证件号</string>
     <string name="ebpay_img">Image</string>
     <string name="ebpay_input_sms_code">验证码</string>
     <string name="ebpay_intermediarypay_pwdcheck">支付密码</string>
@@ -3608,8 +3630,7 @@
     <string name="ebpay_no_network">网络不给力，请稍后重试</string>
     <string name="ebpay_none_passid_tips">对方15日内未收款，将自动退还</string>
     <string name="ebpay_not_exit">取消</string>
-    <string name="ebpay_operation_tip1">"• 请确认该预留手机号是否为当前使用的手机号
-"</string>
+    <string name="ebpay_operation_tip1">• 请确认该预留手机号是否为当前使用的手机号</string>
     <string name="ebpay_operation_tip2">"• 请检查短信是否被安全软件拦截
 "</string>
     <string name="ebpay_operation_tip3">"• 由于运营商网络原因，短信可能延迟到达
@@ -3696,7 +3717,7 @@
     <string name="ebpay_title_complete_info_for_pay">信息确认</string>
     <string name="ebpay_title_find_pwd">找回支付密码</string>
     <string name="ebpay_title_risk_control">身份验证</string>
-    <string name="ebpay_true_name">持卡人姓名</string>
+    <string name="ebpay_true_name">请输入持卡人姓名</string>
     <string name="ebpay_update_info_tips">升级提醒</string>
     <string name="ebpay_update_version_tips">最新版本:%s</string>
     <string name="ebpay_use_new_card">使用新银行卡</string>
@@ -3707,7 +3728,7 @@
     <string name="ebpay_verify_fail">验证码有误，请检查或重发验证码再试。</string>
     <string name="ebpay_verify_pass">密码验证</string>
     <string name="ebpay_wallet_continue_pay">继续支付</string>
-    <string name="ebpay_year_month">月/年（如05/20输入0520）</string>
+    <string name="ebpay_year_month">请输入月份/年份（如05/20输入0520）</string>
     <string name="edit">编辑</string>
     <string name="edit_more_doc_count">等%s个文件</string>
     <string name="edit_photo_tags_no_select">未选择时，照片将被归入其它分类</string>
@@ -4242,7 +4263,7 @@
     <string name="filemanage_notifation_content">点击查看详情</string>
     <string name="filemanage_rename">重命名文件</string>
     <string name="filemanage_success">成功</string>
-    <string name="filemanage_trans_copy">转存文件</string>
+    <string name="filemanage_trans_copy">保存文件</string>
     <string name="filemanager_add_running_desc">添加中...</string>
     <string name="filemanager_back">返回</string>
     <string name="filemanager_cannot_start_task">无法操作</string>
@@ -4307,8 +4328,8 @@
     <string name="filemanager_restore_running_tip">正在还原文件...</string>
     <string name="filemanager_same_operations_left">为其余%d个文件执行相同操作</string>
     <string name="filemanager_save">保存</string>
-    <string name="filemanager_save_failed_tip">文件转存失败，点击查看</string>
-    <string name="filemanager_save_running_tip">正在转存文件...</string>
+    <string name="filemanager_save_failed_tip">文件保存失败，点击查看</string>
+    <string name="filemanager_save_running_tip">正在保存文件...</string>
     <string name="filemanager_save_success_tip">文件保存成功，点击查看</string>
     <string name="filemanager_save_success_tip_no_click">文件保存成功</string>
     <string name="filemanager_src_copy_file_desc">正在复制的文件：</string>
@@ -4318,17 +4339,24 @@
     <string name="filemanager_store">还原</string>
     <string name="filemanager_success_safe_box">文件%s成功，可到隐藏空间查看</string>
     <string name="filemanager_success_without_clickable">文件%s成功</string>
-    <string name="filemanager_trans_copy_failed">转存操作失败了%d个文件</string>
-    <string name="filemanager_trans_copy_failed_notice">部分文件转存失败</string>
-    <string name="filemanager_trans_copy_failed_title">文件转存失败</string>
-    <string name="filemanager_trans_copy_running">文件转存中</string>
-    <string name="filemanager_trans_copy_running_desc">转存中...</string>
-    <string name="filemanager_trans_copy_sucess">转存操作成功</string>
+    <string name="filemanager_trans_copy_failed">保存操作失败了%d个文件</string>
+    <string name="filemanager_trans_copy_failed_notice">部分文件保存失败</string>
+    <string name="filemanager_trans_copy_failed_title">文件保存失败</string>
+    <string name="filemanager_trans_copy_running">文件保存中</string>
+    <string name="filemanager_trans_copy_running_desc">保存中...</string>
+    <string name="filemanager_trans_copy_sucess">保存操作成功</string>
     <string name="filemanager_view_detail">查看详情</string>
     <string name="filemanager_view_failed_files">查看</string>
     <string name="files_contains_empty_folder">空文件夹不能传输</string>
     <string name="files_exceed_limit">文件数量太多啦！</string>
     <string name="find_second_pwd_activity_title">找回二级密码</string>
+    <string name="fingerprint_dialog_touch_sensor">Touch the fingerprint sensor</string>
+    <string name="fingerprint_error_hw_not_available">Fingerprint hardware not available.</string>
+    <string name="fingerprint_error_hw_not_present">This device does not have a fingerprint sensor</string>
+    <string name="fingerprint_error_lockout">Too many attempts. Please try again later.</string>
+    <string name="fingerprint_error_no_fingerprints">No fingerprints enrolled.</string>
+    <string name="fingerprint_error_user_canceled">Fingerprint operation canceled by user.</string>
+    <string name="fingerprint_not_recognized">Not recognized</string>
     <string name="finish">请确认微信支付是否已完成</string>
     <string name="finish_already">已完成支付</string>
     <string name="finish_btn">完成</string>
@@ -4424,6 +4452,7 @@
     <string name="friend_list_title">通讯录</string>
     <string name="friend_list_title_btn">添加好友</string>
     <string name="friend_selected_file_to_edit">已选中%d条记录</string>
+    <string name="from_copy">来自剪贴板</string>
     <string name="from_enterprise_staff_share">来自企业员工的分享</string>
     <string name="from_enterprise_staff_share_with_suffix">来自企业员工的分享，</string>
     <string name="fsid_invalid">非法操作</string>
@@ -4528,6 +4557,7 @@
     <string name="garbage_total_free_memory">累计为您释放了%s网盘文件</string>
     <string name="gdt_ad_start_download">开始下载</string>
     <string name="gender_of_baby">宝宝的性别</string>
+    <string name="generic_error_user_canceled">Authentication canceled by user.</string>
     <string name="get_2T_space">恭喜你，空间已免费升级至2T</string>
     <string name="get_album_detail_failed">获取专辑详情失败</string>
     <string name="get_app_list_failed">数据获取失败，点击重试</string>
@@ -4582,6 +4612,7 @@
     <string name="go_to_appeal">点击申诉</string>
     <string name="go_to_set">去设置</string>
     <string name="goods_detail_score">%1$d积分</string>
+    <string name="goods_list_header">积分兑换</string>
     <string name="goods_time_limited">限时</string>
     <string name="got_it">好的</string>
     <string name="goto_friend_tab_manage_shares">全部分享可在消息Tab，或在【我的】-【我的分享】中查看及管理  </string>
@@ -4748,24 +4779,29 @@
     <string name="history_version">历史版本</string>
     <string name="hms_abort">Stop</string>
     <string name="hms_abort_message">Stop downloading?</string>
+    <string name="hms_base_google">https://play.google.com/store</string>
+    <string name="hms_base_vmall">https://appgallery.cloud.huawei.com/app/</string>
     <string name="hms_bindfaildlg_message">%1$s is unable to use HMS Core. Launch Optimizer (Phone Manager) or go to Settings, enable all permissions for %2$s (including auto-launch and secondary launch), and try again.</string>
     <string name="hms_bindfaildlg_title">@string/hms_update_title</string>
     <string name="hms_cancel">Cancel</string>
     <string name="hms_check_failure">Failed to check for updates.</string>
+    <string name="hms_check_no_update">Your version is up to date.</string>
     <string name="hms_checking">Checking for updates…</string>
     <string name="hms_confirm">OK</string>
     <string name="hms_download_failure">Failed to download HMS Core package.</string>
     <string name="hms_download_no_space">Not enough free space. Download cannot be completed.</string>
     <string name="hms_download_retry">Download failed. Try again?</string>
+    <string name="hms_downloading">"Downloading HMS Core
+progress: %d%%"</string>
     <string name="hms_downloading_loading">Downloading</string>
+    <string name="hms_downloading_new">Downloading HMS Core</string>
+    <string name="hms_gamebox_name">HUAWEI GameCenter</string>
     <string name="hms_install">Install</string>
     <string name="hms_install_message">HMS Core must be installed to use this feature. Install?</string>
-    <string name="hms_is_spoof">It appears that you have an unofficial version of HMS Core (%1$s) installed on your device. Please uninstall HMS Core from Settings and return to this app to install the official version.</string>
     <string name="hms_push_channel">Default</string>
     <string name="hms_push_google">https://play.google.com/store/apps/details?id=</string>
     <string name="hms_push_vmall">https://appgallery.cloud.huawei.com</string>
     <string name="hms_retry">Retry</string>
-    <string name="hms_spoof_hints">Note</string>
     <string name="hms_update">Update</string>
     <string name="hms_update_continue">Download</string>
     <string name="hms_update_message">Update to the latest version of HMS Core to use this feature. Update now?</string>
@@ -4794,6 +4830,8 @@
     <string name="home_audioserver_create_playlst">创建我的音频播单</string>
     <string name="home_audioserver_mine_playlist">我的播单</string>
     <string name="home_but_txt">开始人脸采集</string>
+    <string name="home_card_album_subtitle">"轻松分类找图
+管理美好回忆"</string>
     <string name="home_card_default_check">试一下</string>
     <string name="home_card_default_second_title">书籍/文档/证件，生成电子版</string>
     <string name="home_card_docscan_create">新建扫描文档</string>
@@ -4802,6 +4840,8 @@
     <string name="home_collect_card_check_all">查看全部</string>
     <string name="home_collect_card_guide">去添加更多常用文件</string>
     <string name="home_collect_card_tips">将常用或重要的文件夹收藏</string>
+    <string name="home_collection_empty">还未收藏常用文件</string>
+    <string name="home_current_chase">正在追</string>
     <string name="home_entry_new_note">新建笔记</string>
     <string name="home_face_yy_btn_agree">同意授权并继续</string>
     <string name="home_face_yy_tips">请确保本人操作</string>
@@ -4839,12 +4879,18 @@
     <string name="home_personal_tools_guide">更多工具等你来探索</string>
     <string name="home_privilege_recommend_card_name">特权推荐</string>
     <string name="home_recent_card_multi_file_text">%1$s 等%2$d个文件</string>
+    <string name="home_recent_empty">暂无使用记录</string>
+    <string name="home_recent_file_position">位置：%1s</string>
+    <string name="home_recent_swan_form">使用%1s打开</string>
     <string name="home_recent_video_item_view_time">观看至%1$s</string>
     <string name="home_recent_video_mall_view_time">观看至%s</string>
+    <string name="home_recommended_service">热门服务</string>
+    <string name="home_save_empty">暂无保存文件记录</string>
     <string name="home_story_enter_tag">我的故事</string>
     <string name="home_tab_self_start_guide_dialog_desc">已有%s未及时备份，&lt;font color=#1CA6FF>&lt;b>按上图步骤开启&lt;/b>&lt;/font>自启动相关权限，网盘在后台能为您提供更及时的自动备份。</string>
     <string name="home_tab_self_start_guide_dialog_desc_day">您有%s没来网盘备份，&lt;font color=#1CA6FF>&lt;b>按上图步骤开启&lt;/b>&lt;/font>自启动相关权限，网盘在后台能为您提供更及时的自动备份。</string>
     <string name="home_tab_self_start_guide_dialog_title">开启后台备份权限</string>
+    <string name="homepage_content_select">内容精选</string>
     <string name="homepage_original_space_full_notice">专属5G无损视频空间已满</string>
     <string name="hope_receive_messages">你希望收到</string>
     <string name="host_market_calculate_error">余额选择失败，请稍后重试</string>
@@ -4890,6 +4936,7 @@
     <string name="image_reference_folder">查看所在目录</string>
     <string name="image_reference_location">附近拍摄的照片</string>
     <string name="image_resolution">尺寸：%s</string>
+    <string name="image_scan_button">扫描</string>
     <string name="image_screen_shots">截图</string>
     <string name="image_search_box_hint_text">搜索人物、地点、事物</string>
     <string name="image_search_box_hint_text_without_person">搜索地点、事物</string>
@@ -5105,7 +5152,7 @@
     <string name="kilobyteShort">KB</string>
     <string name="know_it">知道了</string>
     <string name="lable_add_too_much">最多仅可添加12个标签</string>
-    <string name="lable_added">已添加该标签</string>
+    <string name="lable_added" translatable="false">已添加该标签</string>
     <string name="lable_error">标签内含有敏感词，请修改后再试</string>
     <string name="lable_has_added">已添加该标签</string>
     <string name="lable_not_set">未设置个性标签</string>
@@ -5228,7 +5275,7 @@
     <string name="loading_baby_copy_file">正在复制宝宝照片，请耐心等待%d%%</string>
     <string name="loading_baby_create_dir">正在新建宝宝相册</string>
     <string name="loading_baby_set_property">正在切换为属性相册</string>
-    <string name="loading_bags" />
+    <string name="loading_bags" translatable="false" />
     <string name="loading_cancel_share_directory">正在解散...</string>
     <string name="loading_dialog_deleting">正在删除中</string>
     <string name="loading_doing">正在处理…</string>
@@ -5370,7 +5417,7 @@
     <string name="media_collection_operation_change_type_title">将合集移动至</string>
     <string name="media_collection_operation_rename">合集重命名</string>
     <string name="media_library_empty_text">"暂无使用记录
-图片的上传、转存记录会在这里显示"</string>
+图片的上传、保存记录会在这里显示"</string>
     <string name="media_library_error_text">列表加载失败，请检查网络</string>
     <string name="media_library_list_retry">重新加载</string>
     <string name="media_library_update_desc">图库展示了你在网盘中所有图片文件（不含隐藏文件），看图找图更方便～</string>
@@ -5461,7 +5508,9 @@
     <string name="modify_tags_loading">正在保存更改…</string>
     <string name="modify_tags_success">分类已修改</string>
     <string name="month_extreme_speed_data_package">本月极速流量：%1$s/%2$s</string>
-    <string name="more" />
+    <string name="more" translatable="false" />
+    <string name="more_audio_to_dir">更多音频到文件夹内查看：</string>
+    <string name="more_document_to_dir">更多文档到文件夹内查看：</string>
     <string name="more_location">更多</string>
     <string name="more_person_face">更多</string>
     <string name="more_service">更多服务</string>
@@ -5592,8 +5641,8 @@
     <string name="my_shares">共享</string>
     <string name="my_tab_name">我分享的</string>
     <string name="my_tools">我的工具</string>
-    <string name="my_tools_bottom_tip">以上工具将展示在首页（最多9个）</string>
-    <string name="my_tools_could_not_add">最多添加9个工具</string>
+    <string name="my_tools_bottom_tip">以上工具将展示在首页（最多4个）</string>
+    <string name="my_tools_could_not_add">最多添加4个工具</string>
     <string name="my_tools_tilte_tips">长按拖动可调整顺序</string>
     <string name="my_video">我的视频</string>
     <string name="mycard_dialog_title">我的卡包 搬家了</string>
@@ -6581,6 +6630,8 @@
     <string name="ocr_image_to_pdf_pay_guide_title">立刻转换为PDF</string>
     <string name="ocr_image_to_pdf_record">扫描记录</string>
     <string name="ocr_paper_remove_handwritten">试卷去手写</string>
+    <string name="ocr_scan_mode_dir_name">ocrwangpanscan_%s_models</string>
+    <string name="ocr_scan_mode_file_name">ocrwangpanscan_%s_models.zip</string>
     <string name="ocr_shortcut_confirm_button">添加到桌面</string>
     <string name="ocr_shortcut_dialog_content">添加后，可在桌面快捷进入功能</string>
     <string name="ocr_shortcut_dialog_title">智能扫描添加到桌面</string>
@@ -6916,10 +6967,12 @@
     <string name="pass_bio_alert_dialog_btn_ok">确定</string>
     <string name="pass_bio_alert_dialog_default_msg_text">提示</string>
     <string name="pass_bio_cancel">取消</string>
+    <string name="pass_bio_error_msg_config_error">人脸配置参数错误</string>
     <string name="pass_bio_error_msg_contrast_fail">人脸对比失败，请确保本人操作</string>
     <string name="pass_bio_error_msg_dangerous_protocol_error">请在APP启动时同意用户隐私协议</string>
     <string name="pass_bio_error_msg_face_sdk_init_fail">人脸 SDK 初始化失败</string>
     <string name="pass_bio_error_msg_image_file_empty">获取人脸图像失败</string>
+    <string name="pass_bio_error_msg_lack_so_error">缺少动态库</string>
     <string name="pass_bio_error_msg_liveness_recognize_time_out">人脸识别失败，请保证光线充足或者更换设备后尝试</string>
     <string name="pass_bio_error_msg_may_be_no_camera_permission">打开相机失败，请检查是否有相机权限</string>
     <string name="pass_bio_error_msg_network_unavailable">网络不给力，请稍后重试</string>
@@ -7333,7 +7386,7 @@
     <string name="plugins_mobile">移动流量包</string>
     <string name="plugins_telecom">电信流量包</string>
     <string name="plugins_unicom">联通流量包</string>
-    <string name="points">%1$d积分</string>
+    <string name="points">%1$d</string>
     <string name="points_enter_sign_before_tip">%s积分待领取</string>
     <string name="points_goods_desc">2000积分</string>
     <string name="points_goods_name">超级会员月卡</string>
@@ -7618,10 +7671,10 @@
     <string name="quick_action_remove_tag">照片中没有%s</string>
     <string name="quick_action_rename">重命名</string>
     <string name="quick_action_report">举报</string>
-    <string name="quick_action_resave">转存</string>
+    <string name="quick_action_resave">保存</string>
     <string name="quick_action_restore">还原</string>
     <string name="quick_action_save_to_netdisk">复制至网盘</string>
-    <string name="quick_action_save_to_other">转存</string>
+    <string name="quick_action_save_to_other">保存</string>
     <string name="quick_action_select_file">选择文件</string>
     <string name="quick_action_send">发送</string>
     <string name="quick_action_share">分享</string>
@@ -7765,14 +7818,16 @@
     <string name="reader_setting_screen_timeout">屏幕关闭</string>
     <string name="reader_setting_volume_key">音量键翻页</string>
     <string name="real_name_certification_title">验证手机</string>
+    <string name="rec_tools">推荐工具</string>
     <string name="receive_gift_immediately">立即领取</string>
     <string name="receive_gift_tip">送上%1$s【%2$s】</string>
     <string name="receive_msg_info">好友分享文件或发送消息时在通知栏显示</string>
     <string name="receive_task_text">给你发来</string>
-    <string name="recent_all">最近</string>
+    <string name="recent_all">全部</string>
     <string name="recent_card_check_all">查看全部</string>
     <string name="recent_card_check_manage">查看最近记录</string>
     <string name="recent_chase">最近在看</string>
+    <string name="recent_collection">收藏</string>
     <string name="recent_delete_file">删除文件</string>
     <string name="recent_delete_processing">正在删除...</string>
     <string name="recent_files_more">查看全部%1$d个文件</string>
@@ -7783,6 +7838,7 @@
     <string name="recent_media_more">+%s</string>
     <string name="recent_medias_title">%1$s %2$s</string>
     <string name="recent_projects">最近项目</string>
+    <string name="recent_save">转存</string>
     <string name="recent_second_empty">这里是空的哟～</string>
     <string name="recent_view_dir">打开目录</string>
     <string name="recent_want">最近想看</string>
@@ -8070,6 +8126,7 @@
     <string name="robot_reply_text">机器人客服正在成长阶段，很抱歉没能解答您的问题，不如进入人工反馈，有专业人员为您解答。</string>
     <string name="root_all_switch">全部切换</string>
     <string name="root_cloud">百度网盘</string>
+    <string name="root_path">我的网盘</string>
     <string name="root_switch_loading">正在切换</string>
     <string name="rotate">旋转</string>
     <string name="safe_box">隐藏空间</string>
@@ -8325,6 +8382,7 @@
     <string name="sapi_sdk_alert_dialog_change_environment">切换环境：</string>
     <string name="sapi_sdk_alert_dialog_default_msg_text">提示</string>
     <string name="sapi_sdk_cancel">取消</string>
+    <string name="sapi_sdk_cfo_login_fail">授权春风帐号登录失败</string>
     <string name="sapi_sdk_change_pwd_success">密码修改成功</string>
     <string name="sapi_sdk_common_back_btn_text">返回</string>
     <string name="sapi_sdk_common_invalid_params">参数错误</string>
@@ -8386,6 +8444,7 @@
     <string name="sapi_sdk_title_filluprofile">完善百度帐号</string>
     <string name="sapi_sdk_title_forget_pwd">找回密码</string>
     <string name="sapi_sdk_title_login">百度帐号登录</string>
+    <string name="sapi_sdk_title_login_cfo">春风帐号登录</string>
     <string name="sapi_sdk_title_login_facebook">Login to Facebook account</string>
     <string name="sapi_sdk_title_login_glory">荣耀帐号登录</string>
     <string name="sapi_sdk_title_login_google">Login to Google account</string>
@@ -8453,6 +8512,7 @@
     <string name="saving_offset_failed">更新失败</string>
     <string name="say_hi">打个招呼~</string>
     <string name="scan_add_friend_group">扫一扫加好友/群</string>
+    <string name="scan_button_guide">试试扫描，直接导出pdf</string>
     <string name="scan_doc">文档扫描</string>
     <string name="scan_join_group_already_in">欢迎回到群聊</string>
     <string name="scan_join_group_cant_join_other_reason">加入群组失败</string>
@@ -8535,6 +8595,7 @@
     <string name="sec_tip_btn_allow">允许</string>
     <string name="sec_tip_btn_refuse">拒绝</string>
     <string name="sec_tip_title">提示</string>
+    <string name="second_goods_list_header">大家都在换</string>
     <string name="second_pwd_face_stop">服务升级中，刷脸登录暂停使用</string>
     <string name="second_pwd_remand">二级密码用于保护隐藏空间和我的卡包</string>
     <string name="second_pwd_set_error">设置二级密码失败</string>
@@ -9013,7 +9074,7 @@
     <string name="share_recalculate_period">更新后有效期将重新计算</string>
     <string name="share_recovery_tip">仅可支持恢复前20条分享链接</string>
     <string name="share_safe_limit_members">限制访问</string>
-    <string name="share_safe_permissions">允许转存</string>
+    <string name="share_safe_permissions">允许保存</string>
     <string name="share_safe_pwd">提取码</string>
     <string name="share_safe_settings">安全设置</string>
     <string name="share_save_error">保存失败，请稍后再试</string>
@@ -9130,7 +9191,7 @@
     <string name="sign_in_to">登录 %1$s“%2$s”</string>
     <string name="signature_text_number">%d/40</string>
     <string name="signin_list_btn_after">已签</string>
-    <string name="signin_list_btn_before">签到+%s</string>
+    <string name="signin_list_btn_before">去签到</string>
     <string name="similarity_toast">精选里已自动为您隐藏了相似图片</string>
     <string name="simple_share_weixin_quan">朋友圈</string>
     <string name="singkil_bind_dialog_btn_text">激活免流卡</string>
@@ -9872,7 +9933,7 @@
     <string name="timeline_action_backup">自动备份</string>
     <string name="timeline_action_newest">最新存入</string>
     <string name="timeline_action_other">历史存储</string>
-    <string name="timeline_action_save">转存</string>
+    <string name="timeline_action_save">保存</string>
     <string name="timeline_action_update">手动上传</string>
     <string name="timeline_backup_status_finished">备份已完成</string>
     <string name="timeline_backup_status_paused">备份已暂停</string>
@@ -9922,7 +9983,7 @@
     <string name="timeline_tips_show_sort_phototime">已切换至按拍摄时间排序</string>
     <string name="timeline_tips_show_sort_savetime">已切换至按存入时间排序</string>
     <string name="timeline_type_all">全部照片</string>
-    <string name="timeline_type_save">来自转存</string>
+    <string name="timeline_type_save">来自保存</string>
     <string name="timeline_type_upload">来自上传</string>
     <string name="timeline_zoom_guide_text">双指缩放即可切换视图大小</string>
     <string name="timeout">操作超时，请重试</string>
@@ -11175,29 +11236,6 @@
     <string name="upload_view_all">查看全部</string>
     <string name="upload_work_space_location_text"> 上传到同步空间：</string>
     <string name="uploading">上传中(%1$s)</string>
-    <string name="upsdk_app_download_info_new">Install</string>
-    <string name="upsdk_app_download_installing">Downloading %s…</string>
-    <string name="upsdk_app_size">Size</string>
-    <string name="upsdk_app_version">Version</string>
-    <string name="upsdk_appstore_install">%s is required to update this app. Install now?</string>
-    <string name="upsdk_cancel">Cancel</string>
-    <string name="upsdk_checking_update_prompt">Checking for updates…</string>
-    <string name="upsdk_choice_update">Update available. Please download and install the latest version.</string>
-    <string name="upsdk_detail">Details</string>
-    <string name="upsdk_getting_message_fail_prompt_toast">Unable to retrieve information. Please try again later.</string>
-    <string name="upsdk_mobile_dld_warn">"You're currently connected to a mobile network. Downloading now will use %1$s of data."</string>
-    <string name="upsdk_no_available_network_prompt_toast">No Internet connection. Please check your network settings.</string>
-    <string name="upsdk_ota_app_name">App</string>
-    <string name="upsdk_ota_cancel">Later</string>
-    <string name="upsdk_ota_force_cancel_new">Exit</string>
-    <string name="upsdk_ota_notify_updatebtn">Update</string>
-    <string name="upsdk_ota_title">New version</string>
-    <string name="upsdk_storage_utils">%1$s MB</string>
-    <string name="upsdk_store_url">https://store.hispace.hicloud.com/hwmarket/api/</string>
-    <string name="upsdk_third_app_dl_cancel_download_prompt_ex">Cancel the installation?</string>
-    <string name="upsdk_third_app_dl_install_failed">Installation failed.</string>
-    <string name="upsdk_third_app_dl_sure_cancel_download">Yes</string>
-    <string name="upsdk_update_check_no_new_version">Your version is up to date.</string>
     <string name="url_link_tips">"你可以粘贴一下链接进行资源保存
 例如：
 1.浏览器中复制的资源链接。
@@ -11600,6 +11638,42 @@
     <string name="waiting_for_wifi">等待WiFi连接</string>
     <string name="walet_base_card_num_prefix">**** **** ****</string>
     <string name="walet_base_sms_input_tip">请输入验证码</string>
+    <string name="wallet_access_agree_protocol">协议勾选框，双击选中同意协议</string>
+    <string name="wallet_access_back">返回</string>
+    <string name="wallet_access_button">按钮</string>
+    <string name="wallet_access_change_to_fingerprint_pay">切换为指纹支付方式</string>
+    <string name="wallet_access_change_to_password_pay">切换为密码支付方式</string>
+    <string name="wallet_access_checkcard_info">验证卡号信息</string>
+    <string name="wallet_access_clean">清除</string>
+    <string name="wallet_access_clean_phone">清除当前手机号</string>
+    <string name="wallet_access_confirm_info_for_pay">确认信息无误后将进行支付</string>
+    <string name="wallet_access_disagree_protocol">协议勾选框，双击取消选中不同意协议</string>
+    <string name="wallet_access_fingerprint_pay">指纹支付</string>
+    <string name="wallet_access_forget_password_action_dec">忘记密码，双击进入找回密码页</string>
+    <string name="wallet_access_input_bank_phone">请输入银行预留手机号</string>
+    <string name="wallet_access_password_des">什么是支付密码解释</string>
+    <string name="wallet_access_password_pay">密码支付</string>
+    <string name="wallet_access_pay_password">支付密码</string>
+    <string name="wallet_access_reserve_number_fault_action">预留手机号有误，双击进入银行信息确认页</string>
+    <string name="wallet_access_reserve_phone_des">预留手机号说明</string>
+    <string name="wallet_access_retrieve_password_action_dec">找回密码，双击进入找回密码页</string>
+    <string name="wallet_access_retrieve_verify_code">重新获取手机验证码</string>
+    <string name="wallet_access_retrieve_voice_verify_code">重新获取语音验证码</string>
+    <string name="wallet_access_safeguard_details">了解安全保障详情</string>
+    <string name="wallet_access_scan_bank_card">扫描银行卡</string>
+    <string name="wallet_access_select_passport_des">身份证/护照/军官证，双击进入选择证件类型页</string>
+    <string name="wallet_access_set_pay_type">支付方式设置</string>
+    <string name="wallet_access_support_cash_card">储蓄卡支持列表</string>
+    <string name="wallet_access_support_credit_card">信用卡支持列表</string>
+    <string name="wallet_access_use_balance_des">余额，选择余额进行支付</string>
+    <string name="wallet_access_use_new_car_pay">使用新卡付款</string>
+    <string name="wallet_access_use_new_car_pay_action">使用新卡支付，双击进入添加卡号页</string>
+    <string name="wallet_access_use_new_card_des">使用新银行卡，双击进入银行卡信息填写页</string>
+    <string name="wallet_access_view_help_number">查看客服电话</string>
+    <string name="wallet_access_view_solutions_for_not_received_call">查看收不到来电解决办法</string>
+    <string name="wallet_access_view_solutions_for_retrieve_code">查看收不到验证码解决办法</string>
+    <string name="wallet_access_view_support_bank">查看支持银行列表页</string>
+    <string name="wallet_access_what_is_password">什么是支付密码?</string>
     <string name="wallet_alipay_jd_wx_pay_tips">如需浏览，请复制网址后使用浏览器访问。</string>
     <string name="wallet_bank_info_change">更换</string>
     <string name="wallet_bankcard_manue_input">手动输入卡片信息</string>
@@ -11612,6 +11686,7 @@
     <string name="wallet_base_account">度小满账户</string>
     <string name="wallet_base_actual_payment">付款金额</string>
     <string name="wallet_base_apply_success">申请成功</string>
+    <string name="wallet_base_auth_confirm_pay">确认授权并支付 </string>
     <string name="wallet_base_bank_handling">银行处理中</string>
     <string name="wallet_base_bdaction_more">更多</string>
     <string name="wallet_base_bdaction_return">返回</string>
@@ -11714,7 +11789,7 @@
     <string name="wallet_bindcard_head_block_title">填写信息并支付</string>
     <string name="wallet_bindcard_selectcard_tip">选择支付银行卡</string>
     <string name="wallet_bindcard_usenewcard_tip">使用新银行卡</string>
-    <string name="wallet_camera_blank" />
+    <string name="wallet_camera_blank" translatable="false" />
     <string name="wallet_camera_error">无法打开摄像头，请在手机系统设置中开启访问摄像头权限后重试。</string>
     <string name="wallet_cancel">取消</string>
     <string name="wallet_cash_desk_discount_amount">优惠总额</string>
@@ -11792,15 +11867,12 @@
     <string name="wallet_fp_upgrade_content">请验证指纹，升级指纹支付</string>
     <string name="wallet_fp_upgrade_failed">指纹支付升级失败</string>
     <string name="wallet_fp_upgrade_success">指纹支付升级成功</string>
+    <string name="wallet_fp_user_canceled">取消验证指纹</string>
     <string name="wallet_fp_wrong_number">暂不支持该号码充值</string>
     <string name="wallet_hce_do_auth">去实名</string>
     <string name="wallet_hce_pay_failed">支付失败</string>
-    <string name="wallet_home_ch_fu_all_income">累计收益</string>
-    <string name="wallet_home_ch_fu_assets">理财资产</string>
-    <string name="wallet_home_ch_fu_new_income">最新收益（元）</string>
     <string name="wallet_home_feedback">意见反馈</string>
     <string name="wallet_home_find_more">查看更多</string>
-    <string name="wallet_home_login_invalid_dialog_tips">无登录信息，请先登录</string>
     <string name="wallet_juhe_channel_more">查看更多</string>
     <string name="wallet_langbridge_url_outer">页面由 %1$s 提供</string>
     <string name="wallet_lightapp_close">关闭</string>
@@ -11984,6 +12056,7 @@
     <string name="welf_card_new_review">购买领取</string>
     <string name="welf_card_overdure_review">续费领取</string>
     <string name="welf_card_review">查看</string>
+    <string name="welfare_zone">福利专区</string>
     <string name="what_your_relationship_with_he">TA是你的？</string>
     <string name="when_new_notification">当有一条消息通知时</string>
     <string name="which_app_cannot_backup">1、哪些备份的应用不能恢复？</string>
