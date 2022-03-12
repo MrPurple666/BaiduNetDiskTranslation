@@ -23,8 +23,8 @@
   
   <dlg name ="SearchBox" pos="-240,4,-15,-4" >
     <edit name="search_word_edit" pos="0,0,@230,@32" inset="10,0,74,0" skin="mainpanel_addresspanel_searchbox_edit_bgk" font="Segoe UI" align="left" deffont="Segoe UI" crdeftext="999999" password="0" deftext="%str2203%" defleftmargin="4"></edit>
-    <imgbtn name="btn_search_clear" skin="mainpanel_addresspanel_searchbox_clear"  pos="-66,10,@12,@12" cursor="arrow" show="0"></imgbtn>
-    <hr pos="-46,8,@1,@16" crbg="d6d8dd"/>
-    <imgbtn name="btn_search" skin="titlepanel_translucent" crtext="818999" crhover="06A7FF" pos="-40,7,@40,@16" font="Segoe UI" cursor="arrow">%str508%</imgbtn>
+    <imgbtn name="btn_search_clear" skin="mainpanel_addresspanel_searchbox_clear"  pos="-78,10,@12,@12" cursor="arrow" show="0"></imgbtn>
+    <hr pos="-65,8,@1,@16" crbg="d6d8dd"/>
+    <imgbtn name="btn_search" skin="titlepanel_translucent" crtext="818999" crhover="06A7FF" pos="-60,7,@60,@16" font="Segoe UI" cursor="arrow">%str508%</imgbtn>
   </dlg>
 </dlg>

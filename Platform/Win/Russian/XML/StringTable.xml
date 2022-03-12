@@ -253,7 +253,7 @@
   <String id="IDS_SERVERFOLDER_NEWFOLDER_DEFAULTNAME" value="Новая папка" />
 
   <!-- Буква виртуального диска-->
-  <String id="IDS_VIRTUALFOLDER_NAME" value="Baidu NetDisk" />
+  <String id="IDS_VIRTUALFOLDER_NAME" value="Baidu Net Disk" />
   <String id="IDS_DESKTOP_VIRTUALFOLDER_NAME" value="Синхронное пространство" />
   <String id="IDS_VIRTUALFOLDER_INFOTIP" value="Дважды щелкните, чтобы запустить Baidu Network Disk" />
 
@@ -425,7 +425,7 @@
   <String id="IDS_PORTABLE_DEVICE_IMPORT_TRAYTIP_POSTFIX_TEXT" value="Ожидание резервного копирования" />
 
   <!--登录窗口 -->
-  <String id="IDS_LOGINDLG_TASKITEM_NAME" value="Добро пожаловать на Baidu NetDisk" />
+  <String id="IDS_LOGINDLG_TASKITEM_NAME" value="Добро пожаловать на Baidu Net Disk" />
   <String id="IDS_STATIC_NO_ACCOUNT" value="Нет аккаунта Baidu?" />
   <String id="IDS_STATIC_SELECT_LOGIN_WAY" value="Как бы вы хотели войти?" />
   <String id="IDS_STATIC_ACCOUNT_LOGIN" value="Логин аккаунта" />
@@ -440,7 +440,7 @@
   <String id="IDS_STATIC_VCODE" value="Проверочный код:" />
   <String id="IDS_STATIC_INPUT_VCODE_TIP" value="Пожалуйста, введите проверочный код" />
   <String id="IDS_STATIC_QUIT_APP_TIP" value="Выйти немедленно?" />
-  <String id="IDS_STATIC_APP_TITLE_NAME" value="Baidu NetDisk" />
+  <String id="IDS_STATIC_APP_TITLE_NAME" value="Baidu Net Disk" />
   <String id="IDS_STATIC_USERNAME_FORMAT_ERROR_TIP" value="Неверный формат" />
   <String id="IDS_STATIC_USERNAME_NOT_EXIST_TIP" value="Пользователь не существует" />
   <String id="IDS_STATIC_USERNAME_INPUT_TIP" value="Пожалуйста, введите учетную запись Baidu" />
@@ -455,8 +455,8 @@
   <String id="IDS_STATIC_LOGIN_USER_DISABLE_TIP" value="Не правильный номер счета" />
   <String id="IDS_LOGINDLG_BTN_LOGINING" value="Происходит вход в систему..." />
   <String id="IDS_LOGINDLG_SERVER_ERROR_FAIL" value="К сожалению! Ошибка сервера! Пожалуйста, попробуйте позже..." />
-  <String id="IDS_STATIC_APP_IS_RUNNING" value="Baidu NetDisk работает" />
-  <String id="IDS_STATIC_APP_ALREADY_RUN" value="Baidu NetDisk уже работает" />
+  <String id="IDS_STATIC_APP_IS_RUNNING" value="Baidu Net Disk работает" />
+  <String id="IDS_STATIC_APP_ALREADY_RUN" value="Baidu Net Disk уже работает" />
   <String id="IDS_STATIC_LOGIN_OTHERACCOUNT" value="Войдите, используя другой аккаунт" />
   <String id="IDS_STATIC_OTHER_LOGIN_WAY" value="Авторизация" />
   <String id="IDS_THIRDLOGINDLG_LOGIN_FAIL" value="Сеть занята, попробуйте позже" />
@@ -481,7 +481,7 @@
   <String id="IDS_LOGINDLG_TIP_LOCAL_TIME_ERROR" value="Ошибка неверное время на устройстве" />
   <String id="IDS_LOGINDLG_TIP_HTTPS_ERROR" value="Ошибка проверки сети" />
   <!--Окно системных настроек -->
-  <String id="IDS_SETTINGDLG_TASKITEM_NAME" value="Настройки Baidu NetDisk" />
+  <String id="IDS_SETTINGDLG_TASKITEM_NAME" value="Настройки Baidu Net Disk" />
   <String id="IDS_SETTINGDLG_TAB_GENERAL_SETTING" value="Общие" />
   <String id="IDS_SETTINGDLG_TAB_NET_SETTING" value="Сеть" />
   <String id="IDS_SETTINGDLG_TAB_PRIVATE_SETTING" value="Конфиденциальность" />
@@ -490,7 +490,7 @@
   <String id="IDS_STATIC_DISPALY_FLOATTING_DLG" value="Показать плавающее окно на рабочем столе" />
   <String id="IDS_STATIC_DISPALY_TRAY_TIP" value="Показать всплывающую подсказку" />
   <String id="IDS_STATIC_DEVICE_ONLINE_TIP" value="Устройство в сети" />
-  <String id="IDS_STATIC_AUTO_STARTUP" value="Авто запуск Baidu NetDisk(рекомендуется)" />
+  <String id="IDS_STATIC_AUTO_STARTUP" value="Авто запуск Baidu Net Disk(рекомендуется)" />
   <String id="IDS_STATIC_DISPLAY_VIRTUALDRIVE" value="Показать виртуальный диск Baidu на моем компьютере" />
   <String id="IDS_STATIC_AUTO_UPDATE" value="Авто обновление ПО" />
   <String id="IDS_STATIC_AUTO_SHUT_DOWN" value="Авто отключение при завершении загрузок" />
@@ -588,7 +588,7 @@
   <String id="IDS_STATIC_USE_SPEEDUP_SERVICE_TIP" value="Используйте совет обслуживания скорости" />
 
   <String id="IDS_STATIC_RENEW_MEMBERSHIP_NOW_TIP" value="Обновить" />
-  <String id="IDS_STATIC_SVIP_DEADLINE_TIP" value="Baidu NetDisk" />
+  <String id="IDS_STATIC_SVIP_DEADLINE_TIP" value="Baidu Net Disk" />
   <!--Автоматическое управление папками резервного копирования -->
   <String id="IDS_STATIC_BACKUP_TIP" value="Авто резерв. копирование" />
   <String id="IDS_STATIC_BACKUP_INFO" value="Автоматическое резервное копирование" />
@@ -658,8 +658,8 @@
   <String id="IDS_FlOATINDLG_READINGFILE_TIP" value="Чтение файла" />
 
   <!--О окне -->
-  <String id="IDS_ABOUTDLG_TITLENAME_FORQA" value="О Baidu NetDisk" />
-  <String id="IDS_ABOUTDLG_TITLENAME" value="О Baidu NetDisk" />
+  <String id="IDS_ABOUTDLG_TITLENAME_FORQA" value="О Baidu Net Disk" />
+  <String id="IDS_ABOUTDLG_TITLENAME" value="О Baidu Net Disk" />
   <String id="IDS_ABOUTDLG_VERSION" value="Номер версии" />
   <String id="IDS_ABOUTDLG_COPYRIGHT_TIP" value="Aвторское право" />
   <String id="IDS_ABOUTDLG_COPYRIGHT_COMPANY" value="%d Baidu, Inc. Все права защищены." />
@@ -753,9 +753,9 @@
 
   <String id="IDS_TRAYICON_TIP_LOGINING" value="Происходит вход в систему" />
   <String id="IDS_TRAYICON_TIP_UNLOGIN" value="Выйти из" />
-  <String id="IDS_TRAYICON_TIP_ONLINE" value="Baidu NetDisk" />
-  <String id="IDS_TRAYICON_TIP_LOCKED" value="Baidu NetDisk заблокирован" />
-  <String id="IDS_TRAYICON_TIP_OFFLINELOCKED" value="Baidu NetDisk заблокирован" />
+  <String id="IDS_TRAYICON_TIP_ONLINE" value="Baidu Net Disk" />
+  <String id="IDS_TRAYICON_TIP_LOCKED" value="Baidu Net Disk заблокирован" />
+  <String id="IDS_TRAYICON_TIP_OFFLINELOCKED" value="Baidu Net Disk заблокирован" />
   <String id="IDS_TRAYICON_TIP_OFFLINE" value="Ошибка подключения к сети" />
   <String id="IDS_TRAYICON_TIP_UPLOADING" value="Выгружено: %.1f%% " />
   <String id="IDS_TRAYICON_TIP_DOWNLOADING" value="Загружено : %.1f%% " />
@@ -789,7 +789,7 @@
   <!--Запросить диалоговое окно для ограничения чтения и записи-->
   <String id="IDS_TIP_WRITELIMITED_SECTION1" value="Поскольку система ограничивает разрешения на чтение/запись для файлового каталога, программа завершит работу, вы можете повторить попытку." />
   <String id="IDS_TIP_WRITELIMITED_SECTION2" value="Baidu Cloud не имеет достаточных разрешений. Запустите Baidu Cloud от имени администратора." />
-  <String id="IDS_BUTTON_REDOWNLOAD" value="Скачать Baidu NetDisk" />
+  <String id="IDS_BUTTON_REDOWNLOAD" value="Скачать Baidu Net Disk" />
   <String id="IDS_BUTTON_EXIT" value="Выход" />
   <String id="IDS_TIP_CAPTION" value="Незамедлительный" />
 
@@ -1010,7 +1010,7 @@
   <String id="IDS_OFFLINEDOWNLOADACTIVITY_KNOWN" value="Я знаю" />
 
   <!--Диалог разблокировки-->
-  <String id="IDS_UNLOCKDLG_LOCKED" value="Baidu NetDisk заблокирован" />
+  <String id="IDS_UNLOCKDLG_LOCKED" value="Baidu Net Disk заблокирован" />
   <String id="IDS_UNLOCKDLG_UNLOCK" value="Разблокировка" />
   <String id="IDS_UNLOCKDLG_INPUT_PASSWORD" value="Пожалуйста, введите ваш пароль" />
   <String id="IDS_UNLOCKDLG_HOTKEY_TIP" value="Нажмите %s Блокировка/Разблокировка" />
@@ -1041,7 +1041,7 @@
   <String id="IDS_HOTKEY_SYSTEMLOCKTIP" value="Настройка автоматической блокировки: когда компьютер заблокирован, сетевой диск будет заблокирован автоматически" />
   <String id="IDS_HOTKEYCONFLICT_TITLENAME" value="Конфликт горячих клавиш" />
   <String id="IDS_HOTKEYCONFLICT_NOTIPAGAIN" value="Не напоминать" />
-  <String id="IDS_HOTKEYCONFLICT_MODIFYHOTKEYLINK" value="Модифицируйте горячую клавишу Baidu NetDisk" />
+  <String id="IDS_HOTKEYCONFLICT_MODIFYHOTKEYLINK" value="Модифицируйте горячую клавишу Baidu Net Disk" />
   <String id="IDS_HOTKEYCONFLICT_TIP_SUGGEST" value="Мы рекомендуем вам изменить конфликтые  горячие клавиши, или" />
   <String id="IDS_HOTKEYCONFLICT_TIP" value="%s, горячие клавиши Baidu уже используются." />
 
