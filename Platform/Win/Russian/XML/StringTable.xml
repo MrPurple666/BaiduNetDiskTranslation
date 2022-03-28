@@ -1385,6 +1385,7 @@
   <String id="IDS_WORKSPACE_SYNC_TRAY_TITLE" value="Каталог синхронизации" />
   <String id="IDS_WORKSPACE_SYNC_TRAY_TIP" value="Показывать состояния синхронизации" />
   <String id="IDS_WORKSPACE_VIRTUAL_FOLDER_SHOW" value="Показать виртуальный диск синхронизаци" />
+  <String id="IDS_WORKSPACE_DESKTOP_LINK_SHOW" value="Показать синхронный вход на рабочем столе" />
   <String id="IDS_WORKSPACE_SAVE_LOCAL_PATH" value="Каталог локальной синхронизации:" />
   <String id="IDS_WORKSPACE_TRAY_NAME" value="Сетевое дисковое синхронное пространство" />
   <String id="IDS_WORKSPACE_FILEVERSIONDLG_TITLENAME"  value="История версий" />
@@ -1401,6 +1402,10 @@
   <String id="IDS_WORKSPACE_QUICK_SYNC_ERROR" value="Раздел жесткого диска, в котором находится ваш каталог синхронизации, является форматом не-NTFS, который нельзя использовать системными ограничениями, замените жесткий диск, в котором находится каталог." />
  
   <String id="IDS_WORKSPACE_LOCAL_SYNC_SET"  value="Перейти к настройке" />
+    <String id="IDS_WORKSPACE_SYNC_COMMON_TITLE"  value="Общий:" />
+  <String id="IDS_WORKSPACE_START_SYNC"  value="Открытое синхронное пространство" />
+  <String id="IDS_WORKSPACE_STOP_SYNC_CAPABILITY"  value="Деактивировать синхронное пространство" />
+
   <!--Коммерциализация-->
   <String id="IDS_PRODUCT_RECOMMEND_SETTING" value="Рекомендации:" />
   <!--Перезагрузите диспетчер ресурсов-->
