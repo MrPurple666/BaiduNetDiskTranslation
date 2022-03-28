@@ -38,14 +38,6 @@
           <!--百度账号登陆文案-->
           <text name="txt_login_type" pos="30,31,@100,@22" crtext="000000" font="0400:微软雅黑" valign="middle">%str279%</text>
           <link name="link_login_type" pos="-132,35,@100,@16" crtext="06a8ff" crhover="06a8ff" font="0200:微软雅黑" hoverfont="0202:微软雅黑" align="right" valign="middle" cursor="hand">%str2800%</link>
-		  
-		  <!--错误提示区域-->
-		  <dlg name="tip_dlg" pos="30,63,-30,@20" show="0">
-			<img pos="0,|-8,@16,@16" skin="img_login_errortip_icon"/>
-			<text name="errortip" pos="20,|-8" crtext="ff4040"></text>
-			<link name="bindtip" pos="[2,|-8" maxwidth="50" class="cls_btn_weblink" show="0">%str273%</link>
-			<text name="bindtip1" pos="[2,|-8" crtext="ff4040" show="0">%str274%</text>
-		  </dlg>
 				
 		  <!--账号登录-->
 		  <dlg name="dlg_account_login" pos="0,60,-0,@260" show="1">
@@ -110,6 +102,14 @@
 			  <gifplayer name="smsdpass_loading_gif" pos="158,|-9,@18,@18" skin="loading_gif" show="0"/>
 			  <link name="smsdpass_vcode_change" pos="-50,|-9,@50,@18" maxwidth="50" class="cls_btn_weblink" dotted="1" align="right" show="1">%str266%</link>
 		    </dlg>
+		  </dlg>
+
+		  <!--错误提示区域-->
+		  <dlg name="tip_dlg" pos="30,63,-30,@20" show="0">
+			<img pos="0,|-8,@16,@16" skin="img_login_errortip_icon"/>
+			<text name="errortip" pos="20,|-8" crtext="ff4040"></text>
+			<link name="bindtip" pos="[2,|-8" maxwidth="50" class="cls_btn_weblink" show="0">%str273%</link>
+			<text name="bindtip1" pos="[2,|-8" crtext="ff4040" show="0">%str274%</text>
 		  </dlg>
 		  
 		  <!--验证码区域-->

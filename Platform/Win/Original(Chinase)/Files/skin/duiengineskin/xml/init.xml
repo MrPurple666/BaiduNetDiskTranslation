@@ -450,6 +450,7 @@
         <imglst name="video_imglist_transfer" src="IDP_VIDEO_BTN_TRANSFER" subwidth="32"/>
         <imglst name="video_imglist_delete" src="IDP_VIDEO_BTN_DELETE" subwidth="32"/>
         <imglst name="video_imglist_download" src="IDP_VIDEO_BTN_DOWNLOAD" subwidth="32"/>
+        <imglst name="video_imglist_setting" src="IDP_VIDEO_BTN_SETTING" subwidth="32"/>
         <imglst name="video_imglist_halfscreen" src="IDP_VIDEO_BTN_HALFSCREEN" subwidth="32"/>
         <imglst name="video_imglist_fullscreen" src="IDP_VIDEO_BTN_FULLSCREEN" subwidth="32"/>
         <imglst name="video_imglist_open_playlist" src="IDP_VIDEO_BTN_PLAYLIST_OPEN" subwidth="17"/>
@@ -521,6 +522,7 @@
         <scrollbar name="sb_video" src="IDP_VIDEO_SCROLL" margin="6" hasgripper="0"/>
         <imglst name="video_definition_guidedlg_btn" src="IDP_IMG_DEFINITION_GUIDE_BUTTON" subwidth="160"/>
         <imglst name="video_imglist_yellow_words_btn" src="IDP_VIDEO_TASKBAR_YELLOW_BTN_WORDS" subwidth="62"/>
+        <imgframe name="video_gray_set_btn" src="IDP_VIDEO_GRAY_SET_BTN" subwidth="15" left="3" top="3" right="3" bottom="3" />
         <!--视频标记-->
         <imglst name="video_note_guide_img" src="IDP_VIDEO_NOTE_GUIDE_IMG"/>
         <imglst name="video_note_guide_open_btn" src="IDP_VIDEO_NOTE_GUIDE_OPEN_BTN" subwidth="160"/>

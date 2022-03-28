@@ -113,10 +113,11 @@
           </dlg>
         </dlg>
         <!--私有文件的右侧操作面板-->
-        <dlg name="toolarea_myfile" pos="-56,|-89,@52,@178" skin="video_skin_toolbar_bg">
+        <dlg name="toolarea_myfile" pos="-56,|-139,@52,@228" skin="video_skin_toolbar_bg">
           <imgbtn name="btn_share" pos="10,24,@32,@30" skin="video_imglist_share" cursor="arrow"/>
           <imgbtn name="btn_download" pos="10,74,@32,@30" skin="video_imglist_download" cursor="arrow"/>
           <imgbtn name="btn_delete" pos="10,124,@32,@30" skin="video_imglist_delete" cursor="arrow"/>
+          <imgbtn name="btn_setting" pos="10,174,@32,@30" skin="video_imglist_setting" cursor="arrow"/>
         </dlg>
          <!--私有文件的右侧操作面板(二)-->
         <dlg name="toolarea_myfile_two" pos="-56,|100,@52,@52" skin="video_skin_toolbar_bg">
@@ -133,9 +134,10 @@
           <text name="text_note_auto_show_desc" pos="10,32,@190,@20" align="left" multilines="0" dotted="1"  crtext="FFFFFF" font="0100:微软雅黑"></text>
         </dlg>
         <!--他人分享文件的右侧操作面板-->
-        <dlg name="toolarea_othershare" pos="-56,|-64,@52,@128" skin="video_skin_toolbar_bg" show="0">
+        <dlg name="toolarea_othershare" pos="-56,|-89,@52,@178" skin="video_skin_toolbar_bg" show="0">
           <imgbtn name="btn_transfer" pos="10,24,@32,@30" skin="video_imglist_transfer" cursor="arrow"/>
           <imgbtn name="btn_download_othershare" pos="10,74,@32,@30" skin="video_imglist_download" cursor="arrow"/>
+          <imgbtn name="btn_setting" pos="10,124,@32,@30" skin="video_imglist_setting" cursor="arrow"/>
         </dlg>
         <!--底部操作栏-->
         <dlg name="taskbar" pos="0,-106,-0,-0" skin="video_skin_taskbar_bg">
@@ -228,6 +230,10 @@
            <text name="tip_overspeed_middle" pos="[0,4" crtext="FFFFFF" font="0000:微软雅黑" txtalpha="0"></text>
            <text name="tip_overspeed_tail" pos="[0,4" class="cls_txt_white" txtalpha="0"></text>
         </dlg>
+        <!--解码方式Tip-->   
+        <dlg name="tip_decode" pos="10,-102" skin="video_skin_tip_bg" show="0">
+           <text name="tip_decode_text" pos="10,4" class="cls_txt_white" txtalpha="0"></text>
+        </dlg>
         <!--tip panel end-->
         <!--鼠标hover进度条提示面板-->
         <dlg name="tip_progress_time_text" pos="0,-102,-0,-70" show="0">
@@ -282,20 +288,22 @@
 		    <!--清晰度选择面板-->
         <dlg name="video_definition_panel" pos="-281,-351" width="208" height="281" show="0">
           <dlg name="video_definition_panel_guide" pos="0,0,-0,-0" skin="video_time_tip_bg">
+            <imgbtn name="video_definition_4000" pos="4,-271,@200,@30" class="cls_video_definition_item_blue_btn" txtalpha="0">%str3309%</imgbtn>
             <imgbtn name="video_definition_2000" pos="4,-241,@200,@30" class="cls_video_definition_item_blue_btn" txtalpha="0">%str3305%</imgbtn>
             <imgbtn name="video_definition_1080_hq" pos="4,-211,@200,@30" class="cls_video_definition_item_blue_btn" txtalpha="0">%str3322%</imgbtn>
-            <imgbtn name="video_definition_1080" pos="4,-181,@200,@30" class="cls_video_definition_item_blue_btn" txtalpha="0">%str3304%</imgbtn>
+            <imgbtn name="video_definition_1080" pos="4,-181,@200,@30" class="cls_video_definition_item_blue_btn" txtalpha="0">%str3304%</imgbtn>        
             <imgbtn name="video_definition_720" pos="4,-151,@200,@30" class="cls_video_definition_item_blue_btn" txtalpha="0">%str3303%</imgbtn>
             <imgbtn name="video_definition_480" pos="4,-121,@200,@30" class="cls_video_definition_item_blue_btn" txtalpha="0">%str3302%</imgbtn>
             <imgbtn name="video_definition_360" pos="4,-91,@200,@30" class="cls_video_definition_item_blue_btn" txtalpha="0">%str3301%</imgbtn>
+            <text name="video_definition_script_txt_4000" pos="145,-262,@30,@12" class="cls_video_definition_script_text" show="0"></text>
             <text name="video_definition_script_txt_2000" pos="145,-232,@30,@12" class="cls_video_definition_script_text" show="0"></text>
             <text name="video_definition_script_txt_1080_hq" pos="145,-202,@30,@12" class="cls_video_definition_script_text" show="0"></text>
             <text name="video_definition_script_txt_1080" pos="145,-172,@30,@12" class="cls_video_definition_script_text" show="0"></text>
             <text name="video_definition_script_txt_720" pos="145,-142,@30,@12" class="cls_video_definition_script_text" show="0"></text>
             <dlg name="video_definition_display" pos="0,-53,-0,-0">
-              <hr pos="16,0,-16,1" crbg="333333"></hr>
-              <text name="video_definition_type_tip" pos="20,16" class="cls_txt_white" txtalpha="0">%str3306%</text>
-              <text name="video_definition_type" pos="124,16" font="0000:微软雅黑" align="center" crtext="ffffff" txtalpha="0">%str3308%</text>
+                <hr pos="16,0,-16,1" crbg="333333"></hr>
+                <text name="video_definition_type_tip" pos="20,16" class="cls_txt_white" txtalpha="0">%str3306%</text>
+                <text name="video_definition_type" pos="124,16" font="0000:微软雅黑" align="center" crtext="ffffff" txtalpha="0">%str3308%</text>
             </dlg>
           </dlg>
         </dlg>
@@ -329,6 +337,23 @@
             <text name="video_overspeed_text_250" pos="230,-30,@24,@12" font="0004:微软雅黑" class="cls_txt_white" txtalpha="0">%str1377%</text>
             <text name="video_overspeed_text_300" pos="280,-30,@24,@12" font="0004:微软雅黑" class="cls_txt_white" txtalpha="0">%str1380%</text>
           </dlg>
+        </dlg>
+        <!--设置面板-->
+        <dlg name="video_decode_panel" pos="-346,|-139" width="288" height="239" skin="video_time_tip_bg" show="0">
+          <imgbtn name="video_decode_btn_close" skin="video_subtitle_op_close" pos="-25,16" cursor="arrow"/>
+          <text name="video_decode_title" pos="18,18" crtext="FFFFFF" font="0000:微软雅黑" crdisabled="4c4c4c">%str1362%</text>
+          <imgbtn name="btn_hardware_decode" pos="18,39,@72,@24" crtext="FFFFFF" crhover="FFFFFF" font="0000:微软雅黑" skin="btn_default" cursor="arrow" show="1">%str1360%</imgbtn>
+          <imgbtn name="btn_software_decode" pos="[6,39,@72,@24" crtext="FFFFFF" crhover="FFFFFF" font="0000:微软雅黑" skin="video_gray_set_btn" cursor="arrow" show="1">%str1361%</imgbtn>
+          <text name="video_renderer_title" pos="18,81" crtext="FFFFFF" font="0000:微软雅黑" crdisabled="4c4c4c">%str1347%</text>
+          <imgbtn name="btn_normal_render" pos="18,102,@72,@24" crtext="FFFFFF" crhover="FFFFFF" font="0000:微软雅黑" skin="video_gray_set_btn" cursor="arrow" show="1">%str1348%</imgbtn>
+          <imgbtn name="btn_direct3d9" pos="[6,102,@85,@24" crtext="FFFFFF" crhover="FFFFFF" font="0000:微软雅黑" skin="btn_default" cursor="arrow" show="1">%str1349%</imgbtn>
+          <imgbtn name="btn_direct3d11" pos="[6,102,@83,@24" crtext="FFFFFF" crhover="FFFFFF" font="0000:微软雅黑" skin="video_gray_set_btn" cursor="arrow" show="1">%str1350%</imgbtn>
+          <imgbtn name="btn_opengl" pos="18,135,@70,@24" crtext="FFFFFF" crhover="FFFFFF" font="0000:微软雅黑" skin="video_gray_set_btn" cursor="arrow" show="1">%str1351%</imgbtn>
+          <imgbtn name="btn_opengles2" pos="[8,135,@93,@24" crtext="FFFFFF" crhover="FFFFFF" font="0000:微软雅黑" skin="video_gray_set_btn" cursor="arrow" show="1">%str1352%</imgbtn>
+          <text name="audio_output_title" pos="18,177" crtext="FFFFFF" font="0000:微软雅黑" crdisabled="4c4c4c">%str1353%</text>
+          <imgbtn name="btn_direct_sound" pos="18,197,@97,@24" crtext="FFFFFF" crhover="FFFFFF" font="0000:微软雅黑" skin="btn_default" cursor="arrow" show="1">%str1354%</imgbtn>
+          <imgbtn name="btn_winmm" pos="[6,197,@66,@24" crtext="FFFFFF" crhover="FFFFFF" font="0000:微软雅黑" skin="video_gray_set_btn" cursor="arrow" show="1">%str1355%</imgbtn>
+          <imgbtn name="btn_wasapi" pos="[6,197,@70,@24" crtext="FFFFFF" crhover="FFFFFF" font="0000:微软雅黑" skin="video_gray_set_btn" cursor="arrow" show="1">%str1356%</imgbtn>
         </dlg>
       </dlg>
       <!--标题栏-->

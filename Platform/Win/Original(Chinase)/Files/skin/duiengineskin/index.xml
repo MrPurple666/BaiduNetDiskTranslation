@@ -618,6 +618,7 @@
 <resid type="IMGX" name="IDP_VIDEO_BTN_TRANSFER" file="image\VideoPlayDlg\image_transfer.png"/>
 <resid type="IMGX" name="IDP_VIDEO_BTN_DELETE" file="image\VideoPlayDlg\image_delete.png"/>
 <resid type="IMGX" name="IDP_VIDEO_BTN_DOWNLOAD" file="image\VideoPlayDlg\image_download.png"/>
+<resid type="IMGX" name="IDP_VIDEO_BTN_SETTING" file="image\VideoPlayDlg\image_setting.png"/>
 <resid type="IMGX" name="IDP_VIDEO_BTN_HALFSCREEN" file="image\VideoPlayDlg\video_halfscreen_btn.png"/>
 <resid type="IMGX" name="IDP_VIDEO_BTN_FULLSCREEN" file="image\VideoPlayDlg\video_fullscreen_btn.png"/>
 <resid type="IMGX" name="IDP_VIDEO_BTN_PLAYLIST_OPEN" file="image\VideoPlayDlg\video_playlist_open_btn.png"/>
@@ -678,6 +679,7 @@
 <resid type="IMGX" name="IDP_VIDEO_UNDERLINE_NORMAL" file="image\VideoPlayDlg\underline_normal.png"/>
 <resid type="IMGX" name="IDP_VIDEO_UNDERLINE_HOVER" file="image\VideoPlayDlg\underline_hover.png"/>
 <resid type="IMGX" name="IDP_VIDEO_SCROLL"  file="image\VideoPlayDlg\scrollbar.png" />
+<resid type="IMGX" name="IDP_VIDEO_GRAY_SET_BTN"    file="image\VideoPlayDlg\gray_set_btn_bg.png" />
 <!--视频标记-->
 <resid type="IMGX" name="IDP_VIDEO_NOTE_GUIDE_IMG"  file="image\VideoPlayDlg\videonote\video_note_guide_image.png"/>
 <resid type="IMGX" name="IDP_VIDEO_NOTE_GUIDE_OPEN_BTN"  file="image\VideoPlayDlg\videonote\vedio_note_guide_open_btn.png"/>
@@ -1440,6 +1442,7 @@
 <resid type="IMGX" name="IDP_DUI_WORKSPACE_HISTORY_FRAME" file="image\WorkSpaceDlg\workspace_history.png"/>
 <resid type="XML" name="IDR_DUI_WORKSPACE_EXSPEED_SYNC_GUIDE_PANEL" layer="1" file="xml\MainPanel\WorkSpaceDlg\WorkspaceIncrSyncGuide.xml"/>
 <resid type="XML" name="IDR_DUI_WORKSPACE_DELETE_PROMPT" layer="1" file="xml\MainPanel\WorkSpaceDlg\WorkspaceDeletePrompt.xml"/>
+<resid type="XML" name="IDR_DUI_WORKSPACE_SET_PATH_DLG" layer="1" file="xml\MainPanel\WorkSpaceDlg\WorkspaceSetPathDlg.xml"/>
 
 <!-- 游戏中心 -->
 <resid type="XML" name="IDR_DUI_GAMECENTER_DLG" layer="1" file="xml\GameCenterDlg\GameCenterDlg.xml"/>
@@ -1488,3 +1491,6 @@
 <resid type="IMGX" name="IDP_QUICKUPLOAD_GUIDE_OPEN_BTN_BG" file="image\QuickUploadDlg\OpenBtn.png" />
 
 <resid type="IMGX" name="IDP_WORKSPACE_RECEIVE_NA_FILE_UNUSED" file="image\WorkSpaceDlg\workspace_receive_na_file_used.png" />
+
+<!-- 端内诊断中心 -->
+<resid type="XML" name="IDR_DUI_AUTODIAGNOSISDLG" layer="1" file="xml\AutoDiagnosisDlg\AutoDiagnosisDlg.xml"/>

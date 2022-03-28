@@ -1382,6 +1382,7 @@
   <String id="IDS_WORKSPACE_SYNC_TRAY_TITLE" value="通知：" />
   <String id="IDS_WORKSPACE_SYNC_TRAY_TIP" value="开启同步消息提醒" />
   <String id="IDS_WORKSPACE_VIRTUAL_FOLDER_SHOW" value="显示同步空间虚拟盘符" />
+  <String id="IDS_WORKSPACE_DESKTOP_LINK_SHOW" value="显示同步空间桌面入口" />
   <String id="IDS_WORKSPACE_SAVE_LOCAL_PATH" value="本地同步目录：" />
   <String id="IDS_WORKSPACE_TRAY_NAME" value="网盘同步空间" />
   <String id="IDS_WORKSPACE_FILEVERSIONDLG_TITLENAME"  value="历史版本" />
@@ -1396,7 +1397,11 @@
   <String id="IDS_WORKSPACE_FREE_SPACE" value="释放电脑空间，仅下载快捷方式" />
   <String id="IDS_WORKSPACE_QUICK_SYNC_ERROR" value="检测到您的同步目录所在硬盘分区为非NTFS格式，因系统限制无法使用“释放电脑空间”功能，请更换目录所在硬盘" />
   <String id="IDS_WORKSPACE_LOCAL_SYNC_SET"  value="前往设置" />
-  <!--商业化-->
+  <String id="IDS_WORKSPACE_SYNC_COMMON_TITLE"  value="通用：" />
+  <String id="IDS_WORKSPACE_START_SYNC"  value="开启同步空间" />
+  <String id="IDS_WORKSPACE_STOP_SYNC_CAPABILITY"  value="停用同步空间" />
+
+    <!--商业化-->
   <String id="IDS_PRODUCT_RECOMMEND_SETTING" value="商品推荐设置：" />
   <!--重启资源管理器-->
   <String id="IDS_RESTART_EXPLORER" value="本地文件没有同步状态？重启资源管理器试试？"/>
