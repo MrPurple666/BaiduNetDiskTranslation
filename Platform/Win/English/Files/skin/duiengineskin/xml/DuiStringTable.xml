@@ -638,6 +638,32 @@
   <s id="1312">Currently there are other tasks being performed, please try again later</s>
   <s id="1313">Please try again</s>
   <s id="1314">Select Delete item</s>
+    <!--Video player-->
+  <s id="1341">Switch the video renderer, please wait patiently...</s>
+  <s id="1342">Switching the video renderer failed, please try again later</s>
+  <s id="1343">Switch video renderer success</s>
+  <s id="1344">Switching the audio output method, please wait patiently...</s>
+  <s id="1345">Switching audio output failed, please try again later</s>
+  <s id="1346">Switch audio output is successful</s>
+  <s id="1347">Video renderer</s>
+  <s id="1348">Ordinary rendering</s>
+  <s id="1349">Direct3D 9</s>
+  <s id="1350">Direct3D 11</s>
+  <s id="1351">OpenGL</s>
+  <s id="1352">OpenGLES2</s>
+  <s id="1353">Audio output method</s>
+  <s id="1354">Direct Sound</s>
+  <s id="1355">Winmm</s>
+  <s id="1356">WASAPI</s>
+  <s id="1357">In handover decoding method, please wait patiently...</s>
+  <s id="1358">Switch decoding method failed, please try again later</s>
+  <s id="1359">Switch decoding method successfully</s>
+  <s id="1360">Hardware decoding</s>
+  <s id="1361">Software decoding</s>
+  <s id="1362">Decoding settings</s>
+  <s id="1363">After decoding, play more smooth</s>
+  <s id="1364">Video playback supports "Blu" and other high-definition paintings</s>
+ 
   <!--Video player-->
   <s id="1366">Sharing invalid, please check</s>
   <s id="1367">The group has been dissolved and cannot be found.</s>
@@ -1395,6 +1421,43 @@
   <s id="3569">The local folder you backed up“%s”It has been deleted and cannot be backed up. The previously backed up files are still saved to the cloud。</s>
   <s id="3570">The local folder you backed up“%s”Wait %d Folders have been deleted and cannot be backed up. The previously backed up files are still saved to the cloud.</s>
 
+  <!-- Diagnostic tool -->
+  <s id="3580">Network problem diagnostic tool</s>
+  <s id="3581">project</s>
+  <s id="3582">condition</s>
+  <s id="3583">Repair suggestion</s>
+  <s id="3584">1.User speed limit setting</s>
+  <s id="3585">2.Windows firewall rules</s>
+  <s id="3586">3.Agent settings</s>
+  <s id="3587">4.Domain name connectivity</s>
+  <s id="3588">5.System operating environment</s>
+  <s id="3589">Again diagnose</s>
+  <s id="3590">The problem is still?Click here to save the test results, quickly open the feedback page</s>
+  <s id="3591">There is no speed limit setting</s>
+  <s id="3592">Upload speed limit%dKB</s>
+  <s id="3593">Download speed limit%dKB</s>
+  <s id="3594">Manual agent has been opened</s>
+  <s id="3595">Script agent has been opened</s>
+  <s id="3596">Automatic detection has been opened</s>
+  <s id="3597">No proxy settings</s>
+  <s id="3598">Detecting agent settings failed</s>
+  <s id="3599">Current network firewall rules are not detected</s>
+  <s id="3600">Test the current network firewall is closed</s>
+  <s id="3601">Detected current network firewall allow rules</s>
+  <s id="3602">Revise</s>
+  <s id="3603">One button passes through the firewall</s>
+  <s id="3604">How to cancel the system agent settings?</s>
+  <s id="3605">How to modify DNS?</s>
+  <s id="3606">How to fix?</s>
+  <s id="3607">System agent</s>
+  <s id="3608">Environmental variable http_proxy/HTTPS_PROXY</s>
+  <s id="3609">End agent settings</s>
+  <s id="3610">How to delete environment variables?</s>
+  <s id="3611">Not set</s>
+  <s id="3612">Has been set</s>
+  <s id="3613">System Components%s</s>
+  <s id="3614">Diagnosis...</s>
+
   <!--Automatic login retention-->
   <s id="3650">system hint</s>
   <s id="3651">Are you sure you want to turn off automatic login?</s>
@@ -2143,5 +2206,14 @@
   <s id="6042">Custom directory download</s>
   <s id="6043">1. Only support NTFS hard drive, right click hard disk property check hard disk format \n 2. Right-click on local file - release space, can be manually released</s>
   <s id="6044">This function is in betrayal, so stay tuned~ \r\n If you need to know more, you can add QQ group：1029132738</s>
-
+  <s id="6045">Is there any unfinished synchronization task, is it a synchronization?</s>
+  <s id="6046">Confirm to stop synchronization?</s>
+  <s id="6047">After the synchronization is disabled, all file synchronization tasks will be canceled, and the operation of the computer files will no longer be synchronized.</s>
+  <s id="6048">After the synchronization is deactivated, the operation of this desk will no longer be synchronized.</s>
+  <s id="6049">let me think again</s>
+  <s id="6050">Determination</s>
+  <s id="6051">Deactivate synchronization success</s>
+  <s id="6052">Deactivate synchronization failed</s>
+  <s id="6053">Currently stopped synchronization, you can restart synchronization only after 3S settings</s>
+    
 </string>

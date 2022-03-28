@@ -632,7 +632,33 @@
   <s id="1312">"В настоящее время выполняются другие задачи, повторите попытку позже."</s>
   <s id="1313">"Пожалуйста, попробуйте еще раз"</s>
   <s id="1314">Выберите элементы для удаления</s>
-  <s id="1364">Воспроизведение видео поддерживает оригинальное качество изображения «высокая кодовая скорость 1080P»</s>
+  <!--Video player-->
+  <s id="1341">Switch the video renderer, please wait patiently...</s>
+  <s id="1342">Switching the video renderer failed, please try again later</s>
+  <s id="1343">Switch video renderer success</s>
+  <s id="1344">Switching the audio output method, please wait patiently...</s>
+  <s id="1345">Switching audio output failed, please try again later</s>
+  <s id="1346">Switch audio output is successful</s>
+  <s id="1347">Video renderer</s>
+  <s id="1348">Ordinary rendering</s>
+  <s id="1349">Direct3D 9</s>
+  <s id="1350">Direct3D 11</s>
+  <s id="1351">OpenGL</s>
+  <s id="1352">OpenGLES2</s>
+  <s id="1353">Audio output method</s>
+  <s id="1354">Direct Sound</s>
+  <s id="1355">Winmm</s>
+  <s id="1356">WASAPI</s>
+  <s id="1357">In handover decoding method, please wait patiently...</s>
+  <s id="1358">Switch decoding method failed, please try again later</s>
+  <s id="1359">Switch decoding method successfully</s>
+  <s id="1360">Hardware decoding</s>
+  <s id="1361">Software decoding</s>
+  <s id="1362">Decoding settings</s>
+  <s id="1363">After decoding, play more smooth</s>
+  <s id="1364">Video playback supports "Blu" and other high-definition paintings</s>
+ 
+ 
   <s id="1365">Видео - буферизация...</s>
 
   <!--视频播放器-->

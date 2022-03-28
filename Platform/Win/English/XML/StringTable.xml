@@ -1385,6 +1385,7 @@
   <String id="IDS_WORKSPACE_SYNC_TRAY_TITLE" value="Notice:" />
   <String id="IDS_WORKSPACE_SYNC_TRAY_TIP" value="Open synchronization message reminder" />
   <String id="IDS_WORKSPACE_VIRTUAL_FOLDER_SHOW" value="Display workspace virtual disk" />
+   <String id="IDS_WORKSPACE_DESKTOP_LINK_SHOW" value="Show synchronous space desktop entry" />
   <String id="IDS_WORKSPACE_SAVE_LOCAL_PATH" value="Local synchronization directory:" />
   <String id="IDS_WORKSPACE_TRAY_NAME" value="Network disk workspace" />
   <String id="IDS_WORKSPACE_FILEVERSIONDLG_TITLENAME"  value="historic version" />
@@ -1400,7 +1401,10 @@
   <String id="IDS_WORKSPACE_FREE_SPACE" value="Release computer space, only download shortcuts" />
   <String id="IDS_WORKSPACE_QUICK_SYNC_ERROR" value="The hard disk partition where your sync directory is located is non-NTFS format, which cannot be used by system restrictions, replace the hard disk where the directory is located." />
   <String id="IDS_WORKSPACE_LOCAL_SYNC_SET"  value="Go to set up" />
-  
+  <String id="IDS_WORKSPACE_SYNC_COMMON_TITLE"  value="General:" />
+  <String id="IDS_WORKSPACE_START_SYNC"  value="Open synchronous space" />
+  <String id="IDS_WORKSPACE_STOP_SYNC_CAPABILITY"  value="Deactivate synchronous space" />
+
   <!--commercialize-->
   <String id="IDS_PRODUCT_RECOMMEND_SETTING" value="Product recommendation setting:" />
   <!--Restart the resource manager-->
