@@ -39,6 +39,8 @@ If you find an error or inaccuracy in the translation, please fill out the form 
 Unpack the contents of the archive to the folder:
 `C:\Users\[[**UserName**]]\AppData\Roaming\Baidu\BaiduNetDisk`
 
+<img src="https://i7.imageban.ru/out/2022/03/14/78da76e8580f901db603179659269cce.gif" width="60%" height="50%">
+
 ### Repack edition
 
 Repack edition is the ability to select the language installed for the program, the possibility of a quiet installation. Nothing needs to be copied and replaced everything in the installer.
