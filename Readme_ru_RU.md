@@ -1,4 +1,4 @@
-﻿# BaiduNetDisk ☁
+﻿# BaiduNetDiskTranslation ☁
 
 <!-- [![Donate][donate-badge]](#donate) -->
 
