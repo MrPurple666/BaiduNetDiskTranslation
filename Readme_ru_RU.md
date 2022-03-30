@@ -1,14 +1,14 @@
-﻿# BaiduNetDiskTranslation ☁
+<!-- ﻿# BaiduNetDiskTranslation ☁ -->
 
 <!-- [![Donate][donate-badge]](#donate) -->
 
 <center>
-<img src='https://i7.imageban.ru/out/2021/10/18/80d3722fa618eaa3c30e9823d5c0ac57.png' alt="ss">
-
+<img src='https://i3.imageban.ru/out/2022/03/30/92137855392412725f38fbfba812f1eb.png' alt="ss">
+<!-- 
 [![Windows][lng-russian-win]](#download) [![Windows][lng-english-win]](#download)
 [![Windows][lng-russian-and]](#download) [![Windows][lng-english-and]](#download)
 [![License][license-badge]][license]
-
+-->
 </center>
 
 [English Docs](Readme.md) | [Докум на Русском ](Readme_ru_RU.md)
