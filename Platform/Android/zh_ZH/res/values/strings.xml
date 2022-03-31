@@ -651,6 +651,8 @@
     <string name="all_pause_upload">全部暂停</string>
     <string name="all_redownload">全部重试</string>
     <string name="all_reupload">全部重新上传</string>
+    <string name="all_select_file_num">已选%d个文件</string>
+    <string name="all_select_member_num">已选%d位成员</string>
     <string name="all_start_pause_upload">全部继续</string>
     <string name="all_tab_name">全部分享</string>
     <string name="all_tools">全部工具</string>
@@ -879,6 +881,9 @@
     <string name="auth_require">申请延长认证有效期</string>
     <string name="auth_success">审核成功</string>
     <string name="auth_success_inform">尊敬的客户,您好！您的申请已经审核通过，认证有效期延长1年，祝您使用愉快！</string>
+    <string name="authentic_auth_subtitle">查看或修改认证信息</string>
+    <string name="authentic_auth_title">我的认证</string>
+    <string name="authentic_auth_url">https://pan.baidu.com/disk/cert#/web/submit?from=na</string>
     <string name="authenticator_change_account_button">切换帐号</string>
     <string name="authenticator_error">帐号异常，登录失败</string>
     <string name="authenticator_ok">确认</string>
@@ -1185,7 +1190,7 @@
     <string name="bd_wallet_bind_card_first_pay">首次填卡支付</string>
     <string name="bd_wallet_bind_card_number_overrun">您绑卡数量已达上限，请解绑后，再进行绑定！</string>
     <string name="bd_wallet_bind_card_second">填写卡信息</string>
-    <string name="bd_wallet_blank" translatable="false" />
+    <string name="bd_wallet_blank" />
     <string name="bd_wallet_cancel_bind">解除绑定</string>
     <string name="bd_wallet_cancel_bind_entrance">解绑</string>
     <string name="bd_wallet_cancel_bind_tip">确定解除绑定当前银行卡？</string>
@@ -1737,6 +1742,7 @@
     <string name="button_toast_btn_text">关注</string>
     <string name="button_toast_info_text">赞Ta, 就关注Ta吧</string>
     <string name="button_update">升级</string>
+    <string name="buy_consult">购买咨询</string>
     <string name="buy_enterprise_product">购买企业套餐 ></string>
     <string name="buy_now">立即购买</string>
     <string name="buy_product">购买套餐</string>
@@ -1775,6 +1781,10 @@
 找到“更多－通话记录”管理备份的通话记录内容。"</string>
     <string name="camera_decode_bitmap_failed">识别不成功，请重新识别</string>
     <string name="camera_permission_required">本功能需要相机权限！</string>
+    <string name="camera_size_title_1">小图</string>
+    <string name="camera_size_title_2">标准</string>
+    <string name="camera_size_title_3">大图</string>
+    <string name="camera_size_title_4">高清</string>
     <string name="camera_take_picture_too_more">单次最多拍摄9张照片</string>
     <string name="camera_toast_camera_not_use">启用摄像头失败，请检查使用权限或设备</string>
     <string name="camera_toast_sdcard_not_use">启用SD卡失败，请检查使用权限或设备</string>
@@ -2092,6 +2102,7 @@
     <string name="change_decode_mode_SW">硬解失败，正在为您切换软解</string>
     <string name="change_file_category">更改文件类型</string>
     <string name="change_file_list">切换列表视图</string>
+    <string name="change_file_permissions">修改权限</string>
     <string name="change_file_to_new_category">会将原有格式重命名为mkv格式</string>
     <string name="change_folder_property_tip">点击可切换时间轴</string>
     <string name="change_nick_name">修改昵称</string>
@@ -2110,6 +2121,7 @@
     <string name="check_version">检测到新版本 %s</string>
     <string name="check_version_text">检查新版本</string>
     <string name="child_female_voice">儿童女声</string>
+    <string name="child_file_permissions_all_change">子文件夹权限将同步修改</string>
     <string name="children_add_alert_msg">继续添加可能会重复备份文件，是否继续？</string>
     <string name="chip_text">Chip text</string>
     <string name="choice_person">请选择一个人物</string>
@@ -2597,6 +2609,8 @@
     <string name="confirm_image_info_dialog_cancel">不保存</string>
     <string name="confirm_image_info_dialog_confirm">保存</string>
     <string name="confirm_image_info_dialog_content">是否保存修改</string>
+    <string name="confirm_merge">确认合并（%d）</string>
+    <string name="confirm_merge_default">确认合并</string>
     <string name="confirm_persons">确认后照片将被合并展示</string>
     <string name="confirm_select_share">确定分享</string>
     <string name="confirm_share_property_album">确认分享</string>
@@ -2780,6 +2794,7 @@
     <string name="core_time_format_hours_ago">%d小时前</string>
     <string name="core_time_format_minutes_ago">%d分钟前</string>
     <string name="core_time_format_moment_ago">刚刚</string>
+    <string name="correct_tel">请输入正确的电话号码</string>
     <string name="coupon_already_use">所选优惠券已被使用，请选择其他优惠券</string>
     <string name="coupon_calculate_error">优惠券选择失败，请稍后重试</string>
     <string name="coupon_close">关闭</string>
@@ -2902,7 +2917,7 @@
     <string name="default_self_starting_guide_2">开启自启动相关权限</string>
     <string name="default_self_starting_guide_name">自启动</string>
     <string name="default_show_text">返回</string>
-    <string name="define_roundedimageview" translatable="false" />
+    <string name="define_roundedimageview" />
     <string name="delete">删除</string>
     <string name="delete_alert_confirm">放入同步空间回收站</string>
     <string name="delete_alert_svip_guide_text">成为超级会员延长期限至 60 天</string>
@@ -3344,6 +3359,8 @@
     <string name="download_fail_exist_same_name_directory">已存在同名目录（%d）</string>
     <string name="download_fail_file_illegal">文件违规，下载失败</string>
     <string name="download_fail_file_name_too_long">文件名太长（%d）</string>
+    <string name="download_fail_file_no_permissions">没有权限操作(%d)</string>
+    <string name="download_fail_file_no_permissions_no_code">没有权限操作</string>
     <string name="download_fail_file_system_error">本地文件系统异常，下载失败（53）</string>
     <string name="download_fail_gateway_passport_error">服务端错误 142（82）</string>
     <string name="download_fail_gateway_rand_param_error">共享文件链接错误 2（83）</string>
@@ -3506,7 +3523,7 @@
     <string name="dxm_wallet_base_third_login_title">请切换为百度帐号</string>
     <string name="dxm_wallet_base_unit">¥</string>
     <string name="dxm_wallet_base_verify_phone_no">验证手机号</string>
-    <string name="dxm_wallet_camera_blank" translatable="false" />
+    <string name="dxm_wallet_camera_blank" />
     <string name="dxm_wallet_camera_error">无法打开摄像头，请在手机系统设置中开启访问摄像头权限后重试。</string>
     <string name="dxm_wallet_gathering_failed">收款失败！</string>
     <string name="dxm_wallet_lightapp_close">关闭</string>
@@ -3909,7 +3926,7 @@
     <string name="enterprise_tool_tip_second_title">点击可以切换到企业版，马上体验~</string>
     <string name="enterprise_tool_tip_switch_tip">点击这里切换企业空间</string>
     <string name="enterprise_trial_cancel">暂不试用</string>
-    <string name="enterprise_trial_content">我们将为您提供15天旗舰版套餐部分功能免费试用，可享受5T企业极速空间、创建50人团队，50次客户极速下载等特权。</string>
+    <string name="enterprise_trial_content">我们将为您提供15天免费试用，试用期间可享受<font color="#D6A652">200G企业空间、创建5人团队、客户极速下载、批量上传、视频高清倍速</font>等特权！</string>
     <string name="enterprise_trial_ok">立即试用</string>
     <string name="enterprise_trial_title">0元试用</string>
     <string name="enterprise_unsupport_actoion_tips">请将网盘切换到个人空间再操作</string>
@@ -4199,6 +4216,7 @@
     <string name="file_opening">正在打开文件……</string>
     <string name="file_or_dir_not_exist">该目录或文件不存在</string>
     <string name="file_owner">所有者</string>
+    <string name="file_owner_permissions_can_not_change">部分文件归属该成员，权限不可修改</string>
     <string name="file_partially_deleted_or_moved">部分文件已被移动或删除</string>
     <string name="file_permission_guide_text">最新版本开放对个别文件（夹）进行权限设置了，请立即通知伙伴进行升级</string>
     <string name="file_permission_guide_title">文件（夹）权限管理上线啦</string>
@@ -4349,6 +4367,7 @@
     <string name="filemanager_view_failed_files">查看</string>
     <string name="files_contains_empty_folder">空文件夹不能传输</string>
     <string name="files_exceed_limit">文件数量太多啦！</string>
+    <string name="files_permissions">批量权限</string>
     <string name="find_second_pwd_activity_title">找回二级密码</string>
     <string name="fingerprint_dialog_touch_sensor">Touch the fingerprint sensor</string>
     <string name="fingerprint_error_hw_not_available">Fingerprint hardware not available.</string>
@@ -4434,6 +4453,7 @@
     <string name="found_album_import_time_too_long">后台导入中，导入成功后可在相簿页查看</string>
     <string name="found_album_list_top_desc">在文件夹列表中创建的相册，可以一键加入到相簿中啦</string>
     <string name="found_album_title">发现相簿</string>
+    <string name="found_similar_person">为您检测到相似人物</string>
     <string name="fourteen">14</string>
     <string name="fourteen_days">14天</string>
     <string name="fourteen_days_share_tip">分享将在14天后过期，无法继续访问</string>
@@ -5043,16 +5063,19 @@ progress: %d%%"</string>
     <string name="index_login_bottom_label">立即登录</string>
     <string name="index_login_bottom_name">登录快速开启智能金融生活</string>
     <string name="indicator_count">%1$d/%2$d</string>
+    <string name="info_get">已收到您的信息</string>
     <string name="info_install">播放此视频需安装视频插件</string>
     <string name="info_update">播放此视频需升级视频插件</string>
     <string name="init_failed">Initialization failure has been opened for you with third party App</string>
     <string name="input_confirm_code">请输入验证码</string>
     <string name="input_file_no_permission_note_text">后续操作需要用到麦克风权限或相机权限，请在“设置”中开启</string>
+    <string name="input_name">请输入您的姓名</string>
     <string name="input_need_download_url">填写要下载的文件链接</string>
     <string name="input_nick_name">输入昵称</string>
     <string name="input_people_name">输入新名称进行标注</string>
     <string name="input_register_code_hint">请输入激活码</string>
     <string name="input_second_pwd">输入二级密码</string>
+    <string name="input_tel">请输入您的电话</string>
     <string name="input_verify_code_tips">对方加你为好友后，就不用再输入验证码了哦！</string>
     <string name="input_verify_dialog_send_msg_title">继续发送消息，请输入验证码</string>
     <string name="input_verify_dialog_title">输入验证码</string>
@@ -5149,10 +5172,11 @@ progress: %d%%"</string>
     <string name="jkeng_activity_authenticator">账号同步页</string>
     <string name="join_group_ower_leave">群口令分享者已经离开群组，无法加入</string>
     <string name="judge_category_content">更改文件类型可能导致文件不可用,是否继续？</string>
+    <string name="keep_personal_info">留下您的联系方式，我们的专业顾问将联系你，为您提供1对1服务</string>
     <string name="kilobyteShort">KB</string>
     <string name="know_it">知道了</string>
     <string name="lable_add_too_much">最多仅可添加12个标签</string>
-    <string name="lable_added" translatable="false">已添加该标签</string>
+    <string name="lable_added">已添加该标签</string>
     <string name="lable_error">标签内含有敏感词，请修改后再试</string>
     <string name="lable_has_added">已添加该标签</string>
     <string name="lable_not_set">未设置个性标签</string>
@@ -5275,7 +5299,7 @@ progress: %d%%"</string>
     <string name="loading_baby_copy_file">正在复制宝宝照片，请耐心等待%d%%</string>
     <string name="loading_baby_create_dir">正在新建宝宝相册</string>
     <string name="loading_baby_set_property">正在切换为属性相册</string>
-    <string name="loading_bags" translatable="false" />
+    <string name="loading_bags" />
     <string name="loading_cancel_share_directory">正在解散...</string>
     <string name="loading_dialog_deleting">正在删除中</string>
     <string name="loading_doing">正在处理…</string>
@@ -5363,6 +5387,7 @@ progress: %d%%"</string>
     <string name="manage_all_share">管理全部分享</string>
     <string name="manage_shares">管理其他分享</string>
     <string name="manager_over_limit_title">超出数量限制</string>
+    <string name="manager_permissions_can_not_change">可管理，不支持修改</string>
     <string name="manager_send_share_details">查看已发出的分享详情</string>
     <string name="manager_share_link">管理我的分享</string>
     <string name="manual_backup_condition_in_auto_backup_process">正在自动备份中，请稍候再试</string>
@@ -5463,11 +5488,20 @@ progress: %d%%"</string>
     <string name="menu_text_empty_search_history">清空历史记录</string>
     <string name="merge_choice_second_tip">注：选择忽略后将放弃合并联系人，全部恢复至本机</string>
     <string name="merge_choice_tip">下面是姓名或电话号码相同的联系人，可以选择合并或者忽略</string>
+    <string name="merge_confirm">合并</string>
+    <string name="merge_desc">合并后将不可拆分</string>
+    <string name="merge_failed">人物合并失败！</string>
     <string name="merge_image_failed">合并照片失败</string>
     <string name="merge_image_running">正在合并照片…</string>
     <string name="merge_local_contacts">正在合并联系人...</string>
+    <string name="merge_person">合并人物</string>
     <string name="merge_person_alert_msg">这两个是同一个人吗？</string>
     <string name="merge_person_alert_msg2">确认后TA们的照片会合并</string>
+    <string name="merge_person_edit_name_hint">支持中英文、数组和Emoji</string>
+    <string name="merge_right_now">一键合并</string>
+    <string name="merge_running">人物合并中…</string>
+    <string name="merge_success">人物合并成功！</string>
+    <string name="merge_title">确定合并为同一个人吗？</string>
     <string name="message_add_friend">请加TA为好友</string>
     <string name="message_address_mms_wrong_tips">收件人号码有误！</string>
     <string name="message_address_wrong_tips">收件人地址有误！</string>
@@ -5493,6 +5527,7 @@ progress: %d%%"</string>
     <string name="miui_warning_title">温馨提示</string>
     <string name="modify_avatar">修改头像</string>
     <string name="modify_default_sms">去设置</string>
+    <string name="modify_person_avtar">修改人物头像</string>
     <string name="modify_person_name">修改人物名称</string>
     <string name="modify_person_relation">修改与我的关系</string>
     <string name="modify_pwd">修改密码</string>
@@ -5508,7 +5543,7 @@ progress: %d%%"</string>
     <string name="modify_tags_loading">正在保存更改…</string>
     <string name="modify_tags_success">分类已修改</string>
     <string name="month_extreme_speed_data_package">本月极速流量：%1$s/%2$s</string>
-    <string name="more" translatable="false" />
+    <string name="more" />
     <string name="more_audio_to_dir">更多音频到文件夹内查看：</string>
     <string name="more_document_to_dir">更多文档到文件夹内查看：</string>
     <string name="more_location">更多</string>
@@ -5646,9 +5681,17 @@ progress: %d%%"</string>
     <string name="my_tools_tilte_tips">长按拖动可调整顺序</string>
     <string name="my_video">我的视频</string>
     <string name="mycard_dialog_title">我的卡包 搬家了</string>
+    <string name="myshare_auto_fill_password_dialog_cancel_text">取消</string>
+    <string name="myshare_auto_fill_password_dialog_confirm_text">确认</string>
+    <string name="myshare_auto_fill_password_dialog_content">开启后访问者无须输入提取码，可直接查看分享文件</string>
+    <string name="myshare_auto_fill_password_dialog_title">是否开启『自动填充提取码』</string>
     <string name="myshare_download">下载</string>
     <string name="myshare_limit_person">人</string>
     <string name="myshare_limit_person_title">已访问/限制访问人数</string>
+    <string name="myshare_link_auto_pwd_code">"链接:%1$s?pwd=%2$s 
+提取码:%2$s"</string>
+    <string name="myshare_link_pwd_code">"链接:%1$s 
+提取码:%2$s"</string>
     <string name="myshare_save">保存</string>
     <string name="myshare_view">浏览</string>
     <string name="nad_activity_not_found">未找到应用程序</string>
@@ -6092,6 +6135,7 @@ progress: %d%%"</string>
     <string name="none">无</string>
     <string name="normal_account">normal</string>
     <string name="normal_album_set_ok">%d个文件夹已切换成功</string>
+    <string name="normal_manager">管理员</string>
     <string name="normal_name">用户</string>
     <string name="normal_space">我的网盘</string>
     <string name="normal_tag">基础券</string>
@@ -6803,6 +6847,7 @@ progress: %d%%"</string>
     <string name="other_login_ostype_qq">QQ登录</string>
     <string name="other_login_ostype_sina">新浪微博登录</string>
     <string name="other_login_ostype_wechat">微信登录</string>
+    <string name="output_info">提交咨询</string>
     <string name="over_download_task_limit">下载任务数超限</string>
     <string name="over_height_size_tips">不能超过长图高度限制</string>
     <string name="over_pages_size_tips">选择的页数不能超过%1$d页</string>
@@ -7191,23 +7236,26 @@ progress: %d%%"</string>
     <string name="permission_storage">存储空间</string>
     <string name="permission_storage_des">下载网盘内容时，存储到本地</string>
     <string name="permission_storage_desc">存储权限：需要获取存储权限，以保证应用的正常使用</string>
+    <string name="permissions_setting_text">权限设置</string>
     <string name="permisson_default_manageable">选取成员文件（夹）权限：</string>
     <string name="permisson_set_title">成员权限设置</string>
     <string name="permit_manager_text">可管理</string>
     <string name="permit_owner_text">所有者</string>
-    <string name="permit_set_bubble_text">支持对个别文件进行权限设置</string>
+    <string name="permit_set_bubble_text">一级目录可批量设置文件权限</string>
     <string name="permit_share_text">可分享/下载</string>
     <string name="permit_view_text">仅查看</string>
     <string name="person_confirm">这就是我</string>
+    <string name="person_edit_name_title">请添加名字</string>
     <string name="person_marking">标记中…</string>
     <string name="person_marking_all_failed">照片合并失败，请稍后重试</string>
     <string name="person_marking_failed">标记失败</string>
     <string name="person_marking_single_failed">标记自己失败，请稍后重试</string>
     <string name="person_marking_some_failed">部分照片合并失败，请稍后重试</string>
     <string name="person_marking_success">标记成功</string>
+    <string name="person_name_length_error">名字不能超过20个字</string>
     <string name="person_timeline_diff_running">正在努力获取照片，请稍候</string>
     <string name="person_timeline_empty">没有TA的照片</string>
-    <string name="person_unknown">TA是谁?</string>
+    <string name="person_unknown">添加名字</string>
     <string name="person_unknown_to_mark">TA是谁</string>
     <string name="personal_avatar">头像</string>
     <string name="personal_baidu_account">百度帐号</string>
@@ -7367,6 +7415,7 @@ progress: %d%%"</string>
     <string name="please_input_verify_code">请输入验证码</string>
     <string name="please_install_wx_app">亲，请安装微信APP后再来参与哟~</string>
     <string name="please_select_document_language">请选择文档语言</string>
+    <string name="please_select_files">请先选择文件</string>
     <string name="please_select_one_album">请选择至少一个相册</string>
     <string name="please_select_one_voice">请选择至少一个文件夹</string>
     <string name="please_select_translate_language">请选择翻译后的语言</string>
@@ -7668,7 +7717,7 @@ progress: %d%%"</string>
     <string name="quick_action_quit_share">退出共享</string>
     <string name="quick_action_reader_audio_doc">看文稿</string>
     <string name="quick_action_remove">移除</string>
-    <string name="quick_action_remove_tag">照片中没有%s</string>
+    <string name="quick_action_remove_tag">识别错误，移出照片</string>
     <string name="quick_action_rename">重命名</string>
     <string name="quick_action_report">举报</string>
     <string name="quick_action_resave">保存</string>
@@ -7937,7 +7986,7 @@ progress: %d%%"</string>
     <string name="relate_to_pc">关联电脑</string>
     <string name="relate_to_route">关联路由器</string>
     <string name="relate_to_tvbox">关联盒子或电视</string>
-    <string name="relation_desc">备注后方便快速查找</string>
+    <string name="relation_desc">点击设置与ta的关系</string>
     <string name="relation_desc2">TA和你是什么关系</string>
     <string name="relation_my_self">自己</string>
     <string name="relationship_with_baby">与宝宝的关系</string>
@@ -9055,7 +9104,7 @@ progress: %d%%"</string>
     <string name="share_period_simple_seven_day">7天</string>
     <string name="share_permissions">允许接收方下载/保存</string>
     <string name="share_pic">分享</string>
-    <string name="share_pmall_tips">复制这段内容后打开百度网盘APP，操作更方便哦。链接：</string>
+    <string name="share_pmall_tips">复制这段内容后打开百度网盘APP，操作更方便哦。</string>
     <string name="share_popup_toast">您已经选择了: %1$d:%1$s</string>
     <string name="share_poster">生成海报</string>
     <string name="share_privacy_link">正在创建链接</string>
@@ -9172,6 +9221,7 @@ progress: %d%%"</string>
     <string name="sharelink_error_delete">文档链接已失效~</string>
     <string name="sharelink_error_file_expired">"你来晚了，分享的文件已被
 取消，下次要早点哦~"</string>
+    <string name="sharelink_error_has_task">当前有其他保存任务正在进行，请稍后重试</string>
     <string name="sharelink_error_network">网络连接失败</string>
     <string name="sharelink_error_no_permission">无权限访问~</string>
     <string name="sharelink_invalid">分享链接已失效</string>
@@ -9192,6 +9242,7 @@ progress: %d%%"</string>
     <string name="signature_text_number">%d/40</string>
     <string name="signin_list_btn_after">已签</string>
     <string name="signin_list_btn_before">去签到</string>
+    <string name="similar_merge_title">Ta们都是同一个人吗？</string>
     <string name="similarity_toast">精选里已自动为您隐藏了相似图片</string>
     <string name="simple_share_weixin_quan">朋友圈</string>
     <string name="singkil_bind_dialog_btn_text">激活免流卡</string>
@@ -9561,8 +9612,8 @@ progress: %d%%"</string>
     <string name="subtitle_checkbtn">字幕</string>
     <string name="subtitle_close_view_txt">该视频字幕功能已关</string>
     <string name="subtitle_delete">删除成员</string>
-    <string name="subtitle_description">可识别当前文件夹中 srt 格式的字幕文件</string>
-    <string name="subtitle_description_full_search">可识别网盘中 srt 格式的字幕文件</string>
+    <string name="subtitle_description">可识别当前文件夹中 srt或ass 格式的字幕文件</string>
+    <string name="subtitle_description_full_search">可识别网盘中 srt或ass 格式的字幕文件</string>
     <string name="subtitle_downloading">字幕加载中…</string>
     <string name="subtitle_empty_view_txt">没有合适的字幕文件</string>
     <string name="subtitle_error_loading">加载字幕失败</string>
@@ -11010,6 +11061,9 @@ progress: %d%%"</string>
     <string name="ui_retry">重试</string>
     <string name="uk_inconsistent">请求账号与当前登录账号不一致，请切换账号重试</string>
     <string name="un_support_cancel_share_all">不支持全部取消分享</string>
+    <string name="unauthentic_auth_subtitle">额外获得50G极速空间</string>
+    <string name="unauthentic_auth_title">企业认证</string>
+    <string name="unauthentic_auth_url">https://mr.baidu.com/r/zqTsFG1Uty?from=na</string>
     <string name="unbound_desc">当前帐号未绑定手机号，存在安全风险，请先绑定手机号再进行操作。</string>
     <string name="unbound_title">你还没有绑定手机号</string>
     <string name="understand">知道了</string>
@@ -11120,8 +11174,10 @@ progress: %d%%"</string>
     <string name="unzip_password_error">密码错误，请重新输入</string>
     <string name="unzip_password_error_over">密码尝试过多，请稍后重试!</string>
     <string name="unzip_password_not_support_chinese">暂不支持中文密码解压</string>
+    <string name="unzip_select_to_here">解压到</string>
     <string name="unzip_show_password">显示密码</string>
     <string name="unzip_svip_call">尊贵的超级会员</string>
+    <string name="unzip_to_here">解压到此</string>
     <string name="unzip_unsupport_click">暂不支持分享动态里的压缩包内文件预览，尝试将压缩包保存到网盘后预览吧</string>
     <string name="unzip_vip_call">尊贵的会员</string>
     <string name="update_cover_failed">设置头像失败</string>
@@ -11252,6 +11308,7 @@ progress: %d%%"</string>
     <string name="user_advertising_settings">定向投放设置</string>
     <string name="user_agreement">百度网盘用户协议</string>
     <string name="user_agreement_youth">百度网盘青春版用户协议</string>
+    <string name="user_center_default_op_name">超级会员限时低价</string>
     <string name="user_center_member_page_entrance_member">会员中心</string>
     <string name="user_center_member_page_entrance_normal">去解锁</string>
     <string name="user_center_normal_content">解锁极速下载+视频倍速等特权</string>
@@ -11532,6 +11589,7 @@ progress: %d%%"</string>
     <string name="view_more_by_left_sliding">左滑查看更多</string>
     <string name="view_my_image">查看网盘中所有我的照片</string>
     <string name="view_personal_page">个人主页</string>
+    <string name="viewer_select_file_text">查看已选文件（%d）</string>
     <string name="vip_account">vip</string>
     <string name="vip_call">会员</string>
     <string name="vip_center">会员中心</string>
@@ -11789,7 +11847,7 @@ progress: %d%%"</string>
     <string name="wallet_bindcard_head_block_title">填写信息并支付</string>
     <string name="wallet_bindcard_selectcard_tip">选择支付银行卡</string>
     <string name="wallet_bindcard_usenewcard_tip">使用新银行卡</string>
-    <string name="wallet_camera_blank" translatable="false" />
+    <string name="wallet_camera_blank" />
     <string name="wallet_camera_error">无法打开摄像头，请在手机系统设置中开启访问摄像头权限后重试。</string>
     <string name="wallet_cancel">取消</string>
     <string name="wallet_cash_desk_discount_amount">优惠总额</string>
