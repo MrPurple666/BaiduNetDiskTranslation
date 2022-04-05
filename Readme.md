@@ -17,11 +17,13 @@
 
 Translate Baidu Net Disk for Windows, Android to Russian,English languages.
 
+<!-- 
 # Translation correction form
 
 If you find an error or inaccuracy in the translation, please fill out the form below.
 
-[Translation Correction Form][trcform]
+[Translation Correction Form][trcform] 
+-->
 
 # Download
 
