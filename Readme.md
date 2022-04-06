@@ -30,9 +30,9 @@ If you find an error or inaccuracy in the translation, please fill out the form 
 | Platform | Install                          |Version | Download                  |
 | -------- | -------------------------------- |--------| ------------------------- |
 | Windows  | [Replace Files][win-replace]     |7.13.0.21| [git][win_replace_files_git] 
-| Windows  | [Repack Edition][win-repack]     |7.13.0.21| [mega.nz][win_repack_files_meganz] / [mediafire][win_repack_files_mfire] / [mirror][win_repack_files_mirror]   |
-| Windows  | [Portable Edition][win-portable] |7.13.0.21| [mega.nz][win_portable_files_meganz] / [mediafire][win_portable_files_mfire] / [mirror][win_portable_files_mirror]|
-| Android  | Install                          |11.20.2 | [mega.nz][win_apk_files_meganz] / [mediafire][win_apk_files_mfire] / [mirror][win_apk_files_mirror]      |
+| Windows  | [Repack Edition][win-repack]     |7.13.0.21| [mediafire][win_repack_files_mfire] |
+| Windows  | [Portable Edition][win-portable] |7.13.0.21| [mediafire][win_portable_files_mfire]|
+| Android  | Install                          |11.20.2 |  [mediafire][win_apk_files_mfire]      |
 
 # Install Info
 
