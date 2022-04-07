@@ -59,7 +59,7 @@ The version portable does not require installation. Does not leave the tracks sy
 - ru-RU ;Русский
 - zh-ZH ;Chinese
 
-[![imageban](https://i6.imageban.ru/thumbs/2022.03.12/18259eb0b481ae6e525859987cbd4720.png)](https://imageban.ru/show/2022/03/12/18259eb0b481ae6e525859987cbd4720/png)
+[![imageban](https://i4.imageban.ru/thumbs/2022.04.07/f6d3a362dfe5e56f916efc9a9b32362e.gif)](https://imageban.ru/show/2022/04/07/f6d3a362dfe5e56f916efc9a9b32362e/gif)
 # Screen
 
 ## Windows Client
