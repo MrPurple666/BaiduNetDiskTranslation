@@ -20,9 +20,9 @@
 | Платформа | Установка                          |Версия  | Скачать                    |
 | --------- | ---------------------------------- |--------| -------------------------- |
 | Windows   | [Замена файлов][win-replace]       |7.13.0.21|  [git][win_replace_files_git] |
-| Windows   | [Установка репака][win-repack]    | 7.13.0.21|  [mega.nz][win_repack_files_meganz] / [mediafire][win_repack_files_mfire] / [mirror][win_repack_files_mirror]|
-| Windows   | [Портативная версия][win-portable] |7.13.0.21|  [mega.nz][win_portable_files_meganz] / [mediafire][win_portable_files_mfire] / [mirror][win_portable_files_mirror]|
-| Android   | Установить                         |11.19.2 |  [mega.nz][win_apk_files_meganz] / [mediafire][win_apk_files_mfire] / [mirror][win_apk_files_mirror]      |
+| Windows   | [Установка репака][win-repack]    | 7.13.0.21| [mediafire][win_repack_files_mfire] |
+| Windows   | [Портативная версия][win-portable] |7.13.0.21|  [mediafire][win_portable_files_mfire] |
+| Android   | Установить                         |11.19.2 |  [mediafire][win_apk_files_mfire]  |
 
 ## Замена файлов
 

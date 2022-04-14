@@ -17,20 +17,22 @@
 
 Translate Baidu Net Disk for Windows, Android to Russian,English languages.
 
+<!-- 
 # Translation correction form
 
 If you find an error or inaccuracy in the translation, please fill out the form below.
 
-[Translation Correction Form][trcform]
+[Translation Correction Form][trcform] 
+-->
 
 # Download
 
 | Platform | Install                          |Version | Download                  |
 | -------- | -------------------------------- |--------| ------------------------- |
 | Windows  | [Replace Files][win-replace]     |7.13.0.21| [git][win_replace_files_git] 
-| Windows  | [Repack Edition][win-repack]     |7.13.0.21| [mega.nz][win_repack_files_meganz] / [mediafire][win_repack_files_mfire] / [mirror][win_repack_files_mirror]   |
-| Windows  | [Portable Edition][win-portable] |7.13.0.21| [mega.nz][win_portable_files_meganz] / [mediafire][win_portable_files_mfire] / [mirror][win_portable_files_mirror]|
-| Android  | Install                          |11.20.2 | [mega.nz][win_apk_files_meganz] / [mediafire][win_apk_files_mfire] / [mirror][win_apk_files_mirror]      |
+| Windows  | [Repack Edition][win-repack]     |7.13.0.21| [mediafire][win_repack_files_mfire] |
+| Windows  | [Portable Edition][win-portable] |7.13.0.21| [mediafire][win_portable_files_mfire]|
+| Android  | Install                          |11.20.2 |  [mediafire][win_apk_files_mfire]      |
 
 # Install Info
 
@@ -57,7 +59,7 @@ The version portable does not require installation. Does not leave the tracks sy
 - ru-RU ;Русский
 - zh-ZH ;Chinese
 
-[![imageban](https://i6.imageban.ru/thumbs/2022.03.12/18259eb0b481ae6e525859987cbd4720.png)](https://imageban.ru/show/2022/03/12/18259eb0b481ae6e525859987cbd4720/png)
+[![imageban](https://i4.imageban.ru/thumbs/2022.04.07/f6d3a362dfe5e56f916efc9a9b32362e.gif)](https://imageban.ru/show/2022/04/07/f6d3a362dfe5e56f916efc9a9b32362e/gif)
 # Screen
 
 ## Windows Client
