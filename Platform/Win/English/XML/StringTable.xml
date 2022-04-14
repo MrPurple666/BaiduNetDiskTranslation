@@ -256,7 +256,7 @@
 
   <!-- 虚拟盘符-->
   <String id="IDS_VIRTUALFOLDER_NAME" value="Baidu Net Disk" />
-   <String id="IDS_DESKTOP_VIRTUALFOLDER_NAME" value="Workspace" />
+   <String id="IDS_DESKTOP_VIRTUALFOLDER_NAME" value="Baidu network disk synchronous space" />
   <String id="IDS_VIRTUALFOLDER_INFOTIP" value="Double-click to run Baidu Net Disk" />
 
   <!--文件类型面板-->

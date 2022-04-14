@@ -1128,7 +1128,17 @@
   <s id="2369">Clear only delete records, do not delete the file</s>
   <s id="2370">No longer prompt</s>
   <s id="2371">Confirm clear</s>
-
+  <s id="2372">watching</s>
+  <s id="2373">Recently watching videos are here.</s>
+  <s id="2374">all</s>
+  <s id="2375">Watch</s>
+  <s id="2376">Recent modules add "Positive View" function!</s>
+  <s id="2377">The video watching is here!</s>
+  <s id="2378">No recently watching video, go</s>
+  <s id="2379">Video page</s>
+  <s id="2380">Let's see</s>
+  <s id="2381">Only about 50 views records</s>
+  
   <!--状态栏-->
   <s id="2400">Management shortcut function entry</s>
   <s id="2401">Have selected%d items</s>
