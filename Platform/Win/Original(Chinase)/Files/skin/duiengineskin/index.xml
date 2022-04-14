@@ -263,6 +263,9 @@
 <resid type="IMGX" name="IDP_IMG_LOGIN_BTN_GETSMSDPASS" file="image\LoginDlg\btn_get_sms_password.png"/>
 <resid type="IMGX" name="IDP_IMG_LOGIN_PHONE" file="image\LoginDlg\phone.png"/>
 <resid type="IMGX" name="IDP_IMG_LOGIN_SHORTMESSAGE" file="image\LoginDlg\shortmessage.png"/>
+<resid type="IMGX" name="IDP_IMG_LOGIN_QRCODE_ERROR" file="image\LoginDlg\qr_login_error.png"/>
+<resid type="IMGX" name="IDP_IMG_LOGIN_QRCODE_LOGGING" file="image\LoginDlg\qr_logging.png"/>
+<resid type="IMGX" name="IDP_IMG_LOGIN_QRCODE_SCAN" file="image\LoginDlg\qr_scan.png"/>
 
 <!--便携式设备备份相关资源-->
 <resid type="IMGX" name="IDP_IMG_PDB_BTN_REG" file="image\PortableDeviceBackupDlg\btn_onekey_backup.png" />
@@ -1494,3 +1497,18 @@
 
 <!-- 端内诊断中心 -->
 <resid type="XML" name="IDR_DUI_AUTODIAGNOSISDLG" layer="1" file="xml\AutoDiagnosisDlg\AutoDiagnosisDlg.xml"/>
+
+<!--最近-正在看-->
+<resid type="XML" name="IDR_DUI_RECENTWATCHING_GUIDE_DLG" file="xml\MainPanel\NetdiskPanel\RecentPanel\RecentWatchingGuideDlg.xml"/>
+<resid type="IMGX" name="IDP_RECENTPANEL_VIDEOHISTORY_COLLAPSE" file="image\MainPanel\NetdiskPanel\RecentPanel\collapse.png"/>
+<resid type="IMGX" name="IDP_RECENTPANEL_VIDEOHISTORY_EXPAND" file="image\MainPanel\NetdiskPanel\RecentPanel\expand.png"/>
+<resid type="IMGX" name="IDP_RECENTPANEL_VIDEOHISTORY_VIEWMORE" file="image\MainPanel\NetdiskPanel\RecentPanel\video_viewmore.png"/>
+<resid type="IMGX" name="IDP_RECENTPANEL_VIDEOHISTORY_MANTLE" file="image\MainPanel\NetdiskPanel\RecentPanel\video_mantle.png"/>
+<resid type="IMGX" name="IDP_RECENTPANEL_VIDEOHISTORY_MANTLE_SELECT" file="image\MainPanel\NetdiskPanel\RecentPanel\video_mantle_select.png"/>
+<resid type="IMGX" name="IDP_RECENTPANEL_VIDEOHISTORY_MANTLE_HOVER" file="image\MainPanel\NetdiskPanel\RecentPanel\video_mantle_hover.png"/>
+<resid type="IMGX" name="IDP_RECENTPANEL_VIDEOHISTORY_GUIDE" file="image\MainPanel\NetdiskPanel\RecentPanel\recent_watching_guide.png"/>
+<resid type="IMGX" name="IDP_RECENTPANEL_VIDEOHISTORY_GUIDE_BG" file="image\MainPanel\NetdiskPanel\RecentPanel\recent_watching_guide_bg.png"/>
+<resid type="IMGX" name="IDP_RECENTPANEL_VIDEOHISTORY_EMPTY" file="image\MainPanel\NetdiskPanel\RecentPanel\video_empty.png"/>
+<resid type="IMGX" name="IDP_RECENTPANEL_VIDEOHISTORY_VIDEOPLAY_HOVER" file="image\MainPanel\NetdiskPanel\RecentPanel\video_play_hover.png"/>
+<resid type="IMGX" name="IDP_RECENTPANEL_VIDEOHISTORY_VIDEOPLAY_NORMAL" file="image\MainPanel\NetdiskPanel\RecentPanel\video_play_normal.png"/>
+<resid type="IMGX" name="IDP_RECENTPANEL_VIDEOHISTORY_CHECKBOX" file="image\MainPanel\NetdiskPanel\RecentPanel\video_checkbox.png"/>

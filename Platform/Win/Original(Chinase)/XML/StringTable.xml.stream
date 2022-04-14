@@ -252,7 +252,7 @@
 
   <!-- 虚拟盘符-->
   <String id="IDS_VIRTUALFOLDER_NAME" value="百度网盘" />
-  <String id="IDS_DESKTOP_VIRTUALFOLDER_NAME" value="同步空间" />
+  <String id="IDS_DESKTOP_VIRTUALFOLDER_NAME" value="百度网盘同步空间" />
   <String id="IDS_VIRTUALFOLDER_INFOTIP" value="双击运行百度网盘" />
 
   <!--文件类型面板-->

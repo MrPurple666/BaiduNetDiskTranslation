@@ -86,6 +86,9 @@
         <imgframe name="img_login_btn_getsmsdpass" src="IDP_IMG_LOGIN_BTN_GETSMSDPASS" subwidth="10" left="3" top="3" right="3" bottom="3"/>
         <imglst name="img_login_icon_phone" src="IDP_IMG_LOGIN_PHONE"/>
         <imglst name="img_login_icon_shortmessage" src="IDP_IMG_LOGIN_SHORTMESSAGE"/>
+        <imglst name="img_login_qrcode_cancel" src="IDP_IMG_LOGIN_QRCODE_ERROR"/>
+        <imglst name="img_login_qrcode_logging" src="IDP_IMG_LOGIN_QRCODE_LOGGING"/>
+        <imglst name="img_login_qrcode_scan" src="IDP_IMG_LOGIN_QRCODE_SCAN"/>
 
         <!--Logo皮肤定义-->
         <imgframe name="common_logo_main" src="IDP_COMMON_LOGO_MAIN" />
@@ -826,7 +829,7 @@
         <imgframe name="mainpanel_thumbview_trans_progress_bg" src="IDP_MAINPANEL_THUMBVIEW_TRANS_PROGRESS_BG" left="4" top="2" right="4" bottom="2"/>
         <imgframe name="mainpanel_thumbview_trans_progress_fg" src="IDP_MAINPANEL_THUMBVIEW_TRANS_PROGRESS_FG" left="4" top="2" right="4" bottom="2"/>
         <imgframe name="mainpanel_frame_select_bg" src="IDP_MAINPANEL_FRAMESELECT_BKG" left="3" top="3" right="3" bottom="3"/>
-        <imglst name="mainpanel_thumbview_checkbox" src="IDP_MAINPANEL_THUMBVIEW_CHECKBOX" subwidth="16"/>
+        <imglst name="mainpanel_thumbview_checkbox" src="IDP_MAINPANEL_THUMBVIEW_CHECKBOX" subwidth="15"/>
         <imglst name="mainpanel_guidepanel_zip" src="IDP_MAINPANEL_GUIDEPANEL_ZIP"/>
         <imglst name="mainpanel_guidepanel_doc" src="IDP_MAINPANEL_GUIDEPANEL_DOC"/>
         <imglst name="mainpanel_guidepanel_pdftoword" src="IDP_MAINPANEL_GUIDEPANEL_PDFTOWORD"/>
@@ -1278,6 +1281,20 @@
         <imgframe name="skin_quickupload_guide_open_btn" src="IDP_QUICKUPLOAD_GUIDE_OPEN_BTN_BG" subwidth="98" left="30" right="30"/>
         
         <imgframe name="workspace_receive_na_file_unused" src="IDP_WORKSPACE_RECEIVE_NA_FILE_UNUSED"/>
+
+        <!-- 最近-正在看 -->
+         <imgframe name="recentpanel_videohistory_collapse" src="IDP_RECENTPANEL_VIDEOHISTORY_COLLAPSE" subwidth="56"/>
+         <imgframe name="recentpanel_videohistory_expand" src="IDP_RECENTPANEL_VIDEOHISTORY_EXPAND" subwidth="56"/>
+         <imgframe name="recentpanel_videohistory_viewmore" src="IDP_RECENTPANEL_VIDEOHISTORY_VIEWMORE" subwidth="48"/>
+         <imgframe name="recentpanel_videohistory_mantle" src="IDP_RECENTPANEL_VIDEOHISTORY_MANTLE"/>
+         <imgframe name="recentpanel_videohistory_mantle_select" src="IDP_RECENTPANEL_VIDEOHISTORY_MANTLE_SELECT"/>
+         <imgframe name="recentpanel_videohistory_mantle_hover" src="IDP_RECENTPANEL_VIDEOHISTORY_MANTLE_HOVER"/>
+         <imgframe name="recentpanel_videohistory_guide_img" src="IDP_RECENTPANEL_VIDEOHISTORY_GUIDE"/>
+         <imgframe name="recentpanel_videohistory_guide_bg" src="IDP_RECENTPANEL_VIDEOHISTORY_GUIDE_BG"/>
+         <imgframe name="recentpanel_videohistory_empty" src="IDP_RECENTPANEL_VIDEOHISTORY_EMPTY"/>
+         <imgframe name="recentpanel_videohistory_videoplay_hover" src="IDP_RECENTPANEL_VIDEOHISTORY_VIDEOPLAY_HOVER"/>
+         <imgframe name="recentpanel_videohistory_videoplay_normal" src="IDP_RECENTPANEL_VIDEOHISTORY_VIDEOPLAY_NORMAL"/>
+         <imglst name="recentpanel_videohistory_checkbox" src="IDP_RECENTPANEL_VIDEOHISTORY_CHECKBOX" subwidth="15"/>
     </skins>
 
     <style>

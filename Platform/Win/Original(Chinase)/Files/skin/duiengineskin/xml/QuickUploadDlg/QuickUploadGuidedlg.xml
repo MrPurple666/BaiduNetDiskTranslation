@@ -8,6 +8,6 @@
       <imgbtn name="btn_later" pos="54,-60,@98,@36" font="0200:微软雅黑" skin="skin_quickupload_guide_later_btn" crtext="06A7FF" cursor="arrow">%str5107%</imgbtn>
       <imgbtn name="btn_open" pos="168,-60,@98,@36" font="0200:微软雅黑" skin="skin_quickupload_guide_open_btn" crtext="FFFFFF" cursor="arrow">%str5108%</imgbtn>
       </dlg>
-      </dlg>
+    </dlg>
   </body>
 </layer>
