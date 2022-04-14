@@ -1,6 +1,6 @@
 <layer name="EnterpriseSpaceCardWnd" width="0" height="0" appwin="0" toolwindow="1" ncRect="5,5,5,5" translucent="1">
   <body>
-    <dlg name="dlg_enterprise_space" pos="0,0,-0,-0" skin="usercard_notvip_bg">
+    <!-- <dlg name="dlg_enterprise_space" pos="0,0,-0,-0" skin="usercard_notvip_bg">
       <listboxex name="list_enterprise_space" pos="14,34,-15,-14" itemheight="70" virtual="1" sbenable="2" show="1">
         <template>
           <img name="enterprise_bkg" pos="0,0,-0,-0" skin="enterprise_item_hover" show="0"/>
@@ -14,6 +14,6 @@
           <hr pos="0,-1,-0,-0" crbg="f3f3f3"/>
         </template>
       </listboxex>
-    </dlg>
+    </dlg> -->
   </body>
 </layer>

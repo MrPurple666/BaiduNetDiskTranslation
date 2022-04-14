@@ -77,6 +77,12 @@
   <s id="231">Your account has been signed in to other computers and forgot to bring it</s>
   <s id="232">The power of the mobile phone is too low. It may be shut down and disconnected at any time</s>
   <s id="233">The phone has been with a local disconnect </s>
+  <s id="244">Please refresh the retry</s>
+  <s id="245">Login failed</s>
+  <s id="246">Please confirm the login on the mobile phone</s>
+  <s id="247">Scan success</s>
+  <s id="248">please wait patiently</s>
+  <s id="249">logging in</s>
   <!--登录相关文案-->
   <s id="250">Close</s>
   <s id="251">Minimize</s>

@@ -21,9 +21,10 @@
     <hr name="hr_line_cloud" pos="0,0,@3,-0" crbg="06a8ff" show="0"/>
   </dlg>
   <!--广告面板-->
-  <dlg name="dlg_ad" pos="|-9999,-9999,@-9999,@-9999" show="0">
+
+  <!-- <dlg name="dlg_ad" pos="|-9999,-9999,@-9999,@-9999" show="0"> -->
     <!--与AdPanel.xml内容一致-->
-    <dlg name="AdPanel" pos="-9999,-9999,-9999,-9999" >
+    <!-- <dlg name="AdPanel" pos="-9999,-9999,-9999,-9999" >
       <gifplayer name="ad_img_bkg" pos="-9999,-9999,-9999,-9999" bulltimer="1"></gifplayer>
       <imgbtn name="ad_img_btn" pos="-9999,-9999,-9999,-9999" ></imgbtn>
       <imgbtn name="ad_close_btn" pos="-9999,-9999,-9999,-9999" cursor="arrow" tip="关闭" show="0"></imgbtn>
@@ -34,5 +35,6 @@
       </dlg>
     </dlg>
   </dlg>
+   -->
   <hr pos="-1,0,-0,-0" size="1" crbg="F1F1F1"/>
 </dlg>

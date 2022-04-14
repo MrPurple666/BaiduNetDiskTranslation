@@ -10,3 +10,4 @@
 Platform/Win/*/Files/skin/default/MainFrame/LoginDlg/*.*
 Platform/Win/*/Files/skin/default/MainFrame/UserGuideDlg/*.*
 .directory
+.vscode/settings.json

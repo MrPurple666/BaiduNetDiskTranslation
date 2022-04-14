@@ -1,5 +1,5 @@
 <layer name="MemberCerterCardWnd" width="0" height="0" appwin="0" toolwindow="1" ncRect="5,5,5,5" translucent="1" nomaxsize="1">
-  <body> 
+  <!-- <body> 
     <dlg name="dlg_member_center" pos="0,0,-0,-0" skin="member_center_card_bgk" >   
       <dlg name="dlg_member_privilege" pos="0,0,160,-0">  
         <text name="text_privilege_list_title" pos="40,46" font="0204:微软雅黑" crtext="000000"></text>
@@ -22,5 +22,5 @@
         <text name="text_qr_code_bottom2" pos="0,-26,-0,-6" align="center" multilines="0" font="0000:微软雅黑" crtext="B09679"></text>
       </dlg>          
     </dlg>
-  </body>
+  </body> -->
 </layer>
