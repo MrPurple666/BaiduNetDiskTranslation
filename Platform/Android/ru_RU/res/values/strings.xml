@@ -1398,7 +1398,6 @@
     <string name="book_type_epub">EPUB</string>
     <string name="book_type_txt">TXT</string>
     <string name="bookmark_delete_confirm">Подтверждение удаления закладки?</string>
-
     <string name="both_unupload_upload">Все(%1$d)</string>
     <string name="bottom_bar_action_add_people">Добавить VIPа</string>
     <string name="bottom_bar_action_add_to_netdisk">Сохранить на сетевом диске</string>
@@ -1456,7 +1455,6 @@
     <string name="bt_save_failed_task_not_found">Задача удалена</string>
     <string name="bt_save_failed_title">Ограничение</string>
     <string name="btn_change_account">Переход на учетную запись Baidu App</string>
-
     <string name="btn_ding_manager_title_bar_refresh">Обновить</string>
     <string name="btn_not_change_account">Просмотр с помощью учетной записи, вошедшей в систему</string>
     <string name="business_audio_speed_up_guide_title">Будьте супер-участника, вы можете наслаждаться аудио несколькими воспроизведениями</string>
@@ -1516,9 +1514,8 @@
     <string name="business_main_loading_error">Сбой загрузки, проверьте сеть</string>
     <string name="business_platform_download_mutil">Скачать одновременно:</string>
     <string name="business_platform_download_mutil_cnt">%d个</string>
-
     <string name="business_platform_svip_guide_desc">Станьте SVip и распакуйте сжатый пакет внутри %s</string>
- <string name="business_reload">Перезагрузить</string>
+    <string name="business_reload">Перезагрузить</string>
     <string name="business_select_download_cnt">Выберите количество загрузок одновременно</string>
     <string name="business_toast_no_network_message">Ошибка сети, проверьте настройки и повторите попытку</string>
     <string name="business_transfer_file_remind">Может использоваться при экспорте большого количества файлов</string>
@@ -1531,7 +1528,6 @@
     <string name="business_video_to_audio_switch_video">Переключите режим видео</string>
     <string name="business_video_to_audio_title_des">В то же время существует 18 привилегий, таких как умножения, скорость нагрузки и т.Д.</string>
     <string name="business_video_to_audio_trail_over_time_title">вперед %1$d Минут в конце,%2$s SVIP видео не ограничено</string>
-
     <string name="button_buy_vip">Не открывать</string>
     <string name="button_cancel">Не открывать</string>
     <string name="button_downloading">Загруженный：%1$s</string>
@@ -1878,7 +1874,6 @@
     <string name="character_counter_content_description">Characters entered %1$d of %2$d</string>
     <string name="character_counter_overflowed_content_description">Character limit exceeded %1$d of %2$d</string>
     <string name="character_counter_pattern">%1$d/%2$d</string>
-
     <string name="check_by_click">Нажмите, чтобы посмотреть</string>
     <string name="check_dlna_introduction_btn_text">Просмотр хищного учебника</string>
     <string name="check_get_app_list_permission">"Может быть, это потому, что Baidu Cloud не получает соответствующих привилегий.Пожалуйста, зайдите в раздел 'Настройки', чтобы убедиться, что у вас есть права на чтение списка установленных приложений."</string>
@@ -2041,7 +2036,6 @@
     <string name="click_free_traffic">Укажите мне свободноите мне свободно</string>
     <string name="click_retry">Нажмите, чтобы попробоватьите, чтобы попробовать</string>
     <string name="click_share_screenshot">Нажмите Я разлучаюите Я разлучаю</string>
-
     <string name="click_update">Нажмите, чтобы обновитьите, чтобы обновить</string>
     <string name="clickable_toast_check_text">Проверятьоверять</string>
     <string name="client_version_too_low">(Версия клиента слишком низкая)лиента слишком низкая)</string>
@@ -2580,7 +2574,6 @@
     <string name="current_download_path">"Текущее местоположение скачивания:\"%s"</string>
     <string name="current_download_path_single_line">Текущее местоположение скачивания:%s</string>
     <string name="current_problem">Что сейчас проблема?</string>
-
     <string name="custom_lable">Пользовательская этикетка</string>
     <string name="custom_share_default_tip">Может установить любой срок действия в течение 365 дней</string>
     <string name="custom_share_tip">Эта ссылка будет недействительными после более чем в течение периода действия и не может продолжать доступ к доступу</string>
@@ -2627,7 +2620,6 @@
     <string name="delete_cancel_button">Назад</string>
     <string name="delete_confirm_msg">Вы уверены, что хотите удалить?</string>
     <string name="delete_dialog_title">подтвердите удаление?</string>
-
     <string name="delete_failed">Не удалось удалить, повторите попытку позже</string>
     <string name="delete_file_dialog_confirm">Вы уверены, что хотите удалить выбранный файл?</string>
     <string name="delete_file_dialog_title">Удалить файлы</string>
@@ -2637,7 +2629,6 @@
     <string name="delete_from_blacklist">Удалить из ЧС</string>
     <string name="delete_from_blacklist_failed">Не удалось удалить из ЧС</string>
     <string name="delete_from_blacklist_succeed">Пользователь %s удален из ЧС</string>
-
     <string name="delete_local_file_fail">Не удалось удалить</string>
     <string name="delete_local_file_seccuss">Удалить успешно</string>
     <string name="delete_number">удалять(%d)</string>
@@ -2804,7 +2795,6 @@
     <string name="didnt_open_auto_backup_tip_btn">Открой сейчас</string>
     <string name="didnt_open_auto_backup_tip_desc">Регулярное рез.коп., контакты не потеряны</string>
     <string name="didnt_open_auto_backup_tip_title">Автоматическая резервная копия</string>
-
     <string name="dir_head_share_tips">Посетители могут просматривать обновления в общей папки синхронно</string>
     <string name="dir_info">Сведения о папке</string>
     <string name="dir_info_guide_text">Пригласить три человека, выиграть призы</string>
@@ -3052,7 +3042,6 @@
     <string name="download_noenough_space">Ваше хранение недостаточно</string>
     <string name="download_offline">Автономная загрузка</string>
     <string name="download_pause">Пауза загрузки</string>
-
     <string name="download_qr_code_card_exist">Файл уже существует</string>
     <string name="download_qr_code_card_failed">Сохранить не удалось, повторите его позже</string>
     <string name="download_qr_code_card_success">Подвеска, отправьте фотографии своим друзьям</string>
@@ -3060,7 +3049,6 @@
     <string name="download_story_string">читать</string>
     <string name="download_top_bar_edit">редактировать</string>
     <string name="download_unknown_title">&lt;Без имени></string>
-
     <string name="downloading">загрузка (%1$s）</string>
     <string name="downloading_x">загрузка...%1$s</string>
     <string name="duration_too_long_error">Когда видео длинное, он не поддерживается онлайн-анализом.Пожалуйста, скачайте и просмотрите его.</string>
@@ -3354,7 +3342,6 @@
     <string name="ebpay_wallet_continue_pay">Продолжить</string>
     <string name="ebpay_year_month">Месяц / год (например, 05/20 вход 0520)</string>
     <string name="edit">Редактирование</string>
-
     <string name="edit_more_doc_count">Ждать%sФайл</string>
     <string name="edit_photo_tags_no_select">Если этот флажок не установлен, фотографии будут классифицироваться в другие категории</string>
     <string name="edit_photo_tags_select">Выберите категорию, к которой относится фотография</string>
@@ -3365,7 +3352,7 @@
     <string name="edit_playlist_name_hint">До 12 китайских символов</string>
     <string name="edit_playlist_name_less_limit">Введите хотя бы один или два символа</string>
     <string name="edit_playlist_name_over_limit">Слишком длинное имя, не более %d символов</string>
- <string name="edit_settings_count">%1$d/%2$d</string>
+    <string name="edit_settings_count">%1$d/%2$d</string>
     <string name="edit_txt_less_word_message">Не менее %1$d, но не более %2$d символов</string>
     <string name="edit_txt_max_word_message">Невозможно ввести больше</string>
     <string name="edittext_wraper_clean">Прозрачный</string>
@@ -3400,7 +3387,6 @@
     <string name="enable_share_directory">Сделать общей папкой</string>
     <string name="ensure_to_select_image_as_cover">Подтверждение фото</string>
     <string name="enter_dir_failed">Не удалось войти в папку</string>
-
     <string name="enter_probationary_activity_button_title">получить это прямо сейчас</string>
     <string name="enterprise_link_invalid">истекший</string>
     <string name="enterprise_no_tickets">Все скачать купоны были потреблены</string>
@@ -3794,7 +3780,6 @@
     <string name="flash_screen_countdown_skip">Пропустить %s</string>
     <string name="flash_screen_jump_default_text">Нажми для деталей</string>
     <string name="flash_screen_skip">Пропустить</string>
-
     <string name="float_advertise_countdown_with_day">%1$dнебо%2$s:%3$s:%4$s</string>
     <string name="float_advertise_countdown_with_day_without_time">%1$d天</string>
     <string name="float_advertise_countdown_without_day">%1$s:%2$s:%3$s</string>
@@ -4196,7 +4181,6 @@
     <string name="hope_receive_messages">Вы хотите получитать уведомления о:</string>
     <string name="host_market_calculate_error">Выбор баланса не удался, попробуйте позже позже</string>
     <string name="host_not_authority">Под текущим доменом имени нет права на регулировать концевую способность</string>
-
     <string name="hot_word_notification_text">Baidu Search Hotspot в режиме реального времени</string>
     <string name="how_to_keep_pc_online">Почему вы не можете видеть связанный компьютер в списке?</string>
     <string name="how_to_keep_pc_online_des">Список только показывает онлайн-устройство, пожалуйста, убедитесь:</string>
@@ -4216,10 +4200,8 @@
     <string name="hybrid_novel_resource_request_fail">Получить ресурс не удалось, пожалуйста, подождите</string>
     <string name="hybrid_vip_order_result_description_operating_new">Успех оплаты, обработка заказа/nПожалуйста, проверьте это позже.</string>
     <string name="icon_content_description">Dialog Icon</string>
-
     <string name="identify_pan_link">Определить сетевой диск вне цепь</string>
     <string name="ignore">пренебрегать</string>
-
     <string name="image_count">%dоткрытым</string>
     <string name="image_detail_guide_text">Сдвиньте вверх для просмотра изображений Дополнительная информация</string>
     <string name="image_file_size">размер:%s</string>
@@ -4232,7 +4214,6 @@
     <string name="image_reference_folder">Посмотреть, где каталог</string>
     <string name="image_reference_location">Сфотографировали близлежащие фото</string>
     <string name="image_resolution">Размер: %s</string>
-
     <string name="image_search_box_hint_text">Поиск людей, локации, вещей</string>
     <string name="image_search_box_hint_text_without_person">Расположение поиска, вещи</string>
     <string name="image_search_diff_not_finish">"Подготовка классификации изображений\"Пожалуйста, ищите позже"</string>
@@ -4246,7 +4227,7 @@
     <string name="image_search_title">Поиск изображений</string>
     <string name="image_searching">Поиск...</string>
     <string name="image_size" formatted="false">%s %d*%d</string>
-      <string name="image_timeline_empty">Загрузите фотографии, чтобы сохранить вас в хорошие моменты</string>
+    <string name="image_timeline_empty">Загрузите фотографии, чтобы сохранить вас в хорошие моменты</string>
     <string name="imagepager_bt_aiapps">Редактирование</string>
     <string name="imagepager_bt_album">Присоединиться к альбому</string>
     <string name="imagepager_bt_delete">Удалить</string>
@@ -4307,7 +4288,7 @@
     <string name="inbox_list_item_validatetime">Длительность: осталось %s дней</string>
     <string name="inbox_title">Входящие</string>
     <string name="indicator_count">%1$d/%2$d</string>
-       <string name="info_install">Для просмотра этого видео не нужен видеоплеер</string>
+    <string name="info_install">Для просмотра этого видео не нужен видеоплеер</string>
     <string name="info_update">Для просмотра видео необходимо обновить видеоплеер</string>
     <string name="init_failed">Initialization failure has been opened for you with third party App</string>
     <string name="input_confirm_code">Пожалуйста, введите код подтверждения</string>
@@ -4564,7 +4545,6 @@
     <string name="long_picture_upload_space_full">Недостаточно пространства, пожалуйста, попробуйте еще раз</string>
     <string name="long_video">Просмотр полных работ</string>
     <string name="look_for_friend">Подробнее</string>
-
     <string name="low_quality">Гладкий; плавный</string>
     <string name="m3ufile_download_dialog_content_low_quality">Приоритет гладкий скачать</string>
     <string name="m3ufile_download_dialog_content_origin_quality">Оригинальная картинка</string>
@@ -4744,7 +4724,7 @@
     <string name="multi_select">Множественный выбор</string>
     <string name="multi_window_tips">Текущий интерфейс может отображать ненормальные в режиме мокроты</string>
     <string name="multi_window_tips_close">Пожалуйста, сократите его в полноэкранный режим, а затем используйте эту функцию.</string>
-       <string name="mute_video_play_error">Указание данных не удалось, пожалуйста, подождите момент</string>
+    <string name="mute_video_play_error">Указание данных не удалось, пожалуйста, подождите момент</string>
     <string name="my_app_data">Мои данные приложения</string>
     <string name="my_asset_list">Мой актив</string>
     <string name="my_card_package_activity_title">Мой карточный пакет</string>
@@ -4848,10 +4828,8 @@
     <string name="net_alert_content">Передача этого файла в среде без WiFi требует трафика, продолжать загружать</string>
     <string name="net_alert_title">Напоминание о движении</string>
     <string name="net_error">Сеть не заставляет, пожалуйста, попробуйте позже позже</string>
-
     <string name="net_error_retry_bt">Нажмите, чтобы попробовать</string>
     <string name="net_error_retry_later">Ошибка сети, повторите попытку позже</string>
-
     <string name="net_wrong">Нет соединения,проверьте сеть и попробуйте снова</string>
     <string name="netdisk">Baidu сетевой диск</string>
     <string name="netdisk_battery_privilege_content">Для того, чтобы дать вам лучший автоматический опыт рез.коп.,Теперь подать заявку на ваш игнор оптимизации батареи,Чтобы ваш альбом может продолжать создать резервную копию</string>
@@ -4879,9 +4857,9 @@
     <string name="network_exception_message">Нет соединения,проверьте сеть</string>
     <string name="network_no_connected">Сеть не подключена, пожалуйста, проверьте настройки сети</string>
     <string name="network_no_internet_connected">Невозможно получить доступ к Интернету, пожалуйста, попробуйте позже позже</string>
-       <string name="network_tomography_done">Сеть слишком переполнена, пожалуйста, попробуйте позже позже</string>
+    <string name="network_tomography_done">Сеть слишком переполнена, пожалуйста, попробуйте позже позже</string>
     <string name="network_tomography_hints">Обнаружение сети</string>
-      <string name="network_weak_and_hint">Плохое соединение？</string>
+    <string name="network_weak_and_hint">Плохое соединение？</string>
     <string name="network_weak_and_report">Отзыв</string>
     <string name="network_weak_and_report_end">Отзыв получен, будем работать над оптимизацией сервиса</string>
     <string name="network_weak_and_report_end_blank"> </string>
@@ -6162,7 +6140,7 @@
     <string name="popup_unzip_confirmbutton_text">Использовать сейчас</string>
     <string name="ppt_end_page_tip">Слайд-шоу заканчивается, продолжайте слайд, чтобы выйти</string>
     <string name="ppt_play_time" formatted="false">%s / %s</string>
-       <string name="pre_page">Предыдущая страница</string>
+    <string name="pre_page">Предыдущая страница</string>
     <string name="press_speed_no_trial_tip">Длинный Нажмите скорость для функции оплаты, наслаждайтесь умножителем PLAY</string>
     <string name="press_speed_trial_tip">Попробуйте играть с несколькими воспроизведениями, наслаждайтесь умножителем Play</string>
     <string name="preview_alert_content">После того, как большой файл загружен, предварительный просмотр более гладкий.</string>
@@ -6340,10 +6318,8 @@
     <string name="qr_schema_swan_invalid_title">QR-код ошибки</string>
     <string name="qr_unlock">Разблокировка кода сканирования</string>
     <string name="qr_unlockling">Разблокировать</string>
-
     <string name="qrcode_error_toast">Создать QR-код не удался, попробуйте еще раз</string>
     <string name="qrcode_invite">QR-код приглашения</string>
-
     <string name="qrcode_wifi_share">Привет, я делюсь моим Wi-Fi Hotspot от подметания, WiFi：%1$s，пароль:%2$s，Шифрование:%3$s></string>
     <string name="quality_change_doing">Переключение режима воспроизведения, пожалуйста, попробуйте позже позже</string>
     <string name="quality_change_error">Выключатель очистки не удался, попробуйте позже позже</string>
@@ -7119,7 +7095,7 @@
     <string name="saving_offset_failed">Не удалось обновить</string>
     <string name="say_hi">Привет</string>
     <string name="scan_add_friend_group">Уберите друзей/группу.</string>
-      <string name="scan_join_group_already_in">Добро пожаловать в групповую беседу.</string>
+    <string name="scan_join_group_already_in">Добро пожаловать в групповую беседу.</string>
     <string name="scan_join_group_cant_join_other_reason">Не удалось добавить группу</string>
     <string name="scan_join_group_closed">Группа выключила функцию группового кода</string>
     <string name="scan_join_group_link_over_time">Ссылка недействительна</string>
@@ -7129,7 +7105,7 @@
     <string name="scan_join_group_signature_wrong">Ошибка подписи</string>
     <string name="scan_qr">Сканировать</string>
     <string name="scan_qr_login">Скан для входа</string>
-       <string name="scanning">Сканирование</string>
+    <string name="scanning">Сканирование</string>
     <string name="scanning_bt_file_quit_or__not">Идет сканирование, выйти?</string>
     <string name="scanning_local_bt_file">Поиск торрентов</string>
     <string name="screenshot_save_success">Сохранено в местном альбоме</string>
@@ -7139,7 +7115,6 @@
     <string name="sdcard_busy">SD-карта занята</string>
     <string name="sdcard_not_exist">SD-карта не существует</string>
     <string name="sdcard_unmounted">SD-карта не доступна</string>
-
     <string name="search_aladdin_result_title">Изображение (%d)</string>
     <string name="search_box_hint_text">Найти файл</string>
     <string name="search_box_hint_text_in_novel">поиск</string>
@@ -7322,7 +7297,7 @@
     <string name="setnk_modify_frequent_limit">Вы можете изменить свой ник только один раз в 90 дней</string>
     <string name="setting_album_auto_backup">Настройки</string>
     <string name="setting_bind_singkil">Привилегии без трафика</string>
-      <string name="setting_edit_bottom_bar_dual">Показывать расширенные функции</string>
+    <string name="setting_edit_bottom_bar_dual">Показывать расширенные функции</string>
     <string name="setting_edit_bottom_bar_dual_tip">Вы можете установить отображения функций в расширенных настройках.</string>
     <string name="setting_full_filename">Полные имена файлов</string>
     <string name="setting_group_dialog_title">Введите имя группы</string>
@@ -7644,7 +7619,6 @@
     <string name="skip_bound">Пропустить</string>
     <string name="slow_download_cause">%1$s Привести к загрузке медленно</string>
     <string name="slow_download_test">Скачать медленнее?Нажмите, чтобы узнать причину</string>
-
     <string name="smart_device_entrance">Интеллектуальное оборудование</string>
     <string name="smartx_my_device">Мое устройство</string>
     <string name="smartx_my_recommend_device">Рекомендуемое оборудование</string>
@@ -8095,7 +8069,7 @@
     <string name="swanapp_web_url_param_to_long">Параметры страницы слишком длинные, а домашняя страница Weburl была скопирована.</string>
     <string name="swanapp_write_to_clipborad_fail">Репликация адреса пути не удалась, попробуйте еще раз</string>
     <string name="swanapp_write_to_clipborad_succ">Адрес пути был успешно скопирован</string>
-    <string name="swangame_dashboard_download_failed">Скачать файл приборной панели не удался</string>
+    <string name="swageame_dashboard_download_failed.">Скачать файл приборной панели не удался</string>
     <string name="swangame_dashboard_download_success">Скачать файлы приборных панелей успешно, включите переключатель в модуле отладки</string>
     <string name="swangame_desktop_guide_default_hint">Одним щелчком мыши на рабочий стол</string>
     <string name="swangame_game_ad_apk_open_fail">Открытый провал</string>
@@ -8290,7 +8264,6 @@
     <string name="timeline_type_upload">От загрузки</string>
     <string name="timeline_zoom_guide_text">Двойное масштабирование пальцев может переключать размер представления</string>
     <string name="timeout">Операция Timeout, пожалуйста, попробуйте еще раз</string>
-
     <string name="timneline_share_confirm_dialog">Продолжить</string>
     <string name="tip_fifth">• Передача не поддерживается в день года.</string>
     <string name="tip_first">• Продолжительность участника сетевого диска поддерживается только в течение 30 дней, и пользователи напрямую загружаются, введя номера мобильных телефонов по внешним каналам (например, приложение Taobao, приложение China Merchants, App, Unicom и т.Д.).</string>
@@ -8304,12 +8277,9 @@
     <string name="tips">Подсказки</string>
     <string name="tips_debug_set">Тестирование сети</string>
     <string name="tips_new">Новый</string>
-
     <string name="title_account_explain">Описание</string>
-
     <string name="title_add_button">Добавить</string>
     <string name="title_aiapps_center">Апплет Плаза</string>
-
     <string name="title_delete_play_list">Удалить</string>
     <string name="title_friend_plus_without_label">%d+</string>
     <string name="title_friend_without_label">%d</string>
@@ -9247,7 +9217,6 @@
     <string name="update_version_failed_mount_sdcard">Не удалось обновить, попробуйте подключить SD-карту</string>
     <string name="update_video_mark_fail">Сохранить тег не удалось</string>
     <string name="update_video_mark_success">Сохранить тег</string>
-
     <string name="upgrade_apk_invalid">Не удалось скачать, повторите попытку</string>
     <string name="upload">Загрузить</string>
     <string name="upload_backup_name">Рез.Коп.（Остаток %s）</string>
@@ -9871,10 +9840,9 @@
     <string name="wallet_fp_wrong_number">Этот номер не поддерживается</string>
     <string name="wallet_hce_do_auth">Перейти на настоящее имя</string>
     <string name="wallet_hce_pay_failed">Платеж не прошел</string>
-
     <string name="wallet_home_feedback">Обратная связь</string>
     <string name="wallet_home_find_more">Подробнее</string>
-   <string name="wallet_juhe_channel_more">Подробнее</string>
+    <string name="wallet_juhe_channel_more">Подробнее</string>
     <string name="wallet_langbridge_url_outer">Страница страницы %1$s предоставлять</string>
     <string name="wallet_lightapp_close">Закрыть</string>
     <string name="wallet_lightapp_contact_no_contact">Контакт не прочитан</string>
@@ -10608,7 +10576,6 @@
     <string name="backup_finish_without_video">Уважаемые пользователи вернулись за вас.&lt;font color=#03081A>&lt;b>%1$d&lt;/b>&lt;/font>Чжан картина.Открытые SVIP, наслаждайтесь оригинальным цветом рез.коп. видео и т.Д.Дополнительные права на деньги</string>
     <string name="backup_guide_title">Откройте рез.коп. фотографии, сохранить телефонное пространство</string>
     <string name="audio_play_sort_error">Сортировать неудачу, пожалуйста, попробуйте еще раз ~</string>
-
     <string name="audio_goto_collection_list">Смотри сейчас</string>
     <string name="audio_getinfo_message">Приобретение аудио информации</string>
     <string name="all_tab_name">Общий</string>
@@ -10680,7 +10647,7 @@
     <string name="enterprise_contact_manager">Пожалуйста, свяжитесь с администратором, чтобы приобрести функцию разблокировки товара</string>
     <string name="enterprise_create">Новое строительство</string>
     <string name="enterprise_file_shared_tips">Космические файлы предприятия являются общими файлами</string>
-      <string name="enterprise_free_space">Космос предприятия%1$s/%2$s，</string>
+    <string name="enterprise_free_space">Космос предприятия%1$s/%2$s，</string>
     <string name="enterprise_manager_no_title">Нет вступления</string>
     <string name="enterprise_no_title">Нет информации о работе</string>
     <string name="enterprise_pdf_save_success_tips_content">Вы можете просматривать файлы напрямую</string>
@@ -10704,7 +10671,7 @@
     <string name="home_agreement_functional_txt">Описание функции</string>
     <string name="home_agreement_functional_explain_txt">Чтобы защитить безопасность учетной записи пользователей, предоставьте лучший сервис, прежде чем предоставлять некоторые продукты и услуги, используя функцию проверки сердечников человека для аутентификации идентификации идентификации пользователя, используемой для проверки того, что оператор является самим владельцем учетной записи, через людей Оценка результатов распознавания лица обеспечивает последующие продукты или услуги для пользователей.Эта функция запрашивает авторитетный источник данных для определения подтверждения информации.</string>
     <string name="home_agreement_functional_explain_old_txt">Эта функция запрашивает авторитетный источник данных для определения подтверждения информации.</string>
-       <string name="got_it">хорошо</string>
+    <string name="got_it">хорошо</string>
     <string name="get_more_space">Развернуть сейчас</string>
     <string name="from_enterprise_staff_share">Поделиться от деловых сотрудников</string>
     <string name="get_file_name_errro">Получить имя файла не удалось</string>
@@ -10745,16 +10712,12 @@
     <string name="error_audio_advertisement_failed">Сервер ненормальный, пожалуйста, попробуйте еще раз</string>
     <string name="error_audio_file_invalid">Исключение анализа файлов</string>
     <string name="error_audio_file_not_exit">Файл ненормальный, пожалуйста, проверьте,</string>
-
     <string name="add_download_privilege_tip">Добавить скорость Скачать ваучер (клиент можно скачать)</string>
     <string name="add_enterprise_file">Предприятие версии документа</string>
-
     <string name="all_image">Все фотографии</string>
     <string name="and_word_one"> с участием </string>
     <string name="and_word_two">а также </string>
-
     <string name="app_name_with_work_space">Сохранить в синхронное пространство</string>
-
     <string name="audio_convert_doc_loading_time_tip">Преобразование звука в документ</string>
     <string name="audio_doc_clear_cache">Очистка аудио кэша</string>
     <string name="audio_doc_clear_cache_tip">После очиски аудио документ будет не доступен</string>
@@ -10790,7 +10753,7 @@
     <string name="backup_center_right_botton">Больше настроек</string>
     <string name="backup_state_already_open">Открытый фон автоматическая резервная копия</string>
     <string name="backup_state_close_to_open">Нет резервного копирования мобильного телефона, пожалуйста, откройте первые</string>
-       <string name="business_card_download">Скачать визитную карточку</string>
+    <string name="business_card_download">Скачать визитную карточку</string>
     <string name="business_card_option_divider">|</string>
     <string name="business_card_share">Поделиться визитной карточкой</string>
     <string name="business_card_share_dialog_title">Совместное использование визитной карточки</string>
@@ -10800,7 +10763,6 @@
     <string name="business_president_guide_no_space_blue_title">Хранение больше</string>
     <string name="business_president_guide_no_space_gold_subtitle">До 16 т</string>
     <string name="business_president_guide_no_space_gold_title">Наслаждайтесь 5Т большим пространством</string>
-
     <string name="category_enterprise_all_file">Все файлы</string>
     <string name="category_enterprise_person_file">Личные документы</string>
     <string name="category_enterprise_share_file">Общие документы</string>
@@ -10812,11 +10774,8 @@
     <string name="collection_set">Составной</string>
     <string name="command_invite">Групповое приглашение</string>
     <string name="command_join_group_closed">Группа имеет функцию закрытого группового порта</string>
-
     <string name="confirm_select_share">Определить обмен</string>
-
     <string name="current_space_capacity">Текущая пробела</string>
-
     <string name="default_self_starting_guide_1">Найти "Baidu Network Disk - автоматическое управление или настройки энергопотребления”􏰹􏱻􏱼</string>
     <string name="delete_alert_confirm">Синхронный космический корзину</string>
     <string name="delete_alert_svip_guide_text">Станьте сроком расширения в супер-участниках до 60 дней</string>
@@ -10836,12 +10795,10 @@
     <string name="device_empty_text_tips">В данный момент нет зарегистрированных окон онлайн-устройства</string>
     <string name="dialog_share_get_red_bag">Обмен файлами красные конверты</string>
     <string name="dialog_share_get_red_bag_subhead">Заместитель звания субтитры субтитры</string>
-
     <string name="doc_label_append_fid">%1$d-%2$s-%3$s</string>
     <string name="doc_tips_recent_read_history">Был расположен в последней позиции просмотра</string>
     <string name="download_deviceoverrun_tips">Тот же аккаунт поддерживается%dУстройство загружается одновременно. Пожалуйста, завершите другие устройства после загрузки, подождите 5 минут, чтобы попробовать еще раз.</string>
     <string name="download_failed_with_errno">Ошибка загрузки（%d）</string>
-
     <string name="enterprise_card_certification_time_out">Сертификация предприятия истекло, визитная карточка недоступна, пожалуйста, свяжитесь с администратором для сертификации</string>
     <string name="enterprise_card_certification_time_out_manager">Сертификация предприятия истекло, визитная карточка недоступна</string>
     <string name="enterprise_card_no_certification">Корпоративная сертификация не выполняется, визитная карточка недоступна, пожалуйста, свяжитесь с администратором для сертификации</string>
@@ -10895,7 +10852,6 @@
     <string name="expand_capacity">Пространство расширения</string>
     <string name="file_store_in">Пожалуйста, сначала храните этот файл на сетевом диске.~</string>
     <string name="filemanager_add_running_desc">Добавлять...</string>
-
     <string name="free_traffic_alert_tips">Бесплатное движение</string>
     <string name="get_filemates_error">Получить информацию о файлах не удалась</string>
     <string name="go_to_set">Установленный</string>
@@ -10913,7 +10869,6 @@
     <string name="group_qr_code_text">Поделиться этим, простым и счастливым</string>
     <string name="guide_to_locate_file">Нажмите, чтобы просмотреть папку, в которой звук расположен ~</string>
     <string name="history_version">Историческая версия</string>
-
     <string name="image_camera">камера</string>
     <string name="image_screen_shots">Скриншот</string>
     <string name="import_file_fail">Неудачно репликация документов, пожалуйста, попробуйте позже позже</string>
@@ -10931,9 +10886,7 @@
     <string name="imprint_privacy_data_video_count">видео ****</string>
     <string name="index_login_bottom_label">Войдите в систему немедленно</string>
     <string name="index_login_bottom_name">Войти быстро открыть интеллектуальную финансовую жизнь</string>
-
     <string name="join_group_ower_leave">Группа заставляет общий человек покинул группу и не может присоединиться</string>
-
     <string name="lbspay_pay_VALID">VALID</string>
     <string name="lbspay_pay_id_url_isnull">При подписании ID или подписание адреса запроса пусто</string>
     <string name="lbspay_pay_no_instll_wx">Нет Wechat не установлен</string>
@@ -10951,7 +10904,6 @@
     <string name="life_coupon_color_5">\#ffffff</string>
     <string name="life_coupon_color_6">\#ff000000</string>
     <string name="life_tab">титульная страница</string>
-
     <string name="max_share_count_text">Максимальная поддержка, чтобы поделиться 500 файлов</string>
     <string name="member_setting_invitation_text">Группа была закрытой группой членов приглашения,Отключить QR-код/Пароль в группу</string>
     <string name="mine_work_space_text">Мое синхронное пространство</string>
@@ -10997,7 +10949,6 @@
     <string name="notification_task_type_backup">Резервное копирование</string>
     <string name="notification_task_type_download">скачать</string>
     <string name="notification_task_type_upload">Загрузить</string>
-
     <string name="open_member_invitation">Пожалуйста, откройте приглашение участника и используйте эту функцию</string>
     <string name="owner_setting_invitation_text">Закрыто приглашение участника группы отключит QR-код / ​​пароль в группу</string>
     <string name="p2p_group_qrcode_num_only">Члены группы:%1$d</string>
@@ -11005,14 +10956,12 @@
     <string name="period_share_title">Срок годности</string>
     <string name="permanently_valid">Постоянный</string>
     <string name="personal_info_buy_enterprise_status">Бизнес пакет</string>
-
     <string name="player_tab_audio">Аудио</string>
     <string name="player_tab_doc">Рукопись</string>
     <string name="post_file_to_pc_name">Быстрый проход помощник</string>
     <string name="post_file_to_pc_tips1">Также поддерживает отправку файлов на</string>
     <string name="post_file_to_pc_tips2">Оборудование онлайн Windows</string>
     <string name="post_file_to_work_space_name">Быстро перейти к синхронному пространству</string>
-
     <string name="projection_main_view_progress_text">00:00/00:00</string>
     <string name="projection_resolution_text">NEW</string>
     <string name="prologue_activity_not_found">Не найден</string>
@@ -11046,13 +10995,10 @@ Baidu Network Disk лучше из-за вас"</string>
     <string name="recent_want">Просмотр недавних</string>
     <string name="red_bag_join">Присоединиться</string>
     <string name="remove_share_file_fail">Отмена обмена не удалось</string>
-
     <string name="reward_video_unlock_video_speed">См. Реклама разблокировки умножительности игры (%1$d/%2$d)</string>
     <string name="rim_face_liveness_pages_tips_string">Согласно положениям, чтобы проверить свою информацию о реальном наименовании и обеспечить безопасность вашей транзакции, нам необходимо собрать свою функцию распознавания лица, чтобы предоставить полномочию правительства власти или другим правовым агентствам для сравнения и получения результатов проверки для завершения проверки реального имени.</string>
-
     <string name="select_space">Выбор</string>
     <string name="self_starting_guide_toast">Перейти не удалось, пожалуйста, перейдите на страницу настроек мобильных телефонов, чтобы открыть 􏱴􏳟􏳠􏲦􏰌􏰪􏰹􏱻􏱼</string>
-
     <string name="settings_product_recommand">Настройки рекомендации продукта</string>
     <string name="settings_rec_chars_in_pictures">Интеллектуальная идентификация слов на картинке</string>
     <string name="share_cancel_success">Отменить успех</string>
@@ -11271,9 +11217,7 @@ Baidu Network Disk лучше из-за вас"</string>
     <string name="unlock_wulei_more_voice">Разблокировать брата У Лей больше голосового контента</string>
     <string name="upload_failed_file_size_max_limit">Размер файла за пределами верхнего предела членства</string>
     <string name="upload_work_space_location_text">Загрузить в Sync Space:</string>
-
     <string name="use_work_space_text">Используйте синхронное пространство</string>
-
     <string name="video_speed_up_normal_trying">Испытать многократное воспроизведение</string>
     <string name="wallet_base_new_bind_card_check_pwd_tip">Что такое пароль оплаты??</string>
     <string name="wallet_fp_token_null">Проверка отпечатков пальцев не удалось, чтобы защитить свою платежную безопасность, на этот раз вы используете свой пароль оплаты, последующей обработке для восстановления информации о отпечатке пальцев в настройках платежа.</string>
@@ -11754,7 +11698,6 @@ Baidu Network Disk лучше из-за вас"</string>
     <string name="nad_geolocation_permissions_prompt_toast_allowed">Этот сайт может получить доступ к вашему местоположению.</string>
     <string name="nad_geolocation_permissions_prompt_toast_disallowed">Этот сайт не может получить доступ к вашему местоположению.</string>
     <string name="nad_http_authentication_cancel">Отмена</string>
-   
     <string name="nad_http_authentication_password">пароль</string>
     <string name="nad_http_authentication_username">Имя</string>
     <string name="nad_input_file_no_permission_note_text">Следующие последующие операции необходимо использовать для использования разрешений на микрофон или права камер, пожалуйста, откройте в «Настройках»</string>
@@ -12129,4 +12072,559 @@ Baidu Network Disk лучше из-за вас"</string>
     <string name="youth_filelist_empty_text">Здесь пусто</string>
     <string name="youth_transfer_complete">завершенный(%1$s)</string>
     <string name="youth_uploading">Чрезвычайно загрузка(%1$s)</string>
+    <string name="accessories">стикер</string>
+    <string name="add">украсить</string>
+    <string name="add_and_upload_guide">Загрузить руководящие полосы</string>
+    <string name="aiapp_menu_global_notice_private">Уведомление/私信</string>
+    <string name="aiapp_menu_my_applet">Мой апплет</string>
+    <string name="aiapps_anti_addiction_dialog_auth">Проверять</string>
+    <string name="aiapps_anti_addiction_dialog_message">Согласно требованиям национальной политики, вы должны заполнить систему реального имени для продолжения игры, пожалуйста, нажмите, чтобы получить сертификаты.</string>
+    <string name="aiapps_anti_addiction_dialog_message_new">Уважаемые игроки, по соответствующим национальным правилам, несовершеннолетние могут быть только 20, суббота, воскресенье и юридические праздники 20:00-21:00登录游戏，请合理安排游戏时间，注意休息哦~</string>
+    <string name="aiapps_anti_addiction_dialog_ok">Я знаю</string>
+    <string name="aiapps_anti_addiction_dialog_quick">Выйдите из игры</string>
+    <string name="aiapps_anti_addiction_dialog_title">Анти-зависимость</string>
+    <string name="aiapps_anti_addiction_dialog_user_title">дорогой пользователь</string>
+    <string name="aiapps_anti_addiction_success">Действительно назвать</string>
+    <string name="aiapps_bear_info_about">Связанный медведь лапа</string>
+    <string name="aiapps_check_action_text">Проверять</string>
+    <string name="aiapps_confirm_text">Я знаю</string>
+    <string name="aiapps_content_notification1">Скачать Установленные ООН, как играть в игры?</string>
+    <string name="aiapps_debug_download_url_empty">Скачать адрес пустой</string>
+    <string name="aiapps_debug_emit_host_env">Небольшая программа предварительного просмотра среды</string>
+    <string name="aiapps_debug_emit_replace_dependency">Принудительное использование отладки Dependency</string>
+    <string name="aiapps_debug_emit_replace_dynamic_lib">Принудительное использование отладки DynamicLib</string>
+    <string name="aiapps_debug_game_core_package_error">В деловом пакете нет игры Core</string>
+    <string name="aiapps_debug_game_core_params_empty">Параметры параметров пусты</string>
+    <string name="aiapps_debug_game_core_url_empty">Скачать адрес пустой</string>
+    <string name="aiapps_debug_game_extension_download_failed">Скачать неисправность GameextensionCore</string>
+    <string name="aiapps_debug_game_extension_download_success">Скачайте GameExtensionCore успешно, пожалуйста, включите переключатель в модуле отладки</string>
+    <string name="aiapps_debug_no_dependency">Нет отладки Файл зависимости</string>
+    <string name="aiapps_debug_no_dynamic_lib">Нет отладки динамический Lib file.</string>
+    <string name="aiapps_debug_open_performance_testing">Открытый тест производительности</string>
+    <string name="aiapps_debug_open_stability_collector">Включить тест устойчивости</string>
+    <string name="aiapps_debug_params_cb_empty">Параметры CB пусты</string>
+    <string name="aiapps_debug_params_empty">Параметры параметров пусты</string>
+    <string name="aiapps_debug_params_url_empty">Параметр URL пуст</string>
+    <string name="aiapps_debug_web_mode_debug_is_open">Откройте веб-страницу</string>
+    <string name="aiapps_finish_job">Миссия выполнена</string>
+    <string name="aiapps_follow_action_text">Сфокусируйся на</string>
+    <string name="aiapps_game_button_downloading">%1$s</string>
+    <string name="aiapps_game_community_share_fail">%sПоделиться не удалось</string>
+    <string name="aiapps_game_community_share_succ">Поделился%sИгра Официальное сообщество</string>
+    <string name="aiapps_game_confirm_text">Понятно</string>
+    <string name="aiapps_game_dashboard_download_failed">Скачать файл приборной панели не удался</string>
+    <string name="aiapps_game_dashboard_download_success">Скачать файлы приборных панелей успешно, включите переключатель в модуле отладки</string>
+    <string name="aiapps_game_desktop_guide_add">Добавить к</string>
+    <string name="aiapps_game_download_button">Скачайте немедленно</string>
+    <string name="aiapps_game_download_button_continue">Продолжить скачать</string>
+    <string name="aiapps_game_download_button_failed_retry">Нажмите, чтобы попробовать</string>
+    <string name="aiapps_game_download_button_install">Установить</string>
+    <string name="aiapps_game_download_button_open">Открытым</string>
+    <string name="aiapps_game_download_button_pause">Пауза</string>
+    <string name="aiapps_game_inspector_connection_error_hint">[Совет по ошибкам]: Пожалуйста, проверьте статус сети, вам нужен мобильный телефон и компьютер в одной и той же локальной сети, выключите процесс игры и повторно воздайте код.</string>
+    <string name="aiapps_game_inspector_connection_state_close">не началось</string>
+    <string name="aiapps_game_inspector_connection_state_connecting">соединение</string>
+    <string name="aiapps_game_inspector_connection_state_error">ошибка соединения</string>
+    <string name="aiapps_game_inspector_connection_state_open">связанный</string>
+    <string name="aiapps_game_inspector_info_button">Статус отладки</string>
+    <string name="aiapps_game_inspector_info_label_addr">[Инструмент разработчика]：</string>
+    <string name="aiapps_game_inspector_info_label_connection_state">[Состояние подключения инструмента разработчика]：</string>
+    <string name="aiapps_game_inspector_info_label_pause_at_start_set">[Будь то установлено «подвеска в программе»]：</string>
+    <string name="aiapps_game_inspector_info_label_program_state">[Статус работы программы]：</string>
+    <string name="aiapps_game_inspector_program_state_pause_at_breakpoint">Пауза на точке останова</string>
+    <string name="aiapps_game_inspector_program_state_pause_at_start">Подвеска в начале программы</string>
+    <string name="aiapps_game_inspector_program_state_running">Беги в работе</string>
+    <string name="aiapps_game_inspector_text_no">нет</string>
+    <string name="aiapps_game_inspector_text_yes">Да</string>
+    <string name="aiapps_game_loadv8_so_failed">Не удалось загрузить, пожалуйста, попробуйте позже</string>
+    <string name="aiapps_game_reload_dialog_content">Закройте игру, очистите вам данные в этой маленькой игре и перезапустите игру.</string>
+    <string name="aiapps_game_reload_dialog_title">Перезапустите игру</string>
+    <string name="aiapps_game_togamecenter_text">Перейти к игровому залу</string>
+    <string name="aiapps_gamenow_confirm">подтверждать</string>
+    <string name="aiapps_gamenow_not_sure">Позвольте мне подуматься снова</string>
+    <string name="aiapps_leave_now">Это будет уходить сейчас?</string>
+    <string name="aiapps_loading">Загрузка ...</string>
+    <string name="aiapps_obtain_reward">Вы можете получить больше наград.~</string>
+    <string name="aiapps_play_awhile">Играть на некоторое время</string>
+    <string name="aiapps_server_request_error">Сервер неверный, пожалуйста, попробуйте позже позже</string>
+    <string name="aiapps_swan_js_version">Swanjs Информация</string>
+    <string name="aiapps_tip_open_app">Открыть приложение</string>
+    <string name="aiapps_title_notification1">《%1$s》Скачал, нажмите, чтобы установить>></string>
+    <string name="aiapps_title_notification2">%1$dИгра скачала, нажмите, чтобы установить>></string>
+    <string name="aiapps_yes">подтверждать</string>
+    <string name="ali_pay">Платить с Ali-Pay</string>
+    <string name="alipay_result_tiitle">Alipay SDK возвращает результат оплаты:</string>
+    <string name="all_select_file_num">выбранный%dФайл</string>
+    <string name="all_select_member_num">выбранный%dЧлен</string>
+    <string name="authentic_auth_subtitle">Просмотр или изменение информации о аутентификации</string>
+    <string name="authentic_auth_title">Моя сертификация</string>
+    <string name="authentic_auth_url">https://pan.baidu.com/disk/cert#/web/submit?from=na</string>
+    <string name="autobeauty">Одна-кнопка красота</string>
+    <string name="baifubao_pay_result_title">Space SDK возвращает результаты оплаты:</string>
+    <string name="banner_ad_tip">Текущая ставка рекорда рекламы слишком низкая, вызывая внесение объявления, чтобы не могли вспомнить.Этот приглашение типа просмотра отображается только в версии разработки игры, для разработчиков, которые не могут вспомнить рекламу, когда они играют в стиле баннера.</string>
+    <string name="blurBG">Тупой</string>
+    <string name="blur_by_circle">Округлый</string>
+    <string name="blur_by_line">Линейный размытие</string>
+    <string name="blur_size">размер</string>
+    <string name="boobs_enlarge">Грудь</string>
+    <string name="boobs_reset">Перезагрузить</string>
+    <string name="bottom_korean">Чудовой рынок</string>
+    <string name="bright">яркость</string>
+    <string name="buy_consult">Запрос на покупку</string>
+    <string name="camera_next">Следующий шаг</string>
+    <string name="camera_size_title_1">Маленькая картинка</string>
+    <string name="camera_size_title_2">стандартный</string>
+    <string name="camera_size_title_3">Большая картина</string>
+    <string name="camera_size_title_4">HD</string>
+    <string name="campaign_material_not_used">Вам необходимо использовать указанный материал наклейки, чтобы сохранить изображение для участия в событии, пойти с ним.</string>
+    <string name="campaign_material_to_use">Идти с</string>
+    <string name="change_file_permissions">Редактировать разрешение</string>
+    <string name="child_file_permissions_all_change">Подпапки будут модифицированы синхронно</string>
+    <string name="chinapay_pay_result_title">UnionPay SDK возвращает результат оплаты:</string>
+    <string name="chuan_yue">Крест</string>
+    <string name="commission">Плата за плату:%s</string>
+    <string name="compare">В сравнении</string>
+    <string name="conf_is_home_recommand">true</string>
+    <string name="conf_is_open_root_install">false</string>
+    <string name="conf_is_popup_recommend">true</string>
+    <string name="conf_is_show_fee_tips">false</string>
+    <string name="confirm_merge">Подтвердите слияние (%d）</string>
+    <string name="confirm_merge_default">Подтвердите слияние</string>
+    <string name="contrast">Контрастность</string>
+    <string name="correct_tel">Пожалуйста, введите правильный номер телефона</string>
+    <string name="cosmesis">Красота</string>
+    <string name="create_order">Создать информацию о заказе</string>
+    <string name="crop">Обрезать</string>
+    <string name="crop_go_on">Продолжить урожай</string>
+    <string name="crop_preview">Превью</string>
+    <string name="crop_range_toast">Картина слишком мала.,Change one~</string>
+    <string name="crop_reset">Перезагрузить</string>
+    <string name="crop_scale">Пропорционально</string>
+    <string name="crop_scale_16_9">16:9</string>
+    <string name="crop_scale_1_1">1:1</string>
+    <string name="crop_scale_1_2">1:2</string>
+    <string name="crop_scale_2_1">2:1</string>
+    <string name="crop_scale_2_3">2:3</string>
+    <string name="crop_scale_3_2">3:2</string>
+    <string name="crop_scale_3_4">3:4</string>
+    <string name="crop_scale_4_3">4:3</string>
+    <string name="crop_scale_x_x">x:x</string>
+    <string name="dan_se_zi">Монохромный</string>
+    <string name="danya">Элегантный</string>
+    <string name="double_finger_move_tips">Двойные пальцы движущиеся фотографии</string>
+    <string name="download_fail_file_no_permissions">Нет операции разрешений(%d)</string>
+    <string name="download_fail_file_no_permissions_no_code">Нет операции разрешений</string>
+    <string name="du_shi">Город</string>
+    <string name="edit_pk_entrance">Попробуйте еще раз</string>
+    <string name="effect">Специальные эффекты</string>
+    <string name="effect_meun_art">Искусство</string>
+    <string name="effect_meun_jingdian">классика</string>
+    <string name="effect_meun_renxiang">Портрет</string>
+    <string name="effect_meun_scene">сцена</string>
+    <string name="effect_remover">Исценок восстановления</string>
+    <string name="effect_remover_label">Щетка</string>
+    <string name="effect_shui_mo">Чернила</string>
+    <string name="effect_xian_jian">Меч</string>
+    <string name="effect_xin_hai_cheng">мультфильм</string>
+    <string name="emoji_save_folder_name">Альбом Wink</string>
+    <string name="enlarge_eye">большие глаза</string>
+    <string name="eraser">Резинка</string>
+    <string name="eye_lightup">Яркий</string>
+    <string name="eyeenlarge">Глаза Увеличить</string>
+    <string name="feed_ad_countdown_tips_text">%1$sСекунды введите пол</string>
+    <string name="feed_ad_vertical_video_detail_command_btn_text">смотрите подробности</string>
+    <string name="fen_nen">Розовый</string>
+    <string name="file_owner_permissions_can_not_change">Некоторые файлы принадлежат этому участнику, разрешения не могут быть изменены</string>
+    <string name="files_permissions">Пакетное разрешение</string>
+    <string name="filter">Фильтр</string>
+    <string name="found_similar_person">Тестируйте вас с похожими символами</string>
+    <string name="frame_jigsaw">фоторамка</string>
+    <string name="fu_gu">Ретро</string>
+    <string name="func_name_autobeauty">GlobalAutoBeautyEffect</string>
+    <string name="func_name_betterskin">GlobalBetterSkinEffect</string>
+    <string name="func_name_blurBG">GlobalBlurEffect</string>
+    <string name="func_name_boobs_enlarge">PartialBoobsEnlargeEffect</string>
+    <string name="func_name_crop">CropEffect</string>
+    <string name="func_name_decoration_bubble">AddingBubbleEffect</string>
+    <string name="func_name_effect_chuan_yue">ChuanYue</string>
+    <string name="func_name_effect_fen_nen">FenNen</string>
+    <string name="func_name_effect_hdr">HDR</string>
+    <string name="func_name_effect_hua_bu">HuaBu</string>
+    <string name="func_name_effect_meng_huan">MengHuan</string>
+    <string name="func_name_effect_nuan_cha">NuanCha</string>
+    <string name="func_name_effect_remover">PartialRemoverEffect</string>
+    <string name="func_name_effect_shui_mo">ShuiMo</string>
+    <string name="func_name_effect_su_miao">SuMiao</string>
+    <string name="func_name_effect_unsharp">GlobalUnsharpEffect</string>
+    <string name="func_name_effect_wei_mei">WeiMei</string>
+    <string name="func_name_effect_wu_yuemeigui">WuYueMeiGui</string>
+    <string name="func_name_effect_xian_huo">XianHuo</string>
+    <string name="func_name_effect_xian_jian">XianJian</string>
+    <string name="func_name_effect_xiang_bin">XiangBin</string>
+    <string name="func_name_effect_zheng_pian">ZhengPian</string>
+    <string name="func_name_effect_zi_ran">ZiRan</string>
+    <string name="func_name_filter">FilterEffect</string>
+    <string name="func_name_largereye">PartialEyeEnlargeEffect</string>
+    <string name="func_name_lightupeye">PartialEyeLightupEffect</string>
+    <string name="func_name_long_leg">LongLegEffect</string>
+    <string name="func_name_mosaic">MosaicEffect</string>
+    <string name="func_name_partialwhite">PartialSkinWhiteEffect</string>
+    <string name="func_name_redeye">PartialRedEyeRemoveEffect</string>
+    <string name="func_name_rotate">OneKeyRotateEffect</string>
+    <string name="func_name_scrawl">ScrawlEffect</string>
+    <string name="func_name_shape">PartialShapeEffect</string>
+    <string name="func_name_slim">PartialThinEffect</string>
+    <string name="func_name_smile">GlobalSmileEffect</string>
+    <string name="func_name_smooth">PartialSkinSmoothEffect</string>
+    <string name="func_name_teethwhite">PartialTeethWhiteEffect</string>
+    <string name="func_name_tone">GlobalToneEffect</string>
+    <string name="func_name_tone_bright">GlobalToneEffectBright</string>
+    <string name="func_name_tone_contrast">GlobalToneEffectContrast</string>
+    <string name="func_name_tone_saturation">GlobalToneEffectSaturation</string>
+    <string name="func_name_water_reflection">GlobalWaterReflectionEffect</string>
+    <string name="get_channel_fail">Получить канал оплаты не удалось >>></string>
+    <string name="go_to_backgoroud">Baidu Network Disk ввел фоновый запуск</string>
+    <string name="guang_yin">время</string>
+    <string name="hdr">HDR</string>
+    <string name="hei_bai">Черное и белое</string>
+    <string name="history_aiapp_tag">бета-версия</string>
+    <string name="hua_bu">холст</string>
+    <string name="huabei_pay">Слухи</string>
+    <string name="i_crop_free">бесплатно</string>
+    <string name="i_crop_reversal">Подбросить</string>
+    <string name="i_crop_rotation">Вращаться</string>
+    <string name="if_save_net_cancel">Отменено ли это в альбом Baidu?</string>
+    <string name="image_edit_file_not_exist">файл не существует</string>
+    <string name="image_edit_file_size_over_limit">Этот файл слишком велик, вы не поддерживаете редактирование.</string>
+    <string name="image_edit_input_hint">Пожалуйста, введите текст</string>
+    <string name="image_edit_load_fail">Загрузка изображения не удалась</string>
+    <string name="image_edit_loading_awaiting">Пожалуйста подождите…</string>
+    <string name="image_edit_more_effect_str">передовой</string>
+    <string name="image_edit_over_max_input_size">Введите до 100 слов</string>
+    <string name="image_edit_param_error">Исключение параметра файла</string>
+    <string name="image_edit_save_fail">Сохранение изображения не удалось</string>
+    <string name="image_edit_save_success">Картина была сохранена как копия</string>
+    <string name="image_edit_save_success_guide">Сохранено на вашу фотографию, нажмите, чтобы просмотреть></string>
+    <string name="image_edit_save_success_guide_suffix">Нажмите, чтобы просмотреть></string>
+    <string name="image_edit_unsupported_image_type">Этот формат файла не поддерживается</string>
+    <string name="info_get">Получили вашу информацию</string>
+    <string name="initial_text">Нажмите Редактировать текст</string>
+    <string name="input_name">Пожалуйста, введите Ваше имя</string>
+    <string name="input_tel">Пожалуйста, введите свой телефон</string>
+    <string name="installment_total">Сумма рассрочки：￥%s</string>
+    <string name="jing_ling">Эльф</string>
+    <string name="ka_fei">кофе</string>
+    <string name="keep_personal_info">Оставьте свою контактную информацию, наш профессиональный консультант свяжется с вами, предоставляя вам 1-1 услуг</string>
+    <string name="key_error">Файл материала на SD-карте обнаружен, вам нужно повторно загрузить его в использование</string>
+    <string name="lan_diao">Синий тон</string>
+    <string name="language_new">zh</string>
+    <string name="liu_nian">время мимолетности</string>
+    <string name="load_pic_failed">Невозможно загрузить картинки</string>
+    <string name="local_accessory">Базовые украшения</string>
+    <string name="lomo">LOMO</string>
+    <string name="long_leg">Красивая нога</string>
+    <string name="long_leg_limit_toast">Длина фотографии превышает максимальное значение, которое можно обрабатывать, и функция не может быть введена.~</string>
+    <string name="lv_ye_xian_zong">Зеленая дикая фея</string>
+    <string name="makeup">Макияж, мириться</string>
+    <string name="manager_permissions_can_not_change">Управляемый, без модификации</string>
+    <string name="material_download">скачать</string>
+    <string name="material_jigsaw_frame">Рамка</string>
+    <string name="material_more">Более</string>
+    <string name="mei_bai">Отбеливание</string>
+    <string name="meng_huan">мечтать</string>
+    <string name="merge_confirm">слияние</string>
+    <string name="merge_desc">Не будет разделен после объединения</string>
+    <string name="merge_failed">Персонаж сливает неудачу!</string>
+    <string name="merge_person">Слияние</string>
+    <string name="merge_person_edit_name_hint">Поддержите китайский и английский, массивы и эмоджи</string>
+    <string name="merge_right_now">Одностороннее слияние</string>
+    <string name="merge_running">Персонаж комбинированный ...</string>
+    <string name="merge_success">Персонаж успешно в сочетании!</string>
+    <string name="merge_title">Это подтверждается тем же человеком?</string>
+    <string name="mi_huan_xing_kong">璀璨 梦.</string>
+    <string name="ming_liang">Яркий</string>
+    <string name="modify_person_avtar">Изменить аватар символа</string>
+    <string name="mosaic">Мозаика</string>
+    <string name="mosaic_share_detail">Может ли мозаика играть?Вы действительно будете играть в вашем городе!</string>
+    <string name="myshare_auto_fill_password_dialog_cancel_text">Отмена</string>
+    <string name="myshare_auto_fill_password_dialog_confirm_text">подтверждать</string>
+    <string name="myshare_auto_fill_password_dialog_content">После открытия посетителей не нужно вводить код экстракции, вы можете напрямую просмотреть общие файлы</string>
+    <string name="myshare_auto_fill_password_dialog_title">Откроется ли «Экстракт автоматического пакета»</string>
+    <string name="myshare_link_auto_pwd_code">"Связь:%1$s?pwd=%2$s 
+Код добычи:%2$s"</string>
+    <string name="myshare_link_pwd_code">"Связь:%1$s 
+Код добычи:%2$s"</string>
+    <string name="nad_http_authentication_login">Авторизоваться</string>
+    <string name="ni_hong">Неон</string>
+    <string name="no_meterial_added">Пожалуйста, выберите добавленное украшение</string>
+    <string name="normal_manager">администратор</string>
+    <string name="nuancha">Теплый чай</string>
+    <string name="nuomi_pay">Оплата размера</string>
+    <string name="open_channel_list">Другие способы оплаты</string>
+    <string name="operate_confirm">Пожалуйста, сделайте операцию красоты</string>
+    <string name="order_info_error">Информация о заказе неверна</string>
+    <string name="output_info">Представить консультацию</string>
+    <string name="pay_fail_please_tran_again">Оплата не удалась, пожалуйста, попробуйте еще раз</string>
+    <string name="pay_first_interface_fail">Оплата интерфейса первого уровня возвращает аномальность >>></string>
+    <string name="pay_second_interface_fail">Оплата вторичный интерфейс возвращает аномальность >>></string>
+    <string name="paying_4_no_pwd">Небольшая свободная вычет</string>
+    <string name="pd1">Пожалуйста подождите...</string>
+    <string name="pd2">Этот эффект работает</string>
+    <string name="permissions_setting_text">Настройки разрешений</string>
+    <string name="person_edit_name_title">Пожалуйста, добавьте имя</string>
+    <string name="person_name_length_error">Имя не может превышать 20 слов</string>
+    <string name="picks_accessory">Тематическая стикер</string>
+    <string name="picks_frame">Рамка</string>
+    <string name="picks_jigsaw">головоломка</string>
+    <string name="picks_mosaic">Мозаика</string>
+    <string name="picks_niubility">Большой кусок</string>
+    <string name="picks_scrawl">Граффити</string>
+    <string name="picks_text_bubble">Писать пузырь</string>
+    <string name="place_do_mosaic">Пожалуйста, сделайте операцию мозаики первым~</string>
+    <string name="please_select_files">Пожалуйста, сначала выберите файл.</string>
+    <string name="point_enter_bottom_hint">Фон продолжает мигрировать</string>
+    <string name="poly_error_tips">Опыт, пожалуйста, попробуйте снова позже</string>
+    <string name="qing_xin">Свежий</string>
+    <string name="quick_pay_result_title">Cloud Flash SDK возвращает результат оплаты:</string>
+    <string name="redeyeremove">красный глаз</string>
+    <string name="remover_guide_txt">Подать заявку на удаление водяных знаков</string>
+    <string name="resizing">загрузка</string>
+    <string name="ri_chu">Восход солнца</string>
+    <string name="rlflip">Подбросить</string>
+    <string name="rotate_left">Против часовой стрелки</string>
+    <string name="rotate_right">По часовой стрелке</string>
+    <string name="rotateflip">Вращаться</string>
+    <string name="saturation">насыщенность</string>
+    <string name="save_dialog_title">Чтобы отказаться от текущей операции изображения?</string>
+    <string name="save_fail_io">Сохранить не удалось.Ваше имя файла содержит незаконные символы, пожалуйста, измените и попробуйте снова</string>
+    <string name="save_fail_memory">Сохранить не удалось.Ваша SD-карта недостаточна, пожалуйста, попробуйте еще раз</string>
+    <string name="save_fail_unkown">Сохранить не удалось.Пожалуйста, попробуйте еще раз</string>
+    <string name="save_giveup">сдаться</string>
+    <string name="save_successful">Успех сэкономить на картинке!</string>
+    <string name="save_to_local_fail">Сохранить в местном альбоме не удалось</string>
+    <string name="saveas">держать</string>
+    <string name="saved_to_local">Спасенный</string>
+    <string name="scrawl_normal_pen_txt2">Граница</string>
+    <string name="scrawl_share_detail">Граффити использует, маленький праведник - это ты!</string>
+    <string name="sdcard_full_text">Если остальное пространство SD-карты недостаточно, пожалуйста, удалите несколько файлов и попробуйте снова!</string>
+    <string name="sdcard_full_title">намекать</string>
+    <string name="send_share_other_error">неизвестная ошибка</string>
+    <string name="setting_image_save_no">нет</string>
+    <string name="setting_image_save_yes">Да</string>
+    <string name="shape">Интеллектуальная красота</string>
+    <string name="share_more">Более</string>
+    <string name="share_name">Волшебная фигура</string>
+    <string name="share_saving_file">Сохранение...</string>
+    <string name="sharelink_error_has_task">Есть текущие другие сохраненные задачи, пожалуйста, повторите попытку позже</string>
+    <string name="shi_guang">Время</string>
+    <string name="show_facebook_and_twitter_share">true</string>
+    <string name="show_more_share">true</string>
+    <string name="show_tencent_share">false</string>
+    <string name="shu_ying">Высечение</string>
+    <string name="similar_merge_title">ТАС все тот же человек?</string>
+    <string name="skinprocess">Тощая кожа</string>
+    <string name="skinsmooth">Акне</string>
+    <string name="skinwhite">Черный кружок глаза</string>
+    <string name="skinwhiteteeth">белые зубы</string>
+    <string name="smile">Улыбка</string>
+    <string name="snap_no_space">Фотография</string>
+    <string name="srcawl">щетка</string>
+    <string name="start_fast_pay">Открыть ли один канал для быстрого оплаты</string>
+    <string name="su_miao">эскиз</string>
+    <string name="swan_app_activity_not_found">Не найден</string>
+    <string name="swan_app_baidu_guarantee_title">Гарантия Baidu</string>
+    <string name="swan_app_debug_so_info_error">Скачать формат информации неверно</string>
+    <string name="swan_app_debug_so_info_success">Заменить так скачать информацию успеха</string>
+    <string name="swan_app_download_fail">Загрузка задания Создание не удалось</string>
+    <string name="swan_app_file_non_exit">файл не существует</string>
+    <string name="swan_app_follow_failed">"关注失败 
+请发布小程序后关注"</string>
+    <string name="swan_app_img_menu_load_image">Просмотр изображения</string>
+    <string name="swan_app_img_menu_save_failed">Сохранить неисправность</string>
+    <string name="swan_app_img_menu_save_image">Сохранить в альбом</string>
+    <string name="swan_app_img_menu_save_image_net">Сохранить до сетевого диска Baidu</string>
+    <string name="swan_app_img_menu_save_success">Успешно сохранен</string>
+    <string name="swan_app_img_menu_search_image">Искать информацию</string>
+    <string name="swan_app_img_menu_set_wallpaper">Установка обоев</string>
+    <string name="swan_app_img_menu_share_image">Поделиться фотографиями</string>
+    <string name="swan_app_img_menu_swan_title">Возьми апплет, содержащийся на рисунке</string>
+    <string name="swan_app_login_immediately">Войдите в систему немедленно</string>
+    <string name="swan_app_login_refuse">Еще не вошел в систему</string>
+    <string name="swan_app_menu_customer_service">Связаться с обслуживанием клиентов</string>
+    <string name="swan_app_open_file_fail">Просмотр не удалось</string>
+    <string name="swan_app_page_back_modal_cancel">Подумать</string>
+    <string name="swan_app_page_back_modal_content">Нажмите OK, чтобы выйти из текущей страницы;</string>
+    <string name="swan_app_page_back_modal_title">Подтвердите, что вы хотите покинуть текущую страницу?</string>
+    <string name="swan_app_pay_result_cancel">Оплата оплата</string>
+    <string name="swan_app_pay_result_fail">Оплатить отказ</string>
+    <string name="swan_app_pay_result_paying">Выплачивать</string>
+    <string name="swan_app_pay_result_success">Оплата успешна</string>
+    <string name="swan_app_picture_image_loading">Загрузка ...</string>
+    <string name="swan_app_picture_load_image_failed">Нажмите на экран, перезагрузите</string>
+    <string name="swan_app_picture_set_wallpaper_doing">Установка обоев...</string>
+    <string name="swan_app_picture_set_wallpaper_done">Установить как обои рабочего стола</string>
+    <string name="swan_app_picture_set_wallpaper_fail">Установить сбой обоев</string>
+    <string name="swan_app_picture_set_wallpaper_succeed">Установите обои успехи</string>
+    <string name="swan_app_query_file_fail">Запрос не удалось</string>
+    <string name="swan_app_reporting">Отчет</string>
+    <string name="swan_app_running_info">Запустите информацию</string>
+    <string name="swan_app_system_error">Ошибка ...</string>
+    <string name="swan_app_task_not_found">Не нашел задачу загрузки</string>
+    <string name="swan_app_teen_mode_add_favor_tips">Не поддерживая апплет</string>
+    <string name="swan_app_teen_mode_share_tips">Общие апплеты не поддерживают совместное использование</string>
+    <string name="swan_app_teen_mode_tips">Режим подростка</string>
+    <string name="swan_games_loading_tips_left_quotation">“</string>
+    <string name="swan_games_loading_tips_right_quotation">”</string>
+    <string name="swan_loading_view_tag_downloading">загрузка</string>
+    <string name="swan_offline_perf_tool_disable">Закрыть Выключатель Performance Tool</string>
+    <string name="swan_offline_perf_tool_enable">Открытый производительность инструмента</string>
+    <string name="swan_offline_perf_tool_message">Успешная операция, После перезапуска</string>
+    <string name="swan_offline_perf_tool_tip">Переключение выключателя инструмента производительности</string>
+    <string name="swanapp_ad_landingpage_authenticated">проверенный</string>
+    <string name="swanapp_ad_landingpage_permission">Список разрешений</string>
+    <string name="swanapp_ad_landingpage_privacy">Политика конфиденциальности</string>
+    <string name="swanapp_ad_landingpage_safe">Безопасность</string>
+    <string name="swanapp_ad_landingpage_title">скачать</string>
+    <string name="swanapp_auth_dialog_phone_explain">Свяжите номер мобильного телефона</string>
+    <string name="swanapp_auth_dialog_userinfo_explain">Пользовательская общественная информация</string>
+    <string name="swanapp_close">закрытие</string>
+    <string name="swanapp_close_icon_description">CLOSE ICON</string>
+    <string name="swanapp_close_obtain_stability_data">Сообщить о стабильности данных</string>
+    <string name="swanapp_completion_text">Заканчивать</string>
+    <string name="swanapp_domain_error">Текущая страница не поддерживает доступ</string>
+    <string name="swanapp_error_page_app_forbidden">Апплет имеет офлайн</string>
+    <string name="swanapp_error_page_app_offline">Апплет имеет в автономном режиме, временно не может получить доступ</string>
+    <string name="swanapp_error_page_btn_text_goto_clear">Чистить</string>
+    <string name="swanapp_error_page_btn_text_goto_home">Введите главную страницу</string>
+    <string name="swanapp_error_page_btn_text_reload">Перезагрузка</string>
+    <string name="swanapp_error_page_disk_space_lack">"Дисковое пространство недостаточно
+Пожалуйста, убирайся после уборки"</string>
+    <string name="swanapp_error_page_feed_back">Обратная связь</string>
+    <string name="swanapp_error_page_force_offline">"Этот апплет был вынужден в автономном режиме из-за нарушений
+Я не могу получить доступ к этому на некоторое время"</string>
+    <string name="swanapp_error_page_memory_lack">"Недостаточный мобильный телефон
+Невозможно открыть небольшую страницу программы"</string>
+    <string name="swanapp_error_page_need_update_sdk_opensource">Текущее приложение не может открыть апплет</string>
+    <string name="swanapp_error_page_net_unavailable">@string/swanapp_tip_net_unavailable</string>
+    <string name="swanapp_error_page_normal_error">Открыть не удалось, пожалуйста, попробуйте позже позже</string>
+    <string name="swanapp_error_page_path_forbidden">"На этой странице есть проблема нарушения
+Остановил доступ"</string>
+    <string name="swanapp_error_page_pause_service">Апплет был приостановлен, временно не может получить доступ</string>
+    <string name="swanapp_error_web_mode_entrance">Открыть в режиме предварительного просмотра</string>
+    <string name="swanapp_force_web_mode">"Вошел в режим предварительного просмотра
+Чтобы выйти из него, чтобы перезапустить апплет"</string>
+    <string name="swanapp_hover_dialog_not_tip_checked">Больше не советы (небольшое воспроизведение программы Audio нужно открывать разрешение на плавающее окно)</string>
+    <string name="swanapp_icon_next_to_title">TITLE ICON</string>
+    <string name="swanapp_left_back_icon">LEFT BACK ICON</string>
+    <string name="swanapp_loading">Буферизировать...</string>
+    <string name="swanapp_local_debug_running">Реминометрическая отладка...</string>
+    <string name="swanapp_low_memory_button_continue">продолжать использовать</string>
+    <string name="swanapp_low_memory_button_exit">Немедленно выйти</string>
+    <string name="swanapp_low_memory_tip">Недостаточно бегать, что может повлиять на нормальное использование.</string>
+    <string name="swanapp_menu_play_tts">Голосовая трансляция</string>
+    <string name="swanapp_multi_auth_default_name_end">Получите следующую информацию, чтобы служить вам</string>
+    <string name="swanapp_multi_auth_default_name_head">Разрешать</string>
+    <string name="swanapp_play_time_def">00:00:00</string>
+    <string name="swanapp_property_window_title">Данные о производительности</string>
+    <string name="swanapp_publisher_error_empty">Название или контент не могут быть пустыми</string>
+    <string name="swanapp_publisher_error_title">Не удалось примирение страницы</string>
+    <string name="swanapp_publisher_handling_pictures">Обработка изображений...</string>
+    <string name="swanapp_publisher_image_upload_fail">Выгрузка изображения не удалась, Пожалуйста, повторите попытку позже</string>
+    <string name="swanapp_publisher_network_disconnect">Сеть не заставляет, Пожалуйста, повторите попытку позже</string>
+    <string name="swanapp_publisher_params_error">Разрешение настройки параметра не удалось, Пожалуйста, проверьте параметры настройки</string>
+    <string name="swanapp_publisher_post_content">Пожалуйста, введите тело</string>
+    <string name="swanapp_publisher_post_title">Пожалуйста, введите название</string>
+    <string name="swanapp_publisher_publish_text">выпуск</string>
+    <string name="swanapp_publisher_title">Опубликовать пост</string>
+    <string name="swanapp_publisher_title_exceed">Всего до 20 слов</string>
+    <string name="swanapp_reply_editor_place_holder">Пожалуйста, введите контент</string>
+    <string name="swanapp_reply_editor_publish">Публиковать</string>
+    <string name="swanapp_reply_editor_text_999_overstep">Super 999.+</string>
+    <string name="swanapp_reply_editor_text_lack">Пожалуйста, введите хотя бы%dХарактер</string>
+    <string name="swanapp_reply_editor_text_overstep">обгонять%dХарактер</string>
+    <string name="swanapp_reply_editor_text_remain">Оставаться%dХарактер</string>
+    <string name="swanapp_save_draft_dialog_btn_negative">Не сохранил</string>
+    <string name="swanapp_save_draft_dialog_btn_positive">резерв</string>
+    <string name="swanapp_save_draft_dialog_message">Вы сохраняете отредактированный контент?</string>
+    <string name="swanapp_save_draft_dialog_title">Резервный контент</string>
+    <string name="swanapp_stability_profile_pause">Тест на устойчивость паузы</string>
+    <string name="swanapp_stability_profile_resume">Продолжить тест на стабильность</string>
+    <string name="swanapp_startup_fcp_not_canceled">FCP NOT CALLED</string>
+    <string name="swanapp_startup_fip_not_canceled">FIP NOT CALLED</string>
+    <string name="swanapp_startup_fmp_not_canceled">FMP NOT CALLED</string>
+    <string name="swanapp_startup_ftp_not_canceled">FTP NOT CALLED</string>
+    <string name="swanapp_startup_window_title">Начать информацию</string>
+    <string name="swanapp_string_go_settings">Набор</string>
+    <string name="swanapp_swan_check_update_text">Проверьте наличие обновлений</string>
+    <string name="swanapp_swan_shimmer_loading_poor_net">Текущий сетевой сигнал слабый, усердно работает для загрузки</string>
+    <string name="swanapp_tip_package_unavailable">Не удалось загрузить, пожалуйста, попробуйте позже</string>
+    <string name="swanapp_tip_request_all_fail">Ответ службы ненормальна, пожалуйста, подождите терпеливо или повторите попытку позже</string>
+    <string name="swanapp_tip_show_js_error">Маленькая страница программы ненормальна, пожалуйста, попробуйте позже позже</string>
+    <string name="swanapp_tip_waiting_and_retry">@string/swanapp_tip_request_default</string>
+    <string name="swanapp_video_brightness">Яркая регулировка</string>
+    <string name="swanapp_video_click_retry">Нажмите, чтобы попробовать</string>
+    <string name="swanapp_video_error_no_wifi">Нет доступных WiFi, продолжайте играть с мобильными сетями</string>
+    <string name="swanapp_video_network_continue">Продолжать играть</string>
+    <string name="swanapp_video_network_error">Сеть не заставляет, пожалуйста, попробуйте позже позже</string>
+    <string name="swanapp_video_rate">Двойная скорость</string>
+    <string name="swanapp_video_rate_1">0.75X</string>
+    <string name="swanapp_video_rate_2">1.0X</string>
+    <string name="swanapp_video_rate_3">1.25X</string>
+    <string name="swanapp_video_rate_4">1.5X</string>
+    <string name="swanapp_video_rate_5">2.0X</string>
+    <string name="swanapp_video_rate_left">Открыл для вас</string>
+    <string name="swanapp_video_rate_right">Играть</string>
+    <string name="swanapp_video_refresh">Воспроизведение видео не удалось, пожалуйста, попробуйте еще раз</string>
+    <string name="swanapp_video_replay">Воспроизводитель</string>
+    <string name="swanapp_video_sound">Регулировка громкости</string>
+    <string name="tang_shui_pian">Сахарный лист</string>
+    <string name="teenager_no_pay">Модели подростков не могут использовать функцию оплаты</string>
+    <string name="text">письмо</string>
+    <string name="thin">Тонкое лицо для похудения</string>
+    <string name="thin_face">Худое лицо</string>
+    <string name="title_activity_ghost_makeup">Радость макияжа</string>
+    <string name="tone">Цвет</string>
+    <string name="trace_btn_switch_thread">Переключатель потока</string>
+    <string name="trace_tip_info">-Стек вызовов Время выполнения функций Имя темы Смешная функция</string>
+    <string name="uamp_artist_unknown">Неизвестный певец</string>
+    <string name="uamp_play_speed_100">Нормальная скорость</string>
+    <string name="uamp_play_speed_125">1.25x скорость</string>
+    <string name="uamp_play_speed_200">Двойная скорость</string>
+    <string name="uamp_play_speed_300">Трехкратная скорость</string>
+    <string name="uamp_play_speed_75">0.75x скорость</string>
+    <string name="uamp_source_tab_all_audio">Все аудио</string>
+    <string name="uamp_source_tab_all_video">Все видео</string>
+    <string name="uamp_source_tab_play_list">плейлист</string>
+    <string name="ucar_dialog_msg_no_network">В настоящее время нет сетевого сигнала, пожалуйста, воспроизведите сеть после включения сети в безопасной ситуации.</string>
+    <string name="udflip">Вверх и вниз</string>
+    <string name="unauthentic_auth_subtitle">Дополнительные 50 г скорости</string>
+    <string name="unauthentic_auth_title">Сертификация предприятия</string>
+    <string name="unauthentic_auth_url">https://mr.baidu.com/r/zqTsFG1Uty?from=na</string>
+    <string name="unknow_pay_channel">Неизвестный способ оплаты</string>
+    <string name="unsharp">Застревать</string>
+    <string name="unzip_select_to_here">Декомпрессия к</string>
+    <string name="unzip_to_here">Расстегнул здесь</string>
+    <string name="user_center_default_op_name">Супер-член ограниченное время низкая цена</string>
+    <string name="viewer_select_file_text">Посмотреть выбранные файлы (%d）</string>
+    <string name="water_reflection_blur">размытие</string>
+    <string name="water_reflection_bottom">Вниз</string>
+    <string name="water_reflection_check">Водяная рябь</string>
+    <string name="water_reflection_left">слева</string>
+    <string name="water_reflection_right">Правильно</string>
+    <string name="water_reflection_title">картина</string>
+    <string name="water_reflection_up">начальство</string>
+    <string name="wei_mei">Красивый</string>
+    <string name="word">стикер</string>
+    <string name="wu_yue_mei_gui">Роза</string>
+    <string name="wx_h5_trade_fail">WECHAT H5 Оплата CheckPoint не удалась</string>
+    <string name="wx_pay">Оплата WECHAT</string>
+    <string name="wx_pay_result_title">Wechat SDK возвращает результат оплаты:</string>
+    <string name="xian_huo">Свежий</string>
+    <string name="xiangbin">шампанское</string>
+    <string name="xiao_zhen">Маленький город</string>
+    <string name="xuan_guang">Блики</string>
+    <string name="youth_space_full_text">Недостаточное пространство, пожалуйста, расширяйте ваше большее пространство вовремя</string>
+    <string name="yuan_tu">Оригинальное изображение</string>
+    <string name="zheng_pian">положительный</string>
+    <string name="zi_ran">природа</string>
 </resources>

@@ -862,7 +862,6 @@
     <string name="bdreader_menu_introduction_text_tip1">Move between horizontal and vertical screen here</string>
     <string name="bdreader_menu_seekbar_last_page">Previous chapter</string>
     <string name="bdreader_menu_seekbar_next_page">Next chapter</string>
-
     <string name="bdreader_menu_speech_quality_high">Online high quality</string>
     <string name="bdreader_menu_speech_quality_normal">Offline standard quality</string>
     <string name="bdreader_menu_speech_right_text">+</string>
@@ -1057,7 +1056,7 @@
     <string name="business_platform_download_mutil">Simultaneous download:</string>
     <string name="business_platform_download_mutil_cnt">%d개</string>
     <string name="business_platform_svip_guide_desc">Become a SVIP and decompress the compressed package in %s online</string>
-       <string name="business_select_download_cnt">Concurrent D/L files</string>
+    <string name="business_select_download_cnt">Concurrent D/L files</string>
     <string name="business_transfer_file_remind">Can be used when exporting over many files</string>
     <string name="business_video_hd_for_screen_title">Become a VIP, enjoy high-definition screen cast</string>
     <string name="business_video_hd_title">Become a VIP, you can unlock all resolutions of this movie</string>
@@ -2250,7 +2249,7 @@
     <string name="download_no_enough_space_toast">Insufficient phone space, D/L has been suspended</string>
     <string name="download_noenough_space">You are out of storage space</string>
     <string name="download_pause">Pause D/L</string>
-     <string name="download_privilege_usage_description">The current space purchase can only be used in the current space, and cannot be used across spaces</string>
+    <string name="download_privilege_usage_description">The current space purchase can only be used in the current space, and cannot be used across spaces</string>
     <string name="download_qr_code_card_exist">File exists</string>
     <string name="download_qr_code_card_failed">Save failed, try again later</string>
     <string name="download_qr_code_card_success">Save successfully, send a picture to a friend</string>
@@ -2483,7 +2482,7 @@
     <string name="enterprise_contact_invite_sended">Invitation sent</string>
     <string name="enterprise_contact_manager">Please contact the administrator to purchase the product unlock function</string>
     <string name="enterprise_file_shared_tips">All files in the corporate space are shared files</string>
-       <string name="enterprise_free_space">%1$s/%2$s remaining in the enterprise space,</string>
+    <string name="enterprise_free_space">%1$s/%2$s remaining in the enterprise space,</string>
     <string name="enterprise_manager_no_title">No introduction</string>
     <string name="enterprise_no_tickets">All D/L coupons have been consumed</string>
     <string name="enterprise_no_title">No job info</string>
@@ -3094,7 +3093,7 @@
     <string name="have_not_find_your_image">This is not</string>
     <string name="havnt_now">There is no voice package available, please try again after connecting to the network</string>
     <string name="heic_not_support">\"The photo was created by the iPhone in a unique format Android does not support viewing locally\"</string>
-      <string name="hide_bottom_view_on_scroll_behavior">com.google.android.material.behavior.HideBottomViewOnScrollBehavior</string>
+    <string name="hide_bottom_view_on_scroll_behavior">com.google.android.material.behavior.HideBottomViewOnScrollBehavior</string>
     <string name="hint_conversation_input">Enter message...</string>
     <string name="history_guide">Continue playing last time~</string>
     <string name="hms_abort">Stop</string>
@@ -3102,7 +3101,7 @@
     <string name="hms_base_google">https://play.google.com/store</string>
     <string name="hms_base_vmall">https://appgallery.cloud.huawei.com/app/</string>
     <string name="hms_bindfaildlg_message">%1$s is unable to use HMS Core. Launch Optimizer (Phone Manager) or go to Settings, enable all permissions for %2$s (including auto-launch and secondary launch), and try again.</string>
-     <string name="hms_check_failure">Failed to check for updates.</string>
+    <string name="hms_check_failure">Failed to check for updates.</string>
     <string name="hms_check_no_update">Your version is up to date.</string>
     <string name="hms_checking">Checking for updates…</string>
     <string name="hms_confirm">OK</string>
@@ -5617,7 +5616,7 @@
     <string name="sdcard_busy">SD card is not ready, please wait</string>
     <string name="sdcard_not_exist">SD card does not exist</string>
     <string name="sdcard_unmounted">Mobile phone SD card is not available</string>
-      <string name="search_aladdin_result_title">Picture (%d)</string>
+    <string name="search_aladdin_result_title">Picture (%d)</string>
     <string name="search_box_enterprise_hint_text">Search corporate space files</string>
     <string name="search_box_hint_text">Search netwdisk files</string>
     <string name="search_box_hint_text_in_safebox">Search for hidden space files</string>
@@ -6700,7 +6699,7 @@
     <string name="tips_debug_set">Current test environment</string>
     <string name="tips_new">NEW</string>
     <string name="title_account_explain">Account description</string>
-      <string name="title_add_button">ADD</string>
+    <string name="title_add_button">ADD</string>
     <string name="title_aiapps_center">Mini Program Square</string>
     <string name="title_delete_play_list">Delete playlist</string>
     <string name="title_friend_plus_without_label">%d+</string>
@@ -7333,7 +7332,7 @@
     <string name="transfer_list_storage_phone" formatted="false">Phone remaining space: %s/%s</string>
     <string name="transfer_list_svip_guide_text">SVIP acceleration</string>
     <string name="transfer_list_svip_tip">SVIP speeding up privilege acceleration</string>
-     <string name="transfer_list_title_uploading">Uploading...</string>
+    <string name="transfer_list_title_uploading">Uploading...</string>
     <string name="transfer_list_upload_tip_1">Encrypted transmission to protect files</string>
     <string name="transfer_list_upload_tip_2">Enjoying multi-task parallel u/l privileges</string>
     <string name="transfer_list_upload_tip_3">Enjoying permission to u/l large files</string>
@@ -7696,7 +7695,7 @@
     <string name="video_info_time_network">U/Led on: %s</string>
     <string name="video_info_title">file name: %s</string>
     <string name="video_is_compressing">Compressing video…</string>
-      <string name="video_loading">Loading %d%%</string>
+    <string name="video_loading">Loading %d%%</string>
     <string name="video_loading_box_svip">Enjoying high-speed video loading...</string>
     <string name="video_loading_slow_buy_svip">Open SVIP, no need to wait for loading</string>
     <string name="video_loading_slow_text">Loading too slow</string>
@@ -8015,7 +8014,7 @@
     <string name="wallet_base_service_offline_tips">The service is offline</string>
     <string name="wallet_base_set_pwd_click">Click me to open</string>
     <string name="wallet_base_set_pwd_tips">You have not set up a six-digit payment pwd and cannot use the balance for payment</string>
-        <string name="wallet_base_sms_not_up">Unable to call up the SMS, please open the SMS app in the settings and try again</string>
+    <string name="wallet_base_sms_not_up">Unable to call up the SMS, please open the SMS app in the settings and try again</string>
     <string name="wallet_base_string_bindcard_item_line_tag">bindCardItemLineTag</string>
     <string name="wallet_base_string_safeguard_click">Understand security</string>
     <string name="wallet_base_string_safeguard_entry">Keep your payment safe</string>
@@ -8102,9 +8101,8 @@
     <string name="wallet_fp_wrong_number">Does not support this number to recharge</string>
     <string name="wallet_hce_do_auth">Real name</string>
     <string name="wallet_hce_pay_failed">Payment failed</string>
-
     <string name="wallet_home_feedback">Feedback</string>
-       <string name="wallet_langbridge_url_outer">Page provided by %1$s</string>
+    <string name="wallet_langbridge_url_outer">Page provided by %1$s</string>
     <string name="wallet_lightapp_close">Close</string>
     <string name="wallet_lightapp_contact_no_contact">No contacts read</string>
     <string name="wallet_lightapp_contact_please_select_phone">Choose mobile number</string>
@@ -8422,7 +8420,6 @@
     <string name="zip_folder_empty">The folder is empty</string>
     <string name="zxing_camera_failed">Camera failed to open, please try again later</string>
     <string name="zxing_msg_default_status">Please scan the QR code/barcode in the framing frame</string>
-
     <string name="a_v_enjoy_card_normal_buy_tip">Buy</string>
     <string name="abc_action_bar_up_description">Navigate up</string>
     <string name="abc_searchview_description_search">Search</string>
@@ -8451,9 +8448,7 @@
     <string name="ad_button_pause">Pause download</string>
     <string name="ad_continue_watch">Continue to watch</string>
     <string name="ad_download_net_tip">Network does not force, please try again later</string>
-
     <string name="ad_sign_txt">advertise</string>
-
     <string name="add_collection_fail">The operation failed, please try again later</string>
     <string name="add_create_share">New sharing</string>
     <string name="add_device_title">Related equipment</string>
@@ -8489,7 +8484,6 @@
     <string name="advanced_setting">advanced settings</string>
     <string name="advertise_share_info">share to</string>
     <string name="advertisement_directional_tips">为了向您提供更好的服务，我们将提供分城市，分人群的投放方式供广告主进行设置选择。 &lt;br>&lt;br>如果您对此类广告不感兴趣可以选择“x”掉或“跳过”此广告内容。 &lt;br>&lt;br>您也可以选择关闭“广告定向”投放选项，&lt;b>关闭后您在网盘观看到的广告数量不会减少&lt;/b>，但是广告主将无法设置定向投放，没有办法为您提供更加匹配的广告活动。&lt;br>&lt;br></string>
-
     <string name="agreement_dialog_confirm_btn">agree</string>
     <string name="agreement_dialog_title">Tips</string>
     <string name="aiapp_menu_about">about</string>
@@ -8621,7 +8615,6 @@
     <string name="all_document">All documents</string>
     <string name="all_tools_edit_ok">Sure</string>
     <string name="already_cancel">Cancelled</string>
-
     <string name="apk_download_failed">Upgrade failed</string>
     <string name="app_backup_net_error">network anomaly</string>
     <string name="app_backup_server_error">Server Error</string>
@@ -8647,7 +8640,6 @@
     <string name="audio_close_after_30m">30 minutes</string>
     <string name="audio_close_after_60m">60 minutes</string>
     <string name="audio_close_after_90m">90 minutes</string>
-
     <string name="audio_file_count">%d File</string>
     <string name="audio_from">source</string>
     <string name="audio_goto_collection_list">View now</string>
@@ -8724,7 +8716,6 @@
     <string name="barrier_free_notice_bookmark">Bookmark</string>
     <string name="barrier_free_notice_listenbook">Listen to the book</string>
     <string name="barrier_free_notice_more">More</string>
-
     <string name="batchtransfer_status_failed">Save failed</string>
     <string name="batchtransfer_status_file_exist">File already exists</string>
     <string name="batchtransfer_status_saving">Saving…</string>
@@ -8963,10 +8954,8 @@
     <string name="business_incentive_video_loading">Loading...</string>
     <string name="business_loading">loading</string>
     <string name="business_main_loading_error">Load failed, please check the network or reload</string>
-
     <string name="business_reload">Reload</string>
     <string name="business_toast_no_network_message">Network abnormal network, please check</string>
-
     <string name="button_buy_vip">Sure</string>
     <string name="button_cancel">Not open</string>
     <string name="button_downloading">Downloaded:%1$s</string>
@@ -8978,7 +8967,6 @@
     <string name="button_update">upgrade</string>
     <string name="buy_now">Buy now</string>
     <string name="buy_vip_button_title">join membership</string>
-
     <string name="calllog_backup_cancel_start">Cancel ...</string>
     <string name="calllog_backup_init_state_tips">Call records are stored in the cloud, safe is not lost</string>
     <string name="calllog_backup_start">Back up to the cloud</string>
@@ -9149,7 +9137,6 @@
     <string name="codedlock_tv_atypism">If the password is inconsistent, please re-enter</string>
     <string name="codedlock_tv_prompt_set">Please enter your password</string>
     <string name="codedlock_tv_prompt_set_again">Please enter your password again</string>
-
     <string name="commit">submit</string>
     <string name="common_comment_ten_thousand">ten thousand</string>
     <string name="common_emptyview_detail_text">Network does not force, please try again later</string>
@@ -9186,7 +9173,6 @@
     <string name="confirm_download_sure_btn">download</string>
     <string name="confirm_download_title">Download Document</string>
     <string name="confirm_image_info_dialog_confirm">keep</string>
-
     <string name="contact_auto_backup_closed">Automatic backup that is closed</string>
     <string name="contact_backup_auto_back">Automatic backup</string>
     <string name="contact_backup_choose">choose</string>
@@ -9243,10 +9229,8 @@
     <string name="create_share_folder_suffix">folder</string>
     <string name="create_share_title">Created sharing</string>
     <string name="create_tag_successed">New success</string>
-
     <string name="deal_succeed">Set success</string>
     <string name="default_app_icon">Default icon</string>
-
     <string name="default_nickname">Please enter a nickname</string>
     <string name="default_self_starting_guide_1">Find "Baidu network disk - automatic management or power consumption setting" 􏰹􏱻􏱼</string>
     <string name="delete">delete</string>
@@ -9323,7 +9307,6 @@
     <string name="dlna_device_searching">Detection ...</string>
     <string name="dlna_guide_confirm">understood</string>
     <string name="dlna_relate_help">help</string>
-
     <string name="dns_failed_error">Network abnormal network, please check the network</string>
     <string name="doc_bookmark">contents</string>
     <string name="doc_open_failed">Document opening failed</string>
@@ -9372,7 +9355,6 @@
     <string name="download_top_bar_edit">edit</string>
     <string name="download_unknown_title">&lt;未命名></string>
     <string name="downloading_x">downloading...%1$s</string>
-
     <string name="dxm_ebpay_add_bankcard">Add a bank card</string>
     <string name="dxm_ebpay_bank_phone_title">Mobile phone number</string>
     <string name="dxm_ebpay_bind_card_result">Add card results</string>
@@ -9645,9 +9627,7 @@
     <string name="filemanager_trans_copy_failed_notice">Some files fail</string>
     <string name="filemanager_view_detail">check the details</string>
     <string name="filemanager_view_failed_files">Check</string>
-
     <string name="finish_btn">Finish</string>
-
     <string name="first_share_notice_dialog_button">understood</string>
     <string name="fixed_point">mark</string>
     <string name="flash_advertise_title_refresh">Refresh</string>
@@ -9663,7 +9643,6 @@
     <string name="fourteen_days_share_tip">Sharing will be invalid after 14 days and cannot continue to access</string>
     <string name="fp_get_data_fail">The system has a small difference, wait for a while, try again.</string>
     <string name="fp_pay_cancel">Pay cancellation</string>
-
     <string name="free_probationary_button_title">Free trial</string>
     <string name="free_traffic_alert_tips">Free traffic</string>
     <string name="friend_contact_add_follow_title">Add to</string>
@@ -9724,7 +9703,6 @@
     <string name="home_recent_video_item_view_time">Watch%1$s</string>
     <string name="home_tab_self_start_guide_dialog_desc">Already%sNot backup in time，&lt;font color=#1CA6FF>&lt;b>按上图步骤开启&lt;/b>&lt;/font>自启动相关权限，网盘在后台能为您提供更及时的自动备份。</string>
     <string name="home_tab_self_start_guide_dialog_desc_day">You have%sDid not comment on network disk backup，&lt;font color=#1CA6FF>&lt;b>按上图步骤开启&lt;/b>&lt;/font>自启动相关权限，网盘在后台能为您提供更及时的自动备份。</string>
-
     <string name="http_authentication_cancel">Cancel</string>
     <string name="http_authentication_login">Log in</string>
     <string name="http_authentication_password">password</string>
@@ -9784,11 +9762,8 @@
     <string name="invoice_menu_delete">delete</string>
     <string name="invoice_top_company_tag">unit</string>
     <string name="invoice_top_personage_tag">个人</string>
-
     <string name="is_deleting">deleting…</string>
-
     <string name="know_it">understood</string>
-
     <string name="launch_disable_plugin_ok">understood</string>
     <string name="launch_disable_plugin_title">hint</string>
     <string name="launch_upgrade_netdisk_ok">understood</string>
@@ -9802,7 +9777,6 @@
     <string name="leave_share_directory_title">Exit sharing</string>
     <string name="limit_share_function_name">Enjoy</string>
     <string name="list_label_empty_tips">No match</string>
-
     <string name="liveness_eye">Blink</string>
     <string name="liveness_mouth">Zhang Zhang</string>
     <string name="liveshow_teletext_time_day_before">%1$d Days ago</string>
@@ -10060,10 +10034,8 @@
     <string name="on_wifi_dialog_know">WiFi transmission only</string>
     <string name="on_wifi_dialog_to_change_setting">Mobile phone traffic transmission</string>
     <string name="open_auto_backup_guide_dialog_confirm_btn">Go to open</string>
-
     <string name="open_histroy_private_mode">search history</string>
     <string name="open_image">Open</string>
-
     <string name="open_personal_face">Go to open</string>
     <string name="operation_log_move">Mobile file</string>
     <string name="origin_photo_backup_confirm">I see</string>
@@ -10200,7 +10172,6 @@
     <string name="picture_to_word">Text identification</string>
     <string name="player_common_replay">Replay</string>
     <string name="player_common_share">share</string>
-
     <string name="player_message_network_down">Network does not force, please try again later</string>
     <string name="please_choice">please choose</string>
     <string name="please_input_verify_code">please enter verification code</string>
@@ -10211,7 +10182,6 @@
     <string name="plugin_head_view_video">video</string>
     <string name="plugin_update">update immediately</string>
     <string name="popup_unzip_confirmbutton_text">use immediately</string>
-
     <string name="preview_alert_download_isp">Free traffic download</string>
     <string name="preview_alert_download_normal">Use traffic download</string>
     <string name="privacy_policy">《隐私协议》</string>
@@ -10314,7 +10284,6 @@ Automatic backups can be made more in time in the background."</string>
     <string name="register_code_to_bind">Enter activation code</string>
     <string name="remove_from_playlist">Remove from the device</string>
     <string name="rename_title">Rename</string>
-
     <string name="rephotograph">Replay</string>
     <string name="replay_scan_novel">Rescan</string>
     <string name="resolution_origin_text">Not damaged</string>
@@ -10453,7 +10422,6 @@ Automatic backups can be made more in time in the background."</string>
     <string name="sec_tip_title">hint</string>
     <string name="second_pwd_set_error">Set secondary password failure</string>
     <string name="second_pwd_setting">Secondary password setting</string>
-
     <string name="see_detail">Learn more</string>
     <string name="select_album_folder_ok_button">choose</string>
     <string name="select_all">select all</string>
@@ -10476,7 +10444,6 @@ Automatic backups can be made more in time in the background."</string>
     <string name="server_ban_dialog_close">closure</string>
     <string name="server_ban_dialog_exit">quit</string>
     <string name="server_ban_dialog_title">hint</string>
-
     <string name="set_ablum_done">Set success</string>
     <string name="set_avatar_failed">Set avatar failed</string>
     <string name="set_nick_name">Set nickname</string>
@@ -10911,15 +10878,12 @@ Automatic backups can be made more in time in the background."</string>
     <string name="user_center_normal_title">Open super member</string>
     <string name="user_center_privilege_video_backup">Video backup</string>
     <string name="user_know">understood</string>
-
     <string name="vcode_invalide">Verification code error</string>
-
     <string name="verify_code_is_empty">please enter verification code</string>
     <string name="video">Video</string>
     <string name="video_ad_tag">advertise</string>
     <string name="video_appeal_dialog_right">understood</string>
     <string name="video_backup_prompt_automatic">Automatic upload, convenient and fast</string>
-
     <string name="video_dlg_title">hint</string>
     <string name="video_guide_with_count">尊敬的用户，您还有&lt;font color=#03081A>&lt;b>%1$d个&lt;/b>&lt;/font>视频未备份，开启视频备份并开通超级会员，尊享原画质备份服务</string>
     <string name="video_guide_with_count_dark">尊敬的用户，您还有&lt;font color=#FFFFFF>&lt;b>%1$d个&lt;/b>&lt;/font>视频未备份，开启视频备份并开通超级会员，尊享原画质备份服务</string>
@@ -10982,7 +10946,6 @@ Automatic backups can be made more in time in the background."</string>
     <string name="wechat_backup_quick_settings_title">WeChat file automatic backup</string>
     <string name="wifi_dialog_continue">Cancel</string>
     <string name="wifi_not_connect">Wi-Fi is not connected</string>
-
     <string name="work_space_dialog_guide_copy">Copy to synchronous space</string>
     <string name="work_space_dialog_guide_sub_title">You can synchronize multiple ends, say goodbye to manually upload download</string>
     <string name="work_space_dialog_guide_title">Place the file into the synchronous space</string>
@@ -12119,4 +12082,559 @@ Manage good memories"</string>
     <string name="yt_savecap">Screen capture files have been saved to SDCARD</string>
     <string name="yt_share">share</string>
     <string name="yt_thickness">Thick</string>
+    <string name="accessories">sticker</string>
+    <string name="add">decorate</string>
+    <string name="add_and_upload_guide">Upload guiding strips</string>
+    <string name="aiapp_menu_global_notice_private">Notice/Private letter</string>
+    <string name="aiapp_menu_my_applet">My applet</string>
+    <string name="aiapps_anti_addiction_dialog_auth">Verify</string>
+    <string name="aiapps_anti_addiction_dialog_message">According to national policy requirements, you must complete the real-name system to continue the game, please click to make certifications.</string>
+    <string name="aiapps_anti_addiction_dialog_message_new">Dear players, according to relevant national regulations, minors can only be 20, Saturday, Sunday, and legal holidays 20:00-21:00 logging in to the game, please arrange the game time reasonably, pay attention to rest.~</string>
+    <string name="aiapps_anti_addiction_dialog_ok">I know</string>
+    <string name="aiapps_anti_addiction_dialog_quick">exit the game</string>
+    <string name="aiapps_anti_addiction_dialog_title">Anti-addiction</string>
+    <string name="aiapps_anti_addiction_dialog_user_title">Dear user</string>
+    <string name="aiapps_anti_addiction_success">Really name</string>
+    <string name="aiapps_bear_info_about">Related bear paw</string>
+    <string name="aiapps_check_action_text">Check</string>
+    <string name="aiapps_confirm_text">I know</string>
+    <string name="aiapps_content_notification1">Download un installed, how to play games?</string>
+    <string name="aiapps_debug_download_url_empty">Download address is empty</string>
+    <string name="aiapps_debug_emit_host_env">Small program preview environment</string>
+    <string name="aiapps_debug_emit_replace_dependency">Forced use Debug Dependency</string>
+    <string name="aiapps_debug_emit_replace_dynamic_lib">Forced use Debug DynamicLib</string>
+    <string name="aiapps_debug_game_core_package_error">There is no GAME in the business package Core</string>
+    <string name="aiapps_debug_game_core_params_empty">Params parameters are empty</string>
+    <string name="aiapps_debug_game_core_url_empty">Download address is empty</string>
+    <string name="aiapps_debug_game_extension_download_failed">Download GameExtensioncore failed</string>
+    <string name="aiapps_debug_game_extension_download_success">Download GameExtensioncore successfully, please turn on the switch in the Debug module</string>
+    <string name="aiapps_debug_no_dependency">There is no debug DepENDENCY file</string>
+    <string name="aiapps_debug_no_dynamic_lib">There is no debug dynamic LIB file</string>
+    <string name="aiapps_debug_open_performance_testing">Open performance test</string>
+    <string name="aiapps_debug_open_stability_collector">Turn on stability test</string>
+    <string name="aiapps_debug_params_cb_empty">The CB parameter is empty</string>
+    <string name="aiapps_debug_params_empty">Params parameters are empty</string>
+    <string name="aiapps_debug_params_url_empty">URL parameter is empty</string>
+    <string name="aiapps_debug_web_mode_debug_is_open">Open the Web Page</string>
+    <string name="aiapps_finish_job">mission accomplished</string>
+    <string name="aiapps_follow_action_text">focus on</string>
+    <string name="aiapps_game_button_downloading">%1$s</string>
+    <string name="aiapps_game_community_share_fail">%sSharing failed</string>
+    <string name="aiapps_game_community_share_succ">Has shared%sGame official community</string>
+    <string name="aiapps_game_confirm_text">Got it</string>
+    <string name="aiapps_game_dashboard_download_failed">Download Dashboard file failed</string>
+    <string name="aiapps_game_dashboard_download_success">Download Dashboard files successfully, please turn on the switch in the Debug module</string>
+    <string name="aiapps_game_desktop_guide_add">Add to</string>
+    <string name="aiapps_game_download_button">download immediately</string>
+    <string name="aiapps_game_download_button_continue">Continue download</string>
+    <string name="aiapps_game_download_button_failed_retry">Click to try</string>
+    <string name="aiapps_game_download_button_install">Install</string>
+    <string name="aiapps_game_download_button_open">Open</string>
+    <string name="aiapps_game_download_button_pause">pause</string>
+    <string name="aiapps_game_inspector_connection_error_hint">[Error Tip]: Please check the network status, you need mobile phones and PCs in the same LAN, turn off the game process, and rescan code.</string>
+    <string name="aiapps_game_inspector_connection_state_close">have not started</string>
+    <string name="aiapps_game_inspector_connection_state_connecting">connecting</string>
+    <string name="aiapps_game_inspector_connection_state_error">connection error</string>
+    <string name="aiapps_game_inspector_connection_state_open">connected</string>
+    <string name="aiapps_game_inspector_info_button">Debug status</string>
+    <string name="aiapps_game_inspector_info_label_addr">[Developer tool address]：</string>
+    <string name="aiapps_game_inspector_info_label_connection_state">[Developer tool connection status]：</string>
+    <string name="aiapps_game_inspector_info_label_pause_at_start_set">[Whether it is set "Suspension in the program"]：</string>
+    <string name="aiapps_game_inspector_info_label_program_state">[Program operation status]：</string>
+    <string name="aiapps_game_inspector_program_state_pause_at_breakpoint">Pause at the breakpoint</string>
+    <string name="aiapps_game_inspector_program_state_pause_at_start">Suspension in the beginning of the program</string>
+    <string name="aiapps_game_inspector_program_state_running">Run in operation</string>
+    <string name="aiapps_game_inspector_text_no">no</string>
+    <string name="aiapps_game_inspector_text_yes">Yes</string>
+    <string name="aiapps_game_loadv8_so_failed">Load failed, please try again later</string>
+    <string name="aiapps_game_reload_dialog_content">Will close the game, clean you data in this small game, and restart your game.</string>
+    <string name="aiapps_game_reload_dialog_title">Restart the game</string>
+    <string name="aiapps_game_togamecenter_text">Go to the game hall</string>
+    <string name="aiapps_gamenow_confirm">confirm</string>
+    <string name="aiapps_gamenow_not_sure">let me think again</string>
+    <string name="aiapps_leave_now">Is it going to leave now?</string>
+    <string name="aiapps_loading">loading…</string>
+    <string name="aiapps_obtain_reward">You can get more rewards.~</string>
+    <string name="aiapps_play_awhile">Play for a while</string>
+    <string name="aiapps_server_request_error">The server is wrong, please try again later</string>
+    <string name="aiapps_swan_js_version">Swanjs information</string>
+    <string name="aiapps_tip_open_app">Open the app</string>
+    <string name="aiapps_title_notification1">《%1$s》Downloaded, click to install>></string>
+    <string name="aiapps_title_notification2">%1$dGame has downloaded, click to install>></string>
+    <string name="aiapps_yes">confirm</string>
+    <string name="ali_pay">Pay with Ali-Pay</string>
+    <string name="alipay_result_tiitle">Alipay SDK returns the result of payment:</string>
+    <string name="all_select_file_num">selected%dFile</string>
+    <string name="all_select_member_num">selected%dMember</string>
+    <string name="authentic_auth_subtitle">View or modify authentication information</string>
+    <string name="authentic_auth_title">My certification</string>
+    <string name="authentic_auth_url">https://pan.baidu.com/disk/cert#/web/submit?from=na</string>
+    <string name="autobeauty">One-button beauty</string>
+    <string name="baifubao_pay_result_title">Space SDK returns payment results:</string>
+    <string name="banner_ad_tip">The current advertising recall rate is too low, causing ad to be unable to recall.This View type prompt only appears in the game development version, for developers who are unable to recall the advertisement when they are playing in the Banner style.</string>
+    <string name="blurBG">Blunt</string>
+    <string name="blur_by_circle">Round-shaped</string>
+    <string name="blur_by_line">Linear blur</string>
+    <string name="blur_size">size</string>
+    <string name="boobs_enlarge">Breast</string>
+    <string name="boobs_reset">Reset</string>
+    <string name="bottom_korean">Wonder Market</string>
+    <string name="bright">brightness</string>
+    <string name="buy_consult">purchase enquiry</string>
+    <string name="camera_next">Next step</string>
+    <string name="camera_size_title_1">Small picture</string>
+    <string name="camera_size_title_2">standard</string>
+    <string name="camera_size_title_3">Large picture</string>
+    <string name="camera_size_title_4">HD</string>
+    <string name="campaign_material_not_used">You need to use the specified sticker material to save the picture to participate in the event, go with it.</string>
+    <string name="campaign_material_to_use">Go with</string>
+    <string name="change_file_permissions">edit permission</string>
+    <string name="child_file_permissions_all_change">Subfolders will be modified synchronously</string>
+    <string name="chinapay_pay_result_title">UnionPay SDK returns the result of payment:</string>
+    <string name="chuan_yue">Cross</string>
+    <string name="commission">Fee fee:%s</string>
+    <string name="compare">Compared</string>
+    <string name="conf_is_home_recommand">true</string>
+    <string name="conf_is_open_root_install">false</string>
+    <string name="conf_is_popup_recommend">true</string>
+    <string name="conf_is_show_fee_tips">false</string>
+    <string name="confirm_merge">Confirm the merge (%d）</string>
+    <string name="confirm_merge_default">Confirm the merge</string>
+    <string name="contrast">Contrast</string>
+    <string name="correct_tel">Please enter the correct phone number</string>
+    <string name="cosmesis">Beauty</string>
+    <string name="create_order">Generate order information</string>
+    <string name="crop">Crop</string>
+    <string name="crop_go_on">Continue crop</string>
+    <string name="crop_preview">Preview</string>
+    <string name="crop_range_toast">The picture is too small, change it.~</string>
+    <string name="crop_reset">Reset</string>
+    <string name="crop_scale">Proportion</string>
+    <string name="crop_scale_16_9">16:9</string>
+    <string name="crop_scale_1_1">1:1</string>
+    <string name="crop_scale_1_2">1:2</string>
+    <string name="crop_scale_2_1">2:1</string>
+    <string name="crop_scale_2_3">2:3</string>
+    <string name="crop_scale_3_2">3:2</string>
+    <string name="crop_scale_3_4">3:4</string>
+    <string name="crop_scale_4_3">4:3</string>
+    <string name="crop_scale_x_x">x:x</string>
+    <string name="dan_se_zi">Monochrome</string>
+    <string name="danya">Elegant</string>
+    <string name="double_finger_move_tips">Double finger moving photos</string>
+    <string name="download_fail_file_no_permissions">No permission operation(%d)</string>
+    <string name="download_fail_file_no_permissions_no_code">No permission operation</string>
+    <string name="du_shi">City</string>
+    <string name="edit_pk_entrance">try again</string>
+    <string name="effect">Special effects</string>
+    <string name="effect_meun_art">Art</string>
+    <string name="effect_meun_jingdian">classic</string>
+    <string name="effect_meun_renxiang">Portrait</string>
+    <string name="effect_meun_scene">scene</string>
+    <string name="effect_remover">Stain repair</string>
+    <string name="effect_remover_label">Brush</string>
+    <string name="effect_shui_mo">Ink</string>
+    <string name="effect_xian_jian">Sword</string>
+    <string name="effect_xin_hai_cheng">cartoon</string>
+    <string name="emoji_save_folder_name">Wink album</string>
+    <string name="enlarge_eye">big eyes</string>
+    <string name="eraser">Rubber</string>
+    <string name="eye_lightup">Bright</string>
+    <string name="eyeenlarge">Eyes enlarge</string>
+    <string name="feed_ad_countdown_tips_text">%1$sSeconds enter the floor</string>
+    <string name="feed_ad_vertical_video_detail_command_btn_text">see details</string>
+    <string name="fen_nen">Pink</string>
+    <string name="file_owner_permissions_can_not_change">Some files belong to this member, permissions cannot be modified</string>
+    <string name="files_permissions">Batch permission</string>
+    <string name="filter">Filter</string>
+    <string name="found_similar_person">Test you with similar characters</string>
+    <string name="frame_jigsaw">Photo frame</string>
+    <string name="fu_gu">Retro</string>
+    <string name="func_name_autobeauty">GlobalAutoBeautyEffect</string>
+    <string name="func_name_betterskin">GlobalBetterSkinEffect</string>
+    <string name="func_name_blurBG">GlobalBlurEffect</string>
+    <string name="func_name_boobs_enlarge">PartialBoobsEnlargeEffect</string>
+    <string name="func_name_crop">CropEffect</string>
+    <string name="func_name_decoration_bubble">AddingBubbleEffect</string>
+    <string name="func_name_effect_chuan_yue">ChuanYue</string>
+    <string name="func_name_effect_fen_nen">FenNen</string>
+    <string name="func_name_effect_hdr">HDR</string>
+    <string name="func_name_effect_hua_bu">HuaBu</string>
+    <string name="func_name_effect_meng_huan">MengHuan</string>
+    <string name="func_name_effect_nuan_cha">NuanCha</string>
+    <string name="func_name_effect_remover">PartialRemoverEffect</string>
+    <string name="func_name_effect_shui_mo">ShuiMo</string>
+    <string name="func_name_effect_su_miao">SuMiao</string>
+    <string name="func_name_effect_unsharp">GlobalUnsharpEffect</string>
+    <string name="func_name_effect_wei_mei">WeiMei</string>
+    <string name="func_name_effect_wu_yuemeigui">WuYueMeiGui</string>
+    <string name="func_name_effect_xian_huo">XianHuo</string>
+    <string name="func_name_effect_xian_jian">XianJian</string>
+    <string name="func_name_effect_xiang_bin">XiangBin</string>
+    <string name="func_name_effect_zheng_pian">ZhengPian</string>
+    <string name="func_name_effect_zi_ran">ZiRan</string>
+    <string name="func_name_filter">FilterEffect</string>
+    <string name="func_name_largereye">PartialEyeEnlargeEffect</string>
+    <string name="func_name_lightupeye">PartialEyeLightupEffect</string>
+    <string name="func_name_long_leg">LongLegEffect</string>
+    <string name="func_name_mosaic">MosaicEffect</string>
+    <string name="func_name_partialwhite">PartialSkinWhiteEffect</string>
+    <string name="func_name_redeye">PartialRedEyeRemoveEffect</string>
+    <string name="func_name_rotate">OneKeyRotateEffect</string>
+    <string name="func_name_scrawl">ScrawlEffect</string>
+    <string name="func_name_shape">PartialShapeEffect</string>
+    <string name="func_name_slim">PartialThinEffect</string>
+    <string name="func_name_smile">GlobalSmileEffect</string>
+    <string name="func_name_smooth">PartialSkinSmoothEffect</string>
+    <string name="func_name_teethwhite">PartialTeethWhiteEffect</string>
+    <string name="func_name_tone">GlobalToneEffect</string>
+    <string name="func_name_tone_bright">GlobalToneEffectBright</string>
+    <string name="func_name_tone_contrast">GlobalToneEffectContrast</string>
+    <string name="func_name_tone_saturation">GlobalToneEffectSaturation</string>
+    <string name="func_name_water_reflection">GlobalWaterReflectionEffect</string>
+    <string name="get_channel_fail">Get payment channel failed >>></string>
+    <string name="go_to_backgoroud">Baidu network disk has entered the background run</string>
+    <string name="guang_yin">time</string>
+    <string name="hdr">HDR</string>
+    <string name="hei_bai">Black and white</string>
+    <string name="history_aiapp_tag">beta version</string>
+    <string name="hua_bu">canvas</string>
+    <string name="huabei_pay">Gossip</string>
+    <string name="i_crop_free">free</string>
+    <string name="i_crop_reversal">Flip</string>
+    <string name="i_crop_rotation">Rotate</string>
+    <string name="if_save_net_cancel">Is it canceled to Baidu album?</string>
+    <string name="image_edit_file_not_exist">file does not exist</string>
+    <string name="image_edit_file_size_over_limit">This file is too big, you don't support editing.</string>
+    <string name="image_edit_input_hint">please enter text</string>
+    <string name="image_edit_load_fail">Image loading failed</string>
+    <string name="image_edit_loading_awaiting">Please wait…</string>
+    <string name="image_edit_more_effect_str">advanced</string>
+    <string name="image_edit_over_max_input_size">Enter up to 100 words</string>
+    <string name="image_edit_param_error">File parameter exception</string>
+    <string name="image_edit_save_fail">Picture saving failed</string>
+    <string name="image_edit_save_success">The picture has been saved as a copy</string>
+    <string name="image_edit_save_success_guide">Saved to your photo, click to view></string>
+    <string name="image_edit_save_success_guide_suffix">Click to view></string>
+    <string name="image_edit_unsupported_image_type">This file format is not supported</string>
+    <string name="info_get">Have received your information</string>
+    <string name="initial_text">Click Edit text</string>
+    <string name="input_name">please enter your name</string>
+    <string name="input_tel">Please enter your phone</string>
+    <string name="installment_total">Installment amount：￥%s</string>
+    <string name="jing_ling">Elf</string>
+    <string name="ka_fei">coffee</string>
+    <string name="keep_personal_info">Leave your contact information, our professional consultant will contact you, provide you with 1 to 1 service</string>
+    <string name="key_error">The material file in the SD card is detected, you need to re-download it to use</string>
+    <string name="lable_added">Add this tag</string>
+    <string name="lan_diao">Blue-tone</string>
+    <string name="language_new">zh</string>
+    <string name="liu_nian">fleeting time</string>
+    <string name="load_pic_failed">Unable to load pictures</string>
+    <string name="local_accessory">Base jewelry</string>
+    <string name="lomo">LOMO</string>
+    <string name="long_leg">Beautiful leg</string>
+    <string name="long_leg_limit_toast">The photo length exceeds the maximum value that can be handled, and the function cannot be entered.~</string>
+    <string name="lv_ye_xian_zong">Green wild fairy</string>
+    <string name="makeup">Makeup</string>
+    <string name="manager_permissions_can_not_change">Manageable, no modification</string>
+    <string name="material_download">download</string>
+    <string name="material_jigsaw_frame">frame</string>
+    <string name="material_more">More</string>
+    <string name="mei_bai">Whitening</string>
+    <string name="meng_huan">dream</string>
+    <string name="merge_confirm">merge</string>
+    <string name="merge_desc">Will not be split after merge</string>
+    <string name="merge_failed">Character merges failure!</string>
+    <string name="merge_person">Merger</string>
+    <string name="merge_person_edit_name_hint">Support Chinese and English, arrays and EMOJI</string>
+    <string name="merge_right_now">One-button merger</string>
+    <string name="merge_running">Character combined ...</string>
+    <string name="merge_success">The character combined successfully!</string>
+    <string name="merge_title">Is it confirmed to be the same person?</string>
+    <string name="mi_huan_xing_kong">璀璨 dream</string>
+    <string name="ming_liang">Bright</string>
+    <string name="modify_person_avtar">Modify character avatar</string>
+    <string name="mosaic">Mosaic</string>
+    <string name="mosaic_share_detail">Can Mosaic play?You will really play in your city!</string>
+    <string name="myshare_auto_fill_password_dialog_cancel_text">Cancel</string>
+    <string name="myshare_auto_fill_password_dialog_confirm_text">confirm</string>
+    <string name="myshare_auto_fill_password_dialog_content">After opening, visitors do not need to enter the extraction code, you can directly view sharing files</string>
+    <string name="myshare_auto_fill_password_dialog_title">Whether to open "Auto Pack Extract"</string>
+    <string name="myshare_link_auto_pwd_code">"Link:%1$s?pwd=%2$s 
+Extraction code:%2$s"</string>
+    <string name="myshare_link_pwd_code">"Link:%1$s 
+Extraction code:%2$s"</string>
+    <string name="ni_hong">Neon</string>
+    <string name="no_meterial_added">Please select the added decoration</string>
+    <string name="normal_manager">administrator</string>
+    <string name="nuancha">Warm tea</string>
+    <string name="nuomi_pay">Size payment</string>
+    <string name="open_channel_list">Other payment methods</string>
+    <string name="operate_confirm">Please make a beauty operation</string>
+    <string name="order_info_error">Order information is incorrect</string>
+    <string name="output_info">Submit a consultation</string>
+    <string name="pay_fail_please_tran_again">Payment failed, please try again</string>
+    <string name="pay_first_interface_fail">Payment of the first level interface returns an abnormality >>></string>
+    <string name="pay_second_interface_fail">Payment secondary interface returns an abnormality >>></string>
+    <string name="paying_4_no_pwd">Small-free deduction</string>
+    <string name="pd1">Please wait...</string>
+    <string name="pd2">This effect is running</string>
+    <string name="permissions_setting_text">Permission settings</string>
+    <string name="person_edit_name_title">Please add a name</string>
+    <string name="person_name_length_error">Name can't exceed 20 words</string>
+    <string name="picks_accessory">Subject sticker</string>
+    <string name="picks_frame">frame</string>
+    <string name="picks_jigsaw">puzzle</string>
+    <string name="picks_mosaic">Mosaic</string>
+    <string name="picks_niubility">Large piece</string>
+    <string name="picks_scrawl">Graffiti</string>
+    <string name="picks_text_bubble">Writing bubble</string>
+    <string name="place_do_mosaic">Please make mosaic operation first~</string>
+    <string name="please_select_files">Please select the file first.</string>
+    <string name="point_enter_bottom_hint">Background continues to migrate</string>
+    <string name="poly_error_tips">Experience, please try again later</string>
+    <string name="qing_xin">Fresh</string>
+    <string name="quick_pay_result_title">Cloud flash SDK returns the payment result:</string>
+    <string name="redeyeremove">Red eye</string>
+    <string name="remover_guide_txt">Apply to remove watermarks</string>
+    <string name="resizing">loading</string>
+    <string name="ri_chu">sunrise</string>
+    <string name="rlflip">Flip</string>
+    <string name="rotate_left">Counterclockwise</string>
+    <string name="rotate_right">Clockwise</string>
+    <string name="rotateflip">Rotate</string>
+    <string name="saturation">saturation</string>
+    <string name="save_dialog_title">Whether to give up the current picture operation?</string>
+    <string name="save_fail_io">Save failed.Your file name contains illegal characters, please modify and try again</string>
+    <string name="save_fail_memory">Save failed.Your SD card is insufficient, please try again</string>
+    <string name="save_fail_unkown">Save failed.Please try again</string>
+    <string name="save_giveup">give up</string>
+    <string name="save_successful">Picture saving success!</string>
+    <string name="save_to_local_fail">Save to local album failed</string>
+    <string name="saveas">keep</string>
+    <string name="saved_to_local">Saved</string>
+    <string name="scrawl_normal_pen_txt2">Border</string>
+    <string name="scrawl_share_detail">Graffiti uses, the small righteous is you!</string>
+    <string name="sdcard_full_text">If the remaining space of the SD card is insufficient, please delete some files and try again!</string>
+    <string name="sdcard_full_title">hint</string>
+    <string name="send_share_other_error">unknown mistake</string>
+    <string name="setting_image_save_no">no</string>
+    <string name="setting_image_save_yes">Yes</string>
+    <string name="shape">Intelligent beauty</string>
+    <string name="share_more">More</string>
+    <string name="share_name">Magic figure</string>
+    <string name="share_saving_file">Saving...</string>
+    <string name="sharelink_error_has_task">There are current other saved tasks are going on, please try again later</string>
+    <string name="shi_guang">Time</string>
+    <string name="show_facebook_and_twitter_share">true</string>
+    <string name="show_more_share">true</string>
+    <string name="show_tencent_share">false</string>
+    <string name="shu_ying">Excision</string>
+    <string name="similar_merge_title">Are TAs all the same person?</string>
+    <string name="skinprocess">Skinny skin</string>
+    <string name="skinsmooth">Acne</string>
+    <string name="skinwhite">Black eye circle</string>
+    <string name="skinwhiteteeth">White teeth</string>
+    <string name="smile">Smile</string>
+    <string name="snap_no_space">Photograph</string>
+    <string name="srcawl">brush</string>
+    <string name="start_fast_pay">Whether to open a single channel to quickly pay</string>
+    <string name="su_miao">sketch</string>
+    <string name="swan_app_activity_not_found">Not found</string>
+    <string name="swan_app_baidu_guarantee_title">Baidu guarantee</string>
+    <string name="swan_app_debug_so_info_error">Download information format is wrong</string>
+    <string name="swan_app_debug_so_info_success">Replace SO download information success</string>
+    <string name="swan_app_download_fail">Download task creation failed</string>
+    <string name="swan_app_file_non_exit">file does not exist</string>
+    <string name="swan_app_follow_failed">"Pay attention
+Please post the applet and pay attention"</string>
+    <string name="swan_app_img_menu_load_image">view image</string>
+    <string name="swan_app_img_menu_save_failed">Save failed</string>
+    <string name="swan_app_img_menu_save_image">save into the album</string>
+    <string name="swan_app_img_menu_save_image_net">Save to Baidu network disk</string>
+    <string name="swan_app_img_menu_save_success">Successfully saved</string>
+    <string name="swan_app_img_menu_search_image">Look for information</string>
+    <string name="swan_app_img_menu_set_wallpaper">Set wallpaper</string>
+    <string name="swan_app_img_menu_share_image">share pictures</string>
+    <string name="swan_app_img_menu_swan_title">Take the applet contained in the figure</string>
+    <string name="swan_app_login_immediately">log in immediately</string>
+    <string name="swan_app_login_refuse">Not logged in yet</string>
+    <string name="swan_app_menu_customer_service">Contact Customer Service</string>
+    <string name="swan_app_open_file_fail">Preview failed</string>
+    <string name="swan_app_page_back_modal_cancel">Think again</string>
+    <string name="swan_app_page_back_modal_content">Click OK to exit the current page;</string>
+    <string name="swan_app_page_back_modal_title">Confirm that you want to leave the current page?</string>
+    <string name="swan_app_pay_result_cancel">Pay cancellation</string>
+    <string name="swan_app_pay_result_fail">Pay failure</string>
+    <string name="swan_app_pay_result_paying">Be paying</string>
+    <string name="swan_app_pay_result_success">payment successful</string>
+    <string name="swan_app_picture_image_loading">loading…</string>
+    <string name="swan_app_picture_load_image_failed">Click on the screen, reload</string>
+    <string name="swan_app_picture_set_wallpaper_doing">Setting wallpaper...</string>
+    <string name="swan_app_picture_set_wallpaper_done">Set as wallpaper</string>
+    <string name="swan_app_picture_set_wallpaper_fail">Set wallpaper failure</string>
+    <string name="swan_app_picture_set_wallpaper_succeed">Set wallpaper success</string>
+    <string name="swan_app_query_file_fail">Query failed</string>
+    <string name="swan_app_reporting">Report</string>
+    <string name="swan_app_running_info">Run information</string>
+    <string name="swan_app_system_error">Error ...</string>
+    <string name="swan_app_task_not_found">Did not find the download task</string>
+    <string name="swan_app_teen_mode_add_favor_tips">Not supporting the applet</string>
+    <string name="swan_app_teen_mode_share_tips">Sharing applets do not support sharing</string>
+    <string name="swan_app_teen_mode_tips">Adolescent mode</string>
+    <string name="swan_games_loading_tips_left_quotation">“</string>
+    <string name="swan_games_loading_tips_right_quotation">”</string>
+    <string name="swan_loading_view_tag_downloading">downloading</string>
+    <string name="swan_offline_perf_tool_disable">Close performance tool switch</string>
+    <string name="swan_offline_perf_tool_enable">Open Performance Tool Switch</string>
+    <string name="swan_offline_perf_tool_message">Successful operation, After restarting</string>
+    <string name="swan_offline_perf_tool_tip">Switching performance tool switch</string>
+    <string name="swanapp_ad_landingpage_authenticated">verified</string>
+    <string name="swanapp_ad_landingpage_permission">Permission list</string>
+    <string name="swanapp_ad_landingpage_privacy">Privacy Policy</string>
+    <string name="swanapp_ad_landingpage_safe">Safety</string>
+    <string name="swanapp_ad_landingpage_title">download</string>
+    <string name="swanapp_auth_dialog_phone_explain">Bind mobile number</string>
+    <string name="swanapp_auth_dialog_userinfo_explain">User public information</string>
+    <string name="swanapp_close">closure</string>
+    <string name="swanapp_close_icon_description">CLOSE ICON</string>
+    <string name="swanapp_close_obtain_stability_data">Report Stability Data</string>
+    <string name="swanapp_completion_text">Finish</string>
+    <string name="swanapp_domain_error">Current page does not support access</string>
+    <string name="swanapp_error_page_app_forbidden">The applet has offline</string>
+    <string name="swanapp_error_page_app_offline">The applet has offline, temporarily unable to access</string>
+    <string name="swanapp_error_page_btn_text_goto_clear">Clean up</string>
+    <string name="swanapp_error_page_btn_text_goto_home">enter main page</string>
+    <string name="swanapp_error_page_btn_text_reload">Reload</string>
+    <string name="swanapp_error_page_disk_space_lack">"Disk space is insufficient
+Please clean up after cleaning"</string>
+    <string name="swanapp_error_page_feed_back">feedback</string>
+    <string name="swanapp_error_page_force_offline">"This applet has been forced offline due to violations
+I can't access it for a while"</string>
+    <string name="swanapp_error_page_memory_lack">"Insufficient mobile phone running resources
+Unable to open the small program page"</string>
+    <string name="swanapp_error_page_need_update_sdk_opensource">The current application cannot open the applet</string>
+    <string name="swanapp_error_page_net_unavailable">@string/swanapp_tip_net_unavailable</string>
+    <string name="swanapp_error_page_normal_error">Open failed, please try again later</string>
+    <string name="swanapp_error_page_path_forbidden">"There is a violation problem in this page
+Has stopped access"</string>
+    <string name="swanapp_error_page_pause_service">The applet has been suspended, temporarily unable to access</string>
+    <string name="swanapp_error_web_mode_entrance">Open in preview mode</string>
+    <string name="swanapp_force_web_mode">"Has entered the preview mode
+To exit it to restart the applet"</string>
+    <string name="swanapp_hover_dialog_not_tip_checked">No longer tips (small program playback audio needs to open the floating window permission)</string>
+    <string name="swanapp_icon_next_to_title">TITLE ICON</string>
+    <string name="swanapp_left_back_icon">LEFT BACK ICON</string>
+    <string name="swanapp_loading">Be buffered...</string>
+    <string name="swanapp_local_debug_running">Reminometric debugging...</string>
+    <string name="swanapp_low_memory_button_continue">continue to use</string>
+    <string name="swanapp_low_memory_button_exit">Exit immediately</string>
+    <string name="swanapp_low_memory_tip">It is insufficient to run, which may affect normal use.</string>
+    <string name="swanapp_menu_play_tts">Voice broadcast</string>
+    <string name="swanapp_multi_auth_default_name_end">Get the following information to serve you</string>
+    <string name="swanapp_multi_auth_default_name_head">Authorize</string>
+    <string name="swanapp_play_time_def">00:00:00</string>
+    <string name="swanapp_property_window_title">Performance data</string>
+    <string name="swanapp_publisher_error_empty">Title or content can't be empty</string>
+    <string name="swanapp_publisher_error_title">Page reconciliation failed</string>
+    <string name="swanapp_publisher_handling_pictures">Picture processing...</string>
+    <string name="swanapp_publisher_image_upload_fail">Image upload failed, Please try again later</string>
+    <string name="swanapp_publisher_network_disconnect">Network does not force, Please try again later</string>
+    <string name="swanapp_publisher_params_error">Tuning parameter resolution failed, Please check the tuning parameters</string>
+    <string name="swanapp_publisher_post_content">Please enter the body</string>
+    <string name="swanapp_publisher_post_title">Please enter the title</string>
+    <string name="swanapp_publisher_publish_text">release</string>
+    <string name="swanapp_publisher_title">Post a post</string>
+    <string name="swanapp_publisher_title_exceed">Total up to 20 words</string>
+    <string name="swanapp_reply_editor_place_holder">Please enter content</string>
+    <string name="swanapp_reply_editor_publish">Publish</string>
+    <string name="swanapp_reply_editor_text_999_overstep">overtake999+</string>
+    <string name="swanapp_reply_editor_text_lack">Please enter at least%dCharacter</string>
+    <string name="swanapp_reply_editor_text_overstep">overtake%dCharacter</string>
+    <string name="swanapp_reply_editor_text_remain">Remain%dCharacter</string>
+    <string name="swanapp_save_draft_dialog_btn_negative">Not Retained</string>
+    <string name="swanapp_save_draft_dialog_btn_positive">reserve</string>
+    <string name="swanapp_save_draft_dialog_message">Do you retain edited content?</string>
+    <string name="swanapp_save_draft_dialog_title">Reserve content</string>
+    <string name="swanapp_stability_profile_pause">Pause stability test</string>
+    <string name="swanapp_stability_profile_resume">Continue stability test</string>
+    <string name="swanapp_startup_fcp_not_canceled">FCP NOT CALLED</string>
+    <string name="swanapp_startup_fip_not_canceled">FIP NOT CALLED</string>
+    <string name="swanapp_startup_fmp_not_canceled">FMP NOT CALLED</string>
+    <string name="swanapp_startup_ftp_not_canceled">FTP NOT CALLED</string>
+    <string name="swanapp_startup_window_title">Start information</string>
+    <string name="swanapp_string_go_settings">Set</string>
+    <string name="swanapp_swan_check_update_text">Check for updates</string>
+    <string name="swanapp_swan_shimmer_loading_poor_net">The current network signal is weak, working hard to load</string>
+    <string name="swanapp_tip_package_unavailable">Load failed, please try again later</string>
+    <string name="swanapp_tip_request_all_fail">Service response is abnormal, please wait patiently or retry later</string>
+    <string name="swanapp_tip_show_js_error">The small program page is abnormal, please try again later</string>
+    <string name="swanapp_tip_waiting_and_retry">@string/swanapp_tip_request_default</string>
+    <string name="swanapp_video_brightness">bright adjustment</string>
+    <string name="swanapp_video_click_retry">Click to try</string>
+    <string name="swanapp_video_error_no_wifi">No WiFi available, continue playing with mobile networks</string>
+    <string name="swanapp_video_network_continue">Continue to play</string>
+    <string name="swanapp_video_network_error">Network does not force, please try again later</string>
+    <string name="swanapp_video_rate">Double speed</string>
+    <string name="swanapp_video_rate_1">0.75X</string>
+    <string name="swanapp_video_rate_2">1.0X</string>
+    <string name="swanapp_video_rate_3">1.25X</string>
+    <string name="swanapp_video_rate_4">1.5X</string>
+    <string name="swanapp_video_rate_5">2.0X</string>
+    <string name="swanapp_video_rate_left">Has open for you</string>
+    <string name="swanapp_video_rate_right">Play</string>
+    <string name="swanapp_video_refresh">Video playback failed, please try again</string>
+    <string name="swanapp_video_replay">Replay</string>
+    <string name="swanapp_video_sound">Volume adjustment</string>
+    <string name="tang_shui_pian">Sugar sheet</string>
+    <string name="teenager_no_pay">Adolescent models are unable to use payment function</string>
+    <string name="text">letter</string>
+    <string name="thin">Thin face slimming</string>
+    <string name="thin_face">Thin face</string>
+    <string name="title_activity_ghost_makeup">Joy makeup</string>
+    <string name="tone">Color</string>
+    <string name="trace_btn_switch_thread">Switch thread</string>
+    <string name="trace_tip_info">-Call stack Function execution time Thread name Funny function</string>
+    <string name="uamp_artist_unknown">Unknown singer</string>
+    <string name="uamp_play_speed_100">Normal speed</string>
+    <string name="uamp_play_speed_125">1.25x speed</string>
+    <string name="uamp_play_speed_200">Double speed</string>
+    <string name="uamp_play_speed_300">Three-fold speed</string>
+    <string name="uamp_play_speed_75">0.75x speed</string>
+    <string name="uamp_source_tab_all_audio">All audio</string>
+    <string name="uamp_source_tab_all_video">All videos</string>
+    <string name="uamp_source_tab_play_list">playlist</string>
+    <string name="ucar_dialog_msg_no_network">There is currently no network signal, please play the network after the network is enabled in a safe situation.</string>
+    <string name="udflip">Up and down</string>
+    <string name="unauthentic_auth_subtitle">Extra 50g speed space</string>
+    <string name="unauthentic_auth_title">Enterprise Certification</string>
+    <string name="unauthentic_auth_url">https://mr.baidu.com/r/zqTsFG1Uty?from=na</string>
+    <string name="unknow_pay_channel">Unknown payment method</string>
+    <string name="unsharp">Sharpen</string>
+    <string name="unzip_select_to_here">Decompression to</string>
+    <string name="unzip_to_here">Unzipped here</string>
+    <string name="user_center_default_op_name">Super member limited time low price</string>
+    <string name="viewer_select_file_text">View selected files (%d）</string>
+    <string name="water_reflection_blur">blurry</string>
+    <string name="water_reflection_bottom">Down</string>
+    <string name="water_reflection_check">Water ripple</string>
+    <string name="water_reflection_left">left</string>
+    <string name="water_reflection_right">right</string>
+    <string name="water_reflection_title">picture</string>
+    <string name="water_reflection_up">superior</string>
+    <string name="wei_mei">Beautiful</string>
+    <string name="word">sticker</string>
+    <string name="wu_yue_mei_gui">Rose</string>
+    <string name="wx_h5_trade_fail">WeChat H5 payment checkpoint failed</string>
+    <string name="wx_pay">WeChat payment</string>
+    <string name="wx_pay_result_title">WeChat SDK returns the result of payment:</string>
+    <string name="xian_huo">Fresh</string>
+    <string name="xiangbin">Champagne</string>
+    <string name="xiao_zhen">Small town</string>
+    <string name="xuan_guang">Glare</string>
+    <string name="youth_space_full_text">Insufficient space, please expand your larger space in time</string>
+    <string name="yuan_tu">Original image</string>
+    <string name="zheng_pian">positive</string>
+    <string name="zi_ran">nature</string>
 </resources>
