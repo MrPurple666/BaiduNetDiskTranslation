@@ -32,7 +32,7 @@ If you find an error or inaccuracy in the translation, please fill out the form 
 | Windows  | [Replace Files][win-replace]     |7.14.2.9| [git][win_replace_files_git] 
 | Windows  | [Repack Edition][win-repack]     |7.14.2.9| [mediafire][win_repack_files_mfire] |
 | Windows  | [Portable Edition][win-portable] |7.14.2.9| [mediafire][win_portable_files_mfire]|
-| Android  | Install                          |11.20.2 |  [mediafire][win_apk_files_mfire]      |
+| Android  | Install                          |11.20.2 |  Not available    |
 
 # Install Info
 
