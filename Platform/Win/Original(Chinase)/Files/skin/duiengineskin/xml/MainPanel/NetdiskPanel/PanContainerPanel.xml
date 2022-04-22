@@ -1,12 +1,15 @@
 <dlg  name="PanContainerPanel" pos="0,0,-0,-0" show="1">
-  <dlg name="pan_container_toolbar" pos="0,0,-0,45">
+  <dlg name="pan_container_toolbar" pos="0,0,-250,45">
     <include src="IDR_DUI_PAN_CONTAINER_TOOLBAR"/>
+  </dlg>
+  <dlg name="pan_container_searchbox" pos="-250,0,-0,45">
+    <include src="IDR_DUI_FILE_CONTAINER_SEARCHBOX"/>
   </dlg>
   <dlg name="pan_container_address_panel" pos="0,45,-0,@40">
     <include src="IDR_DUI_FILE_CONTAINER_ADDRESS_PANEL"/>
   </dlg>
   <dlg name="pan_container_view_panel" pos="0,85,-0,-34">
-	  <include src="IDR_DUI_FILE_VIEWCONTAINER_PANEL"/>
+	<include src="IDR_DUI_FILE_VIEWCONTAINER_PANEL"/>
   </dlg>
   <!-- 加速相关引导提示-->
   <dlg name="pan_speedup_tip_panel" pos="-560,-102,-20,-34" skin="speeduptippanel_bg" show="0">

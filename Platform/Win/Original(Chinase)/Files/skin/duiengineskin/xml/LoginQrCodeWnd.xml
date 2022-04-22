@@ -6,14 +6,6 @@
 		<text name="txt_error_tip" pos="5,[10,-5,@18" crtext="999999" align="center">%str284%</text>
 		<text name="txt_error_code" pos="5,[5,-5,@18" crtext="999999" align="center"></text>
       </dlg>
-      <dlg name="dlg_qrcode_status" pos="10,10,-10,-10" show="0">
-        <img name="img_qrcode" pos="0,0,-0,-0" show="0"></img>
-        <dlg name="dlg_qrcode_tip" pos="0,0,-0,-0" show="0">
-          <img name="img_tip" pos="31,16,@72,@72"></img>
-          <text name="txt_qtcode_status" pos="0,[5,-0,@14" crtext="030B1A" font="0200:微软雅黑" align="center"></text>
-          <text name="txt_qtcode_descrip" pos="0,[5,-0,@14" crtext="495366" font="0000:微软雅黑" align="center"></text>
-        </dlg>
-      </dlg>
     </dlg>
   </body>
 </layer>

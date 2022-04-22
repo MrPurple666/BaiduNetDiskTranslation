@@ -20,6 +20,7 @@
 <resid type="XML" name="IDR_DUI_PAN_CONTAINER_TOOLBAR" file="xml\MainPanel\NetdiskPanel\FileContainerPanel\PanToolbar.xml"/>
 <resid type="XML" name="IDR_DUI_SAFEBOX_CONTAINER_TOOLBAR" file="xml\MainPanel\NetdiskPanel\FileContainerPanel\SafeboxToolbar.xml"/>
 <resid type="XML" name="IDR_DUI_FILE_CONTAINER_ADDRESS_PANEL" file="xml\MainPanel\NetdiskPanel\FileContainerPanel\AddressPanel.xml"/>
+<resid type="XML" name="IDR_DUI_FILE_CONTAINER_SEARCHBOX" file="xml\MainPanel\NetdiskPanel\FileContainerPanel\SearchBox.xml"/>
 <resid type="XML" name="IDR_DUI_FILE_CONTAINER_FULL_TEXT_SEARCH_TIP" file="xml\MainPanel\NetdiskPanel\FileContainerPanel\FullTextSearchTip.xml"/>
 <resid type="XML" name="IDR_DUI_FILE_CONTAINER_STATUS_PANEL" file="xml\MainPanel\NetdiskPanel\FileContainerPanel\StatusPanel.xml"/>
 <resid type="XML" name="IDR_DUI_FILE_VIEWCONTAINER_PANEL" file="xml\MainPanel\NetdiskPanel\FileContainerPanel\ViewContainerPanel.xml"/>
@@ -263,9 +264,6 @@
 <resid type="IMGX" name="IDP_IMG_LOGIN_BTN_GETSMSDPASS" file="image\LoginDlg\btn_get_sms_password.png"/>
 <resid type="IMGX" name="IDP_IMG_LOGIN_PHONE" file="image\LoginDlg\phone.png"/>
 <resid type="IMGX" name="IDP_IMG_LOGIN_SHORTMESSAGE" file="image\LoginDlg\shortmessage.png"/>
-<resid type="IMGX" name="IDP_IMG_LOGIN_QRCODE_ERROR" file="image\LoginDlg\qr_login_error.png"/>
-<resid type="IMGX" name="IDP_IMG_LOGIN_QRCODE_LOGGING" file="image\LoginDlg\qr_logging.png"/>
-<resid type="IMGX" name="IDP_IMG_LOGIN_QRCODE_SCAN" file="image\LoginDlg\qr_scan.png"/>
 
 <!--便携式设备备份相关资源-->
 <resid type="IMGX" name="IDP_IMG_PDB_BTN_REG" file="image\PortableDeviceBackupDlg\btn_onekey_backup.png" />

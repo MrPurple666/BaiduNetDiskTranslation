@@ -1,9 +1,13 @@
 <dlg name="RecentPanel" pos="0,0,-0,-0">
   <!--工具栏-->
-  <dlg name="recent_toolbar" pos="0,0,-0,@45">
+  <dlg name="recent_toolbar" pos="0,0,-250,@45">
     <include src="IDR_DUI_RECENT_PANEL_TOOLBAR"/>
   </dlg>
 
+  <dlg name="recent_container_searchbox" pos="-250,0,-0,45">
+    <include src="IDR_DUI_FILE_CONTAINER_SEARCHBOX"/>
+  </dlg>
+  
   <!--地址栏-->
   <dlg name="recent_address_panel" pos="0,45,-0,@40">
     <include src="IDR_DUI_FILE_CONTAINER_ADDRESS_PANEL"/>

@@ -110,6 +110,10 @@
   <String id="IDS_DEVICELISTDLG_PHONEERROR_TIP" value="刷新手机列表失败！" />
   <String id="IDS_DEVICELISTDLG_LOADING_PHONE_TIP" value="拉取手机中..." />
   <!-- 分享 -->
+  <String id="IDS_TIP_SHARE_IDENTIFY" value="分享身份:" />
+  <String id="IDS_TIP_SHARE_PERSONAL" value="个人身份" />
+  <String id="IDS_TIP_SHARE_ENTERPRISE" value="企业身份" />
+
   <String id="IDS_TIP_SHARE_CREATING" value="正在加密生成分享链接及提取码..." />
   <String id="IDS_TIP_SHARE_CREATING_PUBLIC" value="正在生成链接..." />
   <String id="IDS_TIP_SHARE_CREATING_SUCCESS" value="链接提取码已生成，只有你分享的好友能看到哦~" />
@@ -217,8 +221,8 @@
   4、下载券如何追加？网盘App-我的-我的分享-分享详情，可查看券使用情况并可追加同类型券。
   5、分享过期极速下载券如何处理？若分享过期，添加的券未被用完，可在分享详情中恢复已过期分享，券可恢复。"/>
   <String id="IDS_SHARE_LINK_ENT_PRIV_BUY" value="去购买>"/>
-  <String id="IDS_SHARE_LINK_ENT_PRIV_TICKET_TIP" value="--极速畅享链接"/>
-  <String id="IDS_SHARE_LINK_ENT_PRIV_TICKET_TIP_CERT" value="--来自企业帐号【%s】的极速畅享链接"/>
+  <String id="IDS_SHARE_LINK_ENT_PRIV_TICKET_TIP" value="【%s】通过百度网盘企业版分享"/>
+  <String id="IDS_SHARE_LINK_ENT_PRIV_TICKET_TIP_CERT" value="【%s】通过百度网盘企业版分享的极速畅享链接"/>
 
   <!-- 批量创建链接-->
   <String id="IDS_SHARE_LINK_ACCESS_NUMBER" value="访问人数:" />

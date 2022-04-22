@@ -14,8 +14,7 @@
                     <text pos="22,12,@130,@12" crtext="64360D">%str6009%</text>
                     <text pos="[0,12,@260,@12" crtext="64360D">%str6010%</text>
                 </dlg>
-                <imgbtn name="btn_svip" pos="40,199,@184,@40" font="0200:微软雅黑" crtext="664100" skin="cloudbridge_yellow_btn" cursor="hand">%str6011%</imgbtn>
-                <imgbtn name="btn_workspace" pos="240,199,@184,@40" font="0200:微软雅黑" crtext="FFFFFF" skin="cloudbridge_blue_btn" cursor="hand">%str6012%</imgbtn>
+                <imgbtn name="btn_svip" pos="140,199,@184,@40" font="0200:微软雅黑" crtext="664100" skin="cloudbridge_yellow_btn" cursor="hand">%str6011%</imgbtn>            
             </dlg>
         </dlg>
     </body>

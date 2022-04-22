@@ -16,13 +16,14 @@
                 <imgbtn name="btn_list_status_close" skin="titlepanel_close_btn" pos="-40,-30,@15,@16" cursor="arrow" tip="%str250%"></imgbtn>
             </dlg>
             <hr pos="0,47,-0,@1" size="1" crbg="F5F6FA"></hr>
-            <dlg name="dlg_top_float" pos="10,49,-10,@36" crbg="F5F6FA" show="0">
+            <dlg name="dlg_top_float" pos="10,56,-10,@36" crbg="F5F6FA" show="0">
                 <text name="txt_float_tip" pos="24,9,@280,@18" crtext="878C9C"></text>
                 <link name="link_float" pos="-72,9,@48,@18" crtext="06A7FF" cursor="hand"></link>
             </dlg>
-            <listboxex name="listbox_sync_list" pos="0,49,-0,-0" show="1" itemheight="72" virtual="1">
+            <listboxex name="listbox_sync_list" pos="0,64,-0,-0" show="1" itemheight="72" virtual="1">
                 <template>
                     <dlg name="dlg_file_item" pos="0,0,-0,-0">
+                        <dlg name="dlg_bkg" pos="0,0,-0,-0" skin="listitem_hover_bkg" cursor="hand" show="0"/>
                         <img name="img_file_icon" pos="22,21,@30,@30"></img>
                         <link name="link_file_name" pos="68,19" align="left" hight="16" maxwidth="180" dotted="1" font="0000:微软雅黑"></link>
                         <text name="txt_file_size" pos="68,41" crtext="AFB3BF" font="0000:微软雅黑"/>
@@ -35,9 +36,9 @@
                             <text name="txt_file_status" pos="-168,40" crtext="AFB3BF" font="0000:微软雅黑"/>                           
                             <text name="txt_speed" pos="[8,40" crtext="AFB3BF" font="0000:微软雅黑"/>
                         </dlg>
-                        <dlg name="dlg_sync_error_file" show="0" pos="-355,10,-0,-0">
+                        <dlg name="dlg_sync_error_file" show="0" pos="-355,10,-0,-0" cursor="hand">
                             <text name="txt_error_msg" pos="0,10,-25,@16" crtext="FF436A" align="right" font="0200:微软雅黑"/>
-                            <imgbtn name="btn_error_svip" pos="-350,30,-25,@12" crtext="BF8726" align="right" font="0000:微软雅黑" skin="titlepanel_translucent"></imgbtn>
+                            <imgbtn name="btn_error_svip" pos="-350,30,-25,@12" crtext="BF8726" align="right" font="0000:微软雅黑" skin="titlepanel_translucent" show="0"></imgbtn>
                         </dlg>
                     </dlg>
                 </template>

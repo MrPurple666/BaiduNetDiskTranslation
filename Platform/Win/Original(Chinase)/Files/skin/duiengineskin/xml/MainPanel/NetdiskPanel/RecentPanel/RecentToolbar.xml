@@ -8,8 +8,4 @@
   <imgbtn name="btn_del_file" class="toolbarbtn" skin="mainpanel_toolbar_bg_transparent" font="0000:微软雅黑" hoverfont="0004:微软雅黑" crtext="06A7FF" crdisabled="AFB3BF" textmode="40824" icoskin="mainpanel_toolbar_delete" icoxoffset="12" icoyoffset="8" txtxoffset="32" pos="[5,7,@90,@32" cursor="arrow">%str2366%</imgbtn>
   <dropbutton name="btn_more" class="toolbarbtn" skin="mainpanel_toolbar_bg_transparent" font="0000:微软雅黑" hoverfont="0004:微软雅黑" crtext="06A7FF" crdisabled="AFB3BF" textmode="40824" icoskin="mainpanel_toolbar_more" drop-skin="mainpanel_toolbar_drop_arrow" icoxoffset="12" icoyoffset="8" txtxoffset="32" pos="[5,7,@70,@32" cursor="arrow" show="0">%str2159%</dropbutton>
   <imgbtn name="btn_export_onlinedoc" class="toolbarbtn" skin="mainpanel_toolbar_bg_transparent" font="0000:微软雅黑" hoverfont="0004:微软雅黑" crtext="06A7FF" crdisabled="AFB3BF" textmode="40824" icoskin="mainpanel_toolbar_export_onlinedoc" icoxoffset="12" icoyoffset="8" txtxoffset="32" pos="85,7,@70,@32" show="0" cursor="arrow">%str2363%</imgbtn>
-
-  <imgbtn name="btn_sort" skin="mainpanel_toolbar_sort" pos="-54,12" show="0" cursor="arrow" tip="%str2176%"></imgbtn>
-  <imgbtn name="btn_thumb" skin="mainpanel_toolbar_thumb" pos="-28,12" show="1" cursor="arrow" tip="%str2175%"></imgbtn>
-  <imgbtn name="btn_list" skin="mainpanel_toolbar_list" pos="-28,12" show="0" cursor="arrow" tip="%str2174%"></imgbtn>
 </dlg>
