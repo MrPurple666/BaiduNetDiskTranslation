@@ -110,7 +110,12 @@
   <String id="IDS_STATIC_NOPHONE_STEP4" value="（Поддерживает только Baidu SkyDrive Android 7.4 и выше）" />
   <String id="IDS_DEVICELISTDLG_PHONEERROR_TIP" value="Не удалось обновить список телефонов!" />
   <String id="IDS_DEVICELISTDLG_LOADING_PHONE_TIP" value="Извлечение телефона..." />
-  <!-- Поделиться -->
+
+
+  <!-- Поделиться --> 
+  <String id="IDS_TIP_SHARE_IDENTIFY" value="Обмен идентичностью:" />
+  <String id="IDS_TIP_SHARE_PERSONAL" value="Личная идентичность" />
+  <String id="IDS_TIP_SHARE_ENTERPRISE" value="Корпоративная идентичность" />
   <String id="IDS_TIP_SHARE_CREATING" value="Создание приватной ссылки защ паролем..." />
   <String id="IDS_TIP_SHARE_CREATING_PUBLIC" value="Создание ссылки..." />
   <String id="IDS_TIP_SHARE_CREATING_SUCCESS" value="Пароль сгенерирован, только ваши друзья могут видеть общий досту" />
@@ -218,8 +223,8 @@
   4. Как добавить купон на скачивание? Онлайн-приложение - моя - моя доля - поделитесь подробностями. Вы можете проверить использование купонов и добавить похожие купоны.
   5. Что делать с просроченными купонами на скачивание? Если срок действия акции истек, а добавленный купон не был израсходован, вы можете восстановить истекшую долю в деталях акции, и купон может быть восстановлен."/>
   <String id="IDS_SHARE_LINK_ENT_PRIV_BUY" value="Перейти к покупке>"/>
-  <String id="IDS_SHARE_LINK_ENT_PRIV_TICKET_TIP" value="--быстрая связь"/>
-  <String id="IDS_SHARE_LINK_ENT_PRIV_TICKET_TIP_CERT" value="--из номера счета предприятия [%s] быстрая и быстрая ссылка"/>
+  <String id="IDS_SHARE_LINK_ENT_PRIV_TICKET_TIP" value="【%s】Доля через Baidu Network Disk Enterprise версия"/>
+  <String id="IDS_SHARE_LINK_ENT_PRIV_TICKET_TIP_CERT" value="【%s】Чрезвычайно наслаждались ссылками, которые разделяют Baidu Network Disk Enterprise Edition"/>
 
   <!-- Создавайте ссылки оптом-->
   <String id="IDS_SHARE_LINK_ACCESS_NUMBER" value="Количество посетителей:" />

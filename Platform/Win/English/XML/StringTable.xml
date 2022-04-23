@@ -112,7 +112,12 @@
   <String id="IDS_STATIC_NOPHONE_STEP4" value="(Baidu cloud: Only Android 7.4 and above)" />
   <String id="IDS_DEVICELISTDLG_PHONEERROR_TIP" value="Refresh phone list failed!" />
   <String id="IDS_DEVICELISTDLG_LOADING_PHONE_TIP" value="Load phone..." />
+
   <!-- 分享 -->
+  <String id="IDS_TIP_SHARE_IDENTIFY" value="Sharing identity:" />
+  <String id="IDS_TIP_SHARE_PERSONAL" value="Personal Identity" />
+  <String id="IDS_TIP_SHARE_ENTERPRISE" value="Corporate identity" />
+
   <String id="IDS_TIP_SHARE_CREATING" value="Share links are encrypted and password is being generated..." />
   <String id="IDS_TIP_SHARE_CREATING_PUBLIC" value="Generating links..." />
   <String id="IDS_TIP_SHARE_CREATING_SUCCESS" value="Link password generated, only your friends can see the share~" />
@@ -220,8 +225,8 @@
   4、How to add a download ticket?Network Disk App - My - My Sharing - Share Details, View Voucher Use and Additional Voucher。
   5、How to handle the expiration speed download ticket?If you share an expiration, the added coupon is not running, you can restore expired sharing in the sharing details, and the coupon can recover."/>
   <String id="IDS_SHARE_LINK_ENT_PRIV_BUY" value="Buy>"/>
-  <String id="IDS_SHARE_LINK_ENT_PRIV_TICKET_TIP" value="--Extremely enjoyed link"/>
-  <String id="IDS_SHARE_LINK_ENT_PRIV_TICKET_TIP_CERT" value="--Speed enjoys link from enterprise account [%s]"/>
+  <String id="IDS_SHARE_LINK_ENT_PRIV_TICKET_TIP" value="(%s) Share through Baidu network disk enterprise version"/>
+  <String id="IDS_SHARE_LINK_ENT_PRIV_TICKET_TIP_CERT" value="(%s) Extremely enjoyed links shared by Baidu network disk Enterprise Edition"/>
 
 
       <!-- 批量创建链接-->

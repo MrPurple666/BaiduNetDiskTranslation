@@ -77,12 +77,7 @@
   <s id="231">Your account has been signed in to other computers and forgot to bring it</s>
   <s id="232">The power of the mobile phone is too low. It may be shut down and disconnected at any time</s>
   <s id="233">The phone has been with a local disconnect </s>
-  <s id="244">Please refresh the retry</s>
-  <s id="245">Login failed</s>
-  <s id="246">Please confirm the login on the mobile phone</s>
-  <s id="247">Scan success</s>
-  <s id="248">please wait patiently</s>
-  <s id="249">logging in</s>
+
   <!--登录相关文案-->
   <s id="250">Close</s>
   <s id="251">Minimize</s>
@@ -965,6 +960,7 @@
   <s id="2125">Next</s>
   <s id="2126">Is the first page</s>
   <s id="2127">Is the last page</s>
+  <s id="2128">云编辑</s>
   <!--工具栏-->
   <s id="2150">Upload</s>
   <s id="2151">Download</s>
@@ -1006,12 +1002,12 @@
   <s id="2187">New online document</s>
   <s id="2188">Rename</s>
   <s id="2189">Copy to</s>
-  <s id="2190">Safe %s/%s used</s>
+  <s id="2190">Hidden space has been used%s/%s</s>
   <s id="2191">Import online documents</s>
   <s id="2192">Blank document</s>
   <s id="2193">More templates</s>
   <s id="2194">Batch Rename</s>
-  <s id="2195">Cloud editing</s>
+  <s id="2195">Cloud editing (test)</s>
 
   <!--Address Bar-->
   <s id="2200">My network drive</s>
@@ -1600,7 +1596,7 @@
   <s id="4094">Corporate certification limited time</s>
   <s id="4095">Team collaborate more efficient, sharing security and authority</s>
   <s id="4096">Verify</s>
-  <s id="4097">Cloud editing (test)</s>
+  <s id="4097">云编辑（测试）</s>
   <s id="4098">Easy, anywhere, editors</s>
   <s id="4099">Cloud editing</s>
   <!-- Navigation bar widget -->
@@ -2011,6 +2007,9 @@
   <s id="4844">Synchronize the file from the phone</s>
   <s id="4845">Almost one step in sync the file commented quickly</s>
   <s id="4846">Set the file synchronization path, file speed download to the computer</s>
+  <s id="4847">This file contains illegal content and cannot be downloaded</s>
+  <s id="4848">Document is occupied or no permissions</s>
+  <s id="4849">File update failed, local files are occupied</s>
 
   <s id="4850">data migration</s>
   <s id="4851">Migrating data, please be patient...</s>
@@ -2231,5 +2230,7 @@
   <s id="6051">Deactivate synchronization success</s>
   <s id="6052">Deactivate synchronization failed</s>
   <s id="6053">Currently stopped synchronization, you can restart synchronization only after 3S settings</s>
+  <s id="6054">The current directory has no permissions, please change the directory permissions or select other permissions directory</s>
+  <s id="6055">Set the directory does not exist, please re-select</s>
     
 </string>
