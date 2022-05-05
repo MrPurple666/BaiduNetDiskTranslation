@@ -29,7 +29,7 @@ If you find an error or inaccuracy in the translation, please fill out the form 
 
 | Platform | Install                          |Version | Download                  |
 | -------- | -------------------------------- |--------| ------------------------- |
-| Windows  | [Replace Files][win-replace]     |7.14.2.9| [git][win_replace_files_git] 
+| Windows  | [Replace Files][win-replace]     |7.14.2.9/7.16.0.6| [git][win_replace_files_git] 
 | Windows  | [Repack Edition][win-repack]     |7.14.2.9| [mediafire][win_repack_files_mfire] |
 | Windows  | [Portable Edition][win-portable] |7.14.2.9| [mediafire][win_portable_files_mfire]|
 | Android  | Install                          |11.21.3 | [mediafire][win_apk_files_mfire]    |
