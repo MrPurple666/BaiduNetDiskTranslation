@@ -1,4 +1,4 @@
-<UI version="1.0">
+<!-- <UI version="1.0">
 	<IBGRegionPanel sizeAsParent="true" name="nmPanelAdActivity" size="340,320">
 		<Children>
 			<IBGRegionPanel dock="DOCK_TOP" name="nmPanelContent" size="340,320" margin="0,0,0,0">
@@ -35,4 +35,4 @@
 	<IBGRegionPanel sizeAsParent="true" name="nmPanelContainer" size="340,320" ncHitTest="1">
 		<Children></Children>
 	</IBGRegionPanel>
-</UI>
+</UI> -->

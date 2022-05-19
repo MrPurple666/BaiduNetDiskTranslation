@@ -1,4 +1,4 @@
-<UI version="1.0">
+<!-- <UI version="1.0">
 	<IBGRegionPanel sizeAsParent="true" name="nmPanelTrayHintTemplateNew" ncHitTest="1">
 		<Children>
 			<IBGRegionPanel dock="DOCK_FILL" name="nmPanelContainer" margin="2,0,2,12"/>
@@ -64,4 +64,4 @@
 			</IBGRegionPanel>
 		</Children>
 	</IBGRegionPanel>
-</UI>
+</UI> -->

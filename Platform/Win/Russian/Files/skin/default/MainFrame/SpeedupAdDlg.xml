@@ -1,4 +1,4 @@
-<UI version="1.0">
+<!-- <UI version="1.0">
 	<IBGCommonWin name="SpeedupAdDialog" rect="0,0,552,390" sysBtnConfig="mainPanel_CapButton" selfDrawCaption="true" unvariedSize="true" showCloseButton="true" showMinButton="false" showMaxButton="false" config="standardWebWin" toolWin="true">
 		<Children>
 			<IBGRegionPanel sizeAsParent="true">
@@ -27,4 +27,4 @@
 			</IBGRegionPanel>
 		</Children>
 	</IBGCommonWin>
-</UI>
+</UI> -->
