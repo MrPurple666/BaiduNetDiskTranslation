@@ -4,6 +4,8 @@
     <text pos="64,15,@90,@20" crtext="FFFFFF" font="0204:微软雅黑">%str4533%</text>
     <img pos="-173,0,@173,@50" skin="workspace_right_bkg"></img>
 
+    <!--快速上手-->
+    <imgbtn name="btn_guide" skin="workspace_tutorial_quick_start" cursor="hand" pos="-420,11,@84,@28" show="0"></imgbtn>
     <!--用户头像-->
     <img name="img_userhead" pos="-320,|-15,@30,@30" skin="titlepanel_default_head">
         <img name="img_userhead_frame" pos="0,0,-0,-0" skin="workspace_titlepanel_headframe"/>

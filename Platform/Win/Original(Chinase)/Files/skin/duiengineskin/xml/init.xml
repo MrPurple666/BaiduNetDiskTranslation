@@ -780,7 +780,7 @@
         <imgframe name="mainpanel_addresspanel_searchbox_hisitem_normal" src="IDP_MAINPANEL_ADDRESSPANEL_SEARCHBOX_HISITEM_NORMAL" left="4" top="4" right="4" bottom="4"/>
         <imgframe name="mainpanel_addresspanel_searchbox_his_bg" src="IDP_MAINPANEL_ADDRESSPANEL_SEARCHBOX_HIS_BG" left="4" top="0" right="4" bottom="0"/>
         <gif name="gif_addresspanel_refreshing" src="IDP_MAINPANEL_ADDRESSPANEL_REFRESHING"/>
-
+        <imgframe name="mainpanel_addresspanel_fulltext_search_guide" src="IDP_MAINPANEL_ADDRESSPANEL_FULLTEXT_SEARCH_GUIDE" />
         <!--主面板状态栏-->
         <gif name="gif_statuspanel_portabledevice" src="IDP_GIF_STATUSPANEL_PORTABLE_DEVICE"/>
         <gif name="gif_statuspanel_lock" src="IDP_GIF_STATUSPANEL_LOCK"/>
@@ -832,8 +832,9 @@
         <imglst name="mainpanel_guidepanel_pdftoword" src="IDP_MAINPANEL_GUIDEPANEL_PDFTOWORD"/>
         <imglst name="mainpanel_guidepanel_arrow_down" src="IDP_MAINPANEL_GUIDEPANEL_ARROW_DOWN"/>
         <imglst name="mainpanel_guidepanel_arrow_up" src="IDP_MAINPANEL_GUIDEPANEL_ARROW_UP"/>
+        <imglst name="mainpanel_guidepanel_yellow_btn" src="IDP_MAINPANEL_GUIDEPANEL_YELLOW_BTN" subwidth="80"/>
 
-        <!--拖拽提示皮肤-->
+      <!--拖拽提示皮肤-->
         <imgframe name="dragtip_bkg" src="IDP_DRAGTIP_BKG" left="4" top="4" right="4" bottom="4"/>
         <!--编辑窗口皮肤-->
         <imgframe name="edit_wnd_bkg" src="IDP_EDITWND_BKG" subwidth="24" left="2" top="2" right="2" bottom="2"/>
@@ -1168,12 +1169,21 @@
         <imgframe name="workspace_guide_warning_bkg" src="IDP_DUI_WORKSPACE_GUIDE_WARNING_BKG"/>
         <imgframe name="workspace_guide_file_import" src="IDP_DUI_WORKSPACE_GUIDE_FILE_IMPORT"/>
         <imgframe name="workspace_guide_video_play" src="IDP_DUI_WORKSPACE_GUIDE_VIDEO_PLAY" subwidth="104"/>
+        <imgframe name="workspace_guide_page_select_1" src="IDP_DUI_WORKSPACE_GUIDE_PAGE_SELECT_1"/>
+        <imgframe name="workspace_guide_page_select_2" src="IDP_DUI_WORKSPACE_GUIDE_PAGE_SELECT_2"/>
+        <imgframe name="workspace_guide_page_select_3" src="IDP_DUI_WORKSPACE_GUIDE_PAGE_SELECT_3"/>
+        <imgframe name="workspace_guide_page_restrain" src="IDP_DUI_WORKSPACE_GUIDE_RESTRAIN"/>
+        <imgframe name="workspace_guide_page_close" src="IDP_DUI_WORKSPACE_GUIDE_CLOSE"/>
         <gif name="gif_workspace_guide_upload" src="IDP_DUI_WORKSPACE_GIF_GUIDE_UPLOAD" minframedelay="30"/>
         <gif name="gif_workspace_guide_history" src="IDP_DUI_WORKSPACE_GIF_GUIDE_HISTORY" minframedelay="30"/>
         <gif name="gif_workspace_guide_viptest" src="IDP_DUI_WORKSPACE_GIF_GUIDE_VIPTEST" minframedelay="30"/>
         <gif name="gif_workspace_guide_quick_sync" src="IDP_DUI_WORKSPACE_GIF_GUIDE_QUICK_SYNC" minframedelay="30"/>
         <gif name="gif_workspace_quick_sync" src="IDP_DUI_WORKSPACE_GIF_QUICK_SYNC" minframedelay="30"/>
-
+        <gif name="gif_workspace_guide_complete" src="IDP_DUI_WORKSPACE_GUIDE_COMPLETE" minframedelay="30"/>
+        <gif name="gif_workspace_guide_page_intro_1" src="IDP_DUI_WORKSPACE_GUIDE_PAGE_INTRO_1" minframedelay="30"/>
+        <gif name="gif_workspace_guide_page_intro_2" src="IDP_DUI_WORKSPACE_GUIDE_PAGE_INTRO_2" minframedelay="30"/>
+        <imgframe name="workspace_guide_page_intro_3" src="IDP_DUI_WORKSPACE_GUIDE_PAGE_INTRO_3"/>
+      
         <imgframe name="workspace_guide_backup_select" src="IDP_DUI_WORKSPACE_GUIDE_BACKUP_SELECT"/>
         <imgframe name="workspace_guide_viptest_select" src="IDP_DUI_WORKSPACE_GUIDE_VIPTEST_SELECT"/>
         <imgframe name="workspace_guide_history_select" src="IDP_DUI_WORKSPACE_GUIDE_HISTORY_SELECT"/>
@@ -1194,6 +1204,8 @@
         <imgframe name="workspace_guide_frame" src="IDP_DUI_WORKSPACE_GUIDE_FRAME"/>
         <imgframe name="workspace_guide_frame_mask" src="IDP_DUI_WORKSPACE_GUIDE_FRAME_MASK"/>
         <imgframe name="workspace_guide_left_frame" src="IDP_DUI_WORKSPACE_GUIDE_LEFT_FRAME"/>
+        <imgframe name="workspace_guide_white_frame" src="IDP_DUI_WORKSPACE_GUIDE_WHITE_FRAME" left="8" right="8" top="8" bottom="8"/>
+        <imgframe name="workspace_guide_gray_frame" src="IDP_DUI_WORKSPACE_GUIDE_GRAY_FRAME" left="8" right="8" top="8" bottom="8"/>
         <imgframe name="workspace_guide_mask" src="IDP_DUI_WORKSPACE_GUIDE_MASK"/>
         <imgframe name="workspace_status_panel" src="IDP_DUI_WORKSPACE_STATUS_PANEL" subwidth="20"/>
         <imgframe name="workspace_status_guide" src="IDP_DUI_WORKSPACE_FILE_THUMB_ITEM_STATUS_GUIDE"/>
@@ -1240,6 +1252,27 @@
         <imgframe name="workspace_status_phone_rec" src="IDP_DUI_WORKSPACE_STATUS_PHONE_REC"/>
         <imgframe name="workspace_logo_icon" src="IDP_DUI_WORKSPACE_LOGO_ICON"/>
         <imgframe name="workspace_attention" src="IDP_DUI_WORKSPACE_ATTENTION"/>
+        <imgframe name="workspace_tutorial_base" src="IDP_DUI_WORKSPACE_TUTORIAL_BASE"/>
+        <imgframe name="workspace_tutorial_first" src="IDP_DUI_WORKSPACE_TUTORIAL_FIRST"/>
+        <gif name="workspace_tutorial_congratulations" src="IDP_DUI_WORKSPACE_TUTORIAL_CONGRATULATIONS" minframedelay="30"/>
+        <gif name="workspace_tutorial_do_sync_opertion" src="IDP_DUI_WORKSPACE_TUTORIAL_DO_SYNC_OPERTION" minframedelay="30"/>
+        <gif name="workspace_tutorial_get_gift" src="IDP_DUI_WORKSPACE_TUTORIAL_GET_GIFT" minframedelay="30"/>
+        <gif name="workspace_tutorial_open_local_dir" src="IDP_DUI_WORKSPACE_TUTORIAL_OPEN_LOCAL_DIR" minframedelay="30"/>
+        <gif name="workspace_tutorial_sync_cloud_dir" src="IDP_DUI_WORKSPACE_TUTORIAL_SYNC_CLOUD_DIR" minframedelay="30"/>
+        <gif name="workspace_tutorial_sync_complete" src="IDP_DUI_WORKSPACE_TUTORIAL_SYNC_COMPLETE" minframedelay="30"/>
+        <imgframe name="workspace_tutorial_blue" src="IDP_DUI_WORKSPACE_TUTORIAL_BLUE"/>
+        <gif name="workspace_tutorial_gift_gif" src="IDP_DUI_WORKSPACE_TUTORIAL_GIFT_GIF"/>
+        <imgframe name="workspace_tutorial_progress_one" src="IDP_DUI_WORKSPACE_TUTORIAL_PROGRESS_ONE"/>
+        <imgframe name="workspace_tutorial_progress_two" src="IDP_DUI_WORKSPACE_TUTORIAL_PROGRESS_TWO"/>
+        <imgframe name="workspace_tutorial_progress_three" src="IDP_DUI_WORKSPACE_TUTORIAL_PROGRESS_THREE"/>
+        <imgframe name="workspace_tutorial_progress_four" src="IDP_DUI_WORKSPACE_TUTORIAL_PROGRESS_FOUR"/>
+        <imgframe name="workspace_tutorial_progress_unstart" src="IDP_DUI_WORKSPACE_TUTORIAL_PROGRESS_UNSTART"/>
+        <imgframe name="workspace_tutorial_gift_png" src="IDP_DUI_WORKSPACE_TUTORIAL_GIFT_PNG"/>
+        <imgframe name="workspace_tutorial_progress_inprogress" src="IDP_DUI_WORKSPACE_TUTORIAL_INPROGRESS"/>
+        <imgframe name="workspace_tutorial_quick_start" src="IDP_DUI_WORKSPACE_TUTORIAL_QUICK_START" subwidth="84"/>
+        <imgframe name="workspace_tutorial_quick_start_guide_flow" src="IDP_DUI_WORKSPACE_TUTORIAL_QUICK_START_GUIDE_FLOW"/>
+        <imgframe name="workspace_tutorial_quick_start_guide" src="IDP_DUI_WORKSPACE_TUTORIAL_QUICK_START_GUIDE"/>
+        <imgframe name="workspace_tutorial_quick_start_base" src="IDP_DUI_WORKSPACE_TUTORIAL_QUICK_START_BASE"/>
 
         <!-- 游戏中心 -->
         <imgframe name="gamecenter_dlg_btn_refresh" src="IDP_DUI_GAMECENTER_BTN_REFRESH" subwidth="15"/>
@@ -1257,7 +1290,8 @@
         
         <!-- 搜索文件 -->
         <imgframe name="search_yun_file_failed_tip_icon" src="IDP_SEARCH_YUN_FAILED_TIP_ICON"/>
-        <imgframe name="search_yun_file_failed_tip_bkg" src="IDP_SEARCH_YUN_FAILED_TIP_BKG"/>
+        <imgframe name="common_tip_bgk_yellow" src="IDP_COMMON_TIPBKG_YELLOW" left="15" right="15" top="4" bottom="4"/>
+        <imgframe name="common_tip_bgk_gray" src="IDP_COMMON_TIPBKG_GRAY" left="15" right="15" top="4" bottom="4"/>
         <!--流量包-->
         <imgframe name="speedup_package_blue_warninng" src="IDP_SPEEDUP_PACKAGE_BLUE_WARNING" />
         <imgframe name="speedup_package_svip_icon" src="IDP_SPEEDUP_PACKAGE_SVIP_ICON" />
@@ -1569,12 +1603,15 @@
         <!--同名文件操作-->
         <class name="cls_samename_file_cancel_btn" skin="lightblue_bg_btn" font="0200:微软雅黑" crtext="06A7FF" textmode="25"/>
         <class name="cls_samename_file_confirm_btn" skin="wechatbackup_guide_dlg_btn" font="0200:微软雅黑" crtext="ffffff" textmode="25"/>
-        
+		    
         <!--操作记录-->
         <class name="cls_operation_record_filename" crtext="03081A" font="0000:微软雅黑" hoverfont="0000:微软雅黑" align="left"/>
 
         <!--容量超限提醒-->
         <class name="cls_quota_svip_guide_btn" skin="usercard_svip_btn" crtext="664100" font="0000:微软雅黑" textmode="25" cursor="arrow"/>
+    
+        <class name="cls_sync_init_guide_link" cursor="hand" crtext="06a8ff" crhover="06a8ff" font="0000:微软雅黑" hoverfont="0000:微软雅黑"/>
+        
   </style>
 
     <objattr>

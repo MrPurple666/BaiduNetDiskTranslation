@@ -22,6 +22,7 @@
 <resid type="XML" name="IDR_DUI_FILE_CONTAINER_ADDRESS_PANEL" file="xml\MainPanel\NetdiskPanel\FileContainerPanel\AddressPanel.xml"/>
 <resid type="XML" name="IDR_DUI_FILE_CONTAINER_SEARCHBOX" file="xml\MainPanel\NetdiskPanel\FileContainerPanel\SearchBox.xml"/>
 <resid type="XML" name="IDR_DUI_FILE_CONTAINER_FULL_TEXT_SEARCH_TIP" file="xml\MainPanel\NetdiskPanel\FileContainerPanel\FullTextSearchTip.xml"/>
+<resid type="XML" name="IDR_DUI_FILE_CONTAINER_FULL_TEXT_SEARCH_GUIDE_DLG" file="xml\MainPanel\NetdiskPanel\FileContainerPanel\FullTextSearchGuideDlg.xml"/>
 <resid type="XML" name="IDR_DUI_FILE_CONTAINER_STATUS_PANEL" file="xml\MainPanel\NetdiskPanel\FileContainerPanel\StatusPanel.xml"/>
 <resid type="XML" name="IDR_DUI_FILE_VIEWCONTAINER_PANEL" file="xml\MainPanel\NetdiskPanel\FileContainerPanel\ViewContainerPanel.xml"/>
 <resid type="XML" name="IDR_DUI_TRANS_LEFT_PANEL" file="xml\MainPanel\TransPanel\TransLeftPanel.xml"/>
@@ -934,6 +935,7 @@
 <resid type="IMGX" name="IDP_MAINPANEL_ADDRESSPANEL_SEARCHBOX_HISITEM_NORMAL" file="image\MainPanel\NetdiskPanel\AddressPanel\SearchBox\seachbox_history_item_normal.png"/>
 <resid type="IMGX" name="IDP_MAINPANEL_ADDRESSPANEL_SEARCHBOX_HIS_BG" file="image\MainPanel\NetdiskPanel\AddressPanel\SearchBox\searchbox_history_bkg.png"/>
 <resid type="IMGX" name="IDP_MAINPANEL_ADDRESSPANEL_REFRESHING" file="image\MainPanel\NetdiskPanel\AddressPanel\refreshing.gif"/>
+<resid type="IMGX" name="IDP_MAINPANEL_ADDRESSPANEL_FULLTEXT_SEARCH_GUIDE" file="image\MainPanel\NetdiskPanel\AddressPanel\fulltext_search_guide.png"/>
 
 <!--主面板状态栏-->
 <resid type="IMGX" name="IDP_GIF_STATUSPANEL_PORTABLE_DEVICE" file="image\MainPanel\NetdiskPanel\StatusPanel\portable_dev.gif" />
@@ -986,6 +988,7 @@
 <resid type="IMGX" name="IDP_MAINPANEL_GUIDEPANEL_PDFTOWORD" file="image\MainPanel\NetdiskPanel\ViewContainerPanel\GuideTipPanel\pdftoword_tip.png"/>
 <resid type="IMGX" name="IDP_MAINPANEL_GUIDEPANEL_ARROW_DOWN" file="image\MainPanel\NetdiskPanel\ViewContainerPanel\GuideTipPanel\down_arrow.png"/>
 <resid type="IMGX" name="IDP_MAINPANEL_GUIDEPANEL_ARROW_UP" file="image\MainPanel\NetdiskPanel\ViewContainerPanel\GuideTipPanel\up_arrow.png"/>
+<resid type="IMGX" name="IDP_MAINPANEL_GUIDEPANEL_YELLOW_BTN" file="image\MainPanel\NetdiskPanel\ViewContainerPanel\GuideTipPanel\yellow_btn.png"/>
 
 
 <!--拖拽提示-->
@@ -1306,6 +1309,7 @@
 <resid type="XML" name="IDR_DUI_WORKSPACE_FUNC_GUIDE_DLG" layer="1" file="xml\MainPanel\WorkSpaceDlg\WorkSpaceResidentGuide\WorkSpaceFunctionGuideDlg.xml"/>
 <resid type="XML" name="IDR_DUI_SYNC_DIR_FIRST_GUIDE_DLG" layer="1" file="xml\MainPanel\WorkSpaceDlg\WorkSpaceResidentGuide\SyncDirFirstGuideDlg.xml"/>
 <resid type="XML" name="IDR_DUI_WORKSPACE_LEFT_FUNC_GUIDE_DLG" layer="1" file="xml\MainPanel\FuncGuideDlg\WorkspaceLeftFuncGuideWnd.xml"/>
+<resid type="XML" name="IDR_DUI_WORKSPACE_INIT_SETTING_DLG_V2" layer="1" file="xml\MainPanel\WorkSpaceDlg\WorkSpaceResidentGuide\WorkSpaceInitSettingDlgV2.xml"/>
 
 <resid type="XML" name="IDR_DUI_WORKSPACE_FILE_TOOLBAR_PANEL" file="xml\MainPanel\WorkSpaceDlg\NetdiskPanel\FileContainerPanel\Toolbar.xml"/>
 <resid type="XML" name="IDR_DUI_WORKSPACE_FILE_ADDRESS_PANEL" file="xml\MainPanel\WorkSpaceDlg\NetdiskPanel\FileContainerPanel\AddressPanel.xml"/>
@@ -1372,7 +1376,14 @@
 <resid type="IMGX" name="IDP_DUI_WORKSPACE_GUIDE_FILE_IMPORT" file="image\WorkSpaceDlg\GuidePanel\guide_file_import.png"/>
 <resid type="IMGX" name="IDP_NAVIGATEPANEL_SYNC_DIR_ICON_BG_BUBBLE" file="image\WorkSpaceDlg\GuidePanel\sync_dir_icon_bubble_bg.png"/>
 <resid type="IMGX" name="IDP_DUI_WORKSPACE_GUIDE_VIDEO_PLAY" file="image\WorkSpaceDlg\GuidePanel\video_play.png"/>
-
+<resid type="IMGX" name="IDP_DUI_WORKSPACE_GUIDE_PAGE_INTRO_1" file="image\WorkSpaceDlg\GuidePanel\page_guide_1.gif"/>
+<resid type="IMGX" name="IDP_DUI_WORKSPACE_GUIDE_PAGE_INTRO_2" file="image\WorkSpaceDlg\GuidePanel\page_guide_2.gif"/>
+<resid type="IMGX" name="IDP_DUI_WORKSPACE_GUIDE_PAGE_INTRO_3" file="image\WorkSpaceDlg\GuidePanel\page_guide_3.png"/>
+<resid type="IMGX" name="IDP_DUI_WORKSPACE_GUIDE_PAGE_SELECT_1" file="image\WorkSpaceDlg\GuidePanel\page_select_1.png"/>
+<resid type="IMGX" name="IDP_DUI_WORKSPACE_GUIDE_PAGE_SELECT_2" file="image\WorkSpaceDlg\GuidePanel\page_select_2.png"/>
+<resid type="IMGX" name="IDP_DUI_WORKSPACE_GUIDE_PAGE_SELECT_3" file="image\WorkSpaceDlg\GuidePanel\page_select_3.png"/>
+<resid type="IMGX" name="IDP_DUI_WORKSPACE_GUIDE_RESTRAIN" file="image\WorkSpaceDlg\GuidePanel\restrain.png"/>
+<resid type="IMGX" name="IDP_DUI_WORKSPACE_GUIDE_CLOSE" file="image\WorkSpaceDlg\GuidePanel\close.png"/>
 
 <resid type="IMGX" name="IDP_DUI_WORKSPACE_GIF_GUIDE_UPLOAD" file="image\WorkSpaceDlg\GuideGifPanel\guide_upload.gif"/>
 <resid type="IMGX" name="IDP_DUI_WORKSPACE_GIF_GUIDE_HISTORY" file="image\WorkSpaceDlg\GuideGifPanel\guide_history.gif"/>
@@ -1387,6 +1398,7 @@
 <resid type="IMGX" name="IDP_DUI_WORKSPACE_GUIDE_UPLOAD_NORMAL" file="image\WorkSpaceDlg\GuideGifPanel\guide_upload_normal.png"/>
 <resid type="IMGX" name="IDP_DUI_WORKSPACE_GIF_GUIDE_QUICK_SYNC" file="image\WorkSpaceDlg\GuidePanel\workspac_guide_quick_sync.gif"/>
 <resid type="IMGX" name="IDP_DUI_WORKSPACE_GIF_QUICK_SYNC" file="image\WorkSpaceDlg\GuidePanel\workspace_quick_sync.gif"/>
+<resid type="IMGX" name="IDP_DUI_WORKSPACE_GUIDE_COMPLETE" file="image\WorkSpaceDlg\GuidePanel\guide_complete.gif"/>
 
 <resid type="IMGX" name="IDP_DUI_WORKSPACE_FILE_TOOLBAR_DARKBLUE_BTN" file="image\WorkSpaceDlg\FilePanel\ToolBar\blue_dark_btn.png"/>
 <resid type="IMGX" name="IDP_DUI_WORKSPACE_FILE_TOOLBAR_LIGHTBLUE_BTN" file="image\WorkSpaceDlg\FilePanel\ToolBar\blue_light_btn.png"/>
@@ -1406,6 +1418,8 @@
 <resid type="IMGX" name="IDP_DUI_WORKSPACE_GUIDE_FRAME" file="image\WorkSpaceDlg\guide_frame.png"/>
 <resid type="IMGX" name="IDP_DUI_WORKSPACE_GUIDE_FRAME_MASK" file="image\common\window\workspace_guide_frame_with_mask.png"/>
 <resid type="IMGX" name="IDP_DUI_WORKSPACE_GUIDE_LEFT_FRAME" file="image\WorkSpaceDlg\guide_left.png"/>
+<resid type="IMGX" name="IDP_DUI_WORKSPACE_GUIDE_WHITE_FRAME" file="image\WorkSpaceDlg\guide_bkg_white.png"/>
+<resid type="IMGX" name="IDP_DUI_WORKSPACE_GUIDE_GRAY_FRAME" file="image\WorkSpaceDlg\guide_bkg_gray.png"/>
 <resid type="IMGX" name="IDP_DUI_WORKSPACE_GUIDE_MASK" file="image\WorkSpaceDlg\guide_mask.png"/>
 <resid type="IMGX" name="IDP_DUI_WORKSPACE_STATUS_PANEL" file="image\WorkSpaceDlg\workspace_status_panel.png"/>
 <resid type="IMGX" name="IDP_DUI_WORKSPACE_FEEDBACK" file="image\WorkSpaceDlg\workspace_feedback.png"/>
@@ -1441,9 +1455,34 @@
 <resid type="IMGX" name="IDP_DUI_WORKSPACE_LOGO_ICON" file="image\WorkSpaceDlg\workspace_icon.png"/>
 <resid type="IMGX" name="IDP_DUI_WORKSPACE_ATTENTION" file="image\WorkSpaceDlg\workspace_attention.png"/>
 <resid type="IMGX" name="IDP_DUI_WORKSPACE_HISTORY_FRAME" file="image\WorkSpaceDlg\workspace_history.png"/>
+<resid type="IMGX" name="IDP_DUI_WORKSPACE_TUTORIAL_BASE" file="image\WorkSpaceDlg\Tutorial\workspace_tutorial_base.png"/>
+<resid type="IMGX" name="IDP_DUI_WORKSPACE_TUTORIAL_FIRST" file="image\WorkSpaceDlg\Tutorial\workspace_tutorial_first.png"/>
+<resid type="IMGX" name="IDP_DUI_WORKSPACE_TUTORIAL_CONGRATULATIONS" file="image\WorkSpaceDlg\Tutorial\congratulations.gif"/>
+<resid type="IMGX" name="IDP_DUI_WORKSPACE_TUTORIAL_DO_SYNC_OPERTION" file="image\WorkSpaceDlg\Tutorial\do_sync_opertion.gif"/>
+<resid type="IMGX" name="IDP_DUI_WORKSPACE_TUTORIAL_GET_GIFT" file="image\WorkSpaceDlg\Tutorial\get_gift.gif"/>
+<resid type="IMGX" name="IDP_DUI_WORKSPACE_TUTORIAL_OPEN_LOCAL_DIR" file="image\WorkSpaceDlg\Tutorial\open_local_dir.gif"/>
+<resid type="IMGX" name="IDP_DUI_WORKSPACE_TUTORIAL_SYNC_CLOUD_DIR" file="image\WorkSpaceDlg\Tutorial\sync_cloud_dir.gif"/>
+<resid type="IMGX" name="IDP_DUI_WORKSPACE_TUTORIAL_SYNC_COMPLETE" file="image\WorkSpaceDlg\Tutorial\sync_complete.gif"/>
+<resid type="IMGX" name="IDP_DUI_WORKSPACE_TUTORIAL_BLUE" file="image\WorkSpaceDlg\Tutorial\workspace_tutorial_bule.png"/>
+
+<resid type="IMGX" name="IDP_DUI_WORKSPACE_TUTORIAL_GIFT_GIF" file="image\WorkSpaceDlg\Tutorial\gift.gif"/>
+<resid type="IMGX" name="IDP_DUI_WORKSPACE_TUTORIAL_GIFT_PNG" file="image\WorkSpaceDlg\Tutorial\gift.png"/>
+<resid type="IMGX" name="IDP_DUI_WORKSPACE_TUTORIAL_INPROGRESS" file="image\WorkSpaceDlg\Tutorial\inprogress.png"/>
+<resid type="IMGX" name="IDP_DUI_WORKSPACE_TUTORIAL_PROGRESS_ONE" file="image\WorkSpaceDlg\Tutorial\progress_one.png"/>
+<resid type="IMGX" name="IDP_DUI_WORKSPACE_TUTORIAL_PROGRESS_TWO" file="image\WorkSpaceDlg\Tutorial\progress_two.png"/>
+<resid type="IMGX" name="IDP_DUI_WORKSPACE_TUTORIAL_PROGRESS_THREE" file="image\WorkSpaceDlg\Tutorial\progress_three.png"/>
+<resid type="IMGX" name="IDP_DUI_WORKSPACE_TUTORIAL_PROGRESS_FOUR" file="image\WorkSpaceDlg\Tutorial\progress_four.png"/>
+<resid type="IMGX" name="IDP_DUI_WORKSPACE_TUTORIAL_PROGRESS_UNSTART" file="image\WorkSpaceDlg\Tutorial\unstart.png"/>
+<resid type="IMGX" name="IDP_DUI_WORKSPACE_TUTORIAL_QUICK_START" file="image\WorkSpaceDlg\Tutorial\quick_start.png"/>
+<resid type="IMGX" name="IDP_DUI_WORKSPACE_TUTORIAL_QUICK_START_GUIDE_FLOW" file="image\WorkSpaceDlg\Tutorial\quick_start_guide_flow.png"/>
+<resid type="IMGX" name="IDP_DUI_WORKSPACE_TUTORIAL_QUICK_START_GUIDE" file="image\WorkSpaceDlg\Tutorial\quick_start_guide.png"/>
+<resid type="IMGX" name="IDP_DUI_WORKSPACE_TUTORIAL_QUICK_START_BASE" file="image\WorkSpaceDlg\Tutorial\quick_start_base.png"/>
+
 <resid type="XML" name="IDR_DUI_WORKSPACE_EXSPEED_SYNC_GUIDE_PANEL" layer="1" file="xml\MainPanel\WorkSpaceDlg\WorkspaceIncrSyncGuide.xml"/>
 <resid type="XML" name="IDR_DUI_WORKSPACE_DELETE_PROMPT" layer="1" file="xml\MainPanel\WorkSpaceDlg\WorkspaceDeletePrompt.xml"/>
 <resid type="XML" name="IDR_DUI_WORKSPACE_SET_PATH_DLG" layer="1" file="xml\MainPanel\WorkSpaceDlg\WorkspaceSetPathDlg.xml"/>
+<resid type="XML" name="IDR_DUI_WORKSPACE_BEGINNER_TUTORIAL_DLG" layer="1" file="xml\MainPanel\WorkSpaceDlg\WorkspaceBeginnerTutorial.xml"/>
+<resid type="XML" name="IDR_DUI_WORKSPACE_QUICK_START_GUIDE_PANEL" layer="1" file="xml\MainPanel\WorkSpaceDlg\WorkspaceQuickStartGuide.xml"/>
 
 <!-- 游戏中心 -->
 <resid type="XML" name="IDR_DUI_GAMECENTER_DLG" layer="1" file="xml\GameCenterDlg\GameCenterDlg.xml"/>
@@ -1467,7 +1506,8 @@
 
 <!-- 文件搜索tip资源 -->
 <resid type="IMGX" name="IDP_SEARCH_YUN_FAILED_TIP_ICON" file="image\SearchFileTip\tip_icon.png"/>
-<resid type="IMGX" name="IDP_SEARCH_YUN_FAILED_TIP_BKG" file="image\SearchFileTip\bkg.png"/>
+<resid type="IMGX" name="IDP_COMMON_TIPBKG_YELLOW" file="image\common\Tipbgk\yellow_bgk.png"/>
+<resid type="IMGX" name="IDP_COMMON_TIPBKG_GRAY" file="image\common\Tipbgk\gray_bkg.png"/>
 
 <!--流量包-->
 <resid type="IMGX" name="IDP_SPEEDUP_PACKAGE_BLUE_WARNING" file="image\MainPanel\SpeedupPackage\blue_warning.png"/>

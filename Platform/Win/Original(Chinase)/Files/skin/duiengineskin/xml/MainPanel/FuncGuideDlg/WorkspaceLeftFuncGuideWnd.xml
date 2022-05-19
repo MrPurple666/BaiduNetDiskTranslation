@@ -9,10 +9,10 @@
       </dlg>
       <dlg pos="0,0,-0,-0" name="workspace_first_guide" skin="workspace_guide_bkg_two" show="0">
           <imgbtn name="btn_close" skin="wechatbackup_guide_dlg_close" pos="-62,46,@16,@16" cursor="arrow" tip="%str250%"/>
-          <text pos="38,46,-30,66" align="center" crtext="03081A" font="0200:微软雅黑" >%str4614%</text>
-          <text pos="38,74,-30,94" align="center" crtext="636D7E" font="0200:微软雅黑" >%str4615%</text>
-          <text pos="38,100,-30,120" align="center" crtext="636D7E" font="0200:微软雅黑" >%str4618%</text>
-          <img pos="38,120,@320,@94" skin="workspace_guide_img"/>
+          <text name="txt_wfg_title" pos="38,46,-30,66" align="center" crtext="03081A" font="0200:微软雅黑" >%str4614%</text>
+          <text name="txt_wfg_sub_title" pos="38,74,-30,94" align="center" crtext="636D7E" font="0200:微软雅黑" >%str4615%</text>
+          <text name="txt_wfg_content" pos="38,100,-30,120" align="center" crtext="636D7E" font="0200:微软雅黑" >%str4618%</text>
+          <img name="img_wfg_bg" pos="38,120,@320,@94" skin="workspace_guide_img"/>
           <imgbtn name="btn_ok" skin="wechatbackup_guide_dlg_btn" pos="134,-81,@128,@36" align="center" crtext="FFFFFF" font="0200:微软雅黑">%str4202%</imgbtn>
       </dlg>
       <dlg pos="0,0,-0,-0" name="workspace_second_guide" skin="workspace_guide_bkg_two" show="0">
@@ -27,6 +27,7 @@
           <text pos="85,37" align="left" crtext="636D7E" font="0200:微软雅黑">%str4844%</text>
       </dlg>
       <dlg pos="0,0,-0,-0" name="workspace_hover_guide" skin="workspace_left_hover_bkg" show="0">
+          <imgbtn name="btn_close" skin="wechatbackup_guide_dlg_close" pos="-40,20,@16,@16" cursor="arrow" tip="%str250%"/>
           <dlg name="dlg_sync_status" pos="35,34,-0,74">
               <img name="img_status" pos="0,8" skin="workspace_left_hover_success"></img>
               <text name="txt_main_title" pos="38,0" font="0404:微软雅黑" crtext="03081A"></text>
