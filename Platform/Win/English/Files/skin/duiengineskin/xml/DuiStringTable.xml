@@ -1879,6 +1879,8 @@
   <s id="4620">Unlimited sync privilege has expired</s>
   <s id="4621">The synchronization traffic of this month has been used, and the SVIP is opened to enjoy unlimited synchronous traffic.</s>
   <s id="4622">The network disk space is insufficient, and the SVIP is opened 5T super large space. </s>
+  <s id="4623">Synchronous traffic this month is about to be used up</s>
+  <s id="4624">Excess will stop synchronization</s>
 
   <s id="4650">Function boot</s>
   <s id="4651">View local file location</s>
@@ -1904,6 +1906,7 @@
   <s id="4671">Suggest a personal computer selection</s>
   <s id="4672">Unable to use full features</s>
   <s id="4673">One minute to learn synchronous space</s>
+  <s id="4677">Retry</s>  
 
   <!-- tray -->
   <s id="4700">Synchronous traffic is insufficient</s>
@@ -2009,8 +2012,8 @@
   <s id="4846">Set the file synchronization path, file speed download to the computer</s>
   <s id="4847">This file contains illegal content and cannot be downloaded</s>
   <s id="4848">Document is occupied or no permissions</s>
-  <s id="4849">File update failed, local files are occupied</s>
-
+  <s id="4850">Local files are occupied</s>
+    
   <s id="4850">data migration</s>
   <s id="4851">Migrating data, please be patient...</s>
   <s id="4852">Data migration is successful</s>
@@ -2021,6 +2024,11 @@
   <s id="4857">Save your file in a new directory, the files in the old directory are no longer updated, and the release computer space can be removed.</s>
   <s id="4858">If the disk remains in the disk, please re-select</s>
   <s id="4859">Calculate disk size, please wait patiently...</s>
+  <s id="4860">Local files are occupied</s>
+  <s id="4861">The synchronous folder does not read and write permissions, please change the corresponding permissions</s>
+  <s id="4862">"%s"The folder does not read and write permissions, please change the corresponding permissions</s>
+  <s id="4863">Check now</s>
+  <s id="4864">1.Synchronous traffic is consumed when synchronized\n2.Gift traffic is limited to the monthly valid</s>
 
   <!-- blank page -->
   <s id="4900">Mushing your computer file into</s>
@@ -2233,4 +2241,66 @@
   <s id="6054">The current directory has no permissions, please change the directory permissions or select other permissions directory</s>
   <s id="6055">Set the directory does not exist, please re-select</s>
     
+  <!--Synchronous space settings guide V2-->
+  <s id="6060">Welcome to synchronous space</s>
+  <s id="6061">Want to go home to work, and the back computer is too heavy?</s>
+  <s id="6062">The computer modify the office document and design document files in the home, which will be automatically synchronized to the work computer</s>
+  <s id="6063">Next step</s>
+  <s id="6064">Is it too troublesome to manually backup files?</s>
+  <s id="6065">Change the file in the computer folder, the cloud disk will be automatically updated simultaneously without manual upload download</s>
+  <s id="6066">More feature introduction</s>
+  <s id="6067">1 minute video                             Quickly understand the synchronous space</s>
+  <s id="6068">advanced settings</s>
+  <s id="6069">start using</s>
+  <s id="6070">Please select the location of the local synchronous folder</s>
+  <s id="6071">Replace the synchronization directory</s>
+  <s id="6072">The synchronous space needs to set your local location as the synchronous directory. The files of this location will automatically synchronize for you. You can modify the synchronous directory position in "Settings" later</s>
+  <s id="6073">Fast synchronization</s>
+  <s id="6074">Complete synchronization</s>
+  <s id="6075">The shortcut of the file only displayed in the local area, download it when you open the file-Save hard disk space</s>
+  <s id="6076">The cloud file is automatically downloaded to the local area, occupying the hard disk space</s>
+  <s id="6077">Now start exploring the use of synchronization space!</s>
+  <s id="6078">Do you confirm exit use synchronous space?</s>
+  <s id="6079">With exit, the file will not be able to synchronize automatically</s>
+  <s id="6080">80%The old driver in the workplace has been opened, and it is easy to improve200%Work efficiency</s>
+  <s id="6081">Cruel refusal</s>
+
+  <!--Full Text Search-->
+  <s id="6100">Full text of documentation</s>
+  <s id="6101">The full text of the application document</s>
+  <s id="6102">The purchase is successful, it is expected%sAfter, you can use it</s>
+  <s id="6103">Open SVIP, and please search for the full text of the document.</s>
+  <s id="6104">Respecting SVIP V%dUser, expected%sAfter that, you can use the new search function of documentation</s>
+  <s id="6105">SVIPship is successful!</s>
+  <s id="6107">apply immediately</s>
+  <s id="6108">Successful application, estimated%scan use.</s>
+  <s id="6109">Failed to apply</s>
+  <s id="6110">SVIP exclusive document searches for privileges, let's experience it!(After purchase, estimate%sbe usable）</s>
+  <s id="6111">HonorableSVIP V%d Users, invite you to search for the full text of the document.</s>
+  <s id="6112">HonorableSVIP V%d Users, the full text of the document search for the new online, and has displayed the full text search results for you.</s>
+
+  <!--Synchronous space novice guidance-->
+  <s id="6200">First, please open the synchronous folder on the computer desktop</s>
+  <s id="6201">great!Now open the "Synchronous Space Novice Tutorial" document and follow the prompts, or you can edit any file in the synchronous folder.</s>
+  <s id="6202">very good!Now start to automatically update and upload your edited files.</s>
+  <s id="6203">Finally, the file will be automatically downloaded to the local synchronous folder of other computers.</s>
+  <s id="6204">Congratulations to complete the novice tutorial of synchronous space</s>
+  <s id="6205">If you want to know more, you can go</s>
+  <s id="6206">Synchronous Space Help Center</s>
+  <s id="6207">Synchronous space novice tutorial</s>
+  <s id="6208">It takes only 1 minute to be proficient in synchronous space, come and explore ~</s>
+  <s id="6209">Complete guidance</s>
+  <s id="6210">%s Synchronous flow</s>
+  <s id="6211">Start experience</s>
+  <s id="6212">Click me to open quickly</s>
+  <s id="6213">%s Synchronous traffic has been automatically distributed for you</s>
+  <s id="6214">You can find the synchronous space here to get started quickly here</s>
+  <s id="6215">Quickly use the space!Efficiency improvement 200%</s>
+  <s id="6216">Quickly use the space!have to</s>
+  <s id="6217">Receive a gift</s>
+  <s id="6218">Next step</s>
+  <s id="6219">Failure to receive!You have received gifts</s>
+  <s id="6220">Network abnormalities, please try again</s>
+  <s id="6221">Every time the file is updated in the synchronization space, it will automatically synchronize for you!</s>
+
 </string>
