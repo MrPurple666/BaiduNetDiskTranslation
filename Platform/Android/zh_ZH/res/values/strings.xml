@@ -818,7 +818,7 @@
     <string name="audio_from">来源</string>
     <string name="audio_getinfo_message">正在获取音频信息</string>
     <string name="audio_goto_collection_list">立即查看</string>
-    <string name="audio_list_empty">"网盘里没有可添加的音频文件哦 
+    <string name="audio_list_empty">"网盘里没有可添加的音频文件哦
  (%s)"</string>
     <string name="audio_list_title">添加音频</string>
     <string name="audio_lrc_scroll_back">回播放处</string>
@@ -2353,7 +2353,7 @@
     <string name="classification_svip_manage_space">SVIP专享超大空间</string>
     <string name="classification_tab_text">智能分类</string>
     <string name="classification_text_content">"
-为了帮助您更好地查找和管理图片， 我们将您网盘图片中的相似人脸归为一组， 您还可以为人脸标上标签。 
+为了帮助您更好地查找和管理图片， 我们将您网盘图片中的相似人脸归为一组， 您还可以为人脸标上标签。
 
 图片数据和人脸标签都仅保存在您的个人帐号内， 不会用于其他任何用途， 请放心使用。
 
@@ -4068,7 +4068,7 @@
     <string name="enterprise_tool_tip_btn_text">我知道了</string>
     <string name="enterprise_tool_tip_main_title">企业版上线啦~</string>
     <string name="enterprise_tool_tip_new_func">您的企业认证已生效，已为您生成企业空间 快去切换使用在这里</string>
-    <string name="enterprise_tool_tip_new_func_tip">"文件权限隔离，文件安全更有效! 
+    <string name="enterprise_tool_tip_new_func_tip">"文件权限隔离，文件安全更有效!
 分享文件可增加水印，封面图啦!"</string>
     <string name="enterprise_tool_tip_second_title">点击可以切换到企业版，马上体验~</string>
     <string name="enterprise_tool_tip_switch_tip">点击这里切换企业空间</string>
@@ -5947,9 +5947,9 @@ progress: %d%%"</string>
     <string name="myshare_download">下载</string>
     <string name="myshare_limit_person">人</string>
     <string name="myshare_limit_person_title">已访问/限制访问人数</string>
-    <string name="myshare_link_auto_pwd_code">"链接:%1$s?pwd=%2$s 
+    <string name="myshare_link_auto_pwd_code">"链接:%1$s?pwd=%2$s
 提取码:%2$s"</string>
-    <string name="myshare_link_pwd_code">"链接:%1$s 
+    <string name="myshare_link_pwd_code">"链接:%1$s
 提取码:%2$s"</string>
     <string name="myshare_link_pwd_zero">链接:%1$s </string>
     <string name="myshare_save">保存</string>
@@ -9266,18 +9266,18 @@ progress: %d%%"</string>
     <string name="share_card_info_tips">分享链接页展示效果</string>
     <string name="share_card_none">无</string>
     <string name="share_card_personal">个人名片</string>
-    <string name="share_chain_auto_pwd_code">"链接:%1$s?pwd=%2$s 
+    <string name="share_chain_auto_pwd_code">"链接:%1$s?pwd=%2$s
 提取码:%2$s"</string>
     <string name="share_chain_card_desc">"这是我用百度网盘分享的文件
 提取码:%1$s"</string>
     <string name="share_chain_card_desc_no_password">这是我用百度网盘分享的文件</string>
     <string name="share_chain_certification_name">来自企业帐号：%s</string>
-    <string name="share_chain_fm_auto_pwd_code">"链接:%1$s?fm=%2$s&amp;pwd=%3$s 
+    <string name="share_chain_fm_auto_pwd_code">"链接:%1$s?fm=%2$s&amp;pwd=%3$s
 提取码:%3$s"</string>
-    <string name="share_chain_fm_pwd_code">"链接:%1$s?fm=%2$s 
+    <string name="share_chain_fm_pwd_code">"链接:%1$s?fm=%2$s
 提取码:%3$s"</string>
     <string name="share_chain_fm_pwd_zero">链接:%1$s?fm=%2$s </string>
-    <string name="share_chain_pwd_code">"链接:%1$s 
+    <string name="share_chain_pwd_code">"链接:%1$s
 提取码:%2$s"</string>
     <string name="share_chain_pwd_zero">链接:%1$s </string>
     <string name="share_chart_no_data">暂无数据</string>
@@ -9416,8 +9416,8 @@ progress: %d%%"</string>
     <string name="share_link_appeal_succeed_tips">提交成功，我们会尽快处理</string>
     <string name="share_link_append_from">%1$s?fm=%2$s</string>
     <string name="share_link_auto_pwd_code">"
-%1$s 
-链接:%2$s?pwd=%3$s 
+%1$s
+链接:%2$s?pwd=%3$s
 提取码:%3$s"</string>
     <string name="share_link_detail_password">提取码</string>
     <string name="share_link_detail_password_copy">复制</string>
@@ -9441,15 +9441,15 @@ progress: %d%%"</string>
     <string name="share_link_modify_success">有效期修改成功</string>
     <string name="share_link_network_connect_error">网络连接失败，请稍候再试</string>
     <string name="share_link_pwd_code">"
-%1$s 
-链接:%2$s 
+%1$s
+链接:%2$s
 提取码:%3$s"</string>
     <string name="share_link_server_error">服务器开小差了，请稍候再试</string>
     <string name="share_link_simple">链接分享</string>
     <string name="share_link_user_name">%1$s-%2$s</string>
     <string name="share_link_visited_limit">链接限%1$d人访问，已有%2$d人访问</string>
     <string name="share_link_without_code">"
-%1$s 
+%1$s
 链接:%2$s "</string>
     <string name="share_loading">加载中...</string>
     <string name="share_long_pic_title">合并长图分享</string>
@@ -9763,11 +9763,11 @@ progress: %d%%"</string>
     <string name="solution_content_second">2.设置>应用管理>已下载>百度网盘</string>
     <string name="solution_content_third">3.页面底部，选择清除数据</string>
     <string name="solution_title">如何解决?</string>
-    <string name="some_app_cannot_backup">"以下类型的应用不能通过应用备份功能进行恢复： 
-（1）系统应用（如：日历、计算器等）； 
-（2）预装应用（如：预装的输入法等）； 
-（3）破解应用（如：被破解的游戏、工具等）； 
-（4）应用商店（如：360手机助手、豌豆荚等）； 
+    <string name="some_app_cannot_backup">"以下类型的应用不能通过应用备份功能进行恢复：
+（1）系统应用（如：日历、计算器等）；
+（2）预装应用（如：预装的输入法等）；
+（3）破解应用（如：被破解的游戏、工具等）；
+（4）应用商店（如：360手机助手、豌豆荚等）；
 （5）未正式发布的应用（如：应用的测试版）。"</string>
     <string name="some_app_data_cannot_backup">应用中存储的数据不能备份，如帐号名称、密码，聊天记录，游戏存档等。</string>
     <string name="sort_by_atime_text">按打开时间</string>
@@ -10080,7 +10080,7 @@ progress: %d%%"</string>
     <string name="swan_app_debug_so_info_success">替换 so 下载信息成功</string>
     <string name="swan_app_download_fail">下载任务创建失败</string>
     <string name="swan_app_file_non_exit">文件不存在</string>
-    <string name="swan_app_follow_failed">"关注失败 
+    <string name="swan_app_follow_failed">"关注失败
 请发布小程序后关注"</string>
     <string name="swan_app_guarantee_plan">智能小程序保障计划</string>
     <string name="swan_app_guarantee_plan_loading_text">诚信保障，使用百度支付，智能小程序先行赔付</string>
