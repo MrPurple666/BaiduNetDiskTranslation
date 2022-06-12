@@ -58,8 +58,10 @@ The version portable does not require installation. Does not leave the tracks sy
 - en-US ;English
 - ru-RU ;Русский
 - zh-ZH ;Chinese
+
+
 [![imageban](https://i4.imageban.ru/thumbs/2022.04.07/f6d3a362dfe5e56f916efc9a9b32362e.gif)](https://imageban.ru/show/2022/04/07/f6d3a362dfe5e56f916efc9a9b32362e/gif)
-<!-- [![imageban](https://i4.imageban.ru/thumbs/2022.04.07/f6d3a362dfe5e56f916efc9a9b32362e.gif)](https://imageban.ru/show/2022/04/07/f6d3a362dfe5e56f916efc9a9b32362e/gif) -->
+
 # Screen
 
 ## Windows Client
