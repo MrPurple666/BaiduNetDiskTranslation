@@ -1315,19 +1315,19 @@
   <String id="IDS_UPLOADLOG_NOTIFY_START_TIP" value="正在接收您的反馈，请耐心等待~" />
 
    <!--互助提速-->
-   <String id="IDS_HELP_EACHOTHER_TITLE" value="下载提速：" />
-   <String id="IDS_HELP_EACHOTHER_SWITCH" value="利用闲置带宽为下载加速或换取积分" />
-   <String id="IDS_HELP_EACHOTHER_OVERSPEED_MODE" value="提速模式" />
-   <String id="IDS_HELP_EACHOTHER_OVERSPEED_INTERPRETATION_TIP" value="在“提速模式”下，将电脑端的空闲上传带宽组建成特有的传输通道，为使用电脑端下载并进入此传输通道的文件加速。百度网盘将通过智能化的传输控制，优先用户的上网使用，不影响上网体验。" />
+   <String id="IDS_HELP_EACHOTHER_TITLE" value="优化速率：" />
+   <String id="IDS_HELP_EACHOTHER_SWITCH" value="利用闲置带宽优化下载速率或换取积分" />
+   <String id="IDS_HELP_EACHOTHER_OVERSPEED_MODE" value="优化速率模式" />
+   <String id="IDS_HELP_EACHOTHER_OVERSPEED_INTERPRETATION_TIP" value="在“优化速率模式”下，将电脑端的空闲上传带宽组建成特有的传输通道，为使用电脑端下载并进入此传输通道的文件速率进行优化。百度网盘将通过智能化的传输控制，优先用户的上网使用，不影响上网体验。" />
    <String id="IDS_HELP_EACHOTHER_GET_SCORE_MODE" value="积分模式"/>
-   <String id="IDS_HELP_EACHOTHER_GET_SCORE_INTERPRETATION_TIP" value="在“积分模式”下，用户可以获得与贡献度相匹配的积分奖励，但不享受下载加速效果。积分按天结算，最晚于次日零点前发放。您可以登录网盘手机APP，在任务中心的积分明细中查看到积分获取详情。"/>
-   <String id="IDS_CLOSE_P2P_TIP" value="关闭下载提速功能将不再产生资源消耗，同时也将不再享受加速服务或积分奖励。本功能已为开启用户平均提速3.2倍，再用用看吧~"/>
-   <String id="IDS_FIX_CLOSE_P2P" value="关闭下载提速"/>
+   <String id="IDS_HELP_EACHOTHER_GET_SCORE_INTERPRETATION_TIP" value="在“积分模式”下，用户可以获得与贡献度相匹配的积分奖励，但不享受下载速率优化效果。积分按天结算，最晚于次日零点前发放。您可以登录网盘手机APP，在任务中心的积分明细中查看到积分获取详情。"/>
+   <String id="IDS_CLOSE_P2P_TIP" value="关闭优化速率功能将不再产生资源消耗，同时也将不再享受速率优化服务或积分奖励。本功能已为开启用户平均提升速率3.2倍，再用用看吧～"/>
+   <String id="IDS_FIX_CLOSE_P2P" value="关闭优化速率"/>
    <String id="IDS_QUIT_CLOSE_P2P" value="再用用看"/>
    <String id="IDS_P2P_NON_SVIP_SPEEDUP_TIP" value="下载提速 %s"/>
    <String id="IDS_P2P_SVIP_SPEEDUP_TIP" value="SVIP极速 %s"/>
    <String id="IDS_DOWNLOADCARD_SPEEDUP_TIP" value="下载卡提速 %s"/>
-   <String id="IDS_HELP_EACHOTHER_FUNCTION" value="下载提速" />
+   <String id="IDS_HELP_EACHOTHER_FUNCTION" value="优化速率" />
    <String id="IDS_P2P_SVIP_SPEEDUP_SLOW_TIP" value="SVIP加速链接获取中..."/>
    <String id="IDS_HELP_EACHOTHER_CLOSE" value="去关闭" />
    <String id="IDS_HELP_EACHOTHER_OPEN" value="去开启" />
@@ -1355,7 +1355,7 @@
 
   <!--会员等级-->
   <String id="IDS_SHARE_LINK_COPY_VIP_LEVEL_TIP" value="--来自百度网盘超级会员V%d的分享" />
-  <String id="IDS_TIP_SVIP_MEMBER_UPLOAD_PRIVILEGE" value="尊贵的V%d超级会员，您可以上传超大文件哦~（最大%s）" />
+  <String id="IDS_TIP_SVIP_MEMBER_UPLOAD_PRIVILEGE" value="尊贵的V%d超级会员，您可以上传超大文件哦~" />
     
   <!--在线文档导出路径-->
   <String id="IDS_EXPORT_ONLINEDOC_TASK_TITLE_TEXT" value="选择导出路径" />
