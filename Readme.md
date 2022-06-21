@@ -32,7 +32,7 @@ If you find an error or inaccuracy in the translation, please fill out the form 
 | Windows  | [Replace Files][win-replace]     |7.16.2.4| [git][win_replace_files_git] 
 | Windows  | [Repack Edition][win-repack]     |7.16.2.4| [mediafire][win_repack_files_mfire] |
 | Windows  | [Portable Edition][win-portable] |7.16.2.4| [mediafire][win_portable_files_mfire]|
-| Android  | Install                          |11.21.3 | [mediafire][win_apk_files_mfire]    |
+| Android  | Install                          |11.25.3 | [mediafire][win_apk_files_mfire]    |
 
 # Install Info
 
@@ -59,7 +59,9 @@ The version portable does not require installation. Does not leave the tracks sy
 - ru-RU ;Русский
 - zh-ZH ;Chinese
 
-[![imageban](https://i4.imageban.ru/thumbs/2022.04.07/f6d3a362dfe5e56f916efc9a9b32362e.gif)](https://imageban.ru/show/2022/04/07/f6d3a362dfe5e56f916efc9a9b32362e/gif)
+
+<a target="_blank" href="https://imageban.ru/show/2022/04/07/f6d3a362dfe5e56f916efc9a9b32362e/gif"><img src="https://i4.imageban.ru/out/2022/04/07/f6d3a362dfe5e56f916efc9a9b32362e.gif"  width="60%" height="50%" border="0" style='border: 1px solid #000000'></a>
+
 # Screen
 
 ## Windows Client

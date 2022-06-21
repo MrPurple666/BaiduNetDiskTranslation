@@ -15,6 +15,7 @@
 
 Моя локализация клиента **BaiduNetDisk** для ПК и не только на Русский и Английский язык.
 
+Пароль на все архивы : **A3ZAKM1**
 # Загрузка
 
 | Платформа | Установка                          |Версия  | Скачать                    |
@@ -46,6 +47,8 @@
 - en-US ;English
 - ru-RU ;Русский
 - zh-ZH ;Chinese
+
+<a target="_blank" href="https://imageban.ru/show/2022/04/07/f6d3a362dfe5e56f916efc9a9b32362e/gif"><img src="https://i4.imageban.ru/thumbs/2022.04.07/f6d3a362dfe5e56f916efc9a9b32362e.gif" border="0" style='border: 1px solid #000000'></a>
 
 # Скриншоты
 
