@@ -238,14 +238,14 @@
 															<!-- 开启互助提速功能 -->
 															<IBGRegionPanel size="510,32" margin="0,0,0,0" dock="DOCK_TOP">
 																<Children>
-																	<IBGStaticEx name="p2pSettingtext" dock="DOCK_LEFT" size="196,14" text="$3166" margin="0, 8, 2, 2"/>
+																	<IBGStaticEx name="p2pSettingtext" dock="DOCK_LEFT" size="210,14" text="$3166" margin="0, 8, 2, 2"/>
 																	<IBGButton name="p2pSwitchBtn" dock="DOCK_LEFT" size="56,26" config="button" text="$3180" margin="4, 6, 0, 6"/>
 																</Children>
 															</IBGRegionPanel>
 															<IBGRegionPanel size="510,32" margin="0,0,0,0" dock="DOCK_TOP">
 																<Children>
 																	<IBGRadioLogic name="turnOnP2pMode"/>
-																	<IBGCheckButton name="turnOnOverspeedMode" size="70,14" margin="0, 5, 3, 8" text="$3167" radio="true" check="true" dock="DOCK_LEFT" config="radioButton"/>
+																	<IBGCheckButton name="turnOnOverspeedMode" size="100,14" margin="0, 5, 3, 8" text="$3167" radio="true" check="true" dock="DOCK_LEFT" config="radioButton"/>
 																	<IBGCheckButton name="turnOnGetScoreMode" size="70,14" margin="86, 5, 3, 8" text="$3169" radio="true" check="false" dock="DOCK_LEFT" config="radioButton"/>
 																</Children>
 															</IBGRegionPanel>

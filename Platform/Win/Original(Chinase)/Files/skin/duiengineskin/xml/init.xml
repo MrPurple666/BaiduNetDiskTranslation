@@ -45,11 +45,12 @@
         <imgframe name="toast_fail_bg" src="IDP_TOAST_FAIL_BKG" left="15" top="15" right="15" bottom="15"/>
         <imgframe name="toast_vip_bg" src="IDP_TOAST_VIP_BKG" left="60" top="15" right="15" bottom="15"/>
         <imgframe name="toast_svip_bg" src="IDP_TOAST_SVIP_BKG" left="60" top="15" right="15" bottom="15"/>
-        <imgframe name="toast_p2p_bg" src="IDP_TOAST_P2P_BKG" left="2" top="2" right="2" bottom="2"/>
+        <imgframe name="toast_p2p_bg" src="IDP_TOAST_P2P_BKG" left="60" top="2" right="60" bottom="2"/>
         <imgframe name="toast_video_note_bg" src="IDP_TOAST_VIDEO_NOTE_BKG" left="6" top="6" right="6" bottom="6"/>
         <imgframe name="toast_ok_ico" src="IDP_TOAST_OK_ICO"/>
-        <imgframe name="toast_fail_ico" src="IDP_TOAST_FAIL_ICO"/>    
-        <gif name="gif_toast_loading" src="IDP_TOAST_LOADING"/>
+        <imgframe name="toast_fail_ico" src="IDP_TOAST_FAIL_ICO"/>
+        <imgframe name="toast_svip_icon" src="IDP_TOAST_SVIP_ICON"/>
+      <gif name="gif_toast_loading" src="IDP_TOAST_LOADING"/>
 
         <imgframe name="pagectrl_prebtn_bkg" src="IDP_PAGECTRL_PREBTN" subwidth="16"/>
         <imgframe name="pagectrl_nextbtn_bkg" src="IDP_PAGECTRL_NEXTBTN" subwidth="16"/>
@@ -86,9 +87,6 @@
         <imgframe name="img_login_btn_getsmsdpass" src="IDP_IMG_LOGIN_BTN_GETSMSDPASS" subwidth="10" left="3" top="3" right="3" bottom="3"/>
         <imglst name="img_login_icon_phone" src="IDP_IMG_LOGIN_PHONE"/>
         <imglst name="img_login_icon_shortmessage" src="IDP_IMG_LOGIN_SHORTMESSAGE"/>
-        <imglst name="img_login_qrcode_cancel" src="IDP_IMG_LOGIN_QRCODE_ERROR"/>
-        <imglst name="img_login_qrcode_logging" src="IDP_IMG_LOGIN_QRCODE_LOGGING"/>
-        <imglst name="img_login_qrcode_scan" src="IDP_IMG_LOGIN_QRCODE_SCAN"/>
 
         <!--Logo皮肤定义-->
         <imgframe name="common_logo_main" src="IDP_COMMON_LOGO_MAIN" />
@@ -227,6 +225,7 @@
         <imglst name="function_garbageclean_img" src="IDP_IMG_FUNTION_GARBAGECLEAN" subwidth="31"/>
         <imglst name="function_devicemanage_img" src="IDP_IMG_FUNTION_DEVICEMANAGE" subwidth="31"/>
         <imglst name="function_app_download_img" src="IDP_IMG_FUNTION_APP_DOWNLOAD" subwidth="31"/>
+        <imglst name="function_airetouch_img" src="IDP_IMG_FUNTION_AIRETOUCH" subwidth="31"/>
         <imglst name="function_album_img" src="IDP_IMG_FUNTION_ALBUM" subwidth="31"/>
         <imgframe name="function_svip_only_img" src="IDP_IMG_FUNTION_SVIPONLY"/>
         <imgframe name="function_new_img" src="IDP_IMG_FUNTION_NEW"/>

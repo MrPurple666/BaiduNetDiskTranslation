@@ -110,13 +110,13 @@
 						</Children>
 					</IBGRegionPanel>
 					<!-- 提示条区域（用于正在上传列表） -->
-					<IBGRegionPanel name="transUpTipPanel" size="0,54" dock="DOCK_TOP" unseen="true">
+					<IBGRegionPanel name="transUpTipPanel" size="0,48" dock="DOCK_TOP" unseen="true">
 						<Children>
-							<IBGRegionPanel name="vipTipPanel" size="0,54" dock="DOCK_TOP" config="TransTipPanel" unseen="true">
+							<IBGRegionPanel name="vipTipPanel" size="0,48" dock="DOCK_TOP" config="TransTipPanel" unseen="true">
 								<Children>
-									<IBGGIFControl dock="DOCK_LEFT" margin="40,19,0,14" image="Resource:MainFrame\\MainPanel\\TransPanel\\tips_smile.png" size="16, 16"></IBGGIFControl>
-									<IBGStaticEx name="vipTipStatic" autoCalcHeight="true" autoCalcWidth="true" textClr="0x0877d5" text="$2321" margin="4, 19, 0, 4" dock="DOCK_LEFT"/>
-									<IBGButton name="vipTipCloseBtn" size="10,10" margin="0,22,20,22" dock="DOCK_RIGHT">
+									<IBGGIFControl dock="DOCK_LEFT" margin="24,17,0,15" image="Resource:MainFrame\\MainPanel\\TransPanel\\tips_smile.png" size="16, 16"></IBGGIFControl>
+									<IBGStaticEx name="vipTipStatic" autoCalcHeight="true" autoCalcWidth="true" textClr="0x004166" text="$2321" margin="8, 16, 0, 1" dock="DOCK_LEFT"/>
+									<IBGButton name="vipTipCloseBtn" size="10,10" margin="0,19,24,19" dock="DOCK_RIGHT">
 										<Properties>
 											<normalDraw>
 												<IBGVeins file="Resource:MainFrame\\MainPanel\\TransPanel\\tips_close_normal.png" drawStyle="DRAWMODE_NORMAL" transparent="true" colorize="false"/>

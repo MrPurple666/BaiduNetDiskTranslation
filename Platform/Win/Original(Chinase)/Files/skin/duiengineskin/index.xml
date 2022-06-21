@@ -214,6 +214,8 @@
 <resid type="IMGX" name="IDP_TOAST_LOADING" file="image\common\Toast\ToastLoading.gif" />
 <resid type="IMGX" name="IDP_TOAST_P2P_BKG" file="image\common\Toast\ToastP2p.png"/>
 <resid type="IMGX" name="IDP_TOAST_VIDEO_NOTE_BKG" file="image\common\Toast\VideoNoteToastBgk.png"/>
+<resid type="IMGX" name="IDP_TOAST_SVIP_ICON" file="image\common\Toast\ToastSVipIcon.png"/>
+
 <!--页面控件资源-->
 <resid type="IMGX" name="IDP_PAGECTRL_PREBTN"    file="image\common\pagectrl\PreBtn.png"   />
 <resid type="IMGX" name="IDP_PAGECTRL_NEXTBTN"    file="image\common\pagectrl\NextBtn.png"   />
@@ -265,9 +267,6 @@
 <resid type="IMGX" name="IDP_IMG_LOGIN_BTN_GETSMSDPASS" file="image\LoginDlg\btn_get_sms_password.png"/>
 <resid type="IMGX" name="IDP_IMG_LOGIN_PHONE" file="image\LoginDlg\phone.png"/>
 <resid type="IMGX" name="IDP_IMG_LOGIN_SHORTMESSAGE" file="image\LoginDlg\shortmessage.png"/>
-<resid type="IMGX" name="IDP_IMG_LOGIN_QRCODE_ERROR" file="image\LoginDlg\qr_login_error.png"/>
-<resid type="IMGX" name="IDP_IMG_LOGIN_QRCODE_LOGGING" file="image\LoginDlg\qr_logging.png"/>
-<resid type="IMGX" name="IDP_IMG_LOGIN_QRCODE_SCAN" file="image\LoginDlg\qr_scan.png"/>
 
 <!--便携式设备备份相关资源-->
 <resid type="IMGX" name="IDP_IMG_PDB_BTN_REG" file="image\PortableDeviceBackupDlg\btn_onekey_backup.png" />
@@ -386,6 +385,7 @@
 <resid type="IMGX" name="IDP_IMG_FUNTION_RECYCLE" file="image\MainPanel\FunctionalBoxPanel\Recycle.png" />
 <resid type="IMGX" name="IDP_IMG_FUNTION_GARBAGECLEAN" file="image\MainPanel\FunctionalBoxPanel\GarbageClean.png" />
 <resid type="IMGX" name="IDP_IMG_FUNTION_APP_DOWNLOAD" file="image\MainPanel\FunctionalBoxPanel\AppDownload.png" />
+<resid type="IMGX" name="IDP_IMG_FUNTION_AIRETOUCH" file="image\MainPanel\FunctionalBoxPanel\Airetouch.png" />
 <resid type="IMGX" name="IDP_IMG_FUNTION_ALBUM" file="image\MainPanel\FunctionalBoxPanel\Album.png" />
 <resid type="IMGX" name="IDP_IMG_FUNTION_NEW" file="image\MainPanel\FunctionalBoxPanel\New.png" />
 <resid type="IMGX" name="IDP_IMG_FUNTION_DEVICEMANAGE" file="image\MainPanel\FunctionalBoxPanel\DeviceManage.png" />
