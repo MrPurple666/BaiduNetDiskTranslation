@@ -1573,7 +1573,10 @@
 
   <!--Join the sidebar-->
   <s id="4050">Add to sidebar</s>
+  <!--Functional treasure chest-->
 
+  <s id="4068">AI trimming</s>
+  <s id="4069">Photo studios AI</s>
   <!--Functional Treasure Box-->
   <s id="4070">Chat files are not lost</s>
   <s id="4071">Reminder</s>
@@ -2307,5 +2310,8 @@
   <s id="6219">Failure to receive!You have received gifts</s>
   <s id="6220">Network abnormalities, please try again</s>
   <s id="6221">Every time the file is updated in the synchronization space, it will automatically synchronize for you!</s>
-
+  <!--大文件上传提示-->
+  <s id="6300">The file is large, please pay more attention to the upload of the upload</s>
+  <s id="6301">Respectful V%d Members, you are uploading special rights for large documents, the highest level can be uploaded%sLarge files.</s>
+  
 </string>
