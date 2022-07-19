@@ -141,13 +141,13 @@
 											</IBGRegionPanel>
 											<IBGRegionPanel name="AutoFillPasswordPanel" size="590,30" margin="0,0,0,0" dock="DOCK_TOP">
 												<Children>
-													<IBGStaticEx size="65,16" textClr="0x333333" text="$3246" margin="18,10,0,0" dock="DOCK_LEFT"/>
-													<IBGCheckButton name="autoFillLinkPasswordBtn" dock="DOCK_LEFT" size="300,16" autoCalcWidth="true" check="false" config="checkButton" text="$3247" margin="10,8,0,0"/>
+													<IBGStaticEx size="65,16" textClr="0x333333" text="$3254" margin="18,10,0,0" dock="DOCK_LEFT"/>
+													<IBGCheckButton name="autoFillLinkPasswordBtn" dock="DOCK_LEFT" size="300,16" autoCalcWidth="true" check="false" config="checkButton" text="$3255" margin="10,8,0,0"/>
 													<IBGButton name="questionBtn" dock="DOCK_LEFT" size="18,18" config="iconButtonQuestion" margin="4,8,0,0"/>
 													<IBGGIFControl name="newIcon" dock="DOCK_LEFT" margin="4,6,0,0" size="25,20" image="Resource:MainFrame\ShareDlg\ico_warning.png" unseen="false"/>
 													<IBGRegionPanel size="310,20" name="autoFillPasswordTip" config="SettingDlgTipPanel" dock="DOCK_RIGHT" margin="6,8,4,2" unseen="true">
 														<Children>
-															<IBGStaticEx size="310,20" text="$3248" textClr="0x666666" dock="DOCK_NULL" unMultiline="FALSE" margin="2,2,3,2">
+															<IBGStaticEx size="310,20" text="$3256" textClr="0x666666" dock="DOCK_NULL" unMultiline="FALSE" margin="2,2,3,2">
 															</IBGStaticEx>
 														</Children>
 													</IBGRegionPanel>

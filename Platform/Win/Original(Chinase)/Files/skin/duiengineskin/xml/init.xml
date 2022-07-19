@@ -114,8 +114,11 @@
         <imgframe name="btn_vip_round_angle" src="IDP_BTN_VIP_ROUND_ANGLE" subwidth="254" top="6" left="20" right="20" bottom="6" />
         <imgframe name="btn_svip_round_angle" src="IDP_BTN_SVIP_ROUND_ANGLE" subwidth="254" top="6" left="20" right="20" bottom="6"/>
         <imgframe name="btn_default_round_angle" src="IDP_BTN_DEFAULT_ROUND_ANGLE" subwidth="254" top="6" left="20" right="20" bottom="6" />
+        <imgframe name="btn_default_light_yellow_round_angle" src="IDP_BTN_LIGHT_YELLOW_ROUND_ANGLE" subwidth="128" top="10" left="20" right="20" bottom="10" />
+        <imgframe name="btn_default_dark_yellow_round_angle" src="IDP_BTN_DARK_YELLOW_ROUND_ANGLE" subwidth="128" top="10" left="20" right="20" bottom="10" />
 
-        <!--数据线面板相关皮肤定义-->
+
+      <!--数据线面板相关皮肤定义-->
         <gif name="connnecting_gif" src="IDP_GIF_DATACABLE_CONNECTING"/>
         <imgframe name="guide_image" src="IDP_IMG_DATACABLE_USERGUIDE"/>
         <imgframe name="qr_code_image" src="IDP_IMG_DATACABLE_QRCODE"/>
@@ -778,11 +781,13 @@
         <imgframe name="mainpanel_addresspanel_searchbox_edit_hover" src="IDP_MAINPANEL_ADDRESSPANEL_SEARCHBOX_EDIT_HOVER" left="30" right="30" subwidth="270"/>
         <imgframe name="mainpanel_addresspanel_searchbox_full_text_tip_bgk" src="IDP_MAINPANEL_ADDRESSPANEL_SEARCHBOX_FULL_TEXT_TIP_BG" left="40" top="30" right="30" bottom="30"/>
         <imgframe name="mainpanel_addresspanel_searchbox_bg" src="IDP_MAINPANEL_ADDRESSPANEL_SEARCHBOX_BG" left="4" top="4" right="4" bottom="4"/>
+        <imgframe name="mainpanel_addresspanel_search_apply_dlg_bgk" src="IDP_MAINPANEL_ADDRESSPANEL_SEARCH_APPLY_BGK" left="15" top="20" right="15" bottom="15"/>
         <imgframe name="mainpanel_addresspanel_searchbox_hisitem_hover" src="IDP_MAINPANEL_ADDRESSPANEL_SEARCHBOX_HISITEM_HOVER" left="4" top="0" right="4" bottom="0"/>
         <imgframe name="mainpanel_addresspanel_searchbox_hisitem_normal" src="IDP_MAINPANEL_ADDRESSPANEL_SEARCHBOX_HISITEM_NORMAL" left="4" top="4" right="4" bottom="4"/>
         <imgframe name="mainpanel_addresspanel_searchbox_his_bg" src="IDP_MAINPANEL_ADDRESSPANEL_SEARCHBOX_HIS_BG" left="4" top="0" right="4" bottom="0"/>
-        <gif name="gif_addresspanel_refreshing" src="IDP_MAINPANEL_ADDRESSPANEL_REFRESHING"/>
-        <imgframe name="mainpanel_addresspanel_fulltext_search_guide" src="IDP_MAINPANEL_ADDRESSPANEL_FULLTEXT_SEARCH_GUIDE" />
+        
+      <gif name="gif_addresspanel_refreshing" src="IDP_MAINPANEL_ADDRESSPANEL_REFRESHING"/>
+        <imgframe name="mainpanel_addresspanel_search_guide" src="IDP_MAINPANEL_ADDRESSPANEL_SEARCH_GUIDE" />
         <!--主面板状态栏-->
         <gif name="gif_statuspanel_portabledevice" src="IDP_GIF_STATUSPANEL_PORTABLE_DEVICE"/>
         <gif name="gif_statuspanel_lock" src="IDP_GIF_STATUSPANEL_LOCK"/>
@@ -825,6 +830,11 @@
         <imglst name="mainpanel_thumbview_trans_fail" src="IDP_MAINPANEL_THUMBVIEW_TRANS_FAIL"/>
         <imglst name="mainpanel_thumbview_trans_pause" src="IDP_MAINPANEL_THUMBVIEW_TRANS_PAUSE"/>
         <imglst name="mainpanel_thumbview_trans_waiting" src="IDP_MAINPANEL_THUMBVIEW_TRANS_WAITING"/>
+        <imglst name="ocr_thumbview_img_mask_normal" src="IDP_SEARCH_OCR_THUMBVIEW_IMG_MASK_NORMAL" />
+        <imglst name="ocr_thumbview_img_mask_hover" src="IDP_SEARCH_OCR_THUMBVIEW_IMG_MASK_HOVER" />
+        <imglst name="ocr_thumbview_img_mask_select" src="IDP_SEARCH_OCR_THUMBVIEW_IMG_MASK_SELECT" />
+        <imglst name="ocr_thumbview_view_more" src="IDP_SEARCH_OCR_THUMBVIEW_VIEW_MORE" subwidth="40"/>
+
         <imgframe name="mainpanel_thumbview_trans_progress_bg" src="IDP_MAINPANEL_THUMBVIEW_TRANS_PROGRESS_BG" left="4" top="2" right="4" bottom="2"/>
         <imgframe name="mainpanel_thumbview_trans_progress_fg" src="IDP_MAINPANEL_THUMBVIEW_TRANS_PROGRESS_FG" left="4" top="2" right="4" bottom="2"/>
         <imgframe name="mainpanel_frame_select_bg" src="IDP_MAINPANEL_FRAMESELECT_BKG" left="3" top="3" right="3" bottom="3"/>
@@ -835,6 +845,7 @@
         <imglst name="mainpanel_guidepanel_arrow_down" src="IDP_MAINPANEL_GUIDEPANEL_ARROW_DOWN"/>
         <imglst name="mainpanel_guidepanel_arrow_up" src="IDP_MAINPANEL_GUIDEPANEL_ARROW_UP"/>
         <imglst name="mainpanel_guidepanel_yellow_btn" src="IDP_MAINPANEL_GUIDEPANEL_YELLOW_BTN" subwidth="80"/>
+        <imglst name="mainpanel_guidepanel_tip_close_btn" src="IDP_MAINPANEL_GUIDEPANEL_TIP_CLOSE_BTN" subwidth="16"/>
 
       <!--拖拽提示皮肤-->
         <imgframe name="dragtip_bkg" src="IDP_DRAGTIP_BKG" left="4" top="4" right="4" bottom="4"/>
@@ -1151,6 +1162,7 @@
         <imgframe name="workspace_file_sync_status_uptodate" src="IDP_DUI_WORKSPACE_FILE_SYNC_STATUS_UPTODATE"/>
         <imgframe name="workspace_file_sync_status_pause" src="IDP_DUI_WORKSPACE_FILE_SYNC_STATUS_PAUSE"/>
         <imgframe name="workspace_file_sync_status_cloudbridge" src="IDP_DUI_WORKSPACE_FILE_SYNC_STATUS_CLOUDBRIDGE"/>
+        <imgframe name="workspace_file_sync_status_cancle" src="IDP_DUI_WORKSPACE_FILE_SYNC_STATUS_CANCLE"/>
         <imgframe name="workspace_file_empty" src="IDP_DUI_WORKSPACE_FILE_EMPTY"/>
         <imgframe name="workspace_bg_normal" src="IDP_DUI_WORKSPACE_BG_NORMAL"/>
         <imgframe name="workspace_sync_dir" src="IDP_DUI_WORKSPACE_SYNC_DIR" subwidth="20"/>
@@ -1185,7 +1197,8 @@
         <gif name="gif_workspace_guide_page_intro_1" src="IDP_DUI_WORKSPACE_GUIDE_PAGE_INTRO_1" minframedelay="30"/>
         <gif name="gif_workspace_guide_page_intro_2" src="IDP_DUI_WORKSPACE_GUIDE_PAGE_INTRO_2" minframedelay="30"/>
         <imgframe name="workspace_guide_page_intro_3" src="IDP_DUI_WORKSPACE_GUIDE_PAGE_INTRO_3"/>
-      
+        <imgframe name="workspace_select_syc_intro" src="IDP_DUI_WORKSPACE_SELECT_SYC_INTRO"/>
+
         <imgframe name="workspace_guide_backup_select" src="IDP_DUI_WORKSPACE_GUIDE_BACKUP_SELECT"/>
         <imgframe name="workspace_guide_viptest_select" src="IDP_DUI_WORKSPACE_GUIDE_VIPTEST_SELECT"/>
         <imgframe name="workspace_guide_history_select" src="IDP_DUI_WORKSPACE_GUIDE_HISTORY_SELECT"/>
@@ -1328,6 +1341,12 @@
          <imgframe name="recentpanel_videohistory_videoplay_hover" src="IDP_RECENTPANEL_VIDEOHISTORY_VIDEOPLAY_HOVER"/>
          <imgframe name="recentpanel_videohistory_videoplay_normal" src="IDP_RECENTPANEL_VIDEOHISTORY_VIDEOPLAY_NORMAL"/>
          <imglst name="recentpanel_videohistory_checkbox" src="IDP_RECENTPANEL_VIDEOHISTORY_CHECKBOX" subwidth="15"/>
+         <!--选择性同步-->
+         <imgframe name="select_sync_frame" src="IDP_SELECTSYNCPANEL_FRAME"/>
+         <imgframe name="select_sync_checkbox" src="IDP_SELECTSYNCPANEL_CHECKBOX" subwidth="14"/>
+         <imgframe name="select_sync_toggle" src="IDP_SELECTSYNCPANEL_TOGGLE" subwidth="12"/>
+         <imgframe name="select_svip_frame" src="IDP_SELECTSYNCPANEL_SVIP_FRAME"/>
+         <imgframe name="select_svip" src="IDP_SELECTSYNCPANEL_SVIP"/>
     </skins>
 
     <style>

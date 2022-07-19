@@ -22,7 +22,8 @@
 <resid type="XML" name="IDR_DUI_FILE_CONTAINER_ADDRESS_PANEL" file="xml\MainPanel\NetdiskPanel\FileContainerPanel\AddressPanel.xml"/>
 <resid type="XML" name="IDR_DUI_FILE_CONTAINER_SEARCHBOX" file="xml\MainPanel\NetdiskPanel\FileContainerPanel\SearchBox.xml"/>
 <resid type="XML" name="IDR_DUI_FILE_CONTAINER_FULL_TEXT_SEARCH_TIP" file="xml\MainPanel\NetdiskPanel\FileContainerPanel\FullTextSearchTip.xml"/>
-<resid type="XML" name="IDR_DUI_FILE_CONTAINER_FULL_TEXT_SEARCH_GUIDE_DLG" file="xml\MainPanel\NetdiskPanel\FileContainerPanel\FullTextSearchGuideDlg.xml"/>
+<resid type="XML" name="IDR_DUI_FILE_CONTAINER_SEARCH_GUIDE_DLG" file="xml\MainPanel\NetdiskPanel\FileContainerPanel\SearchGuideDlg.xml"/>
+<resid type="XML" name="IDR_DUI_FILE_CONTAINER_SEARCH_APPLY_DLG" file="xml\MainPanel\NetdiskPanel\FileContainerPanel\SearchApplyDlg.xml"/>
 <resid type="XML" name="IDR_DUI_FILE_CONTAINER_STATUS_PANEL" file="xml\MainPanel\NetdiskPanel\FileContainerPanel\StatusPanel.xml"/>
 <resid type="XML" name="IDR_DUI_FILE_VIEWCONTAINER_PANEL" file="xml\MainPanel\NetdiskPanel\FileContainerPanel\ViewContainerPanel.xml"/>
 <resid type="XML" name="IDR_DUI_TRANS_LEFT_PANEL" file="xml\MainPanel\TransPanel\TransLeftPanel.xml"/>
@@ -104,6 +105,7 @@
 <resid type="XML" name="IDR_DUI_SET_SHARE_BATCH_LINK_NUM_DIALOG" layer="1" file="xml\MainPanel\SharePanel\ShareBatchLinkNumDlg.xml"/>
 <resid type="XML" name="IDR_DUI_SHARE_BATCH_LINK_GUIDE_DIALOG" layer="1" file="xml\MainPanel\SharePanel\ShareBatchLinkGuideDlg.xml"/>
 <resid type="XML" name="IDR_DUI_LOGIN_DEVICE_STATUS_DIALOG" layer="1" file="xml\dlg_login_device_status.xml"/>
+<resid type="XML" name="IDR_DUI_AUTHENTICATION_DIALOG" layer="1" file="xml\dlg_authentication.xml"/>
 <resid type="XML" name="IDR_DUI_ONLINEDOC_TEMPLATE_DIALOG" layer="1" file="xml\MainPanel\NetdiskPanel\FileContainerPanel\OnlineDocTemplate.xml"/>
 <resid type="XML" name="IDR_DUI_PRIVILEGE_GUIDE_DIALOG" layer="1" file="xml\PrivilegeGuideDlg\PrivilegeGuideDlg.xml"/>
 <resid type="XML" name="IDR_DUI_PRIVILEGE_GUIDE_DIALOG_V2" layer="1" file="xml\PrivilegeGuideDlg\PrivilegeGuideDlgV2.xml"/>
@@ -186,6 +188,8 @@
 <resid type="IMGX" name="IDP_BTN_VIP_ROUND_ANGLE"    file="image\common\button\btn_vip_round_angle.png"/>
 <resid type="IMGX" name="IDP_BTN_SVIP_ROUND_ANGLE"    file="image\common\button\btn_svip_round_angle.png"/>
 <resid type="IMGX" name="IDP_BTN_DEFAULT_ROUND_ANGLE"    file="image\common\button\default_button_round_angle.png"/>
+<resid type="IMGX" name="IDP_BTN_LIGHT_YELLOW_ROUND_ANGLE"    file="image\common\button\btn_light_yellow_round_angle.png"/>
+<resid type="IMGX" name="IDP_BTN_DARK_YELLOW_ROUND_ANGLE"    file="image\common\button\btn_dark_yellow_round_angle.png"/>
 
 <!--进度条资源-->
 <resid type="IMGX" name="IDP_PROG_BKG"    file="image\common\progress\ProgBkg.png"/>
@@ -936,9 +940,11 @@
 <resid type="IMGX" name="IDP_MAINPANEL_ADDRESSPANEL_SEARCHBOX_BG" file="image\MainPanel\NetdiskPanel\AddressPanel\SearchBox\searchbox_bkg.png"/>
 <resid type="IMGX" name="IDP_MAINPANEL_ADDRESSPANEL_SEARCHBOX_HISITEM_HOVER" file="image\MainPanel\NetdiskPanel\AddressPanel\SearchBox\seachbox_history_item_hover.png"/>
 <resid type="IMGX" name="IDP_MAINPANEL_ADDRESSPANEL_SEARCHBOX_HISITEM_NORMAL" file="image\MainPanel\NetdiskPanel\AddressPanel\SearchBox\seachbox_history_item_normal.png"/>
+<resid type="IMGX" name="IDP_MAINPANEL_ADDRESSPANEL_SEARCH_APPLY_BGK" file="image\MainPanel\NetdiskPanel\AddressPanel\SearchBox\search_apply_bgk.png"/>
+
 <resid type="IMGX" name="IDP_MAINPANEL_ADDRESSPANEL_SEARCHBOX_HIS_BG" file="image\MainPanel\NetdiskPanel\AddressPanel\SearchBox\searchbox_history_bkg.png"/>
 <resid type="IMGX" name="IDP_MAINPANEL_ADDRESSPANEL_REFRESHING" file="image\MainPanel\NetdiskPanel\AddressPanel\refreshing.gif"/>
-<resid type="IMGX" name="IDP_MAINPANEL_ADDRESSPANEL_FULLTEXT_SEARCH_GUIDE" file="image\MainPanel\NetdiskPanel\AddressPanel\fulltext_search_guide.png"/>
+<resid type="IMGX" name="IDP_MAINPANEL_ADDRESSPANEL_SEARCH_GUIDE" file="image\MainPanel\NetdiskPanel\AddressPanel\search_guide_img.png"/>
 
 <!--主面板状态栏-->
 <resid type="IMGX" name="IDP_GIF_STATUSPANEL_PORTABLE_DEVICE" file="image\MainPanel\NetdiskPanel\StatusPanel\portable_dev.gif" />
@@ -986,13 +992,18 @@
 <resid type="IMGX" name="IDP_MAINPANEL_THUMBVIEW_TRANS_PROGRESS_FG" file="image\MainPanel\NetdiskPanel\ViewContainerPanel\ThumbView\trans_progress_fg.png"/>
 <resid type="IMGX" name="IDP_MAINPANEL_FRAMESELECT_BKG" file="image\MainPanel\NetdiskPanel\ViewContainerPanel\ThumbView\frame_select_bg.png"/>
 <resid type="IMGX" name="IDP_MAINPANEL_THUMBVIEW_CHECKBOX" file="image\MainPanel\NetdiskPanel\ViewContainerPanel\ThumbView\checkbox.png"/>
+<resid type="IMGX" name="IDP_SEARCH_OCR_THUMBVIEW_IMG_MASK_NORMAL" file="image\MainPanel\NetdiskPanel\ViewContainerPanel\OCRThumView\img_mask_normal.png"/>
+<resid type="IMGX" name="IDP_SEARCH_OCR_THUMBVIEW_IMG_MASK_HOVER" file="image\MainPanel\NetdiskPanel\ViewContainerPanel\OCRThumView\img_mask_hover.png"/>
+<resid type="IMGX" name="IDP_SEARCH_OCR_THUMBVIEW_IMG_MASK_SELECT" file="image\MainPanel\NetdiskPanel\ViewContainerPanel\OCRThumView\img_mask_select.png"/>
+<resid type="IMGX" name="IDP_SEARCH_OCR_THUMBVIEW_VIEW_MORE" file="image\MainPanel\NetdiskPanel\ViewContainerPanel\OCRThumView\view_more_img.png"/>
+
 <resid type="IMGX" name="IDP_MAINPANEL_GUIDEPANEL_ZIP" file="image\MainPanel\NetdiskPanel\ViewContainerPanel\GuideTipPanel\zip_tip.png"/>
 <resid type="IMGX" name="IDP_MAINPANEL_GUIDEPANEL_DOC" file="image\MainPanel\NetdiskPanel\ViewContainerPanel\GuideTipPanel\doc_tip.png"/>
 <resid type="IMGX" name="IDP_MAINPANEL_GUIDEPANEL_PDFTOWORD" file="image\MainPanel\NetdiskPanel\ViewContainerPanel\GuideTipPanel\pdftoword_tip.png"/>
 <resid type="IMGX" name="IDP_MAINPANEL_GUIDEPANEL_ARROW_DOWN" file="image\MainPanel\NetdiskPanel\ViewContainerPanel\GuideTipPanel\down_arrow.png"/>
 <resid type="IMGX" name="IDP_MAINPANEL_GUIDEPANEL_ARROW_UP" file="image\MainPanel\NetdiskPanel\ViewContainerPanel\GuideTipPanel\up_arrow.png"/>
 <resid type="IMGX" name="IDP_MAINPANEL_GUIDEPANEL_YELLOW_BTN" file="image\MainPanel\NetdiskPanel\ViewContainerPanel\GuideTipPanel\yellow_btn.png"/>
-
+<resid type="IMGX" name="IDP_MAINPANEL_GUIDEPANEL_TIP_CLOSE_BTN" file="image\MainPanel\NetdiskPanel\ViewContainerPanel\GuideTipPanel\tip_close_btn.png"/>
 
 <!--拖拽提示-->
 <resid type="IMGX" name="IDP_DRAGTIP_BKG" file="image\MainPanel\NetdiskPanel\DragTip\drag_bkg.png"/>
@@ -1356,6 +1367,7 @@
 <resid type="IMGX" name="IDP_DUI_WORKSPACE_FILE_SYNC_STATUS_UPTODATE" file="image\WorkSpaceDlg\FilePanel\FileView\SyncStatus\UpToDate.png"/>
 <resid type="IMGX" name="IDP_DUI_WORKSPACE_FILE_SYNC_STATUS_PAUSE" file="image\WorkSpaceDlg\FilePanel\FileView\SyncStatus\Pause.png"/>
 <resid type="IMGX" name="IDP_DUI_WORKSPACE_FILE_SYNC_STATUS_CLOUDBRIDGE" file="image\WorkSpaceDlg\FilePanel\FileView\SyncStatus\CloudBridge.png"/>
+<resid type="IMGX" name="IDP_DUI_WORKSPACE_FILE_SYNC_STATUS_CANCLE" file="image\WorkSpaceDlg\FilePanel\FileView\SyncStatus\CancleSync.png"/>
 <resid type="IMGX" name="IDP_DUI_WORKSPACE_FILE_EMPTY" file="image\WorkSpaceDlg\FilePanel\FileView\EmptyView\emptyfile.png"/>
 
 <resid type="IMGX" name="IDP_DUI_WORKSPACE_BG_NORMAL" file="image\WorkSpaceDlg\background_normal.png"/>
@@ -1387,6 +1399,7 @@
 <resid type="IMGX" name="IDP_DUI_WORKSPACE_GUIDE_PAGE_SELECT_3" file="image\WorkSpaceDlg\GuidePanel\page_select_3.png"/>
 <resid type="IMGX" name="IDP_DUI_WORKSPACE_GUIDE_RESTRAIN" file="image\WorkSpaceDlg\GuidePanel\restrain.png"/>
 <resid type="IMGX" name="IDP_DUI_WORKSPACE_GUIDE_CLOSE" file="image\WorkSpaceDlg\GuidePanel\close.png"/>
+<resid type="IMGX" name="IDP_DUI_WORKSPACE_SELECT_SYC_INTRO" file="image\WorkSpaceDlg\SelectSync\select_syc_intro.png"/>
 
 <resid type="IMGX" name="IDP_DUI_WORKSPACE_GIF_GUIDE_UPLOAD" file="image\WorkSpaceDlg\GuideGifPanel\guide_upload.gif"/>
 <resid type="IMGX" name="IDP_DUI_WORKSPACE_GIF_GUIDE_HISTORY" file="image\WorkSpaceDlg\GuideGifPanel\guide_history.gif"/>
@@ -1486,6 +1499,7 @@
 <resid type="XML" name="IDR_DUI_WORKSPACE_SET_PATH_DLG" layer="1" file="xml\MainPanel\WorkSpaceDlg\WorkspaceSetPathDlg.xml"/>
 <resid type="XML" name="IDR_DUI_WORKSPACE_BEGINNER_TUTORIAL_DLG" layer="1" file="xml\MainPanel\WorkSpaceDlg\WorkspaceBeginnerTutorial.xml"/>
 <resid type="XML" name="IDR_DUI_WORKSPACE_QUICK_START_GUIDE_PANEL" layer="1" file="xml\MainPanel\WorkSpaceDlg\WorkspaceQuickStartGuide.xml"/>
+<resid type="XML" name="IDR_DUI_WORKSPACE_SELECT_SYNC_PANEL" layer="1" file="xml\MainPanel\WorkSpaceDlg\WorkspaceSelectSync.xml"/>
 
 <!-- 游戏中心 -->
 <resid type="XML" name="IDR_DUI_GAMECENTER_DLG" layer="1" file="xml\GameCenterDlg\GameCenterDlg.xml"/>
@@ -1553,3 +1567,12 @@
 <resid type="IMGX" name="IDP_RECENTPANEL_VIDEOHISTORY_VIDEOPLAY_HOVER" file="image\MainPanel\NetdiskPanel\RecentPanel\video_play_hover.png"/>
 <resid type="IMGX" name="IDP_RECENTPANEL_VIDEOHISTORY_VIDEOPLAY_NORMAL" file="image\MainPanel\NetdiskPanel\RecentPanel\video_play_normal.png"/>
 <resid type="IMGX" name="IDP_RECENTPANEL_VIDEOHISTORY_CHECKBOX" file="image\MainPanel\NetdiskPanel\RecentPanel\video_checkbox.png"/>
+
+<!--选择同步-->
+<resid type="IMGX" name="IDP_SELECTSYNCPANEL_FRAME" file="image\WorkSpaceDlg\SelectSync\select_frame.png"/>
+<resid type="IMGX" name="IDP_SELECTSYNCPANEL_CHECKBOX" file="image\common\treectrl\sys_tree_checkbox.png"/>
+<resid type="IMGX" name="IDP_SELECTSYNCPANEL_TOGGLE" file="image\common\treectrl\sys_tree_toggle.png"/>
+<resid type="IMGX" name="IDP_SELECTSYNCPANEL_SVIP" file="image\WorkSpaceDlg\SelectSync\select_svip.png"/>
+<resid type="IMGX" name="IDP_SELECTSYNCPANEL_SVIP_FRAME" file="image\WorkSpaceDlg\SelectSync\select_svip_frame.png"/>
+<resid type="XML" name="IDR_DUI_DIRTREEVIEW" file="xml\MainPanel\WorkSpaceDlg\DirTreeView.xml"/>
+<resid type="XML" name="IDR_DUI_SVIPGUIDE" file="xml\BuyPageDlg\SvipGuide.xml"/>

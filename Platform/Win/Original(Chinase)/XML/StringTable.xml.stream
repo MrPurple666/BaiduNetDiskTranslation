@@ -296,7 +296,7 @@
   <String id="IDS_TRANPANEL_PAUSED_TIP" value="暂停中..." />
   <String id="IDS_TRANPANEL_UPWAITING_TIP" value="等待上传..." />
   <String id="IDS_TRANPANEL_DOWNWAITING_TIP" value="等待下载..." />
-  <String id="IDS_TRANPANEL_READINGFILE_TIP" value="正在读取文件" />
+  <String id="IDS_TRANPANEL_READINGFILE_TIP" value="正在为传输文件做准备" />
   <String id="IDS_TRANPANEL_SELECTALL" value="全选" />
   <String id="IDS_TRANPANEL_TOP" value="优先传输" />
   <String id="IDS_TRANPANEL_TASKTYPE_UPLOAD" value="上传完成" />
@@ -1385,8 +1385,8 @@
   <String id="IDS_WORKSPACE_SETTING" value="同步空间" />
   <String id="IDS_WORKSPACE_SYNC_TRAY_TITLE" value="通知：" />
   <String id="IDS_WORKSPACE_SYNC_TRAY_TIP" value="开启同步消息提醒" />
-  <String id="IDS_WORKSPACE_VIRTUAL_FOLDER_SHOW" value="显示同步空间虚拟盘符" />
-  <String id="IDS_WORKSPACE_DESKTOP_LINK_SHOW" value="显示同步空间桌面入口" />
+  <String id="IDS_WORKSPACE_VIRTUAL_FOLDER_SHOW" value="虚拟盘符" />
+  <String id="IDS_WORKSPACE_DESKTOP_LINK_SHOW" value="桌面入口" />
   <String id="IDS_WORKSPACE_SAVE_LOCAL_PATH" value="本地同步目录：" />
   <String id="IDS_WORKSPACE_TRAY_NAME" value="网盘同步空间" />
   <String id="IDS_WORKSPACE_FILEVERSIONDLG_TITLENAME"  value="历史版本" />
@@ -1404,14 +1404,22 @@
   <String id="IDS_WORKSPACE_SYNC_COMMON_TITLE"  value="通用：" />
   <String id="IDS_WORKSPACE_START_SYNC"  value="开启同步空间" />
   <String id="IDS_WORKSPACE_STOP_SYNC_CAPABILITY"  value="停用同步空间" />
+  <String id="IDS_WORKSPACE_SETTING_SHOW_TXT"  value="显示：" />
+  <String id="IDS_WORKSPACE_SETTING_SYNC_RANGE_TXT"  value="同步范围：" />
+  <String id="IDS_WORKSPACE_SETTING_SYNC_SAVE_TXT"  value="存储模式：" />
+  <String id="IDS_WORKSPACE_SETTING_SYNC_PATH_TXT"  value="同步位置：" />
+  <String id="IDS_WORKSPACE_SETTING_SYNC_RANGE_ALL_TXT"  value="全部" />
+  <String id="IDS_WORKSPACE_SETTING_SYNC_RANGE_SELECT_TXT"  value="选择性同步" />
+  <String id="IDS_WORKSPACE_SETTING_SYNC_RANGE_CHANGE_TXT"  value="更改" />
 
     <!--商业化-->
   <String id="IDS_PRODUCT_RECOMMEND_SETTING" value="商品推荐设置：" />
   <!--重启资源管理器-->
-  <String id="IDS_RESTART_EXPLORER" value="本地文件没有同步状态？重启资源管理器试试？"/>
+  <String id="IDS_RESTART_EXPLORER_TXT" value="本地文件没有同步状态？试试"/>
+  <String id="IDS_RESTART_EXPLORER" value="重启资源管理器"/>
   <String id="IDS_RESTART_NOW" value="立即重启" />
   <String id="IDS_SYNC_ICON_SOLVE_QUESTION_TIP" value="重启还未展示文件同步状态，具体解决办法，详情请见" />
-  <String id="IDS_SYNC_HELP_CENER_TIP" value="帮助中心" />
+  <String id="IDS_SYNC_HELP_CENER_TIP" value="帮助中心 >" />
   <String id="IDS_SYNC_LOCALPATH_DISAPPEAR" value="本地同步目录不存在，请重新设置" />
   <String id="IDS_SYNC_LOCALPATH_UNSETTING" value="请设置本地同步目录" />
   <!--自动填充提取码-->
