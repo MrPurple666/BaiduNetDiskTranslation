@@ -2274,18 +2274,26 @@
   <s id="6081">Cruel refusal</s>
 
   <!--Full Text Search-->
-  <s id="6100">Full text of documentation</s>
-  <s id="6101">The full text of the application document</s>
-  <s id="6102">The purchase is successful, it is expected%sAfter, you can use it</s>
-  <s id="6103">Open SVIP, and please search for the full text of the document.</s>
-  <s id="6104">Respecting SVIP V%dUser, expected%sAfter that, you can use the new search function of documentation</s>
-  <s id="6105">SVIPship is successful!</s>
+  <s id="6082">Finish</s>
+  <s id="6100">Document body search</s>
+  <s id="6101">Application document body results</s>
+  <s id="6102">After successful purchase, it is expected to be available after %s</s>
+  <s id="6103">Become a super member, search the text content of the document and the text in the picture</s>
+  <s id="6105">Super member purchased successfully!</s>
   <s id="6107">apply immediately</s>
-  <s id="6108">Successful application, estimated%scan use.</s>
-  <s id="6109">Failed to apply</s>
-  <s id="6110">SVIP exclusive document searches for privileges, let's experience it!(After purchase, estimate%sbe usable）</s>
-  <s id="6111">HonorableSVIP V%d Users, invite you to search for the full text of the document.</s>
-  <s id="6112">HonorableSVIP V%d Users, the full text of the document search for the new online, and has displayed the full text search results for you.</s>
+  <s id="6108">The document text search benefit application is successful, and it is expected that %s can be used.</s>
+  <s id="6109">The text search rights application in the picture is successful, and it is expected that %s can be used.</s>
+  <s id="6110">Document body search benefit application failed</s>
+  <s id="6111">The application for the rights to search for the text in the picture failed</s>
+  <s id="6120">Super members enjoy the privilege of document text search, come and experience it! (After purchase, %s is expected to be available)</s>
+  <s id="6121">Super members enjoy the privilege of searching text in pictures, come and experience it! (After purchase, %s is expected to be available)</s>
+  <s id="6122">Super members enjoy the privilege of searching for text in documents and pictures. Come and experience it! (After purchase, %s is expected to be available)</s>
+  <s id="6123">Dear SVIP V%d users, we invite you to try the document text search first.</s>
+  <s id="6124">Dear SVIP V%d users, we invite you to try the text search in pictures first.</s>
+  <s id="6125">Dear SVIP V%d users, you are invited to try the text search in the text of the document and in the picture first.</s>
+  <s id="6126">Dear SVIP V%d users, the document text search is newly launched, and it has been shown to you.</s>
+  <s id="6127">Dear SVIP V%d users, the text search in the picture is newly launched, and it has been shown to you.</s>
+  <s id="6128">Dear SVIP V%d users, the search for text in the text of the document and in the image is newly launched, and it has been shown to you.</s>
 
   <!--Synchronous space novice guidance-->
   <s id="6200">First, please open the synchronous folder on the computer desktop</s>
@@ -2313,5 +2321,39 @@
   <!--大文件上传提示-->
   <s id="6300">The file is large, please pay more attention to the upload of the upload</s>
   <s id="6301">Respectful V%d Members, you are uploading special rights for large documents, the highest level can be uploaded%sLarge files.</s>
-  
+    <!--选择性同步-->
+  <s id="6350">What is selective synchronization?</s>
+  <s id="6351">1. What is selective synchronization?</s>
+  <s id="6352">Through the selective synchronization function, you can set some folders not to be synchronized, and the deletion and update operations of the unselected folders will not be uploaded or downloaded.</s>
+  <s id="6353">2. How to judge whether the file has been unsynchronized?</s>
+  <s id="6354">After unsynchronizing a folder, the icon status of the folder in the cloud and locally will change to an "x" sign</s>
+  <s id="6355">Select synced folders</s>
+  <s id="6356">Select the content you want to display in the sync space of this computer, the unselected folders will still be stored in the cloud, but will be hidden on this computer,</s>
+  <s id="6357">Learn about selective sync ></s>
+  <s id="6358">Cancel</s>
+  <s id="6359">Sure</s>
+  <s id="6360">Failed to get subdirectory</s>
+  <s id="6361">Getting subdirectories...</s>
+  <s id="6362">Premium members enjoy selective synchronization privileges</s>
+  <s id="6363">Activate now ></s>
+  <s id="6364">Sync only all files except folders at the root of the Sync Folders</s>
+  <s id="6365">The setting is successful, the unselected folders will be unsynchronized and hidden on this computer</s>
+  <s id="6367">all files</s>
+  <s id="6368">Loading file list</s>
+  <s id="6369">Network exception, loading failed, please</s>
+  <s id="6370">No file yet</s>
+  <s id="6371">Unsynchronized selected folders</s>
+  <s id="6372">Sync all to local</s>
+  <s id="6373">start sync</s>
+  <s id="6374">The setting is successful, the selected folder will be synchronized to this computer</s>
+  <s id="6375">set successfully</s>
+  <s id="6501">Advanced Search:</s>
+  <s id="6502">Text search in pictures</s>
+  <s id="6503">image contains</s>
+  <s id="6504">the result of</s>
+  <s id="6506">(Related Image Results)</s>
+  <s id="6507">The current function can only be used after application. Do you want to apply?</s>
+  <s id="6508">file contains</s>
+  <s id="6509">the result of</s>
+
 </string>

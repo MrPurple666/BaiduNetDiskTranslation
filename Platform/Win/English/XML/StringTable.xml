@@ -301,7 +301,7 @@
   <String id="IDS_TRANPANEL_PAUSED_TIP" value="Paused..." />
   <String id="IDS_TRANPANEL_UPWAITING_TIP" value="waiting for upload..." />
   <String id="IDS_TRANPANEL_DOWNWAITING_TIP" value="Waiting for download..." />
-  <String id="IDS_TRANPANEL_READINGFILE_TIP" value="Reading file" />
+  <String id="IDS_TRANPANEL_READINGFILE_TIP" value="Preparation for transmission files" />
   <String id="IDS_TRANPANEL_SELECTALL" value="Select all" />
   <String id="IDS_TRANPANEL_TOP" value="Top" />
   <String id="IDS_TRANPANEL_TASKTYPE_UPLOAD" value="Complete" />
@@ -1389,8 +1389,8 @@
   <String id="IDS_WORKSPACE_SETTING" value="Workspace" />
   <String id="IDS_WORKSPACE_SYNC_TRAY_TITLE" value="Notice:" />
   <String id="IDS_WORKSPACE_SYNC_TRAY_TIP" value="Open synchronization message reminder" />
-  <String id="IDS_WORKSPACE_VIRTUAL_FOLDER_SHOW" value="Display workspace virtual disk" />
-   <String id="IDS_WORKSPACE_DESKTOP_LINK_SHOW" value="Show synchronous space desktop entry" />
+  <String id="IDS_WORKSPACE_VIRTUAL_FOLDER_SHOW" value="Virtual disk" />
+   <String id="IDS_WORKSPACE_DESKTOP_LINK_SHOW" value="Desktop entrance" />
   <String id="IDS_WORKSPACE_SAVE_LOCAL_PATH" value="Local synchronization directory:" />
   <String id="IDS_WORKSPACE_TRAY_NAME" value="Network disk workspace" />
   <String id="IDS_WORKSPACE_FILEVERSIONDLG_TITLENAME"  value="historic version" />
@@ -1409,12 +1409,19 @@
   <String id="IDS_WORKSPACE_SYNC_COMMON_TITLE"  value="General:" />
   <String id="IDS_WORKSPACE_START_SYNC"  value="Open synchronous space" />
   <String id="IDS_WORKSPACE_STOP_SYNC_CAPABILITY"  value="Deactivate synchronous space" />
+  <String id="IDS_WORKSPACE_SETTING_SHOW_TXT"  value="Show:" />
+  <String id="IDS_WORKSPACE_SETTING_SYNC_RANGE_TXT"  value="Synchronous range:" />
+  <String id="IDS_WORKSPACE_SETTING_SYNC_SAVE_TXT"  value="Storage mode:" />
+  <String id="IDS_WORKSPACE_SETTING_SYNC_PATH_TXT"  value="Synchronous position:" />
+  <String id="IDS_WORKSPACE_SETTING_SYNC_RANGE_ALL_TXT"  value="all" />
+  <String id="IDS_WORKSPACE_SETTING_SYNC_RANGE_SELECT_TXT"  value="Selective synchronization" />
+  <String id="IDS_WORKSPACE_SETTING_SYNC_RANGE_CHANGE_TXT"  value="Change" />
 
   <!--commercialize-->
   <String id="IDS_PRODUCT_RECOMMEND_SETTING" value="Product recommendation setting:" />
   <!--Restart the resource manager-->
-  <String id="IDS_RESTART_EXPLORER" value="The local file is not synchronized?Restart the resource manager try?"/>
-  <String id="IDS_RESTART_NOW" value="Restart now" />
+  <String id="IDS_RESTART_EXPLORER_TXT" value="Is there a synchronous state of local files?Try"/>
+  <String id="IDS_RESTART_EXPLORER" value="Restart resource manager"/>
   <String id="IDS_SYNC_ICON_SOLVE_QUESTION_TIP" value="Restart has not shown file synchronization status, specific solution, please see" />
   <String id="IDS_SYNC_HELP_CENER_TIP" value="Help Center" />
   <String id="IDS_SYNC_LOCALPATH_DISAPPEAR" value="Local synchronization directory does not exist, please reset" />
