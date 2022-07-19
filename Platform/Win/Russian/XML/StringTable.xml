@@ -299,7 +299,7 @@
   <String id="IDS_TRANPANEL_PAUSED_TIP" value="Приостановлено ..." />
   <String id="IDS_TRANPANEL_UPWAITING_TIP" value="В ожидании загрузки ..." />
   <String id="IDS_TRANPANEL_DOWNWAITING_TIP" value="В ожидании загрузки ..." />
-  <String id="IDS_TRANPANEL_READINGFILE_TIP" value="Чтение файла" />
+  <String id="IDS_TRANPANEL_READINGFILE_TIP" value="Подготовка к файлам передачи" />
   <String id="IDS_TRANPANEL_SELECTALL" value="Выбрать все" />
   <String id="IDS_TRANPANEL_TOP" value="Верх" />
   <String id="IDS_TRANPANEL_TASKTYPE_UPLOAD" value="Выгруженно" />
@@ -1410,10 +1410,19 @@
     <String id="IDS_WORKSPACE_SYNC_COMMON_TITLE"  value="Общий:" />
   <String id="IDS_WORKSPACE_START_SYNC"  value="Открытое синхронное пространство" />
   <String id="IDS_WORKSPACE_STOP_SYNC_CAPABILITY"  value="Деактивировать синхронное пространство" />
+  <String id="IDS_WORKSPACE_SETTING_SHOW_TXT"  value="показывать:" />
+  <String id="IDS_WORKSPACE_SETTING_SYNC_RANGE_TXT"  value="Синхронный диапазон:" />
+  <String id="IDS_WORKSPACE_SETTING_SYNC_SAVE_TXT"  value="Режим хранения:" />
+  <String id="IDS_WORKSPACE_SETTING_SYNC_PATH_TXT"  value="Синхронная позиция:" />
+  <String id="IDS_WORKSPACE_SETTING_SYNC_RANGE_ALL_TXT"  value="все" />
+  <String id="IDS_WORKSPACE_SETTING_SYNC_RANGE_SELECT_TXT"  value="Селективная синхронизация" />
+  <String id="IDS_WORKSPACE_SETTING_SYNC_RANGE_CHANGE_TXT"  value="Изменять" />
 
   <!--Коммерциализация-->
   <String id="IDS_PRODUCT_RECOMMEND_SETTING" value="Рекомендации:" />
   <!--Перезагрузите диспетчер ресурсов-->
+  
+  <String id="IDS_RESTART_EXPLORER_TXT" value="Есть ли синхронное состояние локальных файлов?Пытаться"/>
   <String id="IDS_RESTART_EXPLORER" value="Локальные файл не синхронизирован?.Перезагрузите процесс"/>
   <String id="IDS_RESTART_NOW" value="Перезагрузить" />
   <String id="IDS_SYNC_ICON_SOLVE_QUESTION_TIP" value="Не можете просмотреть синх-файлы ,прочитайте" />
