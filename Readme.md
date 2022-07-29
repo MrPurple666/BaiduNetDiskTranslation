@@ -13,7 +13,7 @@
 [![License][license-badge]][license]  [![GitHub ][last_commit]]()
 </center>
 
-[English Docs](Readme.md) | [Докум на Русском ](Readme_ru_RU.md)
+📑 [Докум на Русском ](Readme_ru_RU.md)
 
 Translate Baidu Net Disk for Windows, Android to Russian,English languages.
 
