@@ -31,9 +31,9 @@
     <string name="abc_shareactionprovider_share_with">Partilhar com</string>
     <string name="abc_shareactionprovider_share_with_application">Partilhar com%s</string>
     <string name="abc_toolbar_collapse_description">Recolher</string>
-    <string name="aboout_app_version_text">\"Versão actual%s\"</string>
+    <string name="aboout_app_version_text">Versão actual: %s</string>
     <string name="about_title_text">SOBRE NÓS</string>
-    <string name="about_user_id">Localizado:(2022) zloisupport baseado por singingdalong</string>
+    <string name="about_user_id">Sua ID %d.   Localizado:(2022) MrPurple666  baseado por zloisupport</string>
     <string name="about_vip_item">Membros</string>
     <string name="aboutme_settings_title">Configuração e serviços</string>
     <string name="account_error_toast">Baidu NetDisk não está logado, faça login e tente novamente</string>
@@ -140,7 +140,7 @@
     <string name="backup_fail_listview_header_btn_text">Carregue aqui para corrigir</string>
     <string name="backup_fail_listview_header_tip">Se a lista branca de economia de energia não for adicionada, o backup bkgnd será interrompido</string>
     <string name="backup_introduce_thanks_for_your_affirmation">Obrigado pela sua afirmação</string>
-    <string name="backup_label_not_yet_upload">Sem U/Led (% 1$d)</string>
+    <string name="backup_label_not_yet_upload">Sem U/Led (%1$d)</string>
     <string name="backup_screenshots">u0009 | Captura de ecrã</string>
     <string name="backup_svip">Super membro</string>
     <string name="backup_vip">membro</string>
@@ -184,7 +184,7 @@
     <string name="bd_wallet_bind_card_first_pay">Pagamento pela primeira vez com cartão</string>
     <string name="bd_wallet_bind_card_number_overrun">O número máximo de cartas que você amarrou, por favor desamarre-o antes de vincular</string>
     <string name="bd_wallet_bind_card_second">Preencher a Informação do Cartão</string>
-    <string name="bd_wallet_blank" />
+    <string name="bd_wallet_blank"/>
     <string name="bd_wallet_cancel_bind">Ligação de libertação</string>
     <string name="bd_wallet_cancel_bind_entrance">Desvincular</string>
     <string name="bd_wallet_cancel_bind_tip">Você tem certeza de desbloquear seu cartão bancário atual</string>
@@ -247,7 +247,7 @@
     <string name="bd_wallet_payresult_title">Resultado do pagamento</string>
     <string name="bd_wallet_payway">método de pagamento</string>
     <string name="bd_wallet_plugin_title">"Detalhes do 'Plugin'"</string>
-    <string name="bd_wallet_refresh_time">Última actualização:% 1$s</string>
+    <string name="bd_wallet_refresh_time">Última actualização:%1$s</string>
     <string name="bd_wallet_reload">Recarregar</string>
     <string name="bd_wallet_scheme">bdcloudpay</string>
     <string name="bd_wallet_tab_bill">交易记录</string>
@@ -274,7 +274,7 @@
     <string name="bd_wallet_withhold_success">Abrir e pagar sucesso</string>
     <string name="bd_wallet_withhold_tips">Instruções de pagamento sem segredo</string>
     <string name="bd_wallet_withhold_title">Duoxiaoman secret-free payment</string>
-    <string name="bd_wallet_yuan">% 1$s 元</string>
+    <string name="bd_wallet_yuan">%1$s 元</string>
     <string name="bduss_invalid">As informações da conta são inválidas, faça login novamente</string>
     <string name="beta_string">&lt;font color=#81b640>Versão beta&lt;/font></string>
     <string name="bind_alert_ok">Claro</string>
@@ -285,7 +285,7 @@
     <string name="bind_singkil_now_btn_text">Activar Agora</string>
     <string name="bind_singkil_title">Privilégio do fluxo livre</string>
     <string name="blacklist_title">Lista negra de amigos</string>
-    <string name="both_unupload_upload">Todos (% 1$d )</string>
+    <string name="both_unupload_upload">Todos (%1$d )</string>
     <string name="bottom_bar_action_copy_to_current_dir">Copiar para a pasta actual</string>
     <string name="bottom_bar_action_copy_to_current_dir_desc">Os arquivos no diretório original não serão afetados após a cópia</string>
     <string name="bottom_bar_action_move_to_current_dir">Mover para a pasta actual</string>
@@ -373,15 +373,15 @@
     <string name="chain_recognize_get_private_share">Ver as ligações de partilha de cópias</string>
     <string name="chain_recognize_get_public_share">Ver as ligações de partilha copiadas</string>
     <string name="chain_recognize_immediately_check">Ver agora</string>
-    <string name="chain_recognize_password">Partilhar código:% 1$s (da área de transferência)</string>
+    <string name="chain_recognize_password">Partilhar código:%1$s (da área de transferência)</string>
     <string name="chain_recognize_password_success">O código de partilha foi verificado.</string>
-    <string name="chain_recognize_third_party_link_source">Fonte:% 1$s</string>
+    <string name="chain_recognize_third_party_link_source">Fonte:%1$s</string>
     <string name="chain_share_err">Ahhh, o link estava errado e o arquivo não foi encontrado, por favor abra o link de compartilhamento correto</string>
     <string name="chain_share_unzip_unsupport_preview">Os arquivos no pacote compactado compartilhado não podem ser visualizados no momento, salve no NetDisk e tente novamente</string>
     <string name="chain_skin_share_panel_default_tip">Defina a pele do tema para mostrar sua personalidade</string>
     <string name="chain_skin_svip_mark">SVIP</string>
     <string name="change_decode_mode_SW">Solução dura falhou, alternando solução suave para você</string>
-    <string name="character_counter_content_description" formatted="false">Caracteres introduzidos% 1$d de% 2$d</string>
+    <string name="character_counter_content_description" formatted="false">Caracteres introduzidos%1$d de%2$d</string>
     <string name="character_counter_pattern">%1$d/%2$d</string>
     <string name="check_origin_image">Ver a foto original</string>
     <string name="check_version">Nova versão detectada%s</string>
@@ -391,9 +391,9 @@
     <string name="choose_audio">Seleccionar Música</string>
     <string name="choose_doc">Seleccionar um documento</string>
     <string name="choose_file">Seleccionar um documento</string>
-    <string name="choose_image_count" formatted="false">Seleccionado:% 1$d /% 2$d</string>
+    <string name="choose_image_count" formatted="false">Seleccionado:%1$d /%2$d</string>
     <string name="choose_image_limit_tips">Só pode escolher no máximo%d Imagem</string>
-    <string name="choose_image_overflow">Pode seleccionar até% 1$d imagens de cada vez</string>
+    <string name="choose_image_overflow">Pode seleccionar até%1$d imagens de cada vez</string>
     <string name="choose_not_support_image_format">Este tipo de imagem não é suportado de momento</string>
     <string name="choose_pic">Escolher a Imagem</string>
     <string name="choose_video">Seleccionar o Vídeo</string>
@@ -417,7 +417,7 @@
     <string name="cloud_zip_privilege_use_hint_vip">Você se tornou um membro e desfrutar de descompressão on-line ilimitada de pacotes comprimidos dentro de%s dentro do período válido, não há necessidade de comprar cupons de descompressão.</string>
     <string name="cloud_zip_privilege_use_right_now">Desfecho imediatamente</string>
     <string name="cloud_zip_privilege_use_then">Usar mais tarde</string>
-    <string name="cloudimage_timeline_cluster_date" formatted="false">% 1$d mês%2$d dia%3$s</string>
+    <string name="cloudimage_timeline_cluster_date" formatted="false">%1$d mês%2$d dia%3$s</string>
     <string name="cloudimage_timeline_cluster_date_with_year">%1$d ano%2$d mês%3$d dia%4$s</string>
     <string name="cloudimage_timeline_cluster_no_date">Tempo misterioso</string>
     <string name="cloudp2p_local_file_share_out_of_selected_count_max">A partilha de ficheiros local não pode exceder%d Cada</string>
@@ -443,11 +443,11 @@
     <string name="common_launch_updating">Actualizar</string>
     <string name="common_shock">Vibração</string>
     <string name="common_sound">Som</string>
-    <string name="complete_btn_num" formatted="false">Completo (% 1$d /% 2$d)</string>
+    <string name="complete_btn_num" formatted="false">Completo (%1$d /%2$d)</string>
     <string name="confirm">Claro</string>
     <string name="confirm_app_download_dialog">Chegando a D/L para você%s</string>
     <string name="confirm_app_download_title">Aplicação D/L</string>
-    <string name="confirm_btn_num" formatted="false">OK (% 1$d /% 2$d)</string>
+    <string name="confirm_btn_num" formatted="false">OK (%1$d /%2$d)</string>
     <string name="confirm_close_activity_directional_content">\"Você tem certeza que deseja fechar o impulso direcional da atividade? Não pode mostrar as atividades operacionais mais adequadas para você após o fechamento\"</string>
     <string name="confirm_close_advertisement_directional_content">\"Você tem certeza que deseja desativar a publicidade direcionada? Não pode mostrar atividades operacionais mais adequadas para você após o fechamento\"</string>
     <string name="confirm_close_classification_content">Após fechar, o serviço de classificação de caracteres da imagem estará indisponível, e os nomes de pessoas marcadas e relacionamentos serão excluídos.</string>
@@ -508,8 +508,8 @@
     <string name="delete_file_dialog_title">Apagar Ficheiros</string>
     <string name="delete_local_file_fail">não foi possível apagar</string>
     <string name="delete_local_file_seccuss">apagado com sucesso</string>
-    <string name="delete_property_album_dialog_content">O conteúdo excluído inclui uma pasta de álbum, e se houver arquivos não-imagem, ele também será excluído;% 1$d Pode ser recuperado na lixeira dentro de dias</string>
-    <string name="delete_property_media_dialog_content">Ao excluir a pasta do álbum, se o álbum contiver conteúdo diferente de imagens e vídeos, ele também será excluído;% 1$d Recuperado na Lixeira dentro de dias</string>
+    <string name="delete_property_album_dialog_content">O conteúdo excluído inclui uma pasta de álbum, e se houver arquivos não-imagem, ele também será excluído;%1$d Pode ser recuperado na lixeira dentro de dias</string>
+    <string name="delete_property_media_dialog_content">Ao excluir a pasta do álbum, se o álbum contiver conteúdo diferente de imagens e vídeos, ele também será excluído;%1$d Recuperado na Lixeira dentro de dias</string>
     <string name="delete_recent">Apagar Ficheiros</string>
     <string name="delete_recent_failed_toast">A remoção do registo falhou</string>
     <string name="delete_recent_loading_text">Apagar...</string>
@@ -564,7 +564,7 @@
     <string name="document_share_expired_time_tips">A última partilha expirou em%s.</string>
     <string name="document_share_opened_tips">O documento foi partilhado</string>
     <string name="document_share_overdue">A partilha expirou</string>
-    <string name="document_title" formatted="false">% 1$s (% 2$s)</string>
+    <string name="document_title" formatted="false">%1$s (%2$s)</string>
     <string name="document_translate_language_select_title">Traduzir para</string>
     <string name="document_txt">TXT</string>
     <string name="document_unupload_detail">Apenas arquivos de classe de documento que não são enviados nesta unidade</string>
@@ -587,7 +587,7 @@
     <string name="download_apk">Versão do D/Ling Baidu NetDisk%s</string>
     <string name="download_apk_finish">Instalar</string>
     <string name="download_apk_soon">立即下载</string>
-    <string name="download_complete">Baixado (% 1$s)</string>
+    <string name="download_complete">Baixado (%1$s)</string>
     <string name="download_complete_normal">Transferência concluída</string>
     <string name="download_content">更多功能、更完整的会员权益</string>
     <string name="download_empty_dir">O ficheiro vazio D/L não é suportado</string>
@@ -635,7 +635,7 @@
     <string name="download_fail_streaming_video_not_support">O formato de vídeo não é suportado 31337 (57)</string>
     <string name="download_fail_task_not_exist">O ficheiro não existe, o D/L falhou</string>
     <string name="download_fail_transport_endpoint_is_not_connected">O destino do sistema de ficheiros não está ligado (%d)</string>
-    <string name="download_failed">a transferência falhou (% 1$s)</string>
+    <string name="download_failed">a transferência falhou (%1$s)</string>
     <string name="download_failed_no_sdcard_space">Baixo armazenamento de telemóvel. Por favor, limpe-se e tente novamente.</string>
     <string name="download_failed_normal">a transferência falhou</string>
     <string name="download_file_all_added">A encriptar a transmissão para si</string>
@@ -651,7 +651,7 @@
     <string name="download_qr_code_card_failed">A gravação falhou, tente mais tarde</string>
     <string name="download_qr_code_card_success">Salve com sucesso, envie uma foto para um amigo</string>
     <string name="download_title">体验百度网盘完整版</string>
-    <string name="downloading">D/ Ling (% 1$s)</string>
+    <string name="downloading">D/ Ling (%1$s)</string>
     <string name="dxm_ebpay_add_bankcard">Adicionar um cartão bancário</string>
     <string name="dxm_ebpay_auto_fill_sms_no_permission">没有读取短信的权限，无法自动填写验证码</string>
     <string name="dxm_ebpay_bank_phone_title">Número de telemóvel</string>
@@ -715,7 +715,7 @@
     <string name="dxm_wallet_base_no_network">A rede não força</string>
     <string name="dxm_wallet_base_no_network_error_code">( 错误代码:%d)</string>
     <string name="dxm_wallet_base_no_network_reason">Interrupção de rede, sinal de rede fraco ou falha do roteador</string>
-    <string name="dxm_wallet_base_no_storage_permission">你未开启本地存储权限，请在设置中开启% 1$s 存储权限</string>
+    <string name="dxm_wallet_base_no_storage_permission">你未开启本地存储权限，请在设置中开启%1$s 存储权限</string>
     <string name="dxm_wallet_base_open_bduss_network_error">Anormalidade na rede, por favor verifique a sua rede</string>
     <string name="dxm_wallet_base_open_bduss_network_resolve_error">O sistema foi pequeno, tente novamente mais tarde</string>
     <string name="dxm_wallet_base_open_bduss_network_ssl_error">Por favor, altere sua hora para Configurações Automáticas em Configurações do Sistema</string>
@@ -783,7 +783,7 @@
     <string name="dxm_wallet_fp_mobile_not_in_contacts">此手机号不在通讯录内</string>
     <string name="dxm_wallet_fp_no_permision_or_null">号码为空，请检查是否已开启通讯录权限</string>
     <string name="dxm_wallet_fp_phone_no_contact_permission_btn_ok">我知道了</string>
-    <string name="dxm_wallet_fp_phone_no_contact_permission_content">你未开启手机通讯录，请在设置中开启% 1$s 通讯录权限，充值更便捷</string>
+    <string name="dxm_wallet_fp_phone_no_contact_permission_content">你未开启手机通讯录，请在设置中开启%1$s 通讯录权限，充值更便捷</string>
     <string name="dxm_wallet_fp_phone_no_contact_permission_title">未开启通讯录</string>
     <string name="dxm_wallet_fp_phone_not_correct">手机号格式不正确</string>
     <string name="dxm_wallet_fp_select_wrong_number">你选择的号码格式错误，请重新选择</string>
@@ -798,7 +798,7 @@
     <string name="dxm_wallet_lightapp_refresh">刷新</string>
     <string name="dxm_wallet_lightapp_return">retorno</string>
     <string name="dxm_wallet_lightapp_share">分享</string>
-    <string name="dxm_wallet_lightapp_url_outer">网页由 % 1$s 提供</string>
+    <string name="dxm_wallet_lightapp_url_outer">网页由 %1$s 提供</string>
     <string name="dxm_wallet_load_complete_tips">安装成功，下次打开可享受最新体验~快试试吧！</string>
     <string name="dxm_wallet_load_fail">Falha ao carregar, por favor saia do pagamento Duxiaoman e tente novamente</string>
     <string name="dxm_wallet_load_fail_tips">安装失败，下次再试~</string>
@@ -821,7 +821,7 @@
     <string name="dxm_wallet_query_limit">查看额度</string>
     <string name="dxm_wallet_query_process">查看进度</string>
     <string name="dxm_wallet_recommend_tag">推荐</string>
-    <string name="dxm_wallet_refresh_time">最后更新时间：% 1$s</string>
+    <string name="dxm_wallet_refresh_time">最后更新时间：%1$s</string>
     <string name="dxm_wallet_reload">Recarregar</string>
     <string name="dxm_wallet_tab_home_finance_tab_nmae">理财</string>
     <string name="dxm_wallet_tab_home_lifeservice_tab_nmae">精选</string>
@@ -835,7 +835,7 @@
     <string name="dxm_wallet_varify_quick">立即实名</string>
     <string name="dxm_wallet_withhold_protocal_title">Acordo de Serviços ao Utilizador</string>
     <string name="dxm_wallet_withhold_success">Abrir e pagar com sucesso</string>
-    <string name="dxm_wallet_yuan">% 1$s 元</string>
+    <string name="dxm_wallet_yuan">%1$s 元</string>
     <string name="dxmpay_banksign_dialog_title">dicas</string>
     <string name="dxmpay_banksign_guide_pay_btn">Assinar e pagar</string>
     <string name="dxmpay_banksign_guide_sgin_btn">Vai assinar.</string>
@@ -848,7 +848,7 @@
     <string name="dxmpay_banksign_web_title">Assinatura bancária</string>
     <string name="dynamic_download_confirm_dialog_info">Necessidade de D/L os dados de atualização para continuar a usá-lo, venha e atualizá-lo</string>
     <string name="dynamic_download_confirm_dialog_un_wifi_info">Atualmente é um ambiente não WiFi. Atualizações contínuas podem consumir tráfego de dados. Queres continuar?</string>
-    <string name="dynamic_downloading_dialog_percent">% 1$s%%</string>
+    <string name="dynamic_downloading_dialog_percent">%1$s%%</string>
     <string name="dynamic_downloading_dialog_rate">%1$s/%2$s</string>
     <string name="ebpay_abandom_pay_comfirm">certo</string>
     <string name="ebpay_abandon_pay">Renúncia ao pagamento</string>
@@ -999,13 +999,13 @@
     <string name="ebpay_pwd_to_pay">passwordPayment</string>
     <string name="ebpay_pwd_use_explain">Qual é o pagamento pwd</string>
     <string name="ebpay_pwdpay_balance_tips">Esta encomenda está disponível por%1$s</string>
-    <string name="ebpay_pwdpay_balance_txt">Saldo% 1$s</string>
+    <string name="ebpay_pwdpay_balance_txt">Saldo%1$s</string>
     <string name="ebpay_pwdpay_credit_tips">Crédito disponível%1$s</string>
     <string name="ebpay_pwdpay_payment_select">selectPaymentMethod</string>
     <string name="ebpay_real_pay">付款金额</string>
     <string name="ebpay_recall">reacquire</string>
-    <string name="ebpay_recall_timer">Reactivar em% 1$d sec</string>
-    <string name="ebpay_resend">Reenviar em% 1$d seg</string>
+    <string name="ebpay_recall_timer">Reactivar em%1$d sec</string>
+    <string name="ebpay_resend">Reenviar em%1$d seg</string>
     <string name="ebpay_resolve_error">theSystemHasASmalDifference,Wait For AWhile,Try Again</string>
     <string name="ebpay_result_btn_success">finish</string>
     <string name="ebpay_safe_handle">degreeSmall</string>
@@ -1047,11 +1047,11 @@
     <string name="ebpay_verify_pass">Validação Pwd</string>
     <string name="ebpay_wallet_continue_pay">Continuar a pagar</string>
     <string name="ebpay_year_month">Mês/Ano (se 05/20 inserir 0520)</string>
-    <string name="ebpay_yuan">% 1$s 元</string>
+    <string name="ebpay_yuan">%1$s 元</string>
     <string name="edit_more_doc_count">À espera dos ficheiros%s</string>
     <string name="edit_playlist_name_format_invalid">Suporte para médio / inglês, números e símbolos - e _</string>
     <string name="edit_settings_count">%1$d/%2$d</string>
-    <string name="edit_txt_less_word_message" formatted="false">Pelo menos% 1$d caracteres chineses ou% 2$d caracteres</string>
+    <string name="edit_txt_less_word_message" formatted="false">Pelo menos%1$d caracteres chineses ou%2$d caracteres</string>
     <string name="edit_txt_max_word_message">Não escrever mais</string>
     <string name="empty_app">Ver conteúdo a qualquer hora, em qualquer lugar</string>
     <string name="empty_audio">Depois de U/Ling, você pode ouvi-lo a qualquer hora, em qualquer lugar</string>
@@ -1094,7 +1094,7 @@
     <string name="exceed_max_files_count">Demasiados ficheiros seleccionados</string>
     <string name="exit_tips">Pressione novamente para sair do Baidu NetDisk</string>
     <string name="expand_space">Expansão espacial</string>
-    <string name="expire_time_notice">Válido até% 1$s</string>
+    <string name="expire_time_notice">Válido até%1$s</string>
     <string name="expire_time_notice_forever">A parte é válida permanentemente</string>
     <string name="external_open_uk_check_dialog_tip_account">A conta corrente (%s) não corresponde à conta logada no applet/browser. Por favor, troque e tente novamente.</string>
     <string name="extraction_code_err">Erro de partilha do pwd</string>
@@ -1150,7 +1150,7 @@
     <string name="file_restore_failed">Falha na restauração do ficheiro. Por favor, tente novamente mais tarde.</string>
     <string name="file_restore_success">O ficheiro foi restaurado com sucesso</string>
     <string name="file_search_directory_all">Procurar por todo o ficheiro NetDisk</string>
-    <string name="file_search_directory_filename">Procurar:% 1$s</string>
+    <string name="file_search_directory_filename">Procurar:%1$s</string>
     <string name="file_search_directory_hint">Procurar por ficheiros na pasta actual</string>
     <string name="file_size">Tamanho do ficheiro:%s</string>
     <string name="file_tab_guide_text">Os ficheiros D/Led são vistos aqui</string>
@@ -1241,9 +1241,9 @@
     <string name="flash_screen_countdown_skip">A saltar%s</string>
     <string name="flash_screen_skip">Saltar para cima</string>
     <string name="float_advertise_countdown_with_day">%1$d dia%2$s:%3$s:%4$s</string>
-    <string name="float_advertise_countdown_with_day_without_time">% 1$d day</string>
+    <string name="float_advertise_countdown_with_day_without_time">%1$d day</string>
     <string name="float_advertise_countdown_without_day">%1$s:%2$s:%3$s</string>
-    <string name="float_advertise_countdown_without_day_hour" formatted="false">% 1$s:% 2$s</string>
+    <string name="float_advertise_countdown_without_day_hour" formatted="false">%1$s:%2$s</string>
     <string name="folder_empty">Sem arquivo, por favor U / L ~</string>
     <string name="folder_not_exist">Nenhuma pasta nesta pasta</string>
     <string name="folder_root_empty">Armazenamento seguro/mgmt eficiente/compartilhamento conveniente</string>
@@ -1252,12 +1252,12 @@
     <string name="forbidden_user_play_default_text">Há uma violação da conta e ela está temporariamente indisponível</string>
     <string name="forever_share_tip">O compartilhamento continuará a ser efetivo até que seja cancelado manualmente</string>
     <string name="forever_share_title">Permanente</string>
-    <string name="format_utils_file_size_b">% 1$dB</string>
+    <string name="format_utils_file_size_b">%1$dB</string>
     <string name="format_utils_file_size_gb">%.2fGB</string>
-    <string name="format_utils_file_size_kb">% 1$dKB</string>
-    <string name="format_utils_file_size_mb">% 1fMB</string>
-    <string name="format_utils_time_minute">/ Aproximadamente% 1$d min</string>
-    <string name="format_utils_time_second">/ Cerca de% 1$d seg</string>
+    <string name="format_utils_file_size_kb">%1$dKB</string>
+    <string name="format_utils_file_size_mb">%1fMB</string>
+    <string name="format_utils_time_minute">/ Aproximadamente%1$d min</string>
+    <string name="format_utils_time_second">/ Cerca de%1$d seg</string>
     <string name="format_utils_time_thousand_minute">/Mais de 1 dia</string>
     <string name="formatter_percent">{0}%</string>
     <string name="formatter_rate">{0}/s</string>
@@ -1318,7 +1318,7 @@
     <string name="image_reference_folder">Ver onde está a pasta</string>
     <string name="image_reference_location">Fotos tiradas nas proximidades</string>
     <string name="image_searching">à procura...</string>
-    <string name="image_size" formatted="false">% 1$s%2$d*% 3$d</string>
+    <string name="image_size" formatted="false">%1$s%2$d*%3$d</string>
     <string name="imagepager_bt_delete">apagar</string>
     <string name="imagepager_bt_download">download</string>
     <string name="imagepager_bt_export">Exportar fotografias/vídeos</string>
@@ -1364,13 +1364,13 @@
     <string name="lbspay_pay_amount">支付金额</string>
     <string name="lbspay_pay_brand_desc">Pagamento Duxiaoman para garantir a segurança de suas transações</string>
     <string name="lbspay_pay_cancel">Cancelamento do pagamento</string>
-    <string name="lbspay_pay_confirm_payamount">% 1$sYuan</string>
+    <string name="lbspay_pay_confirm_payamount">%1$sYuan</string>
     <string name="lbspay_pay_confirm_paydesc">confirmar o pagamento</string>
     <string name="lbspay_pay_guide_dxm_wallet_pay_type_msg">Para usar o Alipay para ativar a renovação automática, você precisa instalar o Alipay APP primeiro, ou você pode usar diretamente o pagamento Xiaoman para ativar</string>
     <string name="lbspay_pay_guide_install_ali_pay_pkg_confirm">Instalar a APP Alipay</string>
     <string name="lbspay_pay_guide_install_ali_pay_pkg_msg">Para usar o Alipay para ativar a renovação automática, você precisa instalar o aplicativo Alipay primeiro</string>
     <string name="lbspay_pay_loading_msg">度小满支付</string>
-    <string name="lbspay_pay_payamount">￥% 1$s</string>
+    <string name="lbspay_pay_payamount">￥%1$s</string>
     <string name="lbspay_pay_time_left">支付剩余时间 %s</string>
     <string name="lbspay_pay_timeout_prompt">Você não completou o pagamento dentro do tempo especificado, o pedido foi cancelado, por favor faça novamente o pedido</string>
     <string name="lbspay_pay_use_dxm_wallet_pay_type">Abrir para utilização</string>
@@ -1409,9 +1409,9 @@
     <string name="liveness_video_file_too_large_exceptio_dialog_msg">O arquivo de gravação de vídeo é muito grande, por favor, grave novamente</string>
     <string name="liveness_video_interrupt_dialog_msg">A gravação de vídeo foi interrompida</string>
     <string name="liveness_video_timeout_dialog_msg">Operação cronometrada, por favor mantenha seu rosto na caixa</string>
-    <string name="liveshow_teletext_time_day_before">% 1$d Dias atrás</string>
-    <string name="liveshow_teletext_time_hour_before">% 1$d Há uma hora</string>
-    <string name="liveshow_teletext_time_min_before">% 1$d minutos atrás</string>
+    <string name="liveshow_teletext_time_day_before">%1$d Dias atrás</string>
+    <string name="liveshow_teletext_time_hour_before">%1$d Há uma hora</string>
+    <string name="liveshow_teletext_time_min_before">%1$d minutos atrás</string>
     <string name="liveshow_teletext_time_sec_before">apenas</string>
     <string name="loading">Carregando...</string>
     <string name="loading_video">A carregar o vídeo...</string>
@@ -1433,7 +1433,7 @@
     <string name="low_quality">Suave</string>
     <string name="m3ufile_download_dialog_content_low_quality">Prioridade D/L</string>
     <string name="m3ufile_download_dialog_content_origin_quality">Imagem original</string>
-    <string name="m3ufile_download_dialog_content_save">Economize até 70% do espaço local</string>
+    <string name="m3ufile_download_dialog_content_save">Economize até 70%do espaço local</string>
     <string name="m3ufile_download_dialog_sdcard">Espaço livre do cartão SD local</string>
     <string name="m3ufile_download_dialog_title">Seleccione por favor a resolução do vídeo</string>
     <string name="m3ufile_download_dialog_without_sdcard">Nenhum cartão SD disponível localmente</string>
@@ -1470,7 +1470,7 @@
     <string name="move_property_album_only_show_image">Não exiba arquivos que não sejam imagens no álbum, deseja continuar movendo-se</string>
     <string name="move_property_album_only_show_media">Apenas imagens e vídeos são exibidos sob o álbum. Queres seguir em frente?</string>
     <string name="move_success">Movimento</string>
-    <string name="mtrl_chip_close_icon_content_description">Remover o% 1$s</string>
+    <string name="mtrl_chip_close_icon_content_description">Remover o%1$s</string>
     <string name="multi_window_tips">A interface atual pode exibir anormal no modo escarro</string>
     <string name="multi_window_tips_close">Por favor, corte-o para o modo de tela cheia e, em seguida, use este recurso.</string>
     <string name="my_app_data">Dados da minha candidatura</string>
@@ -1702,14 +1702,14 @@
     <string name="pull_to_refresh_pull_label">Continue a puxar a escova</string>
     <string name="pull_to_refresh_refreshing_label">A carregar...</string>
     <string name="pull_to_refresh_release_label">Lançado para actualizar</string>
-    <string name="pull_to_refresh_tip" formatted="false">% 1$d Imagens,% 2$d Vídeos</string>
+    <string name="pull_to_refresh_tip" formatted="false">%1$d Imagens,%2$d Vídeos</string>
     <string name="purify_internet_alert">A distribuição de pornografia ilegal é estritamente proibida. Caso contrário, a sua conta será bloqueada.</string>
     <string name="push_button_text">Empurrar</string>
     <string name="qr_code_in">Código da recolha</string>
     <string name="qr_code_out">Código de pagamento</string>
     <string name="quality_change_error">A mudança de definição falhou, tente novamente mais tarde</string>
     <string name="quality_change_success">Mudar a definição com sucesso</string>
-    <string name="quality_changing_hint">A mudar para a clareza% 1$s para si...</string>
+    <string name="quality_changing_hint">A mudar para a clareza%1$s para si...</string>
     <string name="quality_changing_identity_hint">Mudando para a qualidade%1$s somente para membros para você</string>
     <string name="quick_action_add_cancelcollection_member">Cancelar</string>
     <string name="quick_action_add_collection_member">recolher</string>
@@ -2092,7 +2092,7 @@
     <string name="search_content_select_header_text">Resultados da pesquisa relacionados com \"%1$s\" (%2$d)</string>
     <string name="search_directory_result_tips">Resultados da pesquisa (%d)</string>
     <string name="search_empty_tips_container">Não há nenhum resultado correspondente para os arquivos no NetDisk, você pode tentar toda a pesquisa de rede</string>
-    <string name="search_file_select_header_text" formatted="false">Ficheiro contendo% 1$s (% 2$d)</string>
+    <string name="search_file_select_header_text" formatted="false">Ficheiro contendo%1$s (%2$d)</string>
     <string name="search_hint_audio">Procurar áudio</string>
     <string name="search_hint_document">Procurar documentos</string>
     <string name="search_hint_folder">Procurar a pasta</string>
@@ -2190,7 +2190,7 @@
     <string name="settings_summary_not_login">Não ligado</string>
     <string name="settings_svip_icon">Ícone da aplicação</string>
     <string name="settings_svip_icon_des">Ícone exclusivo</string>
-    <string name="settings_version_num">V% 1$s</string>
+    <string name="settings_version_num">V%1$s</string>
     <string name="seven">7</string>
     <string name="seven_day_share_tip">O compartilhamento falhará após 7 dias e não poderá continuar visitando</string>
     <string name="share">share</string>
@@ -2252,7 +2252,7 @@
     <string name="share_pc">Rápido para o computador</string>
     <string name="share_pcode">Copiar o Disco Pwd</string>
     <string name="share_privacy_link">Criar uma ligação</string>
-    <string name="share_pwd_code">Partilhar pwd:% 1$s</string>
+    <string name="share_pwd_code">Partilhar pwd:%1$s</string>
     <string name="share_qq">Amigos QQ</string>
     <string name="share_qq_canceld">qq share cancel</string>
     <string name="share_qq_failed">erro de partilha do qq</string>
@@ -2396,9 +2396,9 @@
     <string name="thirty">30</string>
     <string name="thirty_days_share_tip">O compartilhamento falhará após 30 dias e não poderá continuar acessando</string>
     <string name="this_folder_is_empty">Esta pasta está vazia</string>
-    <string name="time_liveshow_teletext_time_day_before">% 1$d days ago</string>
-    <string name="time_liveshow_teletext_time_hour_before">% 1$d há horas</string>
-    <string name="time_liveshow_teletext_time_min_before">% 1$d min atrás</string>
+    <string name="time_liveshow_teletext_time_day_before">%1$d days ago</string>
+    <string name="time_liveshow_teletext_time_hour_before">%1$d há horas</string>
+    <string name="time_liveshow_teletext_time_min_before">%1$d min atrás</string>
     <string name="time_liveshow_teletext_time_sec_before">Agora mesmo</string>
     <string name="timeline_delete_button_dialog">apagar</string>
     <string name="timeline_delete_cannal_dialog">Cancelar</string>
@@ -2461,7 +2461,7 @@
     <string name="transfer_guide_svip">Abrir o super- membro</string>
     <string name="transfer_list_download_tip_1">Transferência de criptografia para proteger a segurança do arquivo</string>
     <string name="transfer_list_download_tip_2">Aproveite os direitos de D/L a alta velocidade</string>
-    <string name="transfer_list_download_tip_3">Velocidade ​​ superior a 83% dos utilizadores</string>
+    <string name="transfer_list_download_tip_3">Velocidade ​​ superior a 83%dos utilizadores</string>
     <string name="transfer_list_empty">Você ainda não transferiu o registro~</string>
     <string name="transfer_list_svip_guide_text">Aceleração SVIP</string>
     <string name="transfer_list_title_downloading">a transferir...</string>
@@ -2474,9 +2474,9 @@
     <string name="transferlist_del_title">Apagar o registo D/L</string>
     <string name="transferlist_item_desc">%1$s/%2$s</string>
     <string name="transferlist_item_downloading">a transferir...</string>
-    <string name="transferlist_item_state">% 1$s/s</string>
+    <string name="transferlist_item_state">%1$s/s</string>
     <string name="transferlist_item_svip_desc">%1$s%2$s</string>
-    <string name="transferlist_item_svip_state">% 1$s/s</string>
+    <string name="transferlist_item_svip_state">%1$s/s</string>
     <string name="triple_speed_playing">3,0 vezes velocidade rápida para a frente</string>
     <string name="type_all">Todos</string>
     <string name="type_app">Aplicar</string>
@@ -2602,7 +2602,7 @@
     <string name="upload_compress_select_quality_level_1_name">Alta qualidade</string>
     <string name="upload_compress_select_quality_name">IMG Original</string>
     <string name="upload_download_upon_wifi">U/L/D/L apenas em ambiente WiFi</string>
-    <string name="upload_failed">Falha U/ L (% 1$s)</string>
+    <string name="upload_failed">Falha U/ L (%1$s)</string>
     <string name="upload_failed_file_size_limit">文件大小超出 4G 限制，请至 PC 客户端上传大文件</string>
     <string name="upload_failed_more_number">Muitos arquivos, por favor exclua para menos de 5 milhões</string>
     <string name="upload_failed_name_illegal">O nome do ficheiro não pode conter \\/:*? \"|</string>
@@ -2629,11 +2629,11 @@
     <string name="upload_file_part_large_empty_noadded">Não suporta U / L de arquivos vazios e arquivos maiores que 4G</string>
     <string name="upload_folder">U/L a:%s</string>
     <string name="upload_list">Lista U/L</string>
-    <string name="upload_num_btn">U/L (% 1$d )</string>
+    <string name="upload_num_btn">U/L (%1$d )</string>
     <string name="upload_pause">Pausa U/L</string>
     <string name="upload_trans_assistant_dest_notice">Os arquivos locais enviados com sucesso serão sincronizados com a pasta \"Compartilhar com amigos\"</string>
     <string name="upload_video_waiting">Benefícios para Membros</string>
-    <string name="uploading">A enviar (% 1$s)</string>
+    <string name="uploading">A enviar (%1$s)</string>
     <string name="use_current_account">Usar a conta corrente</string>
     <string name="use_now">Usar agora</string>
     <string name="user_advertising_settings">Configuração de entrega orientada</string>
@@ -2651,12 +2651,12 @@
     <string name="user_center_svip_title">SVIP</string>
     <string name="user_center_vip_content">Online unzip + backup de vídeo e outros direitos reservados</string>
     <string name="user_center_vip_title">VIP</string>
-    <string name="user_identity_prefix">Nobre% 1$s</string>
+    <string name="user_identity_prefix">Nobre%1$s</string>
     <string name="user_instructions_agree">Concordo</string>
     <string name="user_instructions_checkbox">Nunca lembrar</string>
     <string name="user_instructions_not_agree">Discordar</string>
     <string name="user_instructions_tittle">Aviso do utilizador</string>
-    <string name="user_level_value">V% 1$d</string>
+    <string name="user_level_value">V%1$d</string>
     <string name="user_name">Nome do utilizador</string>
     <string name="using_wechat_scan_notice">Pressione o WeChat para identificar o código QR para obter o arquivo</string>
     <string name="vcode_invalide">Erro no código de verificação</string>
@@ -2679,7 +2679,7 @@
     <string name="video_auto_play_titel">O fluxo de selecção actual automaticamente</string>
     <string name="video_center_duration"> / %s</string>
     <string name="video_delay_play">Veja agora</string>
-    <string name="video_delay_playnext">Reproduzir a seguir em% 1$d seg</string>
+    <string name="video_delay_playnext">Reproduzir a seguir em%1$d seg</string>
     <string name="video_feedback_audio_not_match">Áudio e vídeo estão fora de sincronia</string>
     <string name="video_feedback_cant_play">O vídeo não pode ser reproduzido</string>
     <string name="video_feedback_no_screen">O vídeo não tem imagem</string>
@@ -2980,14 +2980,14 @@
     <string name="wallet_fp_phone_no_contact_permission_content">Você não abriu a lista de endereços telefônica, abra a permissão de lista de endereços%1$s nas configurações, recarregar é mais conveniente</string>
     <string name="wallet_fp_phone_no_contact_permission_title">Livro de endereços não aberto</string>
     <string name="wallet_fp_phone_not_correct">O formato do número de telefone está incorrecto</string>
-    <string name="wallet_fp_price">% 1$s 위안</string>
+    <string name="wallet_fp_price">%1$s 위안</string>
     <string name="wallet_fp_promotion">Recarregue sua conta de telefone e aproveite um desconto imediatamente</string>
     <string name="wallet_fp_reopen_content">Por favor, verifique sua impressão digital e ative o pagamento de impressão digital</string>
     <string name="wallet_fp_reopen_failed">Não foi possível activar o pagamento por impressões digitais</string>
     <string name="wallet_fp_reopen_success">Pagamento com impressões digitais activado com êxito</string>
     <string name="wallet_fp_return">retorno</string>
     <string name="wallet_fp_select_wrong_number">O formato do número selecionado está errado, escolha novamente</string>
-    <string name="wallet_fp_sell_price">Preço:% 1$s</string>
+    <string name="wallet_fp_sell_price">Preço:%1$s</string>
     <string name="wallet_fp_sys_too_low">Cancelamento do sistema de abertura de capital demasiado baixo</string>
     <string name="wallet_fp_try_too_many_times_try_later">Muitas tentativas, tente novamente da próxima vez</string>
     <string name="wallet_fp_unsupport_cancle_open">Cancelar ativação, telefone celular não suporta pagamento de impressão digital</string>
