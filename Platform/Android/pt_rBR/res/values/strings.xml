@@ -31,7 +31,7 @@
     <string name="abc_shareactionprovider_share_with">Partilhar com</string>
     <string name="abc_shareactionprovider_share_with_application">Partilhar com%s</string>
     <string name="abc_toolbar_collapse_description">Recolher</string>
-    <string name="aboout_app_version_text">Versão actual: %s</string>
+    <string name="aboout_app_version_text">Versão atual: %s</string>
     <string name="about_title_text">SOBRE NÓS</string>
     <string name="about_user_id">Sua ID %d.   Localizado:(2022) MrPurple666  baseado por zloisupport</string>
     <string name="about_vip_item">Membros</string>
@@ -79,7 +79,7 @@
     <string name="already_in_download_list">Já na lista D/L, por favor seja paciente</string>
     <string name="already_lastet_version">Seu Baidu NetDisk é a versão mais recente</string>
     <string name="always_use_this_app">Sem lembrete durante esta utilização</string>
-    <string name="apk_download_failed">A actualização falhou</string>
+    <string name="apk_download_failed">A Atualização falhou</string>
     <string name="apk_file_name">Baidu NetDisk.apk</string>
     <string name="apk_version_info">Baidu NetDisk%s version</string>
     <string name="app_check_title">Você está usando uma versão não oficial</string>
@@ -90,15 +90,15 @@
     <string name="app_name_lite">Baidu Net Disk lite</string>
     <string name="app_name_with_push_file">Transferência rápida para o computador (sem limite de tamanho)</string>
     <string name="app_name_with_space">Gravar no disco de rede</string>
-    <string name="app_recommend_aiapps">"Seleccione a 'applet' aberta"</string>
-    <string name="app_recommend_app">Seleccionar a aplicação aberta</string>
+    <string name="app_recommend_aiapps">"Selecione a 'applet' aberta"</string>
+    <string name="app_recommend_app">Selecionar a aplicação aberta</string>
     <string name="app_recommend_download_data">Tráfego móvel D/L</string>
     <string name="app_recommend_download_error">A transferência falhou, tente novamente</string>
     <string name="app_recommend_download_finish">Transferência concluída</string>
     <string name="app_recommend_download_no_wifi">Você está prestes a usar seus dados móveis e continuará a incorrer em custos com dados</string>
     <string name="app_recommend_download_wifi_only">Apenas Wi-Fi D/L</string>
     <string name="app_recommend_downloading">a transferir...</string>
-    <string name="app_recommend_expand_text">Seleccione outra aplicação a abrir</string>
+    <string name="app_recommend_expand_text">Selecione outra aplicação a abrir</string>
     <string name="app_recommend_item_label">Recomendar que esta aplicação abra</string>
     <string name="app_recommend_need_download">D/L recomendado, abrir rapidamente</string>
     <string name="app_recommend_need_upgrade">Recomendar para atualizar a nova versão, abrir rapidamente</string>
@@ -141,7 +141,7 @@
     <string name="backup_fail_listview_header_tip">Se a lista branca de economia de energia não for adicionada, o backup bkgnd será interrompido</string>
     <string name="backup_introduce_thanks_for_your_affirmation">Obrigado pela sua afirmação</string>
     <string name="backup_label_not_yet_upload">Sem U/Led (%1$d)</string>
-    <string name="backup_screenshots">u0009 | Captura de ecrã</string>
+    <string name="backup_screenshots">u0009 | Captura de tela</string>
     <string name="backup_svip">Super membro</string>
     <string name="backup_vip">membro</string>
     <string name="baidu_account">Conta Baidu</string>
@@ -165,7 +165,7 @@
     <string name="bd_wallet_auth_newcard_submit_sign">Abrir com um cartão novo</string>
     <string name="bd_wallet_auth_primary_pay_method">Método de pagamento preferido</string>
     <string name="bd_wallet_auth_protocol_text1">concordo</string>
-    <string name="bd_wallet_auth_sel_bank_card_tip">Seleccione o cartão bancário de dedução prioritária</string>
+    <string name="bd_wallet_auth_sel_bank_card_tip">Selecione o cartão bancário de dedução prioritária</string>
     <string name="bd_wallet_auth_submit_sign">Confirmar a activação</string>
     <string name="bd_wallet_balance_charge_records">Recarregar o registo</string>
     <string name="bd_wallet_balance_pwd_setting_tip2">Para a segurança da sua conta, defina um pwd de pagamento móvel</string>
@@ -202,7 +202,7 @@
     <string name="bd_wallet_debit">Cartão de Débito</string>
     <string name="bd_wallet_download_prompt">Sem D/L disponível</string>
     <string name="bd_wallet_error">Falhou, tente mais tarde</string>
-    <string name="bd_wallet_fail_tips">A actualização falhou</string>
+    <string name="bd_wallet_fail_tips">A Atualização falhou</string>
     <string name="bd_wallet_fingerprint_auth_failed">A verificação da impressão digital falhou</string>
     <string name="bd_wallet_fingerprint_close_tip">确定关闭指纹支付?</string>
     <string name="bd_wallet_fingerprint_enable_dialog_title">"请先到手机系统中添加指纹
@@ -218,8 +218,8 @@
     <string name="bd_wallet_fingerprint_reopen_guide_btn">Activação com um clique</string>
     <string name="bd_wallet_fingerprint_reopen_guide_subtitle">\"Alterações nas impressões digitais inseridas pelo dispositivo atual Para manter seu pagamento seguro, verifique se sua impressão digital está ativada\"</string>
     <string name="bd_wallet_fingerprint_set_pwd">设置支付密码</string>
-    <string name="bd_wallet_fingerprint_upgrade_guide">Actualizar o pagamento de impressões digitais</string>
-    <string name="bd_wallet_fingerprint_upgrade_guide_btn">Actualização com um clique</string>
+    <string name="bd_wallet_fingerprint_upgrade_guide">Atualizar o pagamento de impressões digitais</string>
+    <string name="bd_wallet_fingerprint_upgrade_guide_btn">Atualização com um clique</string>
     <string name="bd_wallet_fingerprint_upgrade_guide_subtitle">Para a conveniência do seu pagamento, verifique sua impressão digital para concluir a atualização</string>
     <string name="bd_wallet_fingerprint_use_pwd">请使用密码继续支付</string>
     <string name="bd_wallet_gathering_failed">O pagamento falhou!</string>
@@ -247,7 +247,7 @@
     <string name="bd_wallet_payresult_title">Resultado do pagamento</string>
     <string name="bd_wallet_payway">método de pagamento</string>
     <string name="bd_wallet_plugin_title">"Detalhes do 'Plugin'"</string>
-    <string name="bd_wallet_refresh_time">Última actualização:%1$s</string>
+    <string name="bd_wallet_refresh_time">Última Atualização:%1$s</string>
     <string name="bd_wallet_reload">Recarregar</string>
     <string name="bd_wallet_scheme">bdcloudpay</string>
     <string name="bd_wallet_tab_bill">交易记录</string>
@@ -265,8 +265,8 @@
     <string name="bd_wallet_trans_refund_node_wallet">度小满金融受理</string>
     <string name="bd_wallet_trans_time">交易时间</string>
     <string name="bd_wallet_unbind_card_success">Desamarrar com sucesso</string>
-    <string name="bd_wallet_update_again_btn">Actualizar novamente</string>
-    <string name="bd_wallet_update_btn">actualizar imediatamente</string>
+    <string name="bd_wallet_update_again_btn">Atualizar novamente</string>
+    <string name="bd_wallet_update_btn">Atualizar imediatamente</string>
     <string name="bd_wallet_update_ret_home_index_btn">Voltar à página inicial</string>
     <string name="bd_wallet_withhold_pay_button">Confirmar a activação e o pagamento</string>
     <string name="bd_wallet_withhold_protocal">《Du Xiaoman User Agreement《</string>
@@ -386,17 +386,17 @@
     <string name="check_origin_image">Ver a foto original</string>
     <string name="check_version">Nova versão detectada%s</string>
     <string name="check_version_text">Verificar a Nova Versão</string>
-    <string name="choose_album">Seleccionar o Conjunto de Fotografias</string>
-    <string name="choose_app_dialog_title">Seleccione a aplicação a usar</string>
-    <string name="choose_audio">Seleccionar Música</string>
-    <string name="choose_doc">Seleccionar um documento</string>
-    <string name="choose_file">Seleccionar um documento</string>
+    <string name="choose_album">Selecionar o Conjunto de Fotografias</string>
+    <string name="choose_app_dialog_title">Selecione a aplicação a usar</string>
+    <string name="choose_audio">Selecionar Música</string>
+    <string name="choose_doc">Selecionar um documento</string>
+    <string name="choose_file">Selecionar um documento</string>
     <string name="choose_image_count" formatted="false">Seleccionado:%1$d /%2$d</string>
     <string name="choose_image_limit_tips">Só pode escolher no máximo%d Imagem</string>
-    <string name="choose_image_overflow">Pode seleccionar até%1$d imagens de cada vez</string>
+    <string name="choose_image_overflow">Pode Selecionar até%1$d imagens de cada vez</string>
     <string name="choose_not_support_image_format">Este tipo de imagem não é suportado de momento</string>
     <string name="choose_pic">Escolher a Imagem</string>
-    <string name="choose_video">Seleccionar o Vídeo</string>
+    <string name="choose_video">Selecionar o Vídeo</string>
     <string name="clear_all">Vazio</string>
     <string name="clear_recent">Limpar o Registo</string>
     <string name="clear_recycle_bin_confirm_msg">Queres continuar a limpar tudo?</string>
@@ -424,7 +424,7 @@
     <string name="cloudp2p_local_file_tab">ficheiros locais</string>
     <string name="cloudp2p_network_exception_message">Falha na ligação à rede</string>
     <string name="cloudp2p_pick_file_title">Partilhar o ficheiro</string>
-    <string name="cloudp2p_pick_netdisk_file_cloudimage_header">Seleccionar uma imagem no NetDisk</string>
+    <string name="cloudp2p_pick_netdisk_file_cloudimage_header">Selecionar uma imagem no NetDisk</string>
     <string name="cloudp2p_send_local_file_button">U/L e enviar para amigos (%d)</string>
     <string name="cloudp2p_share_local_file_button">U/L e quota-parte (%d)</string>
     <string name="cloudp2p_share_netdisk_file_button">share it (%d )</string>
@@ -437,10 +437,10 @@
     <string name="common_launch_loading">A verificar se há actualizações...</string>
     <string name="common_launch_reload">Repetir</string>
     <string name="common_launch_report">Feedback imediato</string>
-    <string name="common_launch_update">actualizar imediatamente</string>
-    <string name="common_launch_update_error">A Actualização Falhou, tente novamente</string>
+    <string name="common_launch_update">Atualizar imediatamente</string>
+    <string name="common_launch_update_error">A Atualização Falhou, tente novamente</string>
     <string name="common_launch_update_title">dica</string>
-    <string name="common_launch_updating">Actualizar</string>
+    <string name="common_launch_updating">Atualizar</string>
     <string name="common_shock">Vibração</string>
     <string name="common_sound">Som</string>
     <string name="complete_btn_num" formatted="false">Completo (%1$d /%2$d)</string>
@@ -456,7 +456,7 @@
     <string name="continuation">continuar</string>
     <string name="continue_operate">Continuar%s</string>
     <string name="convert_fail_tip">O carregamento falhou, tente novamente</string>
-    <string name="convert_format_choose">Seleccione o formato</string>
+    <string name="convert_format_choose">Selecione o formato</string>
     <string name="converting_text">Está prestes a começar...</string>
     <string name="copy_by_user">Escolher o local de gravação</string>
     <string name="copy_exist">O arquivo que você deseja copiar já está na pasta de destino</string>
@@ -472,7 +472,7 @@
     <string name="copy_success">Copiar sucesso</string>
     <string name="coupon_already_use">O cupom selecionado foi usado, por favor selecione outro cupom</string>
     <string name="coupon_close">encerramento</string>
-    <string name="coupon_invalid">O cupão seleccionado expirou. Seleccione outro cupão</string>
+    <string name="coupon_invalid">O cupão seleccionado expirou. Selecione outro cupão</string>
     <string name="coupon_overdue">O cupom selecionado expirou, selecione outro cupom</string>
     <string name="coupon_use_now">Ver agora</string>
     <string name="cover_image">capa</string>
@@ -533,21 +533,21 @@
     <string name="dialog_file_provider_copy_content_more">Aguardar o Ficheiro%d</string>
     <string name="dialog_file_provider_copy_title">A copiar</string>
     <string name="dialog_netloss">A rede abre uma lacuna</string>
-    <string name="dialog_refresh">Actualizar</string>
-    <string name="dialog_share_confirm_tips">A pasta foi partilhada. Os visitantes de acompanhamento podem visualizar as alterações do arquivo de forma síncrona. Queres continuar?</string>
+    <string name="dialog_refresh">Atualizar</string>
+    <string name="dialog_share_confirm_tips">A pasta foi compartilhada. Os visitantes de acompanhamento podem visualizar as alterações do arquivo de forma síncrona. Queres continuar?</string>
     <string name="dialog_tip_fail_i_know">知道了</string>
-    <string name="dialog_tip_fail_share_upload_description">O espaço de criação de pastas partilhadas é insuficiente</string>
+    <string name="dialog_tip_fail_share_upload_description">O espaço de criação de pastas compartilhadas é insuficiente</string>
     <string name="dialog_tip_fail_title">dica</string>
     <string name="dialog_title">Razão insatisfeita</string>
     <string name="dialog_title_change_file_category">Mudar o Tipo de Ficheiro</string>
     <string name="dialog_title_prompt">dica</string>
-    <string name="dir_head_share_tips">A pasta foi compartilhada e os visitantes subsequentes podem visualizar a atualização simultaneamente</string>
+    <string name="dir_head_share_tips">A pasta foi comcompartilhada e os visitantes subsequentes podem visualizar a atualização simultaneamente</string>
     <string name="dir_share_cancel">Gerir esta partilha</string>
     <string name="directory_info">Detalhes da pasta</string>
     <string name="directory_properties">Propriedades da Pasta</string>
     <string name="directory_properties_tip">(só os criadores podem editar)</string>
     <string name="directory_sub_info_share">Você pode gerenciar membros compartilhados no diretório pai</string>
-    <string name="dlna_error">Não foi possível transmitir o ecrã, tente novamente mais tarde</string>
+    <string name="dlna_error">Não foi possível transmitir a tela, tente novamente mais tarde</string>
     <string name="document_all">todos</string>
     <string name="document_all_file_detail">Mostrar todos os arquivos de classe de documento nesta máquina</string>
     <string name="document_already_upload">U/Led</string>
@@ -561,9 +561,9 @@
     <string name="document_share_change_time">Expirou, editou</string>
     <string name="document_share_close_dialog_tips">Se você cancelar o compartilhamento, você não poderá acessar o link. Gostaria de continuar?</string>
     <string name="document_share_effective_tips">Este link é válido por um longo tempo até que o compartilhamento seja cancelado</string>
-    <string name="document_share_expired_time_tips">A última partilha expirou em%s.</string>
-    <string name="document_share_opened_tips">O documento foi partilhado</string>
-    <string name="document_share_overdue">A partilha expirou</string>
+    <string name="document_share_expired_time_tips">A última compartilha expirou em%s.</string>
+    <string name="document_share_opened_tips">O documento foi compartilhado</string>
+    <string name="document_share_overdue">A compartilha expirou</string>
     <string name="document_title" formatted="false">%1$s (%2$s)</string>
     <string name="document_translate_language_select_title">Traduzir para</string>
     <string name="document_txt">TXT</string>
@@ -609,7 +609,7 @@
     <string name="download_fail_readonly_file_system">A permissão só para leitura não pode escrever (%d)</string>
     <string name="download_fail_relogin">Conta expirou, tente novamente após fazer login novamente</string>
     <string name="download_fail_remote_file_has_change">Alterações no processo d/l do processo</string>
-    <string name="download_fail_share_file_no_dlink_info">Erro de partilha da informação da ligação (84)</string>
+    <string name="download_fail_share_file_no_dlink_info">Erro de compartilha da informação da ligação (84)</string>
     <string name="download_fail_streaming_api_advertisment">Erro de informação publicitária 133 (67)</string>
     <string name="download_fail_streaming_api_param_error">Erro do parâmetro 2 (65)</string>
     <string name="download_fail_streaming_api_safebox_stoken_invalid">Erro de permissão de espaço oculto 27 (66)</string>
@@ -619,13 +619,13 @@
     <string name="download_fail_streaming_file_not_exist">O arquivo compartilhado não existe -9 (71)</string>
     <string name="download_fail_streaming_file_not_video">Não é possível transcodificar o vídeo 31339 (59)</string>
     <string name="download_fail_streaming_mbox_group_not_exist">O grupo de partilha não existe 2102 (74)</string>
-    <string name="download_fail_streaming_mbox_share_not_exist">Partilha não existe 2131 (76)</string>
-    <string name="download_fail_streaming_mbox_share_user_no_permission">Partilha sem permissão 2132 (77)</string>
+    <string name="download_fail_streaming_mbox_share_not_exist">compartilhamento não existe 2131 (76)</string>
+    <string name="download_fail_streaming_mbox_share_user_no_permission">compartilhamento sem permissão 2132 (77)</string>
     <string name="download_fail_streaming_mbox_user_not_in_group">O usuário não está no grupo de compartilhamento 2103 (75)</string>
     <string name="download_fail_streaming_no_fsid">Partilhar ficheiros sem ID -3 (70)</string>
     <string name="download_fail_streaming_other_error">Erro do servidor 31035 (60)</string>
-    <string name="download_fail_streaming_pcs_frequency_error">Controlo de frequência do servidor de partilha 31034 (78)</string>
-    <string name="download_fail_streaming_pcs_return_406">Erro de partilha do servidor 100 (73)</string>
+    <string name="download_fail_streaming_pcs_frequency_error">Controlo de frequência do servidor de compartilhamento 31034 (78)</string>
+    <string name="download_fail_streaming_pcs_return_406">Erro de compartilhamento do servidor 100 (73)</string>
     <string name="download_fail_streaming_play_no_authority">Certificação sem documentos -21 (68)</string>
     <string name="download_fail_streaming_query_error_data">Consulta m3u8 retorna erro de dados (80)</string>
     <string name="download_fail_streaming_query_timeout">Consulta m3u8 timeout(79)</string>
@@ -933,7 +933,7 @@
     <string name="ebpay_last_nums">Número da cauda</string>
     <string name="ebpay_loading">Carregando...</string>
     <string name="ebpay_mobile_tip">"• bankReservedMobilePhoneNumberIsTheMobilePhoneNumberFilled OutWhileHandlingThe BankCard
-• noReservation,MobilePhoneNumber Forgotor Deactivate,Can Contact The BankPara Reservar ou Actualizar"</string>
+• noReservation,MobilePhoneNumber Forgotor Deactivate,Can Contact The BankPara Reservar ou Atualizar"</string>
     <string name="ebpay_modify_phone">O banco reserva o número errado de telemóvel?</string>
     <string name="ebpay_modify_success">com sucesso Modificado</string>
     <string name="ebpay_name">nome</string>
@@ -1036,7 +1036,7 @@
     <string name="ebpay_title_risk_control">Autenticação</string>
     <string name="ebpay_to_pay">去付款</string>
     <string name="ebpay_true_name">Titulares de cartões Nome</string>
-    <string name="ebpay_update_info_tips">Lembrete de actualização</string>
+    <string name="ebpay_update_info_tips">Lembrete de Atualização</string>
     <string name="ebpay_update_version_tips">Versão mais recente:%s</string>
     <string name="ebpay_use_new_card">Usar um novo cartão bancário</string>
     <string name="ebpay_use_newcard_topay">Pagar com cartão novo</string>
@@ -1097,7 +1097,7 @@
     <string name="expire_time_notice">Válido até%1$s</string>
     <string name="expire_time_notice_forever">A parte é válida permanentemente</string>
     <string name="external_open_uk_check_dialog_tip_account">A conta corrente (%s) não corresponde à conta logada no applet/browser. Por favor, troque e tente novamente.</string>
-    <string name="extraction_code_err">Erro de partilha do pwd</string>
+    <string name="extraction_code_err">Erro de compartilhamento do pwd</string>
     <string name="extraction_code_is_empty">Indique a partilha psd e envie</string>
     <string name="extraction_code_verify_err">Partilhe a verificação pwd falhou, tente novamente mais tarde</string>
     <string name="extraction_file">A extrair ficheiros</string>
@@ -1166,7 +1166,7 @@
     <string name="filemanager_cannot_start_task">Inoperável</string>
     <string name="filemanager_copy">cópia</string>
     <string name="filemanager_copy_failed">A operação de cópia falhou%d Documentos</string>
-    <string name="filemanager_copy_failed_exceed_maxnum">A cópia dos ficheiros excedeu%d Seleccione novamente</string>
+    <string name="filemanager_copy_failed_exceed_maxnum">A cópia dos ficheiros excedeu%d Selecione novamente</string>
     <string name="filemanager_copy_failed_tip">A cópia do ficheiro falhou, carregue para ver</string>
     <string name="filemanager_copy_failed_title">A cópia do ficheiro falhou</string>
     <string name="filemanager_copy_file_not_exist_content">Alguns arquivos de origem estão faltando e a cópia falha%d Arquivos</string>
@@ -1177,7 +1177,7 @@
     <string name="filemanager_copy_sucess">A operação de cópia foi bem sucedida</string>
     <string name="filemanager_delete">apagar</string>
     <string name="filemanager_delete_failed">A operação de remoção falhou%d Ficheiros</string>
-    <string name="filemanager_delete_failed_exceed_maxnum">O ficheiro apagado excedeu%d , por favor seleccione novamente</string>
+    <string name="filemanager_delete_failed_exceed_maxnum">O ficheiro apagado excedeu%d , por favor Selecione novamente</string>
     <string name="filemanager_delete_failed_tip">A remoção do ficheiro foi mal- sucedida, carregue para ver</string>
     <string name="filemanager_delete_failed_title">O del do ficheiro falhou</string>
     <string name="filemanager_delete_no_operation_permission">Arquivo selecionado contido no arquivo de compartilhamento, incapaz de excluir</string>
@@ -1195,7 +1195,7 @@
     <string name="filemanager_error_dup_file">Um arquivo com o mesmo nome é detectado, clique para visualizar</string>
     <string name="filemanager_error_message">A tarefa é interrompida quando o arquivo está abaixo de%s</string>
     <string name="filemanager_error_message_and_retry">A tarefa é interrompida quando o arquivo está abaixo de%s, tente novamente mais tarde</string>
-    <string name="filemanager_error_move_share">As seguintes pastas contêm pastas compartilhadas e não podem ser movidas para o espaço oculto</string>
+    <string name="filemanager_error_move_share">As seguintes pastas contêm pastas comcompartilhadas e não podem ser movidas para o espaço oculto</string>
     <string name="filemanager_error_permission">Os seguintes arquivos U/Led por outros não suportam%s</string>
     <string name="filemanager_error_space">Capacidade de espaço excedida,%s interrompida</string>
     <string name="filemanager_error_system_file">As seguintes pastas criadas pelo sistema não suportam movimento</string>
@@ -1207,7 +1207,7 @@
     <string name="filemanager_move">mover</string>
     <string name="filemanager_move__running_tip">Mover o ficheiro...</string>
     <string name="filemanager_move_failed">A operação móvel falhou%d Documentos</string>
-    <string name="filemanager_move_failed_exceed_maxnum">Mover ficheiros excedeu%d , por favor seleccione novamente</string>
+    <string name="filemanager_move_failed_exceed_maxnum">Mover ficheiros excedeu%d , por favor Selecione novamente</string>
     <string name="filemanager_move_failed_tip">A transferência do ficheiro falhou, carregue para ver</string>
     <string name="filemanager_move_failed_title">A movimentação dos ficheiros foi mal- sucedida</string>
     <string name="filemanager_move_no_operation_permission">Arquivo selecionado contido no arquivo de compartilhamento, incapaz de mover</string>
@@ -1294,7 +1294,7 @@
     <string name="guide_recycler_bin_privilege_del">SVIP gosta de salvar o arquivo da lixeira%d dia</string>
     <string name="guide_recycler_bin_privilege_svip">Distinguído%1$s SVIP, você pode recuperar arquivos excluídos na lixeira dentro de%2$d</string>
     <string name="guide_svip_buy">Abrir o SVIPship></string>
-    <string name="guide_svip_upgrade">Actualizar o SVIP></string>
+    <string name="guide_svip_upgrade">Atualizar o SVIP></string>
     <string name="guide_to_open_app">打开失败，请前往应用商店下载</string>
     <string name="guide_travel_share_person">Convide seus amigos para gerenciar suas fotos de viagem juntos</string>
     <string name="guide_video_backup_original_privilege">Aproveite o privilégio de fazer backup do seu vídeo original SVIP.</string>
@@ -1331,7 +1331,7 @@
     <string name="is_deleting">a apagar...</string>
     <string name="is_deleting_try_later">A apagar, tente novamente mais tarde</string>
     <string name="is_refreshing">Refrescante...</string>
-    <string name="is_refreshing_data_try_later">A actualizar os dados, tente novamente mais tarde</string>
+    <string name="is_refreshing_data_try_later">A Atualizar os dados, tente novamente mais tarde</string>
     <string name="is_refreshing_try_later">Refrescante, tente novamente mais tarde</string>
     <string name="judge_category_content">Alterar o tipo de arquivo pode resultar em que o arquivo esteja indisponível. Queres continuar?</string>
     <string name="know_it">compreendido</string>
@@ -1345,7 +1345,7 @@
     <string name="launch_upgrade_netdisk_title">dica</string>
     <string name="lbspay_back">retorno</string>
     <string name="lbspay_cancel">Cancelar</string>
-    <string name="lbspay_channel_choose">Seleccionar o Método de Pagamento</string>
+    <string name="lbspay_channel_choose">Selecionar o Método de Pagamento</string>
     <string name="lbspay_confirm">Claro</string>
     <string name="lbspay_get_cashier_cannel">取消加载</string>
     <string name="lbspay_get_cashier_error">支付方式加载失败</string>
@@ -1435,7 +1435,7 @@
     <string name="m3ufile_download_dialog_content_origin_quality">Imagem original</string>
     <string name="m3ufile_download_dialog_content_save">Economize até 70%do espaço local</string>
     <string name="m3ufile_download_dialog_sdcard">Espaço livre do cartão SD local</string>
-    <string name="m3ufile_download_dialog_title">Seleccione por favor a resolução do vídeo</string>
+    <string name="m3ufile_download_dialog_title">Selecione por favor a resolução do vídeo</string>
     <string name="m3ufile_download_dialog_without_sdcard">Nenhum cartão SD disponível localmente</string>
     <string name="main_dl_account_explain_info">\"Seu%1$s está vinculado à sua conta Baidu:%2$s Você usará esta conta para acessar o disco Baidu\"</string>
     <string name="mark_content_length_tip">Os marcadores não podem exceder 20 char</string>
@@ -1450,7 +1450,7 @@
     <string name="member_vip">Vip</string>
     <string name="menu_automatic">Preenchimento automático</string>
     <string name="menu_copy">Copiar</string>
-    <string name="menu_item_refresh">Actualizar</string>
+    <string name="menu_item_refresh">Atualizar</string>
     <string name="menu_item_settings">configurar</string>
     <string name="menu_paste">Colar</string>
     <string name="menu_text_empty_search_history">Limpar o Histórico</string>
@@ -1460,7 +1460,7 @@
     <string name="move_cannot_move_system_directory_simple">Não é possível mover as pastas \"Dados do aplicativo\" e \"De XX\"</string>
     <string name="move_exist">O arquivo que você deseja mover já está na pasta de destino.</string>
     <string name="move_failed">Falha de movimento</string>
-    <string name="move_failed_content">O arquivo selecionado contém uma pasta compartilhada e não pode ser movido para o espaço oculto</string>
+    <string name="move_failed_content">O arquivo selecionado contém uma pasta comcompartilhada e não pode ser movido para o espaço oculto</string>
     <string name="move_failed_dialog_content_nest">A relação de partilha original será cancelada</string>
     <string name="move_failed_dialog_title">Movimento dos ficheiros</string>
     <string name="move_failed_title">Não é possível mover</string>
@@ -1507,7 +1507,7 @@
     <string name="new_folder">nova pasta</string>
     <string name="new_friend_notification">Notificação da mensagem de novo amigo</string>
     <string name="new_friend_notification_info">Quando um novo amigo adiciona você, o sistema irá notificá-lo</string>
-    <string name="new_version">Actualização do Baidu NetDisk</string>
+    <string name="new_version">Atualização do Baidu NetDisk</string>
     <string name="no">não</string>
     <string name="no_file_exist">O ficheiro de origem que requer%s não foi encontrado</string>
     <string name="no_mark">Sem marca</string>
@@ -1636,7 +1636,7 @@
     <string name="personalpage_pulldown_refreshing">A carregar...</string>
     <string name="phone_register">Registo do número de telemóvel</string>
     <string name="pick_netdisk_activity_desc">Depois de ser empurrado, é D / Led pelo outro dispositivo e não consome tráfego local</string>
-    <string name="pick_netdisk_activity_title">Seleccionar um documento</string>
+    <string name="pick_netdisk_activity_title">Selecionar um documento</string>
     <string name="pickfile_extra">Inserir anexo</string>
     <string name="pickfile_send">Enviar aos amigos</string>
     <string name="pickfile_share">share</string>
@@ -1650,14 +1650,14 @@
     <string name="please_input_complete_information_title">Por favor, melhore a informação</string>
     <string name="please_input_extraction_code">Ficheiros encriptados para si</string>
     <string name="please_input_verify_code">Introduza o código de verificação</string>
-    <string name="please_select_one_album">Seleccione pelo menos um álbum</string>
-    <string name="plugin_do_not_select_dir">Não seleccionar uma pasta</string>
+    <string name="please_select_one_album">Selecione pelo menos um álbum</string>
+    <string name="plugin_do_not_select_dir">Não Selecionar uma pasta</string>
     <string name="plugin_head_view_all">todos os ficheiros</string>
     <string name="plugin_head_view_application">应用</string>
     <string name="plugin_head_view_audio">Áudio</string>
     <string name="plugin_head_view_document">Documentação</string>
     <string name="plugin_head_view_image">imagem</string>
-    <string name="plugin_head_view_select_text">Seleccione o NetDisk%s</string>
+    <string name="plugin_head_view_select_text">Selecione o NetDisk%s</string>
     <string name="plugin_head_view_video">vídeo</string>
     <string name="popup_SecondConfirm_text">Convidar amigos para liderar mais</string>
     <string name="popup_SecondConfirmbutton_text">Assista ao vídeo para ver mais</string>
@@ -1685,23 +1685,23 @@
     <string name="privacy_share_to_friends">Amigo do disco de rede</string>
     <string name="privilege_backup_change_background_info">Devido à atualização de recursos, seu backup de vídeo e arquivo foi interrompido. Vai e vê-lo ~</string>
     <string name="privilege_backup_change_background_ok">Indique o Baidu NetDisk para ver</string>
-    <string name="privilege_backup_change_background_title">Actualização da função de cópia de segurança do Baidu NetDisk</string>
+    <string name="privilege_backup_change_background_title">Atualização da função de cópia de segurança do Baidu NetDisk</string>
     <string name="privilege_backup_overdue">O seu%s A cópia de segurança expirou. Por favor, renove-o imediatamente.</string>
     <string name="privilege_only_for_vip">VIP</string>
     <string name="privilege_to_be_svip">Abrir o super- membro</string>
     <string name="privilege_to_be_vip">aderir à adesão</string>
-    <string name="privilege_to_upgrade_svip">Actualizar o super- membro</string>
+    <string name="privilege_to_upgrade_svip">Atualizar o super- membro</string>
     <string name="probationary_net_error">Ainda não há rede, tente mais tarde</string>
     <string name="probationary_no_download_task_tips">Sem tarefas D/L, tente novamente após adicionar</string>
     <string name="probationary_purchase_server_error">Erro do servidor, tente novamente mais tarde</string>
     <string name="progress_percent" formatted="false">%d%</string>
     <string name="protocol_text">Acordo do Utilizador</string>
     <string name="publish_exceed_max_task">Há demasiados ficheiros para enviar. Por favor, escolha menos</string>
-    <string name="pull_to_refresh_last_update_time">Última actualização%s</string>
+    <string name="pull_to_refresh_last_update_time">Última Atualização%s</string>
     <string name="pull_to_refresh_no_last_update_time">Você ainda não atualizou ~</string>
     <string name="pull_to_refresh_pull_label">Continue a puxar a escova</string>
     <string name="pull_to_refresh_refreshing_label">A carregar...</string>
-    <string name="pull_to_refresh_release_label">Lançado para actualizar</string>
+    <string name="pull_to_refresh_release_label">Lançado para Atualizar</string>
     <string name="pull_to_refresh_tip" formatted="false">%1$d Imagens,%2$d Vídeos</string>
     <string name="purify_internet_alert">A distribuição de pornografia ilegal é estritamente proibida. Caso contrário, a sua conta será bloqueada.</string>
     <string name="push_button_text">Empurrar</string>
@@ -1770,7 +1770,7 @@
     <string name="recycle_bin_period_deadline_day">hoje</string>
     <string name="recycle_bin_privilege_degrade">%1$s%2$s Expira, a vida útil cairá%3$d day</string>
     <string name="recycle_bin_service_protect">Protecção dos médicos</string>
-    <string name="refresh_verify_code_text">Carregue para actualizar</string>
+    <string name="refresh_verify_code_text">Carregue para Atualizar</string>
     <string name="regist_fail">o registo falhou (%d )</string>
     <string name="relationship_with_baby">Relação com o bebé</string>
     <string name="remain_days">%d Limpar após o dia</string>
@@ -1823,7 +1823,7 @@
     <string name="right_bar_decode_mode">Configuração da descodificação</string>
     <string name="rim_base__no_network">A rede não força, tente novamente mais tarde</string>
     <string name="rim_base_action_bar_text_close">encerramento</string>
-    <string name="rim_base_action_bar_text_refresh">Actualizar</string>
+    <string name="rim_base_action_bar_text_refresh">Atualizar</string>
     <string name="rim_base_action_bar_text_return">retorno</string>
     <string name="rim_base_asdasdasd_assdadsads">AAAAA7</string>
     <string name="rim_base_dialog_common_loading_text">A verificar...</string>
@@ -1973,7 +1973,7 @@
     <string name="sapi_sdk_address_add_action">Adicionar o endereço</string>
     <string name="sapi_sdk_address_add_tips">Venha e adicione o endereço ~</string>
     <string name="sapi_sdk_address_empty_tips">Sem endereço</string>
-    <string name="sapi_sdk_address_selector_title">Seleccione por favor a região</string>
+    <string name="sapi_sdk_address_selector_title">Selecione por favor a região</string>
     <string name="sapi_sdk_address_service_content">Para melhorar sua experiência, as informações enviadas serão sincronizadas com sua conta Baidu, para que você possa chamá-la a qualquer momento em cenários de serviço relacionados</string>
     <string name="sapi_sdk_alert_dialog_change_environment">Mudar de ambiente</string>
     <string name="sapi_sdk_alert_dialog_default_msg_text">dica</string>
@@ -2057,7 +2057,7 @@
     <string name="save_file_fail_no_space">Não há espaço suficiente para poupar</string>
     <string name="save_file_over_limit">O número de arquivos salvos desta vez excede o limite superior, reduza alguns arquivos e tente novamente</string>
     <string name="save_file_to_be_svip">Aberto SVIPship, o número de transferências subiu para%s</string>
-    <string name="save_file_upgrade_svip">Actualizar para SVIP, transferir o número para%s</string>
+    <string name="save_file_upgrade_svip">Atualizar para SVIP, transferir o número para%s</string>
     <string name="save_format">-¥%s</string>
     <string name="save_success">Gravado com sucesso</string>
     <string name="save_success_remind_description">O sistema irá notificá-lo quando os arquivos que não o terminal móvel forem transferidos com sucesso/U/Led</string>
@@ -2110,18 +2110,18 @@
     <string name="second_pwd_set_error">Defina a falha da senha secundária</string>
     <string name="second_pwd_setting">Configuração da senha secundária</string>
     <string name="second_pwd_unlock_activity_title">Indique o pwd secundário</string>
-    <string name="select_album_path_title">Seleccione um álbum para efectuar uma cópia de segurança automática</string>
-    <string name="select_all">seleccionar todos</string>
+    <string name="select_album_path_title">Selecione um álbum para efectuar uma cópia de segurança automática</string>
+    <string name="select_all">Selecionar todos</string>
     <string name="select_btn">Antologia</string>
-    <string name="select_file">Seleccionar um documento</string>
-    <string name="select_file_type_to_upload">Seleccionar o tipo de ficheiro U/L</string>
+    <string name="select_file">Selecionar um documento</string>
+    <string name="select_file_type_to_upload">Selecionar o tipo de ficheiro U/L</string>
     <string name="select_folder">Seleccionado:%s</string>
-    <string name="select_folder_button">Seleccione por favor a pasta</string>
+    <string name="select_folder_button">Selecione por favor a pasta</string>
     <string name="select_from_small_plane">/De: avião pequeno/</string>
     <string name="select_image_notify_text">Depois que as credenciais forem adicionadas com sucesso, as fotos serão movidas para a caixa do cartão</string>
-    <string name="select_move_path">Seleccionar a localização móvel</string>
+    <string name="select_move_path">Selecionar a localização móvel</string>
     <string name="select_netdisk_file">Adicionar o ficheiro NetDisk</string>
-    <string name="select_netdisk_file_title">Seleccione o ficheiro a adicionar</string>
+    <string name="select_netdisk_file_title">Selecione o ficheiro a adicionar</string>
     <string name="select_netdisk_image_activity_title">Escolher a foto</string>
     <string name="select_num_beyond_limit">O número de seleções de arquivos excede o limite</string>
     <string name="select_pic_gesture_guide_title">Quando selecionado, deslize o dedo para selecionar fotos rapidamente</string>
@@ -2130,9 +2130,9 @@
     <string name="select_secondary_warning_title">Aviso</string>
     <string name="select_upload_path">Escolha uma localização U/L</string>
     <string name="select_upload_to">Enviar para:</string>
-    <string name="select_video_path_title">Seleccionar um vídeo de cópia de segurança automática</string>
+    <string name="select_video_path_title">Selecionar um vídeo de cópia de segurança automática</string>
     <string name="select_view_count">Escolha o número limite</string>
-    <string name="selecte_default_download_position">Seleccione a localização D/L predefinida</string>
+    <string name="selecte_default_download_position">Selecione a localização D/L predefinida</string>
     <string name="selected_file_to_edit">%d ficheiro seleccionado</string>
     <string name="send_link_to_other_failed">Não foi possível criar uma ligação</string>
     <string name="send_messages_button_text">enviar mensagens</string>
@@ -2275,7 +2275,7 @@
     <string name="share_tips_vip_suffix">--Partilhar do Baidu Netdisk SVIP%s</string>
     <string name="share_to_friends">Partilha de amigos</string>
     <string name="share_to_it">Partilhar com a TA</string>
-    <string name="share_unsupport">Actualização da função, mantenha-se ligado</string>
+    <string name="share_unsupport">Atualização da função, mantenha-se ligado</string>
     <string name="share_user_name">Partilhar pessoas:%s</string>
     <string name="share_user_name_info">Partilha%s</string>
     <string name="share_user_qouta">Espaço disponível%s</string>
@@ -2332,9 +2332,9 @@
     <string name="speed_no_svip_switch_success">Aberto para si gratuitamente%1$s Velocidade de reprodução</string>
     <string name="speed_normal">Normal</string>
     <string name="speed_now_svip_open_normal">Abrir imediatamente</string>
-    <string name="speed_now_svip_open_vip">Actualizar Agora</string>
+    <string name="speed_now_svip_open_vip">Atualizar Agora</string>
     <string name="speed_open_svip">Tornar- se num SVIP</string>
-    <string name="speed_open_svip_vip">Actualizar o super- membro</string>
+    <string name="speed_open_svip_vip">Atualizar o super- membro</string>
     <string name="speed_svip_only">Abrir super membros, desfrutar do jogo multiplicador</string>
     <string name="speed_svip_only_vip">Atualize SVIPs e desfrute da velocidade de reprodução</string>
     <string name="speed_svip_stop_switch">Será ligado durante a reprodução%1$s speed</string>
@@ -2384,7 +2384,7 @@
     <string name="tab_baby_album">Álbum do Bebê</string>
     <string name="tab_document_last">Todos os documentos</string>
     <string name="tab_document_more_backup_file">Configuração da cópia de segurança do documento</string>
-    <string name="tab_document_more_choose_file">Seleccionar um documento</string>
+    <string name="tab_document_more_choose_file">Selecionar um documento</string>
     <string name="tab_filelist">Ficheiros</string>
     <string name="tab_normal_directory">Pasta normal</string>
     <string name="tab_photo_album">Galeria normal</string>
@@ -2576,8 +2576,8 @@
     <string name="unzip_password_not_support_chinese">A descompressão chinesa pwd não é suportada neste momento</string>
     <string name="unzip_show_password">Mostrar o pwd</string>
     <string name="unzip_unsupport_click">A visualização dos arquivos no pacote compactado na dinâmica de compartilhamento não é suportada neste momento. Tente salvar o pacote compactado no NetDisk e visualizá-lo</string>
-    <string name="update_now">Actualizar agora</string>
-    <string name="update_version_failed_mount_sdcard">A actualização falhou, tente ligar o sdcard</string>
+    <string name="update_now">Atualizar agora</string>
+    <string name="update_version_failed_mount_sdcard">A Atualização falhou, tente ligar o sdcard</string>
     <string name="update_video_mark_fail">Não foi possível gravar a marca</string>
     <string name="update_video_mark_success">Marcar o sucesso da gravação</string>
     <string name="upload">U/L</string>
@@ -2585,7 +2585,7 @@
     <string name="upload_banner_not_vip_text">Privilégio exclusivo de transferência de velocidade de super membros</string>
     <string name="upload_banner_svip_btn">Renovar o SVIP</string>
     <string name="upload_banner_svip_text">Privilégios exclusivos de velocidade D/L SVIP</string>
-    <string name="upload_banner_vip_btn">Actualizar o SVIP</string>
+    <string name="upload_banner_vip_btn">Atualizar o SVIP</string>
     <string name="upload_banner_vip_text">Activar o privilégio exclusivo de velocidade SVIP D/L</string>
     <string name="upload_button_audio">Música U/L</string>
     <string name="upload_button_file">U/L doc</string>
@@ -2611,7 +2611,7 @@
     <string name="upload_failed_normal">o envio falhou</string>
     <string name="upload_failed_normal_errorcode">(%d) U/ L falhou</string>
     <string name="upload_failed_parameter_error">U/L falhou com parâmetros errados</string>
-    <string name="upload_failed_share_creator_no_storage_space">Espaço insuficiente para o criador da pasta partilhada</string>
+    <string name="upload_failed_share_creator_no_storage_space">Espaço insuficiente para o criador da pasta compartilhada</string>
     <string name="upload_file_all_dir">A pasta U/ L não é suportada</string>
     <string name="upload_file_all_empty">O ficheiro vazio U/L não é suportado</string>
     <string name="upload_file_all_large">Não suporta U / Ling maior que arquivos 4G</string>
@@ -2707,14 +2707,14 @@
     <string name="video_play_error_no">Código de erro%d</string>
     <string name="video_play_find_no_source">Sem dados reproduzíveis</string>
     <string name="video_plugin_get_failed_network_install">"Excepção de rede, a instalação do 'plugin' de vídeo falhou"</string>
-    <string name="video_plugin_get_failed_network_update">"Excepção de rede, a actualização do 'plugin' de vídeo falhou"</string>
+    <string name="video_plugin_get_failed_network_update">"Excepção de rede, a Atualização do 'plugin' de vídeo falhou"</string>
     <string name="video_plugin_get_failed_no_sdcard_install">A instalação do plugin de vídeo falhou, ligue novamente o cartão SD</string>
     <string name="video_plugin_get_failed_no_sdcard_update">Atualização de plug-in de vídeo falhou, por favor volte a ligar o cartão SD</string>
     <string name="video_plugin_install_failed">"A instalação do 'plugin' de vídeo falhou"</string>
     <string name="video_plugin_is_downloading_tip">"A instalar o 'plugin' de vídeo, veja por favor mais tarde"</string>
     <string name="video_plugin_is_invalid">Há uma nova versão do plugin de vídeo, atualizado para você depois de se conectar à rede</string>
-    <string name="video_plugin_is_upgrading_tip">A actualizar o plugin de vídeo, veja por favor mais tarde</string>
-    <string name="video_plugin_update_failed">"A actualização do 'plugin' de vídeo falhou"</string>
+    <string name="video_plugin_is_upgrading_tip">A Atualizar o plugin de vídeo, veja por favor mais tarde</string>
+    <string name="video_plugin_update_failed">"A Atualização do 'plugin' de vídeo falhou"</string>
     <string name="video_right_bar_feedback">Feedback</string>
     <string name="video_right_bar_info_appeal">Recusar este vídeo</string>
     <string name="video_second_laoding" formatted="false">Transcodificar%d%</string>
@@ -2874,11 +2874,11 @@
     <string name="wallet_base_phone_not_surport_nfc">Desculpe, seu telefone não suporta a função NFC e não pode ser recarregado</string>
     <string name="wallet_base_please_login">Você não está logado, por favor faça login primeiro</string>
     <string name="wallet_base_pull_refresh_pull_tips">Abastecimento</string>
-    <string name="wallet_base_pull_refresh_tips">Actualizar</string>
+    <string name="wallet_base_pull_refresh_tips">Atualizar</string>
     <string name="wallet_base_quit_pay">Renúncia ao pagamento</string>
     <string name="wallet_base_refresh_loading">Du Xiaoman Financial Safe Carregando...</string>
-    <string name="wallet_base_refresh_pull_down">Puxar para baixo pode actualizar</string>
-    <string name="wallet_base_refresh_release">Actualizar após a libertação</string>
+    <string name="wallet_base_refresh_pull_down">Puxar para baixo pode Atualizar</string>
+    <string name="wallet_base_refresh_release">Atualizar após a libertação</string>
     <string name="wallet_base_result_time">1970–01–01 00:00:00</string>
     <string name="wallet_base_revalidation">Verificar novamente</string>
     <string name="wallet_base_safekeyboard_key_0">0</string>
@@ -2992,7 +2992,7 @@
     <string name="wallet_fp_try_too_many_times_try_later">Muitas tentativas, tente novamente da próxima vez</string>
     <string name="wallet_fp_unsupport_cancle_open">Cancelar ativação, telefone celular não suporta pagamento de impressão digital</string>
     <string name="wallet_fp_upgrade_content">Por favor, verifique a impressão digital, atualize o pagamento da impressão digital</string>
-    <string name="wallet_fp_upgrade_failed">A actualização do pagamento das impressões digitais falhou</string>
+    <string name="wallet_fp_upgrade_failed">A Atualização do pagamento das impressões digitais falhou</string>
     <string name="wallet_fp_upgrade_success">Pagamento de impressões digitais actualizado com sucesso</string>
     <string name="wallet_fp_wrong_number">Não suporta este número para recarregar</string>
     <string name="wallet_hce_do_auth">Nome verdadeiro</string>
@@ -3009,7 +3009,7 @@
     <string name="wallet_lightapp_contact_no_contact">Nenhum contacto lido</string>
     <string name="wallet_lightapp_contact_please_select_phone">Escolha o número de telemóvel</string>
     <string name="wallet_lightapp_contact_title">Contactos</string>
-    <string name="wallet_lightapp_refresh">Actualizar</string>
+    <string name="wallet_lightapp_refresh">Atualizar</string>
     <string name="wallet_lightapp_return">Retorno</string>
     <string name="wallet_lightapp_share">share</string>
     <string name="wallet_lightapp_url_outer">A página é fornecida por%1$s</string>
@@ -3034,8 +3034,8 @@
     <string name="wallet_plugin_downloading">D/Ling</string>
     <string name="wallet_plugin_network_style_tips">(Dica: ambiente sem wi-fi)</string>
     <string name="wallet_plugin_update_content_tips">Para que você tenha uma experiência melhor, atualize rapidamente</string>
-    <string name="wallet_plugin_update_tips">"Actualização do 'Plugin'"</string>
-    <string name="wallet_plugin_updateing_tips">Aguarde por favor durante a actualização</string>
+    <string name="wallet_plugin_update_tips">"Atualização do 'Plugin'"</string>
+    <string name="wallet_plugin_updateing_tips">Aguarde por favor durante a Atualização</string>
     <string name="wallet_promote_limit">Aumentar a quota</string>
     <string name="wallet_qr_alipay_wx_jd_copy_success">O URL foi copiado com sucesso</string>
     <string name="wallet_qr_confirm_pay_order_button">Vai pagar</string>
@@ -3054,10 +3054,10 @@
     <string name="wallet_query_limit">Ver quota</string>
     <string name="wallet_query_process">Ver o progresso</string>
     <string name="wallet_recommend_tag">recomendar</string>
-    <string name="wallet_refresh_loading">Actualizar</string>
+    <string name="wallet_refresh_loading">Atualizar</string>
     <string name="wallet_refresh_no_more">Tudo carregado</string>
-    <string name="wallet_refresh_pull_down">Actualização pendente</string>
-    <string name="wallet_refresh_release">Actualização da libertação</string>
+    <string name="wallet_refresh_pull_down">Atualização pendente</string>
+    <string name="wallet_refresh_release">Atualização da libertação</string>
     <string name="wallet_scancode_album_error">未获得相册或存储空间权限，请在系统设置中授予</string>
     <string name="wallet_scancode_cancel">取消</string>
     <string name="wallet_scancode_continue_open">继续访问</string>
@@ -3066,7 +3066,7 @@
     <string name="wallet_scancode_desc">将二维码放入扫描框内，即可扫描</string>
     <string name="wallet_scancode_error">照片中未发现二维码/条形码</string>
     <string name="wallet_scancode_title">扫一扫</string>
-    <string name="wallet_tab_pull_to_refresh_from_bottom_pull_label">Puxar para actualizar</string>
+    <string name="wallet_tab_pull_to_refresh_from_bottom_pull_label">Puxar para Atualizar</string>
     <string name="wallet_tab_pull_to_refresh_from_bottom_refreshing_label">@string/wallet_refresh_loading</string>
     <string name="wallet_tab_pull_to_refresh_from_bottom_release_label">@string/wallet_refresh_release</string>
     <string name="wallet_title_for_finance">Duxiaoman Financial</string>
