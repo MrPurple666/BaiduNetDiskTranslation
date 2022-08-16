@@ -23,7 +23,7 @@
 							</downBkg>
 						</Properties>
 					</IBGButton>
-					<IBGStaticEx name="nmNotifyTitle" dock="DOCK_FILL" text="$3223" margin="1,8,0,4" textClr="0x666666">
+					<IBGStaticEx name="nmNotifyTitle" dock="DOCK_FILL" text="$3225" margin="1,8,0,4" textClr="0x666666">
 						<Properties>
 							<textFont>
 								<IBGFont weight="1000"/>

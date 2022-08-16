@@ -1335,6 +1335,10 @@
    <!--新版自动备份-->
   <String id="IDS_AUTOBACKUP_GUIDE_TIP" value="无需手动上传！开启文件夹自动备份，随时随地查看电脑上常用文件。" />
   <String id="IDS_AUTOBACKUP_GUIDE_TIP_BTN" value="去看看" />
+  
+  <!--同步空间引导-->
+  <String id="IDS_AUTOBACKUP_GUIDE_WS_TIP" value="开启同步空间，多台手机电脑文件共享传输，告别手动上传下载！" />
+  <String id="IDS_AUTOBACKUP_GUIDE_WS_TIP_BTN" value="去试试" />
     
   <!--跨端传输路径设置-->
   <String id="IDS_SETTING_STATIC_TEXT_TRANSFERDIR" value=" 文件快传位置选择：" />
@@ -1440,4 +1444,7 @@
   <!--物理带宽提速-->
   <String id="IDS_BANDWIDTH_SPEEDUP_USEING_TIP" value="移动宽带运营商提升物理宽带中，%d秒后关闭，同一宽带下所有设备均享受提速，快去试试其他设备吧！" />
   <String id="IDS_BANDWIDTH_SPEEDUP_END_TIP" value="移动运营商提升物理带宽体验结束。" />
+  <!--悬浮窗-->
+  <String id="IDS_SETTING_NETDISK_FLOATING" value="显示百度网盘悬浮窗" />
+  <String id="IDS_SETTING_WORKSPACE_FLOATING" value="显示同步空间悬浮窗" />
 </StringTable>

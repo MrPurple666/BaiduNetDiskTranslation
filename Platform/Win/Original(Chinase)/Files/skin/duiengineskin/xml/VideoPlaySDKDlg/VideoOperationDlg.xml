@@ -1,6 +1,15 @@
 ﻿<layer name="VideoOperationDlg" width="1006" height="568" minsize="1010,568" toolwin="1" ncRect="0,0,0,0"  resize="0" translucent="1">
 	<body>
     <dlg pos="0,0,-0,-0" skin="video_skin_op_bg">
+      <!--智能字幕引导提示-->
+      <dlg name="subtitle_guide_dlg" pos="-223,-131,@201,@62" show="1">
+        <img pos="0,0,@201,@54" skin="subtitle_guide_top_img"></img>
+        <img pos="8,9,@36,@36" skin="subtitle_guide_log_img"></img>
+        <text pos="49,10,@126,@14" crtext="FFFFFF" font="0200:PingFang SC">%str7000%</text>
+        <text pos="49,32,@126,@14" crtext="FFFFFF" font="0200:PingFang SC">%str7001%</text>
+        <img pos="93,54,@15,@8" skin="subtitle_guide_bottom_img"></img>
+      </dlg>
+      
       <!--播放列表-->
       <dlg name="play_list" pos="-240,0,-0,-0" skin="video_skin_bg_temp" show="0">
         <dlg name="play_list_tab" pos="0,64,-0,96">
@@ -168,8 +177,9 @@
             <img name="img_vedio_note_new" pos="-320,40,@26,@12" skin="video_overspeed_new_img" show="1"></img>
             <img name="img_overspeed_new" pos="-253,40,@26,@12" skin="video_overspeed_new_img" show="1"></img>
             <img name="img_definition_new" pos="-187,40,@26,@12" skin="video_overspeed_new_img" show="0"></img>
+            <img name="img_subtitle_new" pos="-120,40,@26,@12" skin="video_overspeed_new_img" show="1"></img>
           </dlg>
-          <img name="img_definition_guide" pos="-293,0,@206,@72" skin="video_definition_guide_img" show="0"></img>
+          <img name="img_definition_guide" pos="-293,0,@206,@72" skin="video_definition_guide_img" show="0"></img>        
         </dlg>
         <!--tip panel begin-->
         <!--下载Tip-->
@@ -257,9 +267,12 @@
                           align="left" tabstop="0" x-margin="4" y-margin="2" richedit="0" 
                     btnskin="video_subtitle_comboboxbtn" ncskin="video_subtitle_border" itempanel="1" animtime="0">
             <liststyle x-margin="4" y-margin="0" richedit="0" ncskin="video_subtitle_border" itemheight="32" 
-                       critembg="000000" critemselbg="1c2434" crbg="000000" id_text="1">
+                       critembg="000000" critemselbg="1c2434" crbg="000000" id_text="1" virtual="1" notify_predraw="1">
               <template>
-                <text id="1" pos="2,8" crtext="FFFFFF" crhover="008AFF" font="0000:微软雅黑" maxwidth="156" dotted="1" msgtransparent="0"/>
+                <img name ="video_subtitle_ai" pos="2,5,@18,@18" skin="video_subtitle_ai" show="0" />
+                <text name ="video_subtitle_text" id="1" pos="25,4" crtext="FFFFFF" crhover="008AFF" font="0000:微软雅黑" maxwidth="156" dotted="1" msgtransparent="0"/>
+                <img name ="video_subtitle_vip" pos="100,8,@30,@15" skin="video_subtitle_vip" show="0" />
+                <img name ="video_subtitle_tryout" pos="100,8,@30,@15" skin="video_subtitle_tryout" show="0" />  
               </template>
             </liststyle>
             <editstyle inset="5,0,5,0" crtext="FFFFFF" align="left" crbg="000000"/>
@@ -367,6 +380,14 @@
           <imgbtn name="btn_max_recover" skin="video_imglist_maxsize_recover"  pos="-82,16" show="0" animate="1" cursor="arrow"/>
           <imgbtn name="btn_minimize" skin="video_imglist_minsize" pos="-122,16" animate="1" cursor="arrow"/>
         </dlg>
+      </dlg>
+      <!--智能字幕生成选择界面-->
+      <dlg name="subtitle_produce_dlg" pos="33,-129,@392,@50" skin="subtitle_produce_dlg_bg_img" show="0">
+        <img pos="10,7,@36,@36" skin="subtitle_guide_log_img"></img>
+        <text pos="49,18,@182,@14" crtext="FFFFFF" font="0200:PingFang SC">%str7002%</text>
+        <imgbtn name="chinese_btn" pos="243,13,@48,@24" skin="subtitle_language_btn_img" crtext="A2ABBD" font="0000:PingFang SC">%str6631%</imgbtn>
+        <imgbtn name="english_btn" pos="300,13,@48,@24" skin="subtitle_language_btn_img" crtext="A2ABBD" font="0000:PingFang SC">%str6632%</imgbtn>
+        <imgbtn name="subtitle_produce_close_btn" pos="366,21,@8,@8" skin="subtitle_produce_close_btn_img" cursor="arrow" animate="0"></imgbtn>
       </dlg>
     </dlg>
 	</body>

@@ -49,7 +49,7 @@
 								<Children>
 									<IBGRegionPanel size="480,20" margin="0,10,0,0" dock="DOCK_TOP">
 										<Children>
-											<IBGStaticEx size="130,20" name="transferLoacationInfo" text="$3183" margin="0,0,0,0" dock="DOCK_LEFT"/>
+											<IBGStaticEx size="130,20" name="transferLoacationInfo" text="$3185" margin="0,0,0,0" dock="DOCK_LEFT"/>
 											<IBGStaticEx name="TransferErrorTipStatic" textClr="0x0000ff" size="190,15" margin="30, 0, 4, 0" text="$2558" dock="DOCK_LEFT" unseen="true"/>
 										</Children>
 									</IBGRegionPanel>
@@ -61,7 +61,7 @@
 									</IBGRegionPanel>
 									<IBGRegionPanel size="480,32" margin="0,0,0,0" dock="DOCK_TOP">
 										<Children>
-											<IBGCheckButton name="AutoRecvAndDownloadBtn" dock="DOCK_LEFT" autoCalcWidth="true" size="0,14" check="true" config="checkButton" text="$3195" margin="0, 9, 2, 2"/>
+											<IBGCheckButton name="AutoRecvAndDownloadBtn" dock="DOCK_LEFT" autoCalcWidth="true" size="0,14" check="true" config="checkButton" text="$3197" margin="0, 9, 2, 2"/>
 										</Children>
 									</IBGRegionPanel>
 								</Children>
@@ -71,7 +71,7 @@
 								<Children>
 									<IBGRegionPanel size="480,20" margin="0,10,0,0" dock="DOCK_TOP">
 										<Children>
-											<IBGStaticEx size="130,20" name="exportLoacationInfo" text="$3206" margin="0,0,0,0" dock="DOCK_LEFT"/>
+											<IBGStaticEx size="130,20" name="exportLoacationInfo" text="$3208" margin="0,0,0,0" dock="DOCK_LEFT"/>
 											<IBGStaticEx name="ExportErrorTipStatic" textClr="0x0000ff" size="190,15" margin="30, 0, 4, 0" text="$2558" dock="DOCK_LEFT" unseen="true"/>
 										</Children>
 									</IBGRegionPanel>
@@ -83,7 +83,7 @@
 									</IBGRegionPanel>
 									<IBGRegionPanel size="480,32" margin="0,0,0,0" dock="DOCK_TOP">
 										<Children>
-											<IBGCheckButton name="MakeDefaultExportPathBtn" dock="DOCK_LEFT" autoCalcWidth="true" size="0,14" check="true" config="checkButton" text="$3207" margin="0, 9, 2, 2"/>
+											<IBGCheckButton name="MakeDefaultExportPathBtn" dock="DOCK_LEFT" autoCalcWidth="true" size="0,14" check="true" config="checkButton" text="$3209" margin="0, 9, 2, 2"/>
 										</Children>
 									</IBGRegionPanel>
 								</Children>

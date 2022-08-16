@@ -116,6 +116,7 @@
         <imgframe name="btn_default_round_angle" src="IDP_BTN_DEFAULT_ROUND_ANGLE" subwidth="254" top="6" left="20" right="20" bottom="6" />
         <imgframe name="btn_default_light_yellow_round_angle" src="IDP_BTN_LIGHT_YELLOW_ROUND_ANGLE" subwidth="128" top="10" left="20" right="20" bottom="10" />
         <imgframe name="btn_default_dark_yellow_round_angle" src="IDP_BTN_DARK_YELLOW_ROUND_ANGLE" subwidth="128" top="10" left="20" right="20" bottom="10" />
+        <imgframe name="btn_default_yellow_round_angle" src="IDP_BTN_YELLOW_ROUND_ANGLE" subwidth="198" top="10" left="20" right="20" bottom="10" />
 
 
       <!--数据线面板相关皮肤定义-->
@@ -510,6 +511,9 @@
         <imgframe name="video_subtitle_size_line" src="IDP_VIDEO_SUBTITLE_SIZE_LINE"/>
         <imgframe name="video_subtitle_size_img_big" src="IDP_VIDEO_SUBTITLE_SIZE_BIG_IMG"/>
         <imgframe name="video_subtitle_size_img_small" src="IDP_VIDEO_SUBTITLE_SIZE_SMALL_IMG"/>
+        <imgframe name="video_subtitle_ai" src="IDP_VIDEO_SUBTITLE_AI"/>
+        <imgframe name="video_subtitle_vip" src="IDP_VIDEO_SUBTITLE_VIP"/>
+        <imgframe name="video_subtitle_tryout" src="IDP_VIDEO_SUBTITLE_TRYOUT"/>
         <imgframe name="video_subtitle_op_success" src="IDP_VIDEO_SUBTITLE_OP_SUCCESS"/>
         <imgframe name="video_subtitle_op_failed" src="IDP_VIDEO_SUBTITLE_OP_FAILED"/>
         <imgframe name="video_subtitle_op_retry" src="IDP_VIDEO_SUBTITLE_OP_RETRY" subwidth="14"/>
@@ -522,6 +526,12 @@
         <imgframe name="video_overspeed_svip_img" src="IDP_VIDEO_OVERSPEED_SVIP_IMG"/>
         <imgframe name="video_overspeed_new_img" src="IDP_VIDEO_OVERSPEED_NEW_IMG"/>
         <imgframe name="video_definition_guide_img" src="IDP_VIDEO_DEFINITION_GUIDE_IMG"/>
+        <imgframe name="subtitle_guide_top_img" src="IDP_SUBTLTLE_GUIDE_TOP_IMG"/>
+        <imgframe name="subtitle_guide_log_img" src="IDP_SUBTLTLE_GUIDE_LOG_IMG"/>
+        <imgframe name="subtitle_produce_dlg_bg_img" src="IDP_SUBTLTLE_PRODUCE_DLG_BG_IMG"/>
+        <imgframe name="subtitle_language_btn_img" src="IDP_SUBTITLE_LANGUAGE_BTN_IMG"/>
+        <imgframe name="subtitle_produce_close_btn_img" src="IDP_SUBTITLE_PRODUCE_CLOSE_BTN_IMG"/>
+        <imgframe name="subtitle_guide_bottom_img" src="IDP_SUBTLTLE_GUIDE_BOTTOM_IMG"/>
         <imgframe name="video_underline_normal" src="IDP_VIDEO_UNDERLINE_NORMAL" left="3" top="0" right="3" bottom="2"/>
         <imgframe name="video_underline_hover" src="IDP_VIDEO_UNDERLINE_HOVER" left="3" top="0" right="3" bottom="2"/>
         <scrollbar name="sb_video" src="IDP_VIDEO_SCROLL" margin="6" hasgripper="0"/>
@@ -553,6 +563,9 @@
         <imgframe name="video_guide_bubble" src="IDP_VIDEO_GUIDE_BUBBLE" left="20" top="20" right="20" bottom="30"/>
         <gif name="video_guide_loading" src="IDP_VIDEO_GUIDE_LOADING" />
         <imgframe name="video_guide_mask_img" src="IDP_VIDEO_GUIDE_MASK_IMG" />
+        <!--视频SVIP购买引导界面-->
+        <imgframe name="video_buy_svip_backgroud" src="IDP_VIDEO_BUY_SVIP_BACKGROUND"/>
+        <imgframe name="video_buy_svip_privilege_show" src="IDP_VIDEO_BUY_SVIP_PRIVILEGE_SHOW" />
       <!--标题栏皮肤-->
         <imglst name="titlepanel_default_head" src="IDP_TITLEPANEL_HEAD"/>
         <imglst name="titlepanel_vipclose" src="IDP_TITLEPANEL_VIPCLOSE"/>
@@ -649,6 +662,7 @@
         <imglst name="usercard_blue_file_save_as" src="IDP_USERCARD_BLUE_FILE_SAVE_AS" />      
         <imglst name="member_center_card_bgk" src="IDP_MEMBER_CENTER_CARD_BGK" />
         <imgframe name="member_center_card_qr_bgk" src="IDP_MEMBER_CENTER_CARD_QR_BGK" />
+        <imgframe name="member_center_card_img_bgk" src="IDP_MEMBER_CENTER_CARD_IMG_BGK" />
 
       <button name="usercard_normal_btn" border="ffffff" bg="ffffff" bgup="ffffff"
             bgdown="ffffff" bguphover="eef0f6" bgdownhover="eef0f6"
@@ -1329,24 +1343,37 @@
         <imgframe name="workspace_receive_na_file_unused" src="IDP_WORKSPACE_RECEIVE_NA_FILE_UNUSED"/>
 
         <!-- 最近-正在看 -->
-         <imgframe name="recentpanel_videohistory_collapse" src="IDP_RECENTPANEL_VIDEOHISTORY_COLLAPSE" subwidth="56"/>
-         <imgframe name="recentpanel_videohistory_expand" src="IDP_RECENTPANEL_VIDEOHISTORY_EXPAND" subwidth="56"/>
-         <imgframe name="recentpanel_videohistory_viewmore" src="IDP_RECENTPANEL_VIDEOHISTORY_VIEWMORE" subwidth="48"/>
-         <imgframe name="recentpanel_videohistory_mantle" src="IDP_RECENTPANEL_VIDEOHISTORY_MANTLE"/>
-         <imgframe name="recentpanel_videohistory_mantle_select" src="IDP_RECENTPANEL_VIDEOHISTORY_MANTLE_SELECT"/>
-         <imgframe name="recentpanel_videohistory_mantle_hover" src="IDP_RECENTPANEL_VIDEOHISTORY_MANTLE_HOVER"/>
-         <imgframe name="recentpanel_videohistory_guide_img" src="IDP_RECENTPANEL_VIDEOHISTORY_GUIDE"/>
-         <imgframe name="recentpanel_videohistory_guide_bg" src="IDP_RECENTPANEL_VIDEOHISTORY_GUIDE_BG"/>
-         <imgframe name="recentpanel_videohistory_empty" src="IDP_RECENTPANEL_VIDEOHISTORY_EMPTY"/>
-         <imgframe name="recentpanel_videohistory_videoplay_hover" src="IDP_RECENTPANEL_VIDEOHISTORY_VIDEOPLAY_HOVER"/>
-         <imgframe name="recentpanel_videohistory_videoplay_normal" src="IDP_RECENTPANEL_VIDEOHISTORY_VIDEOPLAY_NORMAL"/>
-         <imglst name="recentpanel_videohistory_checkbox" src="IDP_RECENTPANEL_VIDEOHISTORY_CHECKBOX" subwidth="15"/>
-         <!--选择性同步-->
-         <imgframe name="select_sync_frame" src="IDP_SELECTSYNCPANEL_FRAME"/>
-         <imgframe name="select_sync_checkbox" src="IDP_SELECTSYNCPANEL_CHECKBOX" subwidth="14"/>
-         <imgframe name="select_sync_toggle" src="IDP_SELECTSYNCPANEL_TOGGLE" subwidth="12"/>
-         <imgframe name="select_svip_frame" src="IDP_SELECTSYNCPANEL_SVIP_FRAME"/>
-         <imgframe name="select_svip" src="IDP_SELECTSYNCPANEL_SVIP"/>
+        <imgframe name="recentpanel_videohistory_collapse" src="IDP_RECENTPANEL_VIDEOHISTORY_COLLAPSE" subwidth="56"/>
+        <imgframe name="recentpanel_videohistory_expand" src="IDP_RECENTPANEL_VIDEOHISTORY_EXPAND" subwidth="56"/>
+        <imgframe name="recentpanel_videohistory_viewmore" src="IDP_RECENTPANEL_VIDEOHISTORY_VIEWMORE" subwidth="48"/>
+        <imgframe name="recentpanel_videohistory_mantle" src="IDP_RECENTPANEL_VIDEOHISTORY_MANTLE"/>
+        <imgframe name="recentpanel_videohistory_mantle_select" src="IDP_RECENTPANEL_VIDEOHISTORY_MANTLE_SELECT"/>
+        <imgframe name="recentpanel_videohistory_mantle_hover" src="IDP_RECENTPANEL_VIDEOHISTORY_MANTLE_HOVER"/>
+        <imgframe name="recentpanel_videohistory_guide_img" src="IDP_RECENTPANEL_VIDEOHISTORY_GUIDE"/>
+        <imgframe name="recentpanel_videohistory_guide_bg" src="IDP_RECENTPANEL_VIDEOHISTORY_GUIDE_BG"/>
+        <imgframe name="recentpanel_videohistory_empty" src="IDP_RECENTPANEL_VIDEOHISTORY_EMPTY"/>
+        <imgframe name="recentpanel_videohistory_videoplay_hover" src="IDP_RECENTPANEL_VIDEOHISTORY_VIDEOPLAY_HOVER"/>
+        <imgframe name="recentpanel_videohistory_videoplay_normal" src="IDP_RECENTPANEL_VIDEOHISTORY_VIDEOPLAY_NORMAL"/>
+        <imglst name="recentpanel_videohistory_checkbox" src="IDP_RECENTPANEL_VIDEOHISTORY_CHECKBOX" subwidth="15"/>
+        <!--选择性同步-->
+        <imgframe name="select_sync_frame" src="IDP_SELECTSYNCPANEL_FRAME"/>
+        <imgframe name="select_sync_checkbox" src="IDP_SELECTSYNCPANEL_CHECKBOX" subwidth="14"/>
+        <imgframe name="select_sync_toggle" src="IDP_SELECTSYNCPANEL_TOGGLE" subwidth="12"/>
+        <imgframe name="select_svip_frame" src="IDP_SELECTSYNCPANEL_SVIP_FRAME"/>
+        <imgframe name="select_svip" src="IDP_SELECTSYNCPANEL_SVIP"/>
+        <gif name="select_sync_intro_gif" src="IDP_SELECTSYNCPANEL_INTRO_GIF" minframedelay="30"/>
+        <!--悬浮窗-->
+        <imgframe name="floating_frame" src="IDP_FLOATING_FRAME"/>
+        <imgframe name="floating_frame_error" src="IDP_FLOATING_FRAME_ERROR"/>
+        <imgframe name="floating_left_blue" src="IDP_FLOATING_LEFT_BLUE"/>
+        <imgframe name="floating_frame_pause" src="IDP_FLOATING_FRAME_PAUSE"/>
+        <imgframe name="floating_netdisk" src="IDP_FLOATING_NETDISK"/>
+        <imgframe name="floating_sync" src="IDP_FLOATING_SYNC"/>
+        <imgframe name="floating_new_guide" src="IDP_FLOATING_NEW_GUIDE"/>
+        <imgframe name="floating_frame_vip" src="IDP_FLOATING_FRAME_VIP"/>
+        <imgframe name="floating_frame_progress" src="IDP_FLOATING_FRAME_PROGRESS" left="10" right="10"/>
+        <gif name="floating_change_gif" src="IDP_FLOATING_CHANGE_GIF" minframedelay="30"/>
+        <gif name="floating_syncing_gif" src="IDP_FLOATING_SYNCING_GIF" minframedelay="30"/>
     </skins>
 
     <style>

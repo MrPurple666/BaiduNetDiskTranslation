@@ -77,6 +77,7 @@
 <resid type="XML" name="IDR_DUI_ENTERPRISESPACECARD_WND" layer="1" file="xml\MainPanel\EnterpriseSpaceCard.xml"/>
 <resid type="XML" name="IDR_DUI_GAMECENTERCARD_WND" layer="1" file="xml\MainPanel\GameCenterCard.xml"/>
 <resid type="XML" name="IDR_DUI_MEMBER_CENTER_CARD_WND" layer="1" file="xml\MainPanel\MemberCenterCardWnd.xml"/>
+<resid type="XML" name="IDR_DUI_NEW_MEMBER_CENTER_CARD_WND" layer="1" file="xml\MainPanel\NewMemberCenterCardWnd.xml"/>
 <resid type="XML" name="IDR_DUI_ADCARD_WND" layer="1" file="xml\MainPanel\AdCardWnd.xml"/>
 <resid type="XML" name="IDR_DUI_IMAGEVIEW_DIALOG" layer="1" file="xml\ImageViewDlg\ImageViewDlg.xml"/>
 <resid type="XML" name="IDR_DUI_DRAGTIP_WND" layer="1" file="xml\MainPanel\NetdiskPanel\DragTip\DragTip.xml"/>
@@ -190,6 +191,7 @@
 <resid type="IMGX" name="IDP_BTN_DEFAULT_ROUND_ANGLE"    file="image\common\button\default_button_round_angle.png"/>
 <resid type="IMGX" name="IDP_BTN_LIGHT_YELLOW_ROUND_ANGLE"    file="image\common\button\btn_light_yellow_round_angle.png"/>
 <resid type="IMGX" name="IDP_BTN_DARK_YELLOW_ROUND_ANGLE"    file="image\common\button\btn_dark_yellow_round_angle.png"/>
+<resid type="IMGX" name="IDP_BTN_YELLOW_ROUND_ANGLE" file="image\common\button\btn_yellow_round.png"/>
 
 <!--进度条资源-->
 <resid type="IMGX" name="IDP_PROG_BKG"    file="image\common\progress\ProgBkg.png"/>
@@ -672,6 +674,9 @@
 <resid type="IMGX" name="IDP_VIDEO_SUBTITLE_SIZE_LINE"   file="image\VideoPlayDlg\subtitle\FontSize_line.png" />
 <resid type="IMGX" name="IDP_VIDEO_SUBTITLE_SIZE_BIG_IMG"   file="image\VideoPlayDlg\subtitle\font_size_big.png" />
 <resid type="IMGX" name="IDP_VIDEO_SUBTITLE_SIZE_SMALL_IMG"   file="image\VideoPlayDlg\subtitle\font_size_small.png" />
+<resid type="IMGX" name="IDP_VIDEO_SUBTITLE_AI"   file="image\VideoPlayDlg\subtitle\ai.png" />
+<resid type="IMGX" name="IDP_VIDEO_SUBTITLE_VIP"   file="image\VideoPlayDlg\subtitle\vip.png" />
+<resid type="IMGX" name="IDP_VIDEO_SUBTITLE_TRYOUT"   file="image\VideoPlayDlg\subtitle\tryout.png" />
 <resid type="IMGX" name="IDP_VIDEO_SUBTITLE_OP_SUCCESS"   file="image\VideoPlayDlg\subtitle\op_success.png" />
 <resid type="IMGX" name="IDP_VIDEO_SUBTITLE_OP_FAILED"   file="image\VideoPlayDlg\subtitle\op_failed.png" />
 <resid type="IMGX" name="IDP_VIDEO_SUBTITLE_OP_RETRY"   file="image\VideoPlayDlg\subtitle\op_retry.png" />
@@ -684,6 +689,12 @@
 <resid type="IMGX" name="IDP_VIDEO_OVERSPEED_SVIP_IMG" file="image\VideoPlayDlg\overspeed\overspeed_svip.png"/>
 <resid type="IMGX" name="IDP_VIDEO_OVERSPEED_NEW_IMG" file="image\VideoPlayDlg\new.png"/>
 <resid type="IMGX" name="IDP_VIDEO_DEFINITION_GUIDE_IMG" file="image\VideoPlayDlg\definition_guide.png"/>
+<resid type="IMGX" name="IDP_SUBTLTLE_GUIDE_TOP_IMG" file="image\VideoPlayDlg\toast.png"/>
+<resid type="IMGX" name="IDP_SUBTLTLE_GUIDE_LOG_IMG" file="image\VideoPlayDlg\subtitle_log.png"/>
+<resid type="IMGX" name="IDP_SUBTLTLE_PRODUCE_DLG_BG_IMG" file="image\VideoPlayDlg\subtitle_produce_dlg_bg.png"/>
+<resid type="IMGX" name="IDP_SUBTLTLE_GUIDE_BOTTOM_IMG" file="image\VideoPlayDlg\Triangle.png"/>
+<resid type="IMGX" name="IDP_SUBTITLE_LANGUAGE_BTN_IMG" file="image\VideoPlayDlg\subtitle_language_btn.png"/>
+<resid type="IMGX" name="IDP_SUBTITLE_PRODUCE_CLOSE_BTN_IMG" file="image\VideoPlayDlg\subtitle_produce_close.png"/>
 <resid type="IMGX" name="IDP_VIDEO_PLAYLIST_EMPTY" file="image\VideoPlayDlg\empty.png"/>
 <resid type="IMGX" name="IDP_VIDEO_UNDERLINE_NORMAL" file="image\VideoPlayDlg\underline_normal.png"/>
 <resid type="IMGX" name="IDP_VIDEO_UNDERLINE_HOVER" file="image\VideoPlayDlg\underline_hover.png"/>
@@ -714,6 +725,10 @@
 <resid type="IMGX" name="IDP_VIDEO_GUIDE_BUBBLE" file="image\VideoPlayDlg\guide\video_guide_bubble.png"/>
 <resid type="IMGX" name="IDP_VIDEO_GUIDE_LOADING" file="image\VideoPlayDlg\guide\video_guide_loading.gif"/>
 <resid type="IMGX" name="IDP_VIDEO_GUIDE_MASK_IMG" file="image\VideoPlayDlg\guide\video_guide_mask.png" />
+<!--视频字幕svip购买引导界面-->
+<resid type="XML" name="IDR_DUI_VIEDEOPLAYBUYSVIP_DIALOG" layer="1" file="xml\VideoPlaySDKDlg\ViedeoPlayBuySvipDlg.xml"/>
+<resid type="IMGX" name="IDP_VIDEO_BUY_SVIP_BACKGROUND" file="image\VideoPlayDlg\buysvip\backgroud.png" />
+<resid type="IMGX" name="IDP_VIDEO_BUY_SVIP_PRIVILEGE_SHOW" file="image\VideoPlayDlg\buysvip\privilege_show.png" />
 
 <!--标题栏-->
 <resid type="IMGX" name="IDP_TITLEPANEL_HEAD" file="image\MainPanel\TitlePanel\head.png"/>
@@ -818,6 +833,7 @@
 <!--会员中心卡片-->
 <resid type="IMGX" name="IDP_MEMBER_CENTER_CARD_BGK" file="image\MainPanel\UserCard\member_center_card_bg.png"/>
 <resid type="IMGX" name="IDP_MEMBER_CENTER_CARD_QR_BGK" file="image\MainPanel\UserCard\qrcode_bg.png"/>
+<resid type="IMGX" name="IDP_MEMBER_CENTER_CARD_IMG_BGK" file="image\MainPanel\UserCard\life_period_main_img.png"/>
 <!--主面板侧边栏-->
 <resid type="IMGX" name="IDP_LEFTPANEL_MYSHARE_NORMAL" file="image\MainPanel\LeftPanel\myshare_normal.png"/>
 <resid type="IMGX" name="IDP_LEFTPANEL_MYSHARE_HOVER" file="image\MainPanel\LeftPanel\myshare_hover.png"/>
@@ -1574,5 +1590,22 @@
 <resid type="IMGX" name="IDP_SELECTSYNCPANEL_TOGGLE" file="image\common\treectrl\sys_tree_toggle.png"/>
 <resid type="IMGX" name="IDP_SELECTSYNCPANEL_SVIP" file="image\WorkSpaceDlg\SelectSync\select_svip.png"/>
 <resid type="IMGX" name="IDP_SELECTSYNCPANEL_SVIP_FRAME" file="image\WorkSpaceDlg\SelectSync\select_svip_frame.png"/>
+<resid type="IMGX" name="IDP_SELECTSYNCPANEL_INTRO_GIF" file="image\WorkSpaceDlg\SelectSync\select_sync_intro.gif"/>
 <resid type="XML" name="IDR_DUI_DIRTREEVIEW" file="xml\MainPanel\WorkSpaceDlg\DirTreeView.xml"/>
 <resid type="XML" name="IDR_DUI_SVIPGUIDE" file="xml\BuyPageDlg\SvipGuide.xml"/>
+<!--悬浮窗-->
+<resid type="XML" name="IDR_DUI_FLOATING_DLG" layer="1" file="xml\FloatingDlgV2\dlg_floatingV2.xml"/>
+<resid type="IMGX" name="IDP_FLOATING_FRAME" file="image\FloatingDlgV2\floating_frame.png"/>
+<resid type="IMGX" name="IDP_FLOATING_FRAME_ERROR" file="image\FloatingDlgV2\floating_frame_error.png"/>
+<resid type="IMGX" name="IDP_FLOATING_LEFT_BLUE" file="image\FloatingDlgV2\floating_left_blue.png"/>
+<resid type="IMGX" name="IDP_FLOATING_FRAME_PAUSE" file="image\FloatingDlgV2\floating_frame_pause.png"/>
+<resid type="IMGX" name="IDP_FLOATING_NETDISK" file="image\FloatingDlgV2\floating_netdisk.png"/>
+<resid type="IMGX" name="IDP_FLOATING_SYNC" file="image\FloatingDlgV2\floating_sync.png"/>
+<resid type="IMGX" name="IDP_FLOATING_CHANGE_GIF" file="image\FloatingDlgV2\floating_change.gif"/>
+<resid type="IMGX" name="IDP_FLOATING_SYNCING_GIF" file="image\FloatingDlgV2\floating_syncing.gif"/>
+<resid type="IMGX" name="IDP_FLOATING_NEW_GUIDE" file="image\FloatingDlgV2\floating_new_guide.png"/>
+<resid type="IMGX" name="IDP_FLOATING_FRAME_VIP" file="image\FloatingDlgV2\floating_frame_vip.png"/>
+<resid type="IMGX" name="IDP_FLOATING_FRAME_PROGRESS" file="image\FloatingDlgV2\floating_progress.png"/>
+
+
+

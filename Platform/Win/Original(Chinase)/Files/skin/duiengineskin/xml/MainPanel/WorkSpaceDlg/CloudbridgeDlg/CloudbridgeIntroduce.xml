@@ -11,8 +11,7 @@
                     <text name="text3" pos="0,[16,-0,@20" font="0000:微软雅黑" textmode="40810">%str6021%</text>
                     <text name="text4" pos="0,[7,-0,@80" crtext="AFB3BF" font="0000:微软雅黑" textmode="40810">%str6022%</text>
                 </dlg>
-                <gifplayer name="gif_intro" pos="232,48,@232,@240" skin="gif_workspace_quick_sync" show="0" />
-                <img name="img_select" pos="232,48,@232,@240" skin="workspace_select_syc_intro" show="0" />
+                <gifplayer name="gif_intro" pos="232,48,@232,@240" skin="gif_workspace_quick_sync" show="1" />
                 <imgbtn name="btn_known" pos="168,281,@128,@36" font="0200:微软雅黑" crtext="FFFFFF" skin="workspace_guide_btn_bkg_one" cursor="hand">%str752%</imgbtn>
             </dlg>
         </dlg>

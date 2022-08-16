@@ -23,11 +23,11 @@
 								<Children>
 									<IBGButton name="GeneralSettingBtn" dock="DOCK_TOP" text="$2474" config="TabButtonSelectFirst"/>
 									<IBGButton name="TransferSettingBtn" dock="DOCK_TOP" text="$2475" config="TabButtonUnselect"/>
-									<IBGButton name="QuickUploadSettingBtn" dock="DOCK_TOP" text="$3258" config="TabButtonUnselect"/>
+									<IBGButton name="QuickUploadSettingBtn" dock="DOCK_TOP" text="$3260" config="TabButtonUnselect"/>
 									<IBGButton name="PrivateSettingBtn" dock="DOCK_TOP" text="$2476" config="TabButtonUnselect"/>
 									<IBGButton name="SecuritySettingBtn" dock="DOCK_TOP" text="$2477" config="TabButtonUnselect"/>
 									<IBGButton name="NotifySettingBtn" dock="DOCK_TOP" text="$2478" config="TabButtonUnselect"/>
-									<IBGButton name="WorkspaceSettingBtn" dock="DOCK_TOP" text="$3217" config="TabButtonUnselect"/>
+									<IBGButton name="WorkspaceSettingBtn" dock="DOCK_TOP" text="$3219" config="TabButtonUnselect"/>
 								</Children>
 							</IBGRegionPanel>
 							<IBGRegionPanel name="settingPanels" size="450,427" margin="0,0,0,0" sizeAsParent="false" dock="DOCK_FILL">
@@ -36,16 +36,19 @@
 									<IBGRegionPanel name="GeneralSettingPanel" size="530,378" margin="10,0,10,0" dock="DOCK_TOP" unseen="false">
 										<Children>
 											<!-- 基本 -->
-											<IBGRegionPanel size="530,164" autoCalcHeight="true" margin="0,0,0,0" dock="DOCK_TOP">
+											<IBGRegionPanel size="530,178" autoCalcHeight="true" margin="0,0,0,0" dock="DOCK_TOP">
 												<Children>
 													<IBGStaticEx size="45,15" text="$2519" margin="20,18,0,1" dock="DOCK_LEFT"/>
-													<IBGRegionPanel size="470,154" autoCalcHeight="true" margin="0,0,10,0" dock="DOCK_FILL">
+													<IBGRegionPanel size="470,178" margin="0,0,10,0" dock="DOCK_LEFT">
 														<Children>
 															<IBGCheckButton name="autoStartup" dock="DOCK_TOP" size="180,16" autoCalcWidth="true" check="true" config="checkButton" text="$2482" margin="25, 18, 0, 0"/>
-															<IBGCheckButton name="showVirtualDisk" dock="DOCK_TOP" size="165,16" autoCalcWidth="true" check="true" config="checkButton" text="$2483" margin="25, 18, 40, 0"/>
-															<IBGRegionPanel size="510,44" margin="0,0,0,0" dock="DOCK_TOP">
+															<IBGCheckButton name="showVirtualDisk" dock="DOCK_TOP" size="165,16" autoCalcWidth="true" check="true" config="checkButton" text="$2483" margin="25, 18, 0, 0"/>
+															<IBGCheckButton name="dispalyFloattingDlg" dock="DOCK_TOP" size="120,16" autoCalcWidth="true" check="true" config="checkButton" text="$2479" margin="25, 18, 0, 0"/>
+															<IBGRadioLogic name="floatingCheck"/>
+															<IBGRegionPanel name="floatingSelectDlg" size="470,16" margin="27,16,0,0" dock="DOCK_TOP">
 																<Children>
-																	<IBGCheckButton name="dispalyFloattingDlg" dock="DOCK_LEFT" size="120,16" autoCalcWidth="true" check="true" config="checkButton" text="$2479" margin="25, 18, 0, 0"/>
+																	<IBGCheckButton name="netdiskFloatingBtn" dock="DOCK_LEFT" size="140,16" check="true" unseen="false" radio="true" config="radioButton" text="$3271" margin="10, 0, 0, 0"/>
+																	<IBGCheckButton name="workspaceFloatingBtn" dock="DOCK_LEFT" size="140,16" check="false" unseen="false" radio="true" config="radioButton" text="$3272" margin="45, 0, 0, 0"/>
 																</Children>
 															</IBGRegionPanel>
 															<IBGRegionPanel name="cancelBtTipPanel" size="250,30" unseen="true" margin="2,0,157,20" position="29, 168" autoCalcWidth="true" dock="DOCK_NULL" config="CancelBtToastPanel">
@@ -53,9 +56,9 @@
 																	<IBGStaticEx size="230,15" textClr="0xc15b22" text="$2491" autoCalcWidth="true" margin="10,5,10,10" dock="DOCK_TOP"/>
 																</Children>
 															</IBGRegionPanel>
-															<IBGRegionPanel size="250,20" margin="25,14,2,0" dock="DOCK_TOP">
+															<IBGRegionPanel size="250,20" margin="25,18,2,0" dock="DOCK_TOP">
 																<Children>
-																	<IBGCheckButton name="associateBtType" dock="DOCK_TOP" autoCalcWidth="true" size="220,16" check="true" config="checkButton" text="$2490" margin="0, 4, 0, 0"/>
+																	<IBGCheckButton name="associateBtType" dock="DOCK_TOP" autoCalcWidth="true" size="220,16" check="true" config="checkButton" text="$2490" margin="0, 0, 0, 0"/>
 																</Children>
 															</IBGRegionPanel>
 														</Children>
@@ -144,7 +147,7 @@
 											<!-- 商品推荐设置 -->
 											<IBGRegionPanel name="productRecommendPanel" size="530,40" margin="0,0,0,0" dock="DOCK_TOP">
 												<Children>
-													<IBGStaticEx size="90,15" text="$3246" margin="20,20,0,0" dock="DOCK_LEFT"/>
+													<IBGStaticEx size="90,15" text="$3248" margin="20,20,0,0" dock="DOCK_LEFT"/>
 													<IBGRegionPanel size="470,20" margin="3,16,0,0" dock="DOCK_FILL">
 														<Children>
 															<IBGRadioLogic name="productRecommend"/>
@@ -408,23 +411,23 @@
 										<Children>
 											<IBGRegionPanel size="565,40" autoCalcHeight="true" margin="0,0,0,0" dock="DOCK_TOP">
 												<Children>
-													<IBGStaticEx size="64,18" text="$3218" margin="20,20,0,3" dock="DOCK_LEFT"/>
-													<IBGCheckButton name="WorkspaceNotifyTipBtn" dock="DOCK_LEFT" size="180,16" check="true" config="checkButton" text="$3219" margin="0, 16, 0, 0"/>
+													<IBGStaticEx size="64,18" text="$3220" margin="20,20,0,3" dock="DOCK_LEFT"/>
+													<IBGCheckButton name="WorkspaceNotifyTipBtn" dock="DOCK_LEFT" size="180,16" check="true" config="checkButton" text="$3221" margin="0, 16, 0, 0"/>
 												</Children>
 											</IBGRegionPanel>
 											<IBGRegionPanel size="565,40" margin="0,0,0,0" dock="DOCK_TOP">
 												<Children>
-													<IBGStaticEx size="64,18" text="$3239" margin="20,20,0,3" dock="DOCK_LEFT"/>
-													<IBGCheckButton name="WorkspaceVirtualFolderShowBtn" dock="DOCK_LEFT" size="70,16" check="true" unseen="true" config="checkButton" text="$3220" margin="0, 16, 0, 0"/>
-													<IBGCheckButton name="WorkspaceDesktopLinShowBtn" dock="DOCK_LEFT" size="70,16" check="true" unseen="false" config="checkButton" text="$3221" margin="56, 16, 0, 0"/>
+													<IBGStaticEx size="64,18" text="$3241" margin="20,20,0,3" dock="DOCK_LEFT"/>
+													<IBGCheckButton name="WorkspaceVirtualFolderShowBtn" dock="DOCK_LEFT" size="70,16" check="true" unseen="true" config="checkButton" text="$3222" margin="0, 16, 0, 0"/>
+													<IBGCheckButton name="WorkspaceDesktopLinShowBtn" dock="DOCK_LEFT" size="70,16" check="true" unseen="false" config="checkButton" text="$3223" margin="56, 16, 0, 0"/>
 												</Children>
 											</IBGRegionPanel>
 											<IBGRegionPanel size="565,40" name="WorkspaceSelectSyncPanel" margin="0,0,0,0" dock="DOCK_TOP">
 												<Children>
-													<IBGStaticEx size="64,18" text="$3240" margin="20,20,0,3" dock="DOCK_LEFT"/>
-													<IBGCheckButton name="WorkspaceSyncAllBtn" dock="DOCK_LEFT" size="70,16" check="true" unseen="false" radio="true" config="radioButton" text="$3243" margin="0, 16, 0, 0"/>
-													<IBGCheckButton name="WorkspaceSyncSelectBtn" dock="DOCK_LEFT" size="84,16" check="true" unseen="false" radio="true" config="radioButton" text="$3244" margin="56, 16, 0, 0"/>
-													<IBGStaticEx size="30,18" name="WorkspaceSelectChangeLink" text="$3245" margin="5,20,0,3" dock="DOCK_LEFT">
+													<IBGStaticEx size="64,18" text="$3242" margin="20,20,0,3" dock="DOCK_LEFT"/>
+													<IBGCheckButton name="WorkspaceSyncAllBtn" dock="DOCK_LEFT" size="70,16" check="true" unseen="false" radio="true" config="radioButton" text="$3245" margin="0, 16, 0, 0"/>
+													<IBGCheckButton name="WorkspaceSyncSelectBtn" dock="DOCK_LEFT" size="84,16" check="true" unseen="false" radio="true" config="radioButton" text="$3246" margin="56, 16, 0, 0"/>
+													<IBGStaticEx size="30,18" name="WorkspaceSelectChangeLink" text="$3247" margin="5,20,0,3" dock="DOCK_LEFT">
 														<Children>
 															<IBGLinkItem positionMode="true" color="0xf9ab35" onClr="0xf9ab35" position="0,-1"/>
 														</Children>
@@ -434,9 +437,9 @@
 											</IBGRegionPanel>
 											<IBGRegionPanel name="WorkspaceQuickSyncPanel" size="565,40" autoCalcHeight="true" margin="0,0,0,0" dock="DOCK_TOP">
 												<Children>
-													<IBGStaticEx size="64,18" text="$3241" margin="20,20,0,3" dock="DOCK_LEFT"/>
-													<IBGCheckButton name="WorkspaceAutoDownloadBtn" dock="DOCK_LEFT" size="140,16" autoCalcWidth="true" config="radioButton" check="true" radio="true" text="$3232" margin="0,16,10,0"/>
-													<IBGCheckButton name="WorkspaceFreeSpaceBtn" dock="DOCK_LEFT" size="80,16" autoCalcWidth="true" config="radioButton" check="true" radio="true" text="$3233" margin="8, 16, 0, 0"/>
+													<IBGStaticEx size="64,18" text="$3243" margin="20,20,0,3" dock="DOCK_LEFT"/>
+													<IBGCheckButton name="WorkspaceAutoDownloadBtn" dock="DOCK_LEFT" size="140,16" autoCalcWidth="true" config="radioButton" check="true" radio="true" text="$3234" margin="0,16,10,0"/>
+													<IBGCheckButton name="WorkspaceFreeSpaceBtn" dock="DOCK_LEFT" size="80,16" autoCalcWidth="true" config="radioButton" check="true" radio="true" text="$3235" margin="8, 16, 0, 0"/>
 													<IBGButton name="sync_questionBtn" dock="DOCK_LEFT" size="18,18" config="iconButtonQuestion" text="" margin="4, 16, 0, 0"/>
 													<IBGGIFControl name="svip_guide" dock="DOCK_LEFT" size="73,19" margin="4,18,0,0" image="Resource:\\MainFrame\\SettingDlg\\only_svip.png"></IBGGIFControl>
 												</Children>
@@ -445,7 +448,7 @@
 												<Children>
 													<IBGRegionPanel name="UnShowWorkspacePanel" size="565,150" autoCalcHeight="true" margin="0,18,0,0" dock="DOCK_LEFT">
 														<Children>
-															<IBGStaticEx name="StartSyncLink" size="100,30" text="$3237" textClr="0x666666" unseen="false" margin="84,0,0,0" dock="DOCK_TOP" config="static">
+															<IBGStaticEx name="StartSyncLink" size="100,30" text="$3239" textClr="0x666666" unseen="false" margin="84,0,0,0" dock="DOCK_TOP" config="static">
 																<Children>
 																	<IBGLinkItem config="linkItemNoUnderline" positionMode="true" position="0,-1"/>
 																</Children>
@@ -458,17 +461,17 @@
 																<Children>
 																	<IBGRegionPanel size="565,32" margin="0,0,0,0" dock="DOCK_TOP">
 																		<Children>
-																			<IBGStaticEx size="64,15" text="$3242" margin="20,10,0,0" dock="DOCK_LEFT"/>
+																			<IBGStaticEx size="64,15" text="$3244" margin="20,10,0,0" dock="DOCK_LEFT"/>
 																			<IBGEdit name="WorkspaceLocalPathEdit" size="300,24" margin="2,6,10,1" tabOrder="12" dock="DOCK_LEFT" config="seting_edit" enable="true" readOnly="true"/>
-																			<IBGButton name="BrowseSyncPathBtn" text="$3225" size="100,24" margin="0,6,10,0" config="button" dock="DOCK_LEFT"/>
+																			<IBGButton name="BrowseSyncPathBtn" text="$3227" size="100,24" margin="0,6,10,0" config="button" dock="DOCK_LEFT"/>
 																		</Children>
 																	</IBGRegionPanel>
 																	<IBGRegionPanel name="ErrorPanel" size="565,40" margin="86,10,0,0" dock="DOCK_TOP" unseen="true">
 																		<Children>
-																			<IBGStaticEx name="Quick_Sync_Error" size="320,40" text="$3234" unMultiline="false" textClr="0x6A43FF" margin="2,5,0,0" dock="DOCK_LEFT"/>
+																			<IBGStaticEx name="Quick_Sync_Error" size="320,40" text="$3236" unMultiline="false" textClr="0x6A43FF" margin="2,5,0,0" dock="DOCK_LEFT"/>
 																		</Children>
 																	</IBGRegionPanel>
-																	<IBGStaticEx name="StopSyncLink" size="100,30" text="$3238" textClr="0x666666" unseen="false" margin="86,8,0,0" dock="DOCK_TOP" config="static">
+																	<IBGStaticEx name="StopSyncLink" size="100,30" text="$3240" textClr="0x666666" unseen="false" margin="86,8,0,0" dock="DOCK_TOP" config="static">
 																		<Children>
 																			<IBGLinkItem positionMode="true" position="0,-1"/>
 																		</Children>
@@ -486,13 +489,13 @@
 													</bkground>
 												</Properties>
 												<Children>
-													<IBGStaticEx size="160,15" text="$3247" margin="15,12,0,10" dock="DOCK_LEFT"/>
-													<IBGStaticEx size="120,15" name="RestartExploreNowLink" text="$3248" textClr="0xf9ab35" margin="0,12,0,10" dock="DOCK_LEFT">
+													<IBGStaticEx size="160,15" text="$3249" margin="15,12,0,10" dock="DOCK_LEFT"/>
+													<IBGStaticEx size="120,15" name="RestartExploreNowLink" text="$3250" textClr="0xf9ab35" margin="0,12,0,10" dock="DOCK_LEFT">
 														<Children>
 															<IBGLinkItem positionMode="true" color="0xf9ab35" onClr="0xf9ab35" position="0,-1"/>
 														</Children>
 													</IBGStaticEx>
-													<IBGStaticEx size="80,15" name="SyncHelpCenter" text="$3251" margin="20,12,0,10" textClr="0xf9ab35" dock="DOCK_LEFT">
+													<IBGStaticEx size="80,15" name="SyncHelpCenter" text="$3253" margin="20,12,0,10" textClr="0xf9ab35" dock="DOCK_LEFT">
 														<Children>
 															<IBGLinkItem positionMode="true" color="0xf9ab35" onClr="0xf9ab35" position="0,-1"/>
 														</Children>
@@ -506,10 +509,10 @@
 										<Children>
 											<IBGRegionPanel size="530,50" autoCalcHeight="true" margin="0,0,0,0" dock="DOCK_TOP">
 												<Children>
-													<IBGStaticEx size="86,15" text="$3259" margin="20,18,0,3" dock="DOCK_LEFT"/>
+													<IBGStaticEx size="86,15" text="$3261" margin="20,18,0,3" dock="DOCK_LEFT"/>
 													<IBGRegionPanel size="420,50" autoCalcHeight="true" margin="0,0,10,0" dock="DOCK_FILL">
 														<Children>
-															<IBGCheckButton name="QuickUploadStartBtn" dock="DOCK_LEFT" autoCalcWidth="true" size="0,14" check="true" config="checkButton" text="$3260" margin="22, 9, 2, 2"/>
+															<IBGCheckButton name="QuickUploadStartBtn" dock="DOCK_LEFT" autoCalcWidth="true" size="0,14" check="true" config="checkButton" text="$3262" margin="22, 9, 2, 2"/>
 															<IBGButton name="QuickUploadGuideBtn" dock="DOCK_LEFT" size="18,18" config="iconButtonQuestion" text="" margin="4, 18, 0, 14"/>
 														</Children>
 													</IBGRegionPanel>
@@ -517,19 +520,19 @@
 											</IBGRegionPanel>
 											<IBGRegionPanel size="530,216" autoCalcHeight="true" margin="0,0,0,0" dock="DOCK_TOP">
 												<Children>
-													<IBGStaticEx size="86,15" text="$3261" margin="20,14,0,1" dock="DOCK_LEFT"/>
+													<IBGStaticEx size="86,15" text="$3263" margin="20,14,0,1" dock="DOCK_LEFT"/>
 													<IBGRegionPanel size="420,250" autoCalcHeight="true" margin="0,0,10,0" dock="DOCK_FILL">
 														<Children>
-															<IBGStaticEx name="QuickUploadHotKeyType" size="180,16" text="$3262" textClr="0x666666" margin="25,14,0,0" autoCalcHeight="true" dock="DOCK_TOP"/>
+															<IBGStaticEx name="QuickUploadHotKeyType" size="180,16" text="$3264" textClr="0x666666" margin="25,14,0,0" autoCalcHeight="true" dock="DOCK_TOP"/>
 														</Children>
 													</IBGRegionPanel>
 												</Children>
 											</IBGRegionPanel>
 											<IBGRegionPanel size="550,88" autoCalcHeight="true" margin="14,0,14,0" config="QuickUploadSettingTipPanel" dock="DOCK_TOP">
 												<Children>
-													<IBGStaticEx size="490,15" text="$3263" textClr="0x666666" margin="16,12,0,0" autoCalcHeight="true" dock="DOCK_TOP"/>
-													<IBGStaticEx size="490,15" text="$3264" textClr="0x666666" margin="16,5,0,0" autoCalcHeight="true" dock="DOCK_TOP"/>
-													<IBGStaticEx size="490,15" text="$3265" textClr="0x666666" margin="16,5,0,0" autoCalcHeight="true" dock="DOCK_TOP"/>
+													<IBGStaticEx size="490,15" text="$3265" textClr="0x666666" margin="16,12,0,0" autoCalcHeight="true" dock="DOCK_TOP"/>
+													<IBGStaticEx size="490,15" text="$3266" textClr="0x666666" margin="16,5,0,0" autoCalcHeight="true" dock="DOCK_TOP"/>
+													<IBGStaticEx size="490,15" text="$3267" textClr="0x666666" margin="16,5,0,0" autoCalcHeight="true" dock="DOCK_TOP"/>
 												</Children>
 											</IBGRegionPanel>
 										</Children>
@@ -539,10 +542,10 @@
 										<Children>
 											<IBGRegionPanel size="530,50" autoCalcHeight="true" margin="0,0,0,0" dock="DOCK_TOP">
 												<Children>
-													<IBGStaticEx size="86,15" text="$3259" margin="20,18,0,3" dock="DOCK_LEFT"/>
+													<IBGStaticEx size="86,15" text="$3261" margin="20,18,0,3" dock="DOCK_LEFT"/>
 													<IBGRegionPanel size="420,50" autoCalcHeight="true" margin="0,0,10,0" dock="DOCK_FILL">
 														<Children>
-															<IBGCheckButton name="QuickUploadStartBtn" dock="DOCK_LEFT" autoCalcWidth="true" size="0,14" check="true" config="checkButton" text="$3260" margin="22, 9, 2, 2"/>
+															<IBGCheckButton name="QuickUploadStartBtn" dock="DOCK_LEFT" autoCalcWidth="true" size="0,14" check="true" config="checkButton" text="$3262" margin="22, 9, 2, 2"/>
 															<IBGButton name="QuickUploadGuideBtn" dock="DOCK_LEFT" size="18,18" config="iconButtonQuestion" text="" margin="4, 18, 0, 14"/>
 														</Children>
 													</IBGRegionPanel>
@@ -550,19 +553,19 @@
 											</IBGRegionPanel>
 											<IBGRegionPanel size="530,216" autoCalcHeight="true" margin="0,0,0,0" dock="DOCK_TOP">
 												<Children>
-													<IBGStaticEx size="86,15" text="$3261" margin="20,14,0,1" dock="DOCK_LEFT"/>
+													<IBGStaticEx size="86,15" text="$3263" margin="20,14,0,1" dock="DOCK_LEFT"/>
 													<IBGRegionPanel size="420,250" autoCalcHeight="true" margin="0,0,10,0" dock="DOCK_FILL">
 														<Children>
-															<IBGStaticEx name="QuickUploadHotKeyType" size="180,16" text="$3262" textClr="0x666666" margin="25,14,0,0" autoCalcHeight="true" dock="DOCK_TOP"/>
+															<IBGStaticEx name="QuickUploadHotKeyType" size="180,16" text="$3264" textClr="0x666666" margin="25,14,0,0" autoCalcHeight="true" dock="DOCK_TOP"/>
 														</Children>
 													</IBGRegionPanel>
 												</Children>
 											</IBGRegionPanel>
 											<IBGRegionPanel size="550,88" autoCalcHeight="true" margin="14,0,14,0" config="QuickUploadSettingTipPanel" dock="DOCK_TOP">
 												<Children>
-													<IBGStaticEx size="490,15" text="$3263" textClr="0x666666" margin="16,12,0,0" autoCalcHeight="true" dock="DOCK_TOP"/>
-													<IBGStaticEx size="490,15" text="$3264" textClr="0x666666" margin="16,5,0,0" autoCalcHeight="true" dock="DOCK_TOP"/>
-													<IBGStaticEx size="490,15" text="$3265" textClr="0x666666" margin="16,5,0,0" autoCalcHeight="true" dock="DOCK_TOP"/>
+													<IBGStaticEx size="490,15" text="$3265" textClr="0x666666" margin="16,12,0,0" autoCalcHeight="true" dock="DOCK_TOP"/>
+													<IBGStaticEx size="490,15" text="$3266" textClr="0x666666" margin="16,5,0,0" autoCalcHeight="true" dock="DOCK_TOP"/>
+													<IBGStaticEx size="490,15" text="$3267" textClr="0x666666" margin="16,5,0,0" autoCalcHeight="true" dock="DOCK_TOP"/>
 												</Children>
 											</IBGRegionPanel>
 										</Children>

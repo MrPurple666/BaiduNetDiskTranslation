@@ -134,9 +134,9 @@
 							<!-- 自动备份提示条区域（用于正在上传列表） -->
 							<IBGRegionPanel name="autoBackupTipPanel" size="0,54" dock="DOCK_TOP" config="SpeedupTicketTipPannel" unseen="true">
 								<Children>
-									<IBGStaticEx name="autoBackupTipStatic" autoCalcHeight="true" autoCalcWidth="true" textClr="0xfeab0f" text="$3181" margin="40, 19, 0, 4" dock="DOCK_LEFT"/>
-									<IBGButton name="autoBackupTryBtn" dock="DOCK_LEFT" size="100,24" text="$3182" config="SpeedupUseBtn" margin="30, 10, 0, 10"/>
-									<IBGButton name="autoBackuptipCloseBtn" dock="DOCK_RIGHT" size="10,10" config="SpeedupCloseBtn" toolText="$2793" margin="0, 22, 20, 22"/>
+									<IBGStaticEx name="autoBackupTipStatic" autoCalcHeight="true" autoCalcWidth="true" textClr="0xfeab0f" text="$3183" margin="40, 15, 0, 4" dock="DOCK_LEFT"/>
+									<IBGButton name="autoBackupTryBtn" dock="DOCK_LEFT" size="100,24" text="$3184" config="SpeedupUseBtn" margin="30, 6, 0, 10"/>
+									<IBGButton name="autoBackuptipCloseBtn" dock="DOCK_RIGHT" size="10,10" config="SpeedupCloseBtn" toolText="$2793" margin="0, 18, 20, 22"/>
 								</Children>
 							</IBGRegionPanel>
 						</Children>
