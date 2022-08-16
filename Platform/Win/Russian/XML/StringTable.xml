@@ -645,7 +645,7 @@
 
   <!--Настройки удаленного нажатия-->
   <String id="IDS_STATIC_CLOUDPUSH_TITLE" value="Спящий режим:" />
-  <String id="IDS_STATIC_PUSH_ON_SLEEP" value="Перевести ваш компьютер не в спящий режим" />
+  <String id="IDS_STATIC_PUSH_ON_SLEEP" value="Откл спящий режим" />
   <String id="IDS_STATIC_PUSH_ON_SLEEP_TIP" value="Baidu Cloud будет продолжать выполнять задание на низкой скорости во время сна." />
 
 
@@ -1340,10 +1340,13 @@
    <!--Новая версия автоматического резервного копирования-->
   <String id="IDS_AUTOBACKUP_GUIDE_TIP" value="Не нужно загружать вручную! Включите автоматическое резервное копирование папок, чтобы просматривать часто используемые файлы на вашем компьютере в любое время и в любом месте." />
   <String id="IDS_AUTOBACKUP_GUIDE_TIP_BTN" value="Пойти посмотреть" />
-
+  <!--Синхронный космический гид-->
+  <String id="IDS_AUTOBACKUP_GUIDE_WS_TIP" value="Включите пространство синхронизации, поделитесь передачей нескольких мобильных телефонов и компьютерных файлов, попрощайтесь с ручной загрузкой загрузки!" />
+  <String id="IDS_AUTOBACKUP_GUIDE_WS_TIP_BTN" value="OK" />
+    
   <!--Настройка кросс-терминального тракта передачи-->
   <String id="IDS_SETTING_STATIC_TEXT_TRANSFERDIR" value=" Выбор места для быстрой передачи файлов：" />
-  <String id="IDS_SETTING_STATIC_TEXT_TRANSFER_DEFAULTDIR" value="Быстрая передача файлов" />
+  <String id="IDS_SETTING_STATIC_TEXT_TRANSFER_DEFAULTDIR" value="FastFileTansferBaidu" />
   <String id="IDS_REMOTE_DOWNLOAD_STATIC_START" value="Отправка..." />
   <String id="IDS_REMOTE_DOWNLOAD_STATIC_START_INTRODUCTION" value="Получил файл с мобильного телефона и начал скачивание" />
   <String id="IDS_REMOTE_DOWNLOAD_STATIC_START_OTHER_INTRODUCTION" value="Получил файл, отправленный с другого конца, и начал скачивание" />
@@ -1387,15 +1390,15 @@
   <String id="IDS_EXPORTONLINEDOC_NOTIFY_FAIL_EXISTEXPORTING" value="Некоторые файлы экспортируются, попробуйте еще раз" />
   <!--Рабочий диск-->
   <String id="IDS_WORKSPACE_SETTING" value="Синхронное пространство" />
-  <String id="IDS_WORKSPACE_SYNC_TRAY_TITLE" value="Каталог синхронизации" />
+  <String id="IDS_WORKSPACE_SYNC_TRAY_TITLE" value="Синхронизация:" />
   <String id="IDS_WORKSPACE_SYNC_TRAY_TIP" value="Показывать состояния синхронизации" />
-  <String id="IDS_WORKSPACE_VIRTUAL_FOLDER_SHOW" value="Показать виртуальный диск синхронизаци" />
-  <String id="IDS_WORKSPACE_DESKTOP_LINK_SHOW" value="Показать синхронный вход на рабочем столе" />
+  <String id="IDS_WORKSPACE_VIRTUAL_FOLDER_SHOW" value="Вирт диск синхр" />
+  <String id="IDS_WORKSPACE_DESKTOP_LINK_SHOW" value="Синхр вход на раб стол" />
   <String id="IDS_WORKSPACE_SAVE_LOCAL_PATH" value="Каталог локальной синхронизации:" />
   <String id="IDS_WORKSPACE_TRAY_NAME" value="Сетевое дисковое синхронное пространство" />
   <String id="IDS_WORKSPACE_FILEVERSIONDLG_TITLENAME"  value="История версий" />
 
-  <String id="IDS_WORKSPACE_CHANGE_LOCAL_SYNC_PACH"  value="Сменить каталог" />
+  <String id="IDS_WORKSPACE_CHANGE_LOCAL_SYNC_PACH"  value="Сменить папку" />
   <String id="IDS_WORKSPACE_CHANGE_LOCAL_SYNC_PACH_INVALID_TIP"  value="Если путь недействителен, пожалуйста, выберите" />
   <String id="IDS_WORKSPACE_CHANGE_LOCAL_SYNC_PACH_IS_SUBDIR_TIP"  value="Вы не можете выбрать свой собственный подкаталог, пожалуйста, повторно выберите" />
   <String id="IDS_WORKSPACE_CHANGE_LOCAL_SYNC_PACH_ACCESS_DENY_TIP"  value="Если папка не написана, пожалуйста, повторно выберите" />
@@ -1410,13 +1413,13 @@
     <String id="IDS_WORKSPACE_SYNC_COMMON_TITLE"  value="Общий:" />
   <String id="IDS_WORKSPACE_START_SYNC"  value="Открытое синхронное пространство" />
   <String id="IDS_WORKSPACE_STOP_SYNC_CAPABILITY"  value="Деактивировать синхронное пространство" />
-  <String id="IDS_WORKSPACE_SETTING_SHOW_TXT"  value="показывать:" />
-  <String id="IDS_WORKSPACE_SETTING_SYNC_RANGE_TXT"  value="Синхронный диапазон:" />
+  <String id="IDS_WORKSPACE_SETTING_SHOW_TXT"  value="Показать:" />
+  <String id="IDS_WORKSPACE_SETTING_SYNC_RANGE_TXT"  value="Синхр:" />
   <String id="IDS_WORKSPACE_SETTING_SYNC_SAVE_TXT"  value="Режим хранения:" />
-  <String id="IDS_WORKSPACE_SETTING_SYNC_PATH_TXT"  value="Синхронная позиция:" />
-  <String id="IDS_WORKSPACE_SETTING_SYNC_RANGE_ALL_TXT"  value="все" />
-  <String id="IDS_WORKSPACE_SETTING_SYNC_RANGE_SELECT_TXT"  value="Селективная синхронизация" />
-  <String id="IDS_WORKSPACE_SETTING_SYNC_RANGE_CHANGE_TXT"  value="Изменять" />
+  <String id="IDS_WORKSPACE_SETTING_SYNC_PATH_TXT"  value="Папка синхр:" />
+  <String id="IDS_WORKSPACE_SETTING_SYNC_RANGE_ALL_TXT"  value="Все" />
+  <String id="IDS_WORKSPACE_SETTING_SYNC_RANGE_SELECT_TXT"  value="Выбранные" />
+  <String id="IDS_WORKSPACE_SETTING_SYNC_RANGE_CHANGE_TXT"  value="Изменить" />
 
   <!--Коммерциализация-->
   <String id="IDS_PRODUCT_RECOMMEND_SETTING" value="Рекомендации:" />
@@ -1447,5 +1450,8 @@
  <!--Физическая пропускная способность скорость-->
   <String id="IDS_BANDWIDTH_SPEEDUP_USEING_TIP" value="Мобильные широкополосные операторы улучшают физическую широкополосную связь,%dЧерез несколько секунд все оборудование под той же широкополосной связью наслаждается скоростью, попробуйте другое оборудование.！" />
   <String id="IDS_BANDWIDTH_SPEEDUP_END_TIP" value="Операторы мобильной связи усиливают конец опыта физической полосы пропускания." />
+  <!--Плавающее окно-->
+  <String id="IDS_SETTING_NETDISK_FLOATING" value="Сетевой диска Baidu" />
+  <String id="IDS_SETTING_WORKSPACE_FLOATING" value="Рабочее пространство" />
 
 </StringTable>

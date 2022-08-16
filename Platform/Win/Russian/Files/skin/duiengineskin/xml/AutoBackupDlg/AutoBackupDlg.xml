@@ -39,7 +39,7 @@
                   </dlg>
                 </dlg>
                 <dlg name="guide_panel_bottom" pos="0,[24,-0,-0">
-                  <imgbtn name="btn_try_autobackup" pos="320,0,@258,@82" skin="wechat_backup_dlg_btn_blue" font="0600:Segoe UI" crtext="ffffff">%str3526%</imgbtn>
+                  <imgbtn name="btn_try_autobackup" pos="320,0,@320,@82" skin="wechat_backup_dlg_btn_blue" font="0600:Segoe UI" crtext="ffffff">%str3526%</imgbtn>
                 </dlg>
             </dlg>
             
