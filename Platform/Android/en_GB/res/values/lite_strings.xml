@@ -184,7 +184,7 @@
     <string name="bd_wallet_bind_card_first_pay">First-time card payment</string>
     <string name="bd_wallet_bind_card_number_overrun">The maximum number of cards you have tied up, please untie it before binding</string>
     <string name="bd_wallet_bind_card_second">Fill in card Info</string>
-    <string name="bd_wallet_blank" />
+    <string name="bd_wallet_blank"/>
     <string name="bd_wallet_cancel_bind">Release binding</string>
     <string name="bd_wallet_cancel_bind_entrance">Unbind</string>
     <string name="bd_wallet_cancel_bind_tip">Are you sure to unbind your current bank card</string>
@@ -700,7 +700,7 @@ Small Manchu guarantee your transaction information security"</string>
     <string name="dxm_wallet_base_bdaction_return">Return</string>
     <string name="dxm_wallet_base_bind_for_pay_actual_payment">actual payment</string>
     <string name="dxm_wallet_base_close">closure</string>
-    <string name="dxm_wallet_base_contacts_not_up">Can't adjust the mobile phone address book, please open the address book application in the settings before trying</string>
+    <string name="dxm_wallet_base_contacts_not_up">Can`t adjust the mobile phone address book, please open the address book application in the settings before trying</string>
     <string name="dxm_wallet_base_delete">Delete</string>
     <string name="dxm_wallet_base_fp_fix_sure">Not replace</string>
     <string name="dxm_wallet_base_fp_fix_tip">You may enter the error, whether it is replaced with it</string>
@@ -753,7 +753,7 @@ Small Manchu guarantee your transaction information security"</string>
     <string name="dxm_wallet_base_select_phone_fail">No mobile phone communication record or address book is empty</string>
     <string name="dxm_wallet_base_set_pwd_click">Click me to open</string>
     <string name="dxm_wallet_base_set_pwd_tips">You have not set up six payment passwords, and you can not use the balance for payment for the time being</string>
-    <string name="dxm_wallet_base_sms_not_up">Can't adjust the mobile phone text message, please open the SMS application in the settings before trying</string>
+    <string name="dxm_wallet_base_sms_not_up">Can`t adjust the mobile phone text message, please open the SMS application in the settings before trying</string>
     <string name="dxm_wallet_base_string_service_forbidden">thisServiceIsNotAvailable</string>
     <string name="dxm_wallet_base_third_login_bindphone">Unbind</string>
     <string name="dxm_wallet_base_third_login_giveup">give up</string>

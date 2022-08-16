@@ -1,0 +1,1226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Update 03-03-2022 -->
+<!-- license MIT -->
+<StringTable language="2052">
+  <String id="IDS_STANDARDWIN_CLOSE" value="Perto" />
+  <String id="IDS_STANDARDWIN_MAX" value="Maximizar" />
+  <String id="IDS_STANDARDWIN_MIN" value="Minimizar" />
+  <String id="IDS_STANDARDWIN_RECOV" value="Recuperar" />
+  <String id="IDS_ID_NO" value="Não" />
+  <String id="IDS_ID_YES" value="SIM" />
+  <String id="IDS_ID_OK" value="OK" />
+  <String id="IDS_ID_APPLY" value="Aplicar" />
+  <String id="IDS_ID_CONTINUE" value="Continuar" />
+  <String id="IDS_ID_RETRY" value="Repetir" />
+  <String id="IDS_ID_TERMINATE" value="Terminar" />
+  <String id="IDS_ID_IGNORE" value="Ignorar" />
+  <String id="IDS_ID_CANCEL" value="Cancelar" />
+  <String id="IDS_ID_EXIT" value="Saída" />
+  <String id="IDS_ID_WARNING" value="Aviso" />
+  <String id="IDS_WEB_LOADING" value="Carregando..." />
+  <String id="IDS_WEB_FAILED" value="A página não pôde ser carregada, erro de rede" />
+  <String id="IDS_WEB_REFRESH" value="Atualizar" />
+  <String id="IDS_GET_TEXT_HEIGHT" value="Altura do texto" />
+  <String id="IDS_MSGBOX_OPEN_MAINFRAME" value="Nuvem Aberta(&amp O)" />
+  <String id="IDS_MSGBOX_VIEW_ALL" value="Ver tudo" />
+  <String id="IDS_MSGBOX_IGNORE_ALL" value="Ignore tudo" />
+  <String id="IDS_CRT_GRP_NO_RT_DETAIL" value="Ver detalhes" />
+  <String id="IDS_SYSMSG_TITLE" value="Solicitado" />
+  <String id="IDS_SONG_TYPEFACE" value="Times New Roman" />
+  <String id="IDS_TITLEBAR_MENUBTN_SETTING" value="Definições" />
+  <String id="IDS_TITLEBAR_BTN_USERHELP" value="Ajuda" />
+  <String id="IDS_PAGENAVI_TOTALPAGESTATIC" value="Total%páginas" />
+  <String id="IDS_VIEWDETAILSBTN" value="Detalhes" />
+  <String id="IDS_COMMONERROR_NETWORKFAIL_TIP" value="Falha na conexão de rede, tente novamente mais tarde" />
+  <String id="IDS_PUSH_TOOMANY_PUSHFILES_TIP" value="Empurre muitos arquivos, escolha menos" />
+  <String id="IDS_PUSH_TOOFREQ_PUSHFILES_TIP" value="Empurre com muita frequência, tente novamente mais tarde" />
+  <String id="IDS_PUSH_TARGETDEVICE_DISKISFULL_TIP" value="O espaço em disco do dispositivo de envio está cheio, limpe e tente novamente" />
+  <String id="IDS_PUSH_UNKNOWERROR_TIP" value="Falha ao enviar arquivos para o dispositivo com o código de erro %d" />
+  <String id="IDS_FOLDERNAVIGATOR_TEXT_ALLFILE" value="Minha nuvem" />
+  <String id="IDS_FOLDERNAVIGATOR_TEXT_SAFEBOX" value="Ocultar dentro do cofre" />
+  <String id="IDS_SELECTED_FILECOUNT_TIP" value="Arquivos/pastas %d selecionados" />
+  <String id="IDS_TOTAL_FILECOUNT_TIP" value="%d artigo" />
+  <String id="IDS_SELECT_FILE_TITLE" value="Por favor selecione o arquivo/pasta" />
+  <String id="IDS_SELECT_FILE_OK" value="Envio" />
+  <String id="IDS_TIP_REFRESH" value="Atualizar" />
+  <String id="IDS_HOTRESVIEW_LOAD_FAILED" value="Ocorreu um problema ao carregar o recurso. Aguarde um momento e tente novamente~" />
+  <String id="IDS_HOTRESVIEW_TIP_NETWORK_ERROR" value="Verifique a conexão de rede" />
+  <String id="IDS_HOTRESVIEW_TIP_RETRY" value="tente novamente" />
+  <String id="IDS_TIPTEXT_INVALID_UPLOADINGFILES" value="Não suporta este tipo de upload de arquivos" />
+  <String id="IDS_TIPTEXT_EXIT_WITHTASKRUNNING" value="A tarefa ainda está em execução. Sair mesmo assim?" />
+  <String id="IDS_TIPTEXT_EXIT_WITHTASKRUNNING_GENERATING" value="Após sair, a tarefa que está sendo transferida não pode ser executada e as tarefas enfileiradas podem ser perdidas. Você tem certeza que quer sair?" />
+  <String id="IDS_TIPTEXT_EXIT_WITH_DATACABLE_TASKRUNNING" value="A tarefa ainda está em execução. Sair mesmo assim?" />
+  <String id="IDS_TIPTEXT_EXIT_WITHTASKSPEEDING" value="Após sair, o download rápido não pode continuar. Você tem certeza que quer sair?" />
+  <String id="IDS_TIP_TEXT_DOTPREFIXFOLDERNAME" value="Não suporta como nome de arquivo" />
+  <String id="IDS_TIPTEXT_OPERATING" value="Por favor, espere ..." />
+  <String id="IDS_DOWNLOADTASK_TITLE_TEXT_FORQA" value="Definir diretório de download" />
+  <String id="IDS_DOWNLOADTASK_BUTTON_TEXT_BROWSE" value="Navegar" />
+  <String id="IDS_DOWNLOADTASK_BUTTON_TEXT_DOWNLOAD" value="Download" />
+  <String id="IDS_DOWNLOADTASK_BUTTON_TEXT_CANCEL" value="Cancelar" />
+  <String id="IDS_DOWNLOADTASK_STATIC_TEXT_DOWNLOADSOURCE_YUN" value="Fonte de download: Minha nuvem" />
+  <String id="IDS_DOWNLOADTASK_STATIC_TEXT_DOWNLOADPATHTIP" value="Para alterar o local de download, modifique-o na guia Configurações - Transferência" />
+  <String id="IDS_DOWNLOADTASK_STATIC_TEXT_DOWNLOADDIR" value="Baixar diretório" />
+  <String id="IDS_DOWNLOADTASK_TITLE" value="Definir caminho de armazenamento de download" />
+  <String id="IDS_DOWNLOADTASK_STATIC_TEXT_LEFTSPACE" value="Espaço livre em disco:" />
+  <String id="IDS_DOWNLOADTASK_STATIC_TEXT_FILESIZE" value="Tamanho do arquivo:" />
+  <String id="IDS_DOWNLOADTASK_STATIC_TEXT_FILESIZE_LOADING" value="Tamanho do arquivo: Computando..." />
+  <String id="IDS_DOWNLOADTASK_STATIC_TEXT_FILESIZE_ERROR" value="Tamanho do arquivo: desconhecido" />
+  <String id="IDS_DOWNLOADTASK_INVALID_PATH_TIP" value="O caminho é inválido, selecione novamente" />
+  <String id="IDS_DOWNLOADTASK_SET_DEFAULT_DOWNLOADDIR" value="Diretório de download padrão." />
+  <String id="IDS_DEVICECLOUDFILETRANSDLG_TITLE_FORQA" value="Escolha o caminho para salvar na nuvem" />
+  <String id="IDS_DEVICECLOUDFILETRANSDLG_TITLE" value="Selecione o arquivo" />
+  <String id="IDS_DEVICECLOUDFILETRANSDLG_NET_ERROR_TIP" value="Falha na conexão de rede. Tente novamente mais tarde" />
+  <String id="IDS_CLOUDFILESELECTDLG_TITLE" value="Selecione os arquivos que deseja mover" />
+  <String id="IDS_CLOUDFILESELECTDLG_TITLE1" value="Selecione o arquivo" />
+  <String id="IDS_CLOUDFILESELECTDLG_NET_ERROR_TIP" value="Falha na conexão de rede. Tente novamente mais tarde" />
+  <String id="IDS_FRIENDSELECTDLG_TITLE" value="Selecionar amigos" />
+  <String id="IDS_FRIENDSELECTDLG_NET_ERROR_TIP" value="Falha na conexão de rede. Tente novamente mais tarde" />
+  <String id="IDS_TITLE_TEXT_MYDEVICE" value="O meu aparelho" />
+  <String id="IDS_DEVICELISTDLG_TEXT_EMPTY" value="Nenhum dispositivo" />
+  <String id="IDS_DEVICELISTDLG_USEAGE_TIP" value="Com o login de %s, envie também para outros dispositivos" />
+  <String id="IDS_DEVICELISTDLG_ERROR_TIP" value="Falha na atualização da lista de dispositivos!" />
+  <String id="IDS_DEVICELISTDLG_LOADING_DEVICE_TIP" value="Carregar dispositivo..." />
+  <String id="IDS_STATIC_NODEVICE_TITLE" value="Como ver meus outros dispositivos" />
+  <String id="IDS_STATIC_NODEVICE_STEP1" value="1. Ligue o dispositivo para receber o arquivo" />
+  <String id="IDS_STATIC_NODEVICE_STEP2" value="2. Com o login %s, use o Baidu NetDisk 4.6 ou posterior" />
+  <String id="IDS_STATIC_NODEVICE_STEP3" value="3. Atualize esta lista, você pode ver o novo login do dispositivo" />
+  <String id="IDS_TITLE_TEXT_MYPHONE" value="Selecione o telefone esquecido" />
+  <String id="IDS_STATIC_NOPHONE_CONNECT" value="Conexão de telefone não detectada" />
+  <String id="IDS_STATIC_NOOTHERPHONE_CONNECT" value="Nenhum outro telefone conectado" />
+  <String id="IDS_STATIC_NOPHONE_TITLE" value="Como ver meu telefone?" />
+  <String id="IDS_STATIC_NOPHONE_STEP1" value="1. Verifique se o telefone tem conexão de rede 3G/Wifi" />
+  <String id="IDS_STATIC_NOPHONE_STEP2" value="2. O computador e o telefone devem fazer login na mesma conta" />
+  <String id="IDS_STATIC_NOPHONE_STEP3" value="3. Clique em Discovery - Mobile esqueceu: ele verificará os telefones conectados e, em seguida, clique no nome do telefone" />
+  <String id="IDS_STATIC_NOPHONE_STEP4" value="(Nuvem Baidu: Apenas Android 7.4 e superior)" />
+  <String id="IDS_DEVICELISTDLG_PHONEERROR_TIP" value="Falha ao atualizar a lista de telefones!" />
+  <String id="IDS_DEVICELISTDLG_LOADING_PHONE_TIP" value="Carregar telefone..." />
+  <String id="IDS_TIP_SHARE_IDENTIFY" value="Identidade de compartilhamento:" />
+  <String id="IDS_TIP_SHARE_PERSONAL" value="Identidade pessoal" />
+  <String id="IDS_TIP_SHARE_ENTERPRISE" value="Identidade corporativa" />
+  <String id="IDS_TIP_SHARE_CREATING" value="Os links de compartilhamento estão criptografados e a senha está sendo gerada..." />
+  <String id="IDS_TIP_SHARE_CREATING_PUBLIC" value="Gerando links..." />
+  <String id="IDS_TIP_SHARE_CREATING_SUCCESS" value="Senha do link gerada, apenas seus amigos podem ver o compartilhamento~" />
+  <String id="IDS_TIP_SHARE_CREATING_FAILE" value="Falha ao criar link" />
+  <String id="IDS_TIP_SHARE_TMP_FORBIDDEN" value="(Proibido)" />
+  <String id="IDS_SHARE_BUTTON_COPYLINK" value="Link de cópia" />
+  <String id="IDS_SHARE_BUTTON_COPYLINKANDPASSWORD" value="Copiar Link e PW" />
+  <String id="IDS_TIP_SHARE_COPYLINK_SUCCESS" value="Cópia bem-sucedida" />
+  <String id="IDS_TITLE_TEXT_CREATESHARE" value="Criar compartilhamento" />
+  <String id="IDS_SHARELISTDLG_COPYLINK_FORMAT" value="Link %s Senha %s" />
+  <String id="IDS_SHAREMGRDLG_TEXT_DEADLINE_DAY" value="%dd" />
+  <String id="IDS_SHAREMGRDLG_TEXT_DEADLINE_HOUER" value="%dh" />
+  <String id="IDS_SHAREMGRDLG_TEXT_DEADLINE_MINUTE" value="%dm" />
+  <String id="IDS_SHAREMGRDLG_TEXT_DEADLINE_INVAILID" value="expirado" />
+  <String id="IDS_SHAREMGRDLG_TEXT_DEADLINE_FOREVER" value="Nunca" />
+  <String id="IDS_SHAREMGRDLG_STATICTEXT_SHARE" value="Link" />
+  <String id="IDS_SHAREMGRDLG_SHAREFILENAME_END" value="Espere" />
+  <String id="IDS_SHAREMGRDLG_STATICTEXT_PASSWORD" value="Senha" />
+  <String id="IDS_SHAREMGRDLG_STATICTEXT_QRCODE" value="Código QR:" />
+  <String id="IDS_SHAREMGRDLG_TEXT_QRCODE_2_FRIEND" value="Compartilhe o código QR com amigos," />
+  <String id="IDS_SHAREMGRDLG_TEXT_SCAN_TO_GET_FILE" value="Digitalize a outra parte para obter o arquivo" />
+  <String id="IDS_SHAREMGRDLG_TEXT_WECHATSCAN_TO_GET_FILE" value="Digitalize o WeChat da outra parte para obter o arquivo" />
+  <String id="IDS_SHAREMGRDLG_TEXT_COPY_QRCODE" value="Copiar código QR" />
+  <String id="IDS_SHAREMGRDLG_TEXT_CONTAIN_PWD" value="O código de extração está incluído, não há necessidade de inserir novamente após a digitalização" />
+  <String id="IDS_SHAREMGRDLG_TEXT_QRCODE_COPYED" value="Código QR copiado" />
+  <String id="IDS_SHAREMGRDLG_TEXT_CREATING_QRCODE" value="Geração de código QR..." />
+  <String id="IDS_SHAREMGRDLG_TEXT_CREATE_QRCODE_FAIL" value="Falha na construção" />
+  <String id="IDS_SHAREMGRDLG_TEXT_RETRY_QRCODE" value="Repetir" />
+  <String id="IDS_SHARE_TIP_TOOMANYSHARE" value="A operação única não pode exceder %d arquivos. Selecione menos arquivos" />
+  <String id="IDS_SHAREMGRDLG_SHAREFILENAME_DELETED" value="Os arquivos de compartilhamento foram excluídos" />
+  <String id="IDS_SHAREMGRDLG_SHAREFILENAME_VERIFING" value="Verificando..." />
+  <String id="IDS_SHAREMGRDLG_SHAREFILENAME_VERIFYFAIL" value="Falha na verificação" />
+  <String id="IDS_SHAREMGRDLG_SHAREFILENAME_EXPIRE" value="Compartilhamento expirado" />
+  <String id="IDS_SHAREMGRDLG_SHAREFILENAME_MOVETOSAFEBOX" value="O arquivo de compartilhamento foi movido para o Safe Box" />
+  <String id="IDS_BAOHE_ERR_SHARE_LINK_UID_FORBIDDEN" value="Este nome de usuário foi banido" />
+  <String id="IDS_BAOHE_ERR_SHARE_LINK_INVALID_UID" value="Erro de compartilhamento, usuário não logado" />
+  <String id="IDS_BAOHE_ERR_SHARE_LINK_NO_PERMISSIOM" value="Documento não permitido para compartilhamento" />
+  <String id="IDS_BAOHE_ERR_SHARE_LINK_EXCEED_LINK_NUM" value="Muitos links compartilhados, cancele alguns" />
+  <String id="IDS_BAOHE_ERR_SHARE_LINK_EXCEED_SMS_NUM" value="Limite diário de mensagens de texto de compartilhamento atingido. Por favor, compartilhe através de links ou e-mail" />
+  <String id="IDS_BAOHE_ERR_SHARE_LINK_EXCEED_EMAIL_NUM" value="Limite de e-mail de compartilhamento diário atingido. Por favor, compartilhe via links ou SMS" />
+  <String id="IDS_BAOHE_ERR_SHARE_LINK_LINK_BANNED" value="O link foi banido" />
+  <String id="IDS_BAOHE_ERR_SHARE_LINK_EXCEED_FILE_NUM" value="O compartilhamento de links não pode exceder 100. Escolha menos" />
+  <String id="IDS_BAOHE_ERR_SHARE_LINK_VERIFYCODE_INPUT_WRONG" value="Erro de entrada do código de verificação, tente novamente" />
+  <String id="IDS_BAOHE_ERR_SHARE_LINK_VERIFYCODE_REQUEST_WRONG" value="Falha na extração do código de verificação. Atualize e tente novamente" />
+  <String id="IDS_BAOHE_ERR_SHARE_LINK_TRANSFER_1" value="O arquivo de disco de rede já existe" />
+  <String id="IDS_BAOHE_ERR_SHARE_LINK_TRANSFER_2" value="Ocorreu um problema ao copiar, tente novamente" />
+  <String id="IDS_BAOHE_ERR_SHARE_LINK_TRANSFER_3" value="Erro de despejo, código de erro: %d" />
+  <String id="IDS_BAOHE_ERR_SHARE_LINK_QCODE" value="Falha na geração do Qcode" />
+  <String id="IDS_BAOHE_ERR_SHARE_LINK_VERIFYCODE_ERR" value="Erro no código de verificação. Atualize e tente novamente" />
+  <String id="IDS_BAOHE_ERR_SHARE_LINK_TOO_FREQ" value="Os links de compartilhamento excedem o limite, acesse Meu compartilhamento para ver os links de arquivos compartilhados" />
+  <String id="IDS_BAOHE_ERR_SHARE_LINK_HIT_SPAM" value="O nome do arquivo contém palavras confidenciais (banidas), altere" />
+  <String id="IDS_BAOHE_ERR_SHARE_LINK_HIT_SENSITIVE_WORDS" value="Descreve o conteúdo de palavras sensíveis (proibidas)" />
+  <String id="IDS_BAOHE_ERR_SHARE_LINK_HIT_VIRUS" value="Ah, o arquivo pode ter um vírus. Falha ao compartilhar" />
+  <String id="IDS_BAOHE_ERR_SHARE_LINK_SHORTURL_ERR" value="Falha na geração do link curto" />
+  <String id="IDS_BAOHE_ERR_SHARE_LINK_INVALID_PASSWORD" value="senha inválida" />
+  <String id="IDS_BAOHE_ERR_SHARE_LINK_FILE_NOT_EXIST" value="Arquivo não existe" />
+  <String id="IDS_BAOHE_ERR_SHARE_LINK_EXPIRES" value="O link de compartilhamento expirou" />
+  <String id="IDS_BAOHE_ERR_SHARE_LINK_ERROR_NORMAL" value="Código de erro de compartilhamento: %d" />
+  <String id="IDS_BAOHE_ERR_SHARE_LINK_INVALID_FSID" value="O arquivo não existe, verifique o ID do arquivo e tente novamente" />
+  <String id="IDS_SHARE_NETWORK_FAIL" value="Falha na conexão de rede. Tente novamente mais tarde" />
+  <String id="IDS_SHARE_CREATE_LINK" value="Criar link" />
+  <String id="IDS_SHARE_CREATING_LINK" value="Criando link de compartilhamento, aguarde..." />
+  <String id="IDS_SHARE_CREATING_DOWNLOAD_SPEEDUP_LINK" value="Aguarde, criando link de compartilhamento..." />
+  <String id="IDS_SHARE_COPY_LINK_SUCCESS" value="Cópia bem-sucedida" />
+  <String id="IDS_SHARE_LINK_SHARE" value="Compartilhe com amigos via QQ, WeChat, Weibo, QQ" />
+  <String id="IDS_SHARE_TABBUTTON_LINKSHARE" value="Compartilhamento de links" />
+  <String id="IDS_SHARE_TABBUTTON_MEESAGESHARE" value="Compartilhar com. Amigo" />
+  <String id="IDS_SHARE_LINK_TYPE_PRIVATE_WITH_PWD" value="Com código de extração" />
+  <String id="IDS_SHARE_LINK_TYPE_PRIVATE_WITH_NO_PWD" value="Sem código de extração" />
+  <String id="IDS_SHARE_LINK_TYPE" value="Tipo de compartilhamento" />
+  <String id="IDS_SHARE_POLICY_WARNNING" value="AVISO: O BAIDU não permitirá a divulgação de material pornográfico ou vulgar" />
+  <String id="IDS_SHARE_PRIVATE_LINK_COPY" value="Link e senha copiados" />
+  <String id="IDS_SHARE_PUBLIC_LINK_COPY" value="Link copiado" />
+  <String id="IDS_SHARE_BTN_CLOSE" value="Perto" />
+  <String id="IDS_SHARE_BTN_CANCEL" value="Cancelar" />
+  <String id="IDS_SHARE_PUBLIC_LINK_EXPIRE_LIMIT" value="Válido:" />
+  <String id="IDS_SHARE_PUBLIC_LINK_EXPIRE_NONE" value="Ilimitado" />
+  <String id="IDS_SHARE_PUBLIC_LINK_EXPIRE_30DAYS" value="30 dias" />
+  <String id="IDS_SHARE_PUBLIC_LINK_EXPIRE_7DAYS" value="7 dias" />
+  <String id="IDS_SHARE_PUBLIC_LINK_EXPIRE_1DAYS" value="1 dia" />
+  <String id="IDS_SHARE_PUBLIC_LINK_DAYS_EXPIRE" value="Link %d dias expirado" />
+  <String id="IDS_SHARE_PUBLIC_LINK_ENT_TICKET_NUM" value="，Com cupons de download de velocidade %d" />
+  <String id="IDS_SHARE_LINK_TYPE_SYSTEM_GENERATED_PWD" value="O sistema gera aleatoriamente um código de extração" />
+  <String id="IDS_SHARE_LINK_TYPE_SYSTEM_GENERATED_PWD_DECS" value="Gere um novo código de extração aleatoriamente toda vez" />
+  <String id="IDS_SHARE_LINK_TYPE_USER_DEFINED_PWD" value="Código de extração personalizado" />
+  <String id="IDS_SHARE_LINK_TYPE_USER_DEFINED_PWD_WARNNING" value="O uso repetido do mesmo código de extração tem o risco de vazamento, tenha cuidado" />
+  <String id="IDS_SHARE_LINK_TYPE_USER_DEFINED_PWD_DECS" value="Suporta 4 letras ou números" />
+  <String id="IDS_SHARE_LINK_TYPE_PRIVATE_WITH_NO_PWD_WARNNING" value="Você pode visualizar sem extrair o código, é recomendável não selecionar esta opção para documentos da empresa e documentos particulares" />
+  <String id="IDS_SHARE_LINK_TYPE_USER_DEFINED_PWD_PLEASE_INPUT" value="Apenas 4 letras ou números podem ser inseridos" />
+  <String id="IDS_SHARE_LINK_ENT_PRIV" value="Direitos Corporativos:" />
+  <String id="IDS_SHARE_LINK_ENT_PRIV_ADD_DOWNLOAD_TICKET" value="Adicionar cupom de download rápido" />
+  <String id="IDS_SHARE_LINK_ENT_PRIV_USE_DOWNLOAD_TICKET_NUM" value="quantidade de uso" />
+  <String id="IDS_SHARE_LINK_ENT_PRIV_TOTAL_DOWNLOAD_TICKET_NUM" value="Disponível%dOpen" />
+  <String id="IDS_SHARE_LINK_ENT_PRIV_DOWNLOAD_TICKET_EXPIRY" value="entre os%Tickets são válidos até%s(Uso prioritário)" />
+  <String id="IDS_SHARE_LINK_ENT_PRIV_NONE_DOWNLOAD_TICKET" value="Sem voucher de download rápido" />
+  <String id="IDS_SHARE_LINK_ENT_PRIV_BUY_DESC" value="Dê aos meus clientes para enviar cupons de download rápido, aproveite o salvamento e o download rápidos" />
+  <String id="IDS_SHARE_LINK_ENT_PRIV_DESC_TIP" value="1、Qual é a equidade dos cupons de download de velocidade? Incluir o arquivo dentro do link suporta download de velocidade, aumento do número de arquivo de transição única e visualização completa do WeChat vídeo completo 3 direitos。 2、Período de uso do cupom de download de velocidade? 1 ano a partir da data da compra, o expirado não recuou。 3、Como a outra parte recebe os direitos e interesses após adicionar um voucher de download rápido?Depois de receber o link de compartilhamento, a outra parte é salva, baixada ou visualizada e dentro de 1 ano a partir da data de compartilhamento , o destinatário pode desfrutar dos direitos correspondentes para os arquivos sob o link.。 4、Como adicionar um ticket de download?Network Disk App - Meu - Meu Compartilhamento - Detalhes de compartilhamento, Ver Uso do Voucher e Voucher Adicional。 5、Como lidar com o tíquete de download de velocidade de expiração?Se você compartilhar uma expiração, o cupom adicionado não está em execução, você pode restaurar o compartilhamento expirado nos detalhes de compartilhamento e o cupom pode ser recuperado." />
+  <String id="IDS_SHARE_LINK_ENT_PRIV_BUY" value="Comprar>" />
+  <String id="IDS_SHARE_LINK_ENT_PRIV_TICKET_TIP" value="(%s) Compartilhar por meio da versão corporativa do disco de rede Baidu" />
+  <String id="IDS_SHARE_LINK_ENT_PRIV_TICKET_TIP_CERT" value="(%s) Links extremamente apreciados compartilhados pelo disco de rede Baidu Enterprise Edition" />
+  <String id="IDS_SHARE_LINK_ACCESS_NUMBER" value="Numero de visitantes:" />
+  <String id="IDS_SHARE_LINK_ACCESS_NO_LIMIT" value="Ilimitado" />
+  <String id="IDS_SHARE_LINK_ACCESS_NUMBER_CLUE" value="Pode entrar 1-10 pessoas" />
+  <String id="IDS_SHARE_LINK_ACCESS_NUMBER_CLUE2" value="Você não preencheu o número de visitantes" />
+  <String id="IDS_SHARE_LINK_ACCESS_NUMBER_CLUE3" value="Pelo menos 1 número de visitantes deve ser preenchido" />
+  <String id="IDS_SHARE_LINK_ACCESS_NUMBER_CLUE4" value="Você só pode preencher até 10 visitantes" />
+  <String id="IDS_SHARE_MANAGE_STATICTEXT_SHARE_NUM" value="%d. link:" />
+  <String id="IDS_SHARE_MANAGE_STATICTEXT_NUM" value="Caro membro，%d Links de lote e códigos de extração foram gerados" />
+  <String id="IDS_SHARE_MANAGE_STATICTEXT_SIGNAL" value="Você também pode copiar e compartilhar com amigos individualmente~" />
+  <String id="IDS_SHARE_BATCH_LINK_COPY_SUCCESS_TIP" value="A cópia em massa foi bem-sucedida" />
+  <String id="IDS_SHARELISTDLG_COPY_BATCH_LINK_FORMAT" value="%slink：%s" />
+  <String id="IDS_SHARELISTDLG_COPY_BATCH_LINK_WITH_PWD_FORMAT" value="%s link：%s %sCódigo de extração：%s" />
+  <String id="IDS_SHARE_LINK_COPY_ALL" value="Copie tudo com um clique" />
+  <String id="IDS_SHARE_CREATE_BATCH_LINK" value="Criar links em massa" />
+  <String id="IDS_TRANSFER_ERR_DEFAULT" value="Código de erro de despejo %d" />
+  <String id="IDS_TRANSFER_ERR_FILE_NOT_EXIST" value="Arquivo não existe" />
+  <String id="IDS_TRANSFER_ERR_INVALID_LINK_PWD" value="Inválido, tente novamente" />
+  <String id="IDS_TRANSFER_ERR_FILE_ALREADY_EXIST" value="Erro: o arquivo já existe" />
+  <String id="IDS_TRANSFER_ERR_SPACE_IS_FULL" value="Falha, sem espaço em disco de rede" />
+  <String id="IDS_TRANSFER_ERR_FILE_TOO_MUCH" value="Falha no despejo, um despejo não pode ter mais de 1.000" />
+  <String id="IDS_SERVERFOLDER_TITLE" value="Escolha Salvar Caminho na Nuvem" />
+  <String id="IDS_SERVERFOLDER_LOADING" value="Obtendo subdiretórios" />
+  <String id="IDS_SERVERFOLDER_BUTTON_NEWFOLDER" value="Nova pasta" />
+  <String id="IDS_SERVERFOLDER_NEWFOLDER_DEFAULTNAME" value="Nova pasta" />
+  <String id="IDS_VIRTUALFOLDER_NAME" value="Disco de rede Baidu" />
+  <String id="IDS_DESKTOP_VIRTUALFOLDER_NAME" value="Espaço síncrono em disco de rede Baidu" />
+  <String id="IDS_VIRTUALFOLDER_INFOTIP" value="Clique duas vezes para executar o Baidu Net Disk" />
+  <String id="IDS_FILETYPEPANEL_ALL" value="Todos os arquivos" />
+  <String id="IDS_FILETYPEPANEL_WORKSPACE" value="Área de trabalho" />
+  <String id="IDS_FILETYPEPANEL_ENTERPRISE_PERSONAL" value="Versão empresarial - arquivo pessoal" />
+  <String id="IDS_TRANPANEL_AUTOBACKUP_FOLDER_TEXT" value="Pasta de backup automático" />
+  <String id="IDS_TRANPANEL_PORTABLEDEVBACKUP_FOLDER_TEXT" value="Pasta de backup de dispositivo portátil" />
+  <String id="IDS_TRANPANEL_TOTAL_DOWN_PROGRESS" value="Progresso total do download" />
+  <String id="IDS_TRANPANEL_TOTAL_UP_PROGRESS" value="Progresso total do upload" />
+  <String id="IDS_TRANPANEL_TIP_MORE_TASK" value="Mais tarefas estão enfileiradas..." />
+  <String id="IDS_TRANPANEL_STARTBTN" value="Começar" />
+  <String id="IDS_TRANPANEL_PAUSEBTN" value="Pausa" />
+  <String id="IDS_TRANPANEL_DELETEBTN" value="Excluir" />
+  <String id="IDS_TRANPANEL_TOTALSTARTBTN" value="Iniciar tudo" />
+  <String id="IDS_TRANPANEL_TOTALPAUSEBTN" value="Pausar tudo" />
+  <String id="IDS_TRANPANEL_TOTALDELETEBTN" value="Excluir tudo" />
+  <String id="IDS_TRANPANEL_AUTOBACKUP_PAUSE" value="Pausa de backup automático" />
+  <String id="IDS_TRANPANEL_AUTOBACKUP_START" value="Início de backup automático" />
+  <String id="IDS_TRANPANEL_AUTOBACKUP_DELETE" value="Excluir backup automático" />
+  <String id="IDS_TRANPANEL_PORTABLEDEV_PAUSE" value="Pausa do dispositivo portátil" />
+  <String id="IDS_TRANPANEL_PORTABLEDEV_START" value="Início do dispositivo portátil" />
+  <String id="IDS_TRANPANEL_PORTABLEDEV_DELETE" value="Excluir dispositivo portátil" />
+  <String id="IDS_TRANPANEL_OPENBTN" value="abrir" />
+  <String id="IDS_TRANPANEL_CLEARHISBTN" value="Limpar histórico" />
+  <String id="IDS_TRANPANEL_TOTALHISCOUNT_TIP1" value="Total de transferências concluídas" />
+  <String id="IDS_TRANPANEL_TOTALHISCOUNT_TIP2" value="arquivos !" />
+  <String id="IDS_TRANPANEL_OPENFOLDERBTN" value="Pasta aberta" />
+  <String id="IDS_TRANPANEL_CLOUDUPLOAD" value="Upload na nuvem" />
+  <String id="IDS_TRANPANEL_UPLOADED" value="Carregado" />
+  <String id="IDS_TRANPANEL_CLOUDDOWNLOAD" value="Download na nuvem" />
+  <String id="IDS_TRANPANEL_DOWNLOADING" value="Baixando" />
+  <String id="IDS_TRANPANEL_DOWNLOADED" value="Baixado" />
+  <String id="IDS_TRANPANEL_PAUSED_TIP" value="Pausado..." />
+  <String id="IDS_TRANPANEL_UPWAITING_TIP" value="aguardando envio..." />
+  <String id="IDS_TRANPANEL_DOWNWAITING_TIP" value="Aguardando download..." />
+  <String id="IDS_TRANPANEL_READINGFILE_TIP" value="Preparação para arquivos de transmissão" />
+  <String id="IDS_TRANPANEL_SELECTALL" value="Selecionar tudo" />
+  <String id="IDS_TRANPANEL_TOP" value="Topo" />
+  <String id="IDS_TRANPANEL_TASKTYPE_UPLOAD" value="Completo" />
+  <String id="IDS_TRANPANEL_TASKTYPE_DOWNLOAD" value="Completo" />
+  <String id="IDS_TRANPANEL_TIP_RAPIDUPLOAD" value="Carregamento rápido" />
+  <String id="IDS_TRANPANEL_TIP_DELETEALLUPTASK" value="Excluir todas as tarefas de upload?" />
+  <String id="IDS_TRANPANEL_TIP_DELETEALLDOWNTASK" value="Excluir todas as tarefas de download?" />
+  <String id="IDS_TRANPANEL_TIP_DELETEALLHISTASK" value="Excluir todo o histórico de uploads e downloads?" />
+  <String id="IDS_TRANPANEL_TIP_SVIPGUIDE" value="Abra o Super Membership e aproveite o download extremo" />
+  <String id="IDS_TIP_FILE_NOTEXIST" value="Arquivo não existe !" />
+  <String id="IDS_TIP_FILE_CANNOTOPEN" value="Não suporta a abertura deste tipo de arquivo!" />
+  <String id="IDS_TIP_FOLDER_NOTEXIST" value="A pasta não existe!" />
+  <String id="IDS_TIP_RAPIDUPLOAD" value="Carregamento rápido" />
+  <String id="IDS_TIP_UPLOADCOMPLETE" value="Completo" />
+  <String id="IDS_TIP_DOWNLOADCOMPLETE" value="Concluído" />
+  <String id="IDS_TIP_FILE_CANNOT_DOWNLOAD" value="O arquivo foi excluído e não pode ser baixado novamente" />
+  <String id="IDS_TIP_ADDING_NEW_TASK" value="Adicionando nova tarefa" />
+  <String id="IDS_TIP_MEMBER_PRIVILEGE" value="Distinguido Super VIP, você pode fazer upload de arquivos grandes ~" />
+  <String id="IDS_TIP_P2P_DOWNLOAD_TASK" value="P2P está sendo usado para acelerar downloads. A velocidade de download aprimorada também aumentará a velocidade de compartilhamento para outros usuários" />
+  <String id="IDS_TIP_NO_LOW_SPEED_TIP_AGAIN" value="Não peça novamente" />
+  <String id="IDS_TIP_CANCEL_UPLOAD" value="Excluir upload" />
+  <String id="IDS_TIP_CANCEL_DOWNLOAD" value="Excluir arquivo" />
+  <String id="IDS_TIP_EXPAND_AUTOBACKUPITEM" value="Expanda os itens de backup automático" />
+  <String id="IDS_TIP_COLLAPSED_AUTOBACKUPITEM" value="Recolher os itens de backup automático" />
+  <String id="IDS_TIP_DEL_HIS_ITEM" value="Limpar histórico de itens" />
+  <String id="IDS_TIP_OPEN_FILE" value="Abrir arquivo" />
+  <String id="IDS_TIP_NO_TRANS_TASK" value="Oh, sem transferências atuais ~" />
+  <String id="IDS_TIP_NO_UPLOAD_TRANS_TASK" value="No momento, não há tarefas de upload ~" />
+  <String id="IDS_TIP_NO_DOWNLOAD_TRANS_TASK" value="Atualmente não há tarefas de download ~" />
+  <String id="IDS_TIP_NO_TRANS_RECORD" value="Oh, nenhum registro de transferência atual ~" />
+  <String id="IDS_TRANPANEL_PAUSE_CLOUDTASK_BTN" value="Pausar tudo" />
+  <String id="IDS_TRANPANEL_START_CLOUDTASK_BTN" value="Iniciar tudo" />
+  <String id="IDS_TRANPANEL_CANCEL_CLOUDTASK_BTN" value="Cancelar tudo" />
+  <String id="IDS_TRANPANEL_CURRENT_DEVICE" value="Dispositivo atual" />
+  <String id="IDS_TRANPANEL_LOADING_DEVICE_TASK_LIST" value="Carregando a lista de tarefas push na nuvem do dispositivo..." />
+  <String id="IDS_TRANPANEL_LOAD_DEVICE_TASK_FAIL" value="Falha ao carregar a tarefa push na nuvem do dispositivo, tente novamente" />
+  <String id="IDS_TRANPANEL_PAUSING_CLOUDTASK_TIP" value="A tarefa de envio de nuvem está pausada..." />
+  <String id="IDS_TRANPANEL_PAUSE_CLOUDTASK_FAIL_TIP" value="Falha na pausa da tarefa de push na nuvem" />
+  <String id="IDS_TRANPANEL_STARTING_CLOUDTASK_TIP" value="Iniciando tarefa de envio de nuvem..." />
+  <String id="IDS_TRANPANEL_START_CLOUDTASK_FAIL_TIP" value="Iniciando falha na tarefa de envio de nuvem" />
+  <String id="IDS_TRANPANEL_CANCELING_CLOUDTASK_TIP" value="Cancelando tarefa na nuvem..." />
+  <String id="IDS_TRANPANEL_CANCEL_CLOUDTASK_FAIL_TIP" value="Cancelando a falha da tarefa na nuvem" />
+  <String id="IDS_TRANPANEL_MORE_CLOUDTASK_TIP" value="Mais tarefas de envio de nuvem" />
+  <String id="IDS_TRANPANEL_DELETE_CLOUDTASK_TIP" value="Excluir tarefa push interromperá a transferência?" />
+  <String id="IDS_TRANPANEL_DST_DEVICE_OFFLINE" value="O dispositivo está off-line" />
+  <String id="IDS_TRANPANEL_DELETE_ALL_CLOUDTASK_TIP" value="Tem certeza de que deseja cancelar todas as tarefas e excluir registros?" />
+  <String id="IDS_TRANPANEL_CLOUDTASK_UNSTART_TIP" value="Aguarde o download..." />
+  <String id="IDS_TRANPANEL_PUSH_DELAY_TIP" value="Ligeiro atraso no processo de envio, por favor, seja paciente~" />
+  <String id="IDS_TRANPANEL_DOWNLOAD_REQUESTING_TIP" value="Baixar solicitação..." />
+  <String id="IDS_TRANPANEL_UPLOAD_REQUESTING_TIP" value="Enviar solicitação..." />
+  <String id="IDS_TRANPANEL_REQUESTING_TIP" value="Solicitar..." />
+  <String id="IDS_TRANPANEL_ENT_DOWNLOAD_SPEEDUP_TEXT" value="As empresas desfrutam de velocidade" />
+  <String id="IDS_RESOLUTION_LOCAL_FILE_SIZE_TOO_BIG" value="Arquivo muito grande" />
+  <String id="IDS_RESOLUTION_LOCAL_FILE_SIZE_SUPER_BIG" value="Arquivo para super grande" />
+  <String id="IDS_RESOLUTION_SPACE_NOT_ENOUGH" value="Não há espaço suficiente" />
+  <String id="IDS_RESOLUTION_BACKUP_QUOTA_NOT_ENOUGH" value="O fluxo excede o limite e não há limite para o fluxo de backup do membro" />
+  <String id="IDS_ERRORTIP_UP_FAIL" value="Falha no upload" />
+  <String id="IDS_ERRORTIP_FILE_TOO_BIG" value="limite máximo de 4 GB" />
+  <String id="IDS_ERRORTIP_FILE_SUPER_BIG" value="Exceder%dGlimit" />
+  <String id="IDS_ERRORTIP_FILE_TOO_BIG_MERMBER" value="Falha no upload, excedendo o tamanho máximo para upload" />
+  <String id="IDS_ERRORTIP_SPACE_NOT_ENOUGH" value="Falta de espaço na nuvem" />
+  <String id="IDS_ERRORTIP_SAFEBOXSPACE_NOT_ENOUGH" value="O espaço do cofre não é suficiente" />
+  <String id="IDS_ERRORTIP_FILE_PATH_INVALID" value="O caminho do arquivo local não existe ou é ilegal" />
+  <String id="IDS_ERRORTIP_PATH_TOO_LONG" value="Caminho do arquivo muito longo. Reduzir caminho ou comprimento do nome" />
+  <String id="IDS_ERRORTIP_FILE_IS_USED" value="Arquivo local em uso, tente novamente" />
+  <String id="IDS_ERRORTIP_OPEN_FILE_FAIL" value="Falha ao abrir arquivo local" />
+  <String id="IDS_ERRORTIP_READ_FILE_FAIL" value="Falha ao ler arquivos locais" />
+  <String id="IDS_ERRORTIP_LOCALFILE_CHANGE" value="O arquivo local foi alterado, o upload falhou" />
+  <String id="IDS_ERRORTIP_FILE_CONTAIN_INVALID_BLOCK" value="O arquivo está incompleto e não pode ser carregado" />
+  <String id="IDS_ERRORTIP_TOOMUCH_FILE" value="Muitos arquivos de disco de rede, o upload falhou" />
+  <String id="IDS_ERRORTIP_DELETE_FILE_FAIL" value="Falha ao excluir arquivo local" />
+  <String id="IDS_ERRORTIP_CREATE_FILE_FAIL" value="Falha ao criar arquivo local" />
+  <String id="IDS_ERRORTIP_MOVE_FILE_FAIL" value="Falha ao mover o arquivo local" />
+  <String id="IDS_ERRORTIP_WRITE_FILE_FAIL" value="Falha ao gravar arquivo local" />
+  <String id="IDS_ERRORTIP_ILLEGALFILE" value="Você baixa conteúdo contém conteúdo ilegal" />
+  <String id="IDS_ERRORTIP_DOWN_FORBIDDEN" value="Esta conta está em violação e não pode ser baixada temporariamente" />
+  <String id="IDS_ERRORTIP_DOWN_FAIL" value="Download falhou" />
+  <String id="IDS_ERRORTIP_DISK_NO_SPACE" value="Sem espaço em disco, tente limpar" />
+  <String id="IDS_ERRORTIP_FILE_NOT_EXSIT" value="Os arquivos foram excluídos" />
+  <String id="IDS_ERRORTIP_NETWORK_FAILED" value="Erro de rede" />
+  <String id="IDS_ERRORTIP_ACCESS_DENY" value="Acesso negado" />
+  <String id="IDS_ERRORTIP_PATH_INVALID" value="O caminho é inválido" />
+  <String id="IDS_ERRORTIP_DOWNLOAD_FILE_OCCUPIED" value="Arquivo em uso, feche e tente novamente" />
+  <String id="IDS_ERRORTIP_INVALIDPATH_TOOLTIP" value="O caminho de salvamento local não existe ou tem permissão de gravação" />
+  <String id="IDS_ERRORTIP_LINK_ERR_PASSWD" value="Erro de senha do link" />
+  <String id="IDS_ERRORTIP_SHARE_CANCELED" value="Compartilhar cancelado, tarde demais" />
+  <String id="IDS_ERRORTIP_FILE_SYSTEM_INCAPABLE" value="Erro do sistema, não é possível baixar" />
+  <String id="IDS_ERRORTIP_FILE_FORBIDDEDN_BY_MIS" value="O documento foi proibido" />
+  <String id="IDS_ERRORTIP_LINK_INVALID_FSID" value="Arquivo não existe" />
+  <String id="IDS_ERRORTIP_INVALID_FILE" value="O arquivo está incompleto e não pode ser baixado" />
+  <String id="IDS_ERRORTIP_CLOUDTASK_DOWNLOAD_FAIL" value="Falha no outro download" />
+  <String id="IDS_ERRORTIP_CLOUDTASK_WRITE_FILE_FAIL" value="Falha na gravação de outro arquivo" />
+  <String id="IDS_ERRORTIP_CLOUDTASK_DISK_NO_SPACE" value="Espaço insuficiente, limpe e tente novamente" />
+  <String id="IDS_ERRORTIP_CLOUDTASK_NETWORK_FAILED" value="Outro erro de rede do dispositivo" />
+  <String id="IDS_ERRORTIP_CLOUDTASK_ACCESS_DENY" value="Outro dispositivo sem permissão para baixar a pasta" />
+  <String id="IDS_ERRORTIP_CLOUDTASK_PATH_INVALID" value="O caminho de download de outro dispositivo é inválido" />
+  <String id="IDS_ERRORTIP_CLOUDTASK_FILE_OCCUPIED" value="Falha de envio de outro dispositivo, arquivo em uso" />
+  <String id="IDS_ERRORTIP_CLOUDTASK_NO_USB_PLUGED_INBOXORTV" value="Nenhum USB conectado na Caixa/TV" />
+  <String id="IDS_ERRORTIP_EXPERIENCE_SPEEDUP_FAIL" value="Falha na Aceleração da Experiência" />
+  <String id="IDS_ERRORTIP_SPEEDUPSERVICE_BINDED" value="Acelerou o serviço para conta corrente acabou" />
+  <String id="IDS_DELETETIP_TEXT" value="Tem certeza de que deseja excluir %s?" />
+  <String id="IDS_DELETEFILESTIP_TEXT" value="Tem certeza de que deseja excluir esses %d arquivos ou pastas?" />
+  <String id="IDS_DELETEFILESTIP_TEXT_TIP" value="(Você pode recuperar arquivos excluídos na Lixeira)" />
+  <String id="IDS_DELETEFILESTIP_SAFEBOXTEXT_TIP" value="Arquivos excluídos ocultos não vão para a Lixeira" />
+  <String id="IDS_PORTABLE_DEVICE_VIDEO_POSTFIX_TIP_TEXT" value="Vídeos" />
+  <String id="IDS_PORTABLE_DEVICE_PICTURE_POSTFIX_TIP_TEXT" value="Fotos" />
+  <String id="IDS_PORTABLE_DEVICE_NOTIFY_IGNORE_TEXT" value="Ignorar" />
+  <String id="IDS_PORTABLE_DEVICE_NOTIFY_ONEKEYBACKUP_TEXT" value="Um backup de chave" />
+  <String id="IDS_PORTABLE_DEVICE_IMPORT_WINDOW_TITLE_PREFIX" value="Backup de fotos -" />
+  <String id="IDS_PORTABLE_DEVICE_IMPORT_COUNT_TEXT" value="%d fotos, %e vídeos não são armazenados em backup na nuvem" />
+  <String id="IDS_PORTABLE_DEVICE_IMPORT_TRAYTIP_PREFIX_TEXT" value="%s Total" />
+  <String id="IDS_PORTABLE_DEVICE_VIDEO_POSTFIX_TEXT" value="%d vídeos" />
+  <String id="IDS_PORTABLE_DEVICE_PICTURE_POSTFIX_TEXT" value="%d fotos" />
+  <String id="IDS_PORTABLE_DEVICE_IMPORT_TRAYTIP_POSTFIX_TEXT" value="Aguardando backup" />
+  <String id="IDS_LOGINDLG_TASKITEM_NAME" value="Bem-vindo ao Baidu NetDisk (Inglês)" />
+  <String id="IDS_STATIC_NO_ACCOUNT" value="Sem conta Baidu?" />
+  <String id="IDS_STATIC_SELECT_LOGIN_WAY" value="Como você gostaria de fazer o login?" />
+  <String id="IDS_STATIC_ACCOUNT_LOGIN" value="Login da conta" />
+  <String id="IDS_STATIC_PHONE_LOGIN" value="Login de telefone" />
+  <String id="IDS_STATIC_DEFAULT_USERNAME_TIP" value="Número de telefone/e-mail/nome de usuário" />
+  <String id="IDS_STATIC_LOGIN" value="Conecte-se" />
+  <String id="IDS_STATIC_REGISTER" value="Registre novos..." />
+  <String id="IDS_STATIC_FORGET_PASSWD" value="Esquecido?" />
+  <String id="IDS_STATIC_REMEMBER_PASSWD" value="Lembrar" />
+  <String id="IDS_STATIC_AUTO_LOGIN" value="Login automático" />
+  <String id="IDS_STATIC_VCODE_ISNOT_CLEAR" value="Pouco claro" />
+  <String id="IDS_STATIC_VCODE" value="CAPTCHA:" />
+  <String id="IDS_STATIC_INPUT_VCODE_TIP" value="Por favor, insira o código de verificação" />
+  <String id="IDS_STATIC_QUIT_APP_TIP" value="Sair imediatamente?" />
+  <String id="IDS_STATIC_APP_TITLE_NAME" value="Baidu NetDisk" />
+  <String id="IDS_STATIC_USERNAME_FORMAT_ERROR_TIP" value="Formato incorreto" />
+  <String id="IDS_STATIC_USERNAME_NOT_EXIST_TIP" value="conta não existe" />
+  <String id="IDS_STATIC_USERNAME_INPUT_TIP" value="Por favor, insira a conta Baidu" />
+  <String id="IDS_STATIC_USERNAME_NOT_ACTIVATE_TIP" value="A conta não está ativada" />
+  <String id="IDS_STATIC_PASSWD_ERROR_TIP" value="Senha incorreta" />
+  <String id="IDS_STATIC_PASSWD_INPUT_TIP" value="Por favor, digite a senha" />
+  <String id="IDS_STATIC_VCODE_NOT_MATCH_TIP" value="Código de verificação incorreto" />
+  <String id="IDS_STATIC_LOGIN_NETWORK_ERROR_TIP" value="Erro de rede" />
+  <String id="IDS_STATIC_LOGIN_TOOMUCH_ERROR_TIP" value="Muitas tentativas de login com falha. Tente novamente após 24 horas" />
+  <String id="IDS_STATIC_LOGIN_ACTIVE_NOW" value="Ative agora" />
+  <String id="IDS_STATIC_LOGIN_PROTECT_ERROR_TIP" value="Verificação por SMS ativada, conclua a verificação por telefone e faça login" />
+  <String id="IDS_STATIC_LOGIN_USER_DISABLE_TIP" value="O número da conta é anormal" />
+  <String id="IDS_LOGINDLG_BTN_LOGINING" value="logando..." />
+  <String id="IDS_LOGINDLG_SERVER_ERROR_FAIL" value="Ops! Erro de servidor! Por favor, tente novamente mais tarde..." />
+  <String id="IDS_STATIC_APP_IS_RUNNING" value="O Baidu NetDisk está em execução" />
+  <String id="IDS_STATIC_APP_ALREADY_RUN" value="O Baidu NetDisk já está em execução" />
+  <String id="IDS_STATIC_LOGIN_OTHERACCOUNT" value="Entrar usando outra conta" />
+  <String id="IDS_STATIC_OTHER_LOGIN_WAY" value="Outro jeito" />
+  <String id="IDS_THIRDLOGINDLG_LOGIN_FAIL" value="Rede ocupada, tente novamente mais tarde" />
+  <String id="IDS_THIRDLOGINDLG_BTN_RETRY" value="Repetir" />
+  <String id="IDS_THIRDLOGINDLG_BTN_CANCEL" value="Cancelar" />
+  <String id="IDS_THIRDLOGINDLG_TITLE" value="Entrar com" />
+  <String id="IDS_THIRDLOGINDLG_SINAWEIBO_LOGIN" value="Login do Weibo" />
+  <String id="IDS_THIRDLOGINDLG_RENREN_LOGIN" value="Login Renren" />
+  <String id="IDS_THIRDLOGINDLG_QQ_LOGIN" value="QQ login" />
+  <String id="IDS_THIRDLOGINDLG_BINDED_ACCOUNT_TIP" value="Sua conta foi vinculada à conta Baidu %s" />
+  <String id="IDS_THIRDLOGINDLG_VISIT_BAIDU_TIP" value="Use esta conta para acessar o Baidu Cloud" />
+  <String id="IDS_THIRDLOGINDLG_BTN_KNOWN" value="Eu sei" />
+  <String id="IDS_THIRDLOGINDLG_BTN_REFRESH_TIP" value="Atualizar" />
+  <String id="IDS_LOGINDLG_DEL_ACCOUNT_LOGIN_INFO" value="Excluir as informações de login da conta?" />
+  <String id="IDS_LOGINDLG_DEL_ACCOUNT_ALL_INFO" value="Excluir todas as informações da conta?" />
+  <String id="IDS_LOGINDLG_DEL_ACCOUNT_INFO" value="Excluir informações da conta" />
+  <String id="IDS_LOGINDLG_TIP_MORNING" value="，Bom dia~" />
+  <String id="IDS_LOGINDLG_TIP_MIDDAY" value="，Boa tarde~" />
+  <String id="IDS_LOGINDLG_TIP_AFTERNOON" value="，Lembre-se de tomar 8 copos de água por dia~" />
+  <String id="IDS_LOGINDLG_TIP_EVENING" value="Está ficando tarde. Lembre-se de descansar~" />
+  <String id="IDS_LOGINDLG_TIP_DEVICE_FORBIDDEN" value="O dispositivo atual é proibido" />
+  <String id="IDS_LOGINDLG_TIP_LOCAL_TIME_ERROR" value="Certificado de rede inválido, hora do dispositivo incorreta, redefinir" />
+  <String id="IDS_LOGINDLG_TIP_HTTPS_ERROR" value="Falha na validação do certificado de rede" />
+  <String id="IDS_SETTINGDLG_TASKITEM_NAME" value="Configurações do Baidu NetDisk" />
+  <String id="IDS_SETTINGDLG_TAB_GENERAL_SETTING" value="Em geral" />
+  <String id="IDS_SETTINGDLG_TAB_NET_SETTING" value="Rede" />
+  <String id="IDS_SETTINGDLG_TAB_PRIVATE_SETTING" value="Privado" />
+  <String id="IDS_SETTINGDLG_TAB_ADVANCE_SETTING" value="Avançado" />
+  <String id="IDS_SETTINGDLG_TAB_OTHER_SETTING" value="Outro" />
+  <String id="IDS_STATIC_DISPALY_FLOATTING_DLG" value="Exibir janela flutuante na área de trabalho" />
+  <String id="IDS_STATIC_DISPALY_TRAY_TIP" value="Exibir bandeja de dicas de ferramentas" />
+  <String id="IDS_STATIC_DEVICE_ONLINE_TIP" value="O dispositivo está on-line" />
+  <String id="IDS_STATIC_AUTO_STARTUP" value="Inicie o Baidu NetDisk na inicialização (recomendado)" />
+  <String id="IDS_STATIC_DISPLAY_VIRTUALDRIVE" value="Exibir unidade virtual Baidu no meu computador" />
+  <String id="IDS_STATIC_AUTO_UPDATE" value="Ativar atualizações automáticas de software" />
+  <String id="IDS_STATIC_AUTO_SHUT_DOWN" value="Desligamento automático quando as transferências são concluídas" />
+  <String id="IDS_STATIC_UPLOAD_TASK_COUNT" value="Carregamentos" />
+  <String id="IDS_STATIC_DOWNLOAD_TASK_COUNT" value="Transferências" />
+  <String id="IDS_STATIC_TASK_COUNT_AUTO" value="Auto" />
+  <String id="IDS_STATIC_TASK_COUNT_TIP" value="Recomendar automático" />
+  <String id="IDS_STATIC_ASSOCIATE_BT_TYPE" value="Associar arquivos de semente BT (arquivo torrent)" />
+  <String id="IDS_STATIC_CANCEL_ASSOCIATION_TIP" value="Desassociar os arquivos de semente BT fará com que o clique duplo não funcione" />
+  <String id="IDS_STATIC_ADVANCE_SETTING_TIP" value="Configurações avançadas" />
+  <String id="IDS_ADVANCESETTINGDLG_P2P_TITLE" value="Plano de incentivo:" />
+  <String id="IDS_ADVANCESETTINGDLG_CHECK_P2P_OPEN" value="Participe do Programa de Incentivo ao Usuário" />
+  <String id="IDS_ADVANCESETTINGDLG_INTRODUCE_P2P_TIP" value="O 'Programa de Incentivo ao Usuário' é uma atividade lançada pela Baidu Netdisk para melhorar a experiência do usuário de clientes de PC. Após a abertura, recompense os pontos correspondentes de acordo com a atividade e uso do usuário. Os pontos obtidos por meio deste programa equivalem ao seu patrimônio no disco online do Baidu. Você pode resgatar os super membros do disco online do Baidu, privilégios ou outros prêmios generosos no aplicativo móvel. Nenhum ponto será concedido após o cancelamento, por favor escolha com cuidado." />
+  <String id="IDS_STATIC_CLOSE_P2P_TIP" value="'Programa de Incentivo ao Usuário' é uma atividade lançada pela Baidu Netdisk para melhorar a experiência do usuário de clientes de PC. \r\n Não haverá recompensa de pontos após o cancelamento. Tem certeza de cancelar?" />
+  <String id="IDS_STATIC_FIX_CLOSE_P2P" value="Confirmar fechamento" />
+  <String id="IDS_STATIC_QUIT_CLOSE_P2P" value="Continuar a abrir" />
+  <String id="IDS_STATIC_CLOSE_P2P_REMIND_REBOOT" value="Após reiniciar o cliente Baidu Netdisk, ele sairá do 'Programa de Incentivo ao Usuário" />
+  <String id="IDS_STATIC_KNOWN_TIP" value="Eu sei" />
+  <String id="IDS_STATIC_THIRDPARTY_SECURITY_TITLE" value="Torne suas informações mais seguras, apenas 2 etapas, você pode ter recursos avançados de 'bloqueio de disco de rede'！" />
+  <String id="IDS_STATIC_THIRDPARTY_SECURITY_SAFEBOX_TITLE" value="Apenas 2 passos para habilitar o Safe Box oculto:" />
+  <String id="IDS_STATIC_THIRDPARTY_SECURITY_SAFEBOX_STEP1" value="① Use uma conta de parceiro para vincular e-mail/número de telefone celular na página da web" />
+  <String id="IDS_STATIC_THIRDPARTY_SECURITY_SAFEBOX_STEP2" value="② Faça login no disco de rede com o e-mail / número de telefone celular vinculado" />
+  <String id="IDS_STATIC_THIRDPARTY_SECURITY_STEP1" value="① Vincule e-mail / número de telefone celular na página da Web usando uma conta de parceiro" />
+  <String id="IDS_STATIC_THIRDPARTY_SECURITY_STEP2" value="② Faça login no disco de rede com o e-mail/número de telefone celular vinculado" />
+  <String id="IDS_STATIC_THIRDPARTY_SECURITY_STEP3" value="Função de bloqueio agora habilitada!" />
+  <String id="IDS_STATIC_SOUNDTIP_TITLE" value="Alerta" />
+  <String id="IDS_STATIC_POPTIP_TITLE" value="Dica de bolha" />
+  <String id="IDS_STATIC_SYSTEMMSG" value="Mensagens do sistema" />
+  <String id="IDS_STATIC_FRIENDMSG" value="Mensagens de amigos" />
+  <String id="IDS_STATIC_C2CMSG" value="Mensagens personalizadas" />
+  <String id="IDS_STATIC_PORTABLE_DEV_BACK_MSG" value="Depois de inserir o dispositivo, sugerimos que você faça backup das fotografias" />
+  <String id="IDS_STATIC_UPDATE_NOW" value="Atualizar" />
+  <String id="IDS_STATIC_SETTING_COCURRENTTASK" value="Paralelo" />
+  <String id="IDS_STATIC_SETTING_AUTOBACKUP_TITLE" value="Backup automático" />
+  <String id="IDS_STATIC_SETTING_FRIENDSHARE_TITLE" value="Compartilhar" />
+  <String id="IDS_STATIC_FRIEND_MESSAGE_ONLY" value="Compartilhe apenas com amigos" />
+  <String id="IDS_SETTINGDLG_GENERAL_SETTING_TITLE" value="Básico" />
+  <String id="IDS_STATIC_SETTING_FRIENDVERIFY_TITLE" value="Verificação de amigo:" />
+  <String id="IDS_STATIC_SETTING_FRIENDVERIFY_ALLOWANYONE" value="Permitir qualquer um" />
+  <String id="IDS_STATIC_SETTING_FRIENDVERIFY_NEEDVERIFYMESSAGE" value="Precisa de informações de verificação" />
+  <String id="IDS_STATIC_SETTING_FRIENDVERIFY_NEEDANSWERQUESTION" value="Precisa responder as perguntas corretamente" />
+  <String id="IDS_STATIC_SETTING_FRIENDVERIFY_ALLOWNOONE" value="Ninguém permitiu" />
+  <String id="IDS_STATIC_SETTING_FRIENDVERIFY_QUESTION" value="Problema" />
+  <String id="IDS_STATIC_SETTING_FRIENDVERIFY_ANSWER" value="Responda" />
+  <String id="IDS_STATIC_SETTING_FRIENDVERIFY_ALLOWNOONE_TIP1" value="Após a alteração, outras pessoas não poderão adicioná-lo ativamente como amigo. Mas não afeta as senhas de disco pessoal" />
+  <String id="IDS_STATIC_SETTING_FRIENDVERIFY_ALLOWNOONE_TIP2" value="Usar com código QR" />
+  <String id="IDS_STATIC_SETTING_FRIENDVERIFY_NETWORK_FAIL" value="Erro de rede, as configurações de verificação falharam" />
+  <String id="IDS_STATIC_SETTING_FRIENDVERIFY_QUESTION_EMPTY" value="O problema não deve ser nulo" />
+  <String id="IDS_STATIC_SETTING_FRIENDVERIFY_ANSWER_TOO_SHORT" value="A resposta não deve ter menos de 2 palavras" />
+  <String id="IDS_STATIC_SETTING_TRANS_SPEED" value="Velocidade de transferência" />
+  <String id="IDS_STATIC_DOWNLOAD_SPEED" value="Fazer" />
+  <String id="IDS_STATIC_UPLOAD_SPEED" value="Acima" />
+  <String id="IDS_STATIC_NO_LIMIT_SPEED" value="Máx." />
+  <String id="IDS_STATIC_LIMIT_TO" value="Limite" />
+  <String id="IDS_STATIC_STANDARD_SPEED" value="128" />
+  <String id="IDS_STATIC_SPEED_UNIT" value="KB/s" />
+  <String id="IDS_STATIC_DOWNLOAD_LOCATION_SEL" value="Transferências" />
+  <String id="IDS_STATIC_SET_DEFAULT_DOWNLOAD_DIR" value="Diretório de download padrão." />
+  <String id="IDS_STATIC_AUTO_UPDATE_INFO" value="Automático" />
+  <String id="IDS_STATIC_AUTO_BACKUP_MANAGE" value="Pasta de backup automática" />
+  <String id="IDS_STATIC_BACKUP_MANAGE" value="Gerenciamento automático de pastas de backup" />
+  <String id="IDS_SETTING_BUTTON_TEXT_MANAGE" value="Gerenciar" />
+  <String id="IDS_STATIC_PASSWORD_PROTECT" value="Proteção de senha" />
+  <String id="IDS_STATIC_TRANSFER_COMPLETE_TIP" value="a transferência foi concluída" />
+  <String id="IDS_STATIC_SPACE_USED" value="Capacidade usada %s/espaço total %s" />
+  <String id="IDS_STATIC_CHANGE_DIR" value="Alterar diretório" />
+  <String id="IDS_STATIC_QUIT_CURRENT_ACCOUNT" value="Tem certeza de que deseja sair da conta atual?" />
+  <String id="IDS_STATIC_UPDATE_WAY" value="Melhoria:" />
+  <String id="IDS_CHECKBOX_SELECTALL" value="Selecionar" />
+  <String id="IDS_STATIC_CHANGE_ACCOUNT_TIP" value="Depois de trocar a conta, a tarefa de transferência atual será interrompida. Continuar?" />
+  <String id="IDS_STATIC_CHANGE_ACCOUNT_TIP1" value="A troca de conta interromperá as tarefas atuais em execução. Continuar?" />
+  <String id="IDS_STATIC_CHANGE_ACCOUNT_TIP2" value="Depois de trocar de conta, o download rápido será interrompido. Quer continuar?" />
+  <String id="IDS_SETTING_BUTTON_TEXT_BROWSE" value="Navegar" />
+  <String id="IDS_SETTING_BUTTON_TEXT_OPEN" value="Abrir" />
+  <String id="IDS_SETTING_STATIC_TEXT_DOWNLOADDIR" value="Escolha o local do arquivo de download" />
+  <String id="IDS_SETTING_STATIC_TEXT_DOWNLOADDIR_INVALID" value="Restrições de acesso ao sistema, selecione novamente" />
+  <String id="IDS_SETTING_STATIC_TEXT_DOWNLOADDIR_NOTEXIST" value="Esta pasta não existe" />
+  <String id="IDS_STATIC_VIP_SPEED_GUIDE_TITLE_TIP" value="Notificação" />
+  <String id="IDS_STATIC_VIP_SPEED_EXPERIENCE_TIP" value="Parabéns, você tem a chance de experimentar o VIP Speed" />
+  <String id="IDS_STATIC_NET_SPEED_GUIDE_TITLE_TIP" value="Notificação" />
+  <String id="IDS_STATIC_NET_SPEED_EXPERIENCE_TIP" value="Parabéns, você tem a chance de experimentar o pacote de aceleração de rede de teste" />
+  <String id="IDS_STATIC_TICKET_SPEED_GUIDE_TITLE_TIP" value="Usar notificação" />
+  <String id="IDS_STATIC_TICKET_SPEED_EXPERIENCE_TIP" value="Você tem um cupom de download rápido para usar" />
+  <String id="IDS_STATIC_NO_MORE_SPEED_TIP" value="Não solicite novamente" />
+  <String id="IDS_STATIC_PRESENT_SPEEDUP_SERVICE_TIP" value="Tente" />
+  <String id="IDS_STATIC_USE_SPEEDUP_SERVICE_TIP" value="use a dica de serviço de velocidade" />
+  <String id="IDS_STATIC_RENEW_MEMBERSHIP_NOW_TIP" value="Renovar agora" />
+  <String id="IDS_STATIC_SVIP_DEADLINE_TIP" value="Baidu NetDisk" />
+  <String id="IDS_STATIC_BACKUP_TIP" value="Pasta de arquivo de backup automático" />
+  <String id="IDS_STATIC_BACKUP_INFO" value="Backup automático" />
+  <String id="IDS_STATIC_BACKUP_CHANGE_SERVERPATH" value="Modificar caminho" />
+  <String id="IDS_SETTING_STATIC_TEXT_BACKUPMANAGE" value="Gerenciamento automático de backup" />
+  <String id="IDS_SETTING_STATIC_TEXT_BACKUPMANAGECOUNT" value="Gerenciar pasta de backup (" />
+  <String id="IDS_SETTING_STATIC_TEXT_AISCAN" value="Varredura inteligente" />
+  <String id="IDS_SETTING_STATIC_TEXT_CHANGE" value="Mudar" />
+  <String id="IDS_SETTING_STATIC_TEXT_CANCEL" value="Cancelar" />
+  <String id="IDS_SETTING_STATIC_TEXT_OK" value="OK" />
+  <String id="IDS_SETTING_STATIC_TEXT_CLOSE" value="Perto" />
+  <String id="IDS_SETTING_STATIC_TEXT_ADDFOLDER" value="Adicionar pasta" />
+  <String id="IDS_SETTING_TIP_CHANGE" value="Substituir o diretório de backup" />
+  <String id="IDS_SETTING_TIP_CANCEL" value="Cancelar diretório de backup" />
+  <String id="IDS_SETTING_STARTAISCAN" value="Iniciar verificação inteligente" />
+  <String id="IDS_SETTING_STARTBACKUP" value="Adicionar pastas manualmente" />
+  <String id="IDS_BACKUP_FORM_TITLE" value="Janela de gerenciamento de backup automático" />
+  <String id="IDS_AUTOBACKUP_MULTIVERSION_ENABLE" value="Abrir arquivo com várias versões Salvar 10 atualizado recentemente" />
+  <String id="IDS_AUTOBACKUP_MEMBER_MULTIVERSION_ENABLE" value="Abra o arquivo com várias versões Salve 100 atualizados recentemente" />
+  <String id="IDS_BACKUP_MERGE_TIP" value="A pasta selecionada contém a pasta de backup, será mesclada" />
+  <String id="IDS_BACKUP_BTNTEXT_KNOWN" value="Eu sei" />
+  <String id="IDS_BACKUP_STATIC_TIPTITLE" value="Você pode fazer backup" />
+  <String id="IDS_BACKUP_STATIC_TIP1" value="1.Arquivos usados ​​com frequência no computador local, filmes e outros entretenimentos" />
+  <String id="IDS_BACKUP_STATIC_TIP2" value="2. Atualizações ocasionais, fotos" />
+  <String id="IDS_BACKUP_STATIC_TOAST_TEXT" value="Sucesso" />
+  <String id="IDS_BACKUP_SAFEBOX_TIP" value="O cofre não suporta várias versões" />
+  <String id="IDS_USERGUIDEPAGE_TITLE_FORQA" value="Guia do iniciante" />
+  <String id="IDS_USERGUIDEPAGE_TITLE" value="Guia do iniciante" />
+  <String id="IDS_USERGUIDEPAGE_SKIP_GUIDE" value="Pular guia" />
+  <String id="IDS_USERGUIDEPAGE_FOREWARD_STEP" value="Anterior" />
+  <String id="IDS_USERGUIDEPAGE_NEXT_STEP" value="Próximo" />
+  <String id="IDS_USERGUIDEPAGE_FINISH" value="Completo" />
+  <String id="IDS_PROXYSETTING_TITLE" value="Configurações de proxy" />
+  <String id="IDS_PROXYSETTING_TITLE_NET_SETTING" value="Configurações de rede" />
+  <String id="IDS_PROXYSETTING_STATIC_TYPE" value="Modelo" />
+  <String id="IDS_PROXYSETTING_STATIC_ADDRESS" value="Estático" />
+  <String id="IDS_PROXYSETTING_STATIC_PORT" value="Porta" />
+  <String id="IDS_PROXYSETTING_STATIC_USERNAME" value="Nome de usuário:" />
+  <String id="IDS_PROXYSETTING_STATIC_PASSWORD" value="senha:" />
+  <String id="IDS_PROXYSETTING_BTN_TEST" value="Teste" />
+  <String id="IDS_PROXYSETTING_STATIC_NOPROXY" value="Não use proxy" />
+  <String id="IDS_PROXYSETTING_STATIC_HTTPPROXY" value="Usar proxy HTTP" />
+  <String id="IDS_PROXYSETTING_STATIC_SOCKSPROXY" value="Usar proxy SOCK" />
+  <String id="IDS_PROXYSETTING_STATIC_IEPROXY" value="Usar proxy do IE" />
+  <String id="IDS_STATIC_CLOUDPUSH_TITLE" value="Push remoto" />
+  <String id="IDS_STATIC_PUSH_ON_SLEEP" value="Empurre enquanto dorme" />
+  <String id="IDS_STATIC_PUSH_ON_SLEEP_TIP" value="O Baidu Cloud continuará a empurrar a tarefa em baixa velocidade enquanto dorme para manter o progresso suave" />
+  <String id="IDS_TIP_TRAYSHOW_VIEWDETAIL" value="Ver detalhes" />
+  <String id="IDS_FlOATINDLG_DRAG_FILE_TIP" value="Arraste e solte os arquivos a serem carregados no Baidu Cloud" />
+  <String id="IDS_FlOATINDLG_NETWORKFAIL" value="A conexão de rede falha, você não pode fazer upload de arquivos" />
+  <String id="IDS_FlOATINDLG_DRAG_TITLE_TIP" value="Arraste e solte para fazer upload" />
+  <String id="IDS_FlOATINDLG_DRAG_DROP_TIP" value="Solte o mouse para fazer upload" />
+  <String id="IDS_FlOATINDLG_UPLOAD_PROGRESS" value="Estado do carregamento" />
+  <String id="IDS_FlOATINDLG_DOWNLOAD_PROGRESS" value="Status do download" />
+  <String id="IDS_FlOATINDLG_VIEWDETAIL" value="Ver detalhes" />
+  <String id="IDS_FlOATINDLG_READINGFILE_TIP" value="Lendo arquivo" />
+  <String id="IDS_ABOUTDLG_TITLENAME_FORQA" value="Sobre o Baidu NetDisk" />
+  <String id="IDS_ABOUTDLG_TITLENAME" value="Sobre o Baidu NetDisk" />
+  <String id="IDS_ABOUTDLG_VERSION" value="Número da versão" />
+  <String id="IDS_ABOUTDLG_COPYRIGHT_TIP" value="direito autoral" />
+  <String id="IDS_ABOUTDLG_COPYRIGHT_COMPANY" value="%dBaidu, Inc.Todos os direitos reservados" />
+  <String id="IDS_ABOUTDLG_VIEW_USER_PROTOCOL" value="Ver acordo do usuário" />
+  <String id="IDS_FILEVERSIONDLG_TITLENAME_FORQA" value="Histórico de versões" />
+  <String id="IDS_FILEVERSIONDLG_TITLENAME" value="Histórico de versões" />
+  <String id="IDS_FILEVERSIONDLG_HISVERSION" value="Versão (últimas 10 versões)" />
+  <String id="IDS_FILEVERSIONDLG_HISVERSION_VIP" value="Versão" />
+  <String id="IDS_FILEVERSIONDLG_FILESIZE" value="Tamanho" />
+  <String id="IDS_FILEVERSIONDLG_FILEMTIME" value="Última mudança" />
+  <String id="IDS_FILEVERSIONDLG_OP" value="Restaurar" />
+  <String id="IDS_FILEVERSIONDLG_OPERATE" value="Operar" />
+  <String id="IDS_FILEVERSIONDLG_RESUME" value="Restaurar" />
+  <String id="IDS_FILEVERSIONDLG_CLOSE" value="Perto" />
+  <String id="IDS_FILEVERSIONDLG_CURVERSION" value="(Atual)" />
+  <String id="IDS_FILEVERSIONDLG_REVERTING_HISVER" value="Restaurando a versão histórica..." />
+  <String id="IDS_FILEVERSIONDLG_REVERT_SUCCESS" value="Versão restaurada com sucesso, nova cópia feita para você" />
+  <String id="IDS_FILEVERSIONDLG_REVERT_FAIL" value="Falha na recuperação da versão do histórico, tente novamente" />
+  <String id="IDS_FILEVERSIONDLG_ERR_NETWORK" value="Rede de erro" />
+  <String id="IDS_FILEVERSIONDLG_ERR_NO_ENOUGH_SPACE" value="Espaço em disco, limpe o espaço e tente." />
+  <String id="IDS_FILEVERSIONDLG_ERR_FILE_NOT_EXIST" value="Arquivo de erro não existe" />
+  <String id="IDS_FILEVERSIONDLG_VIP_TIP" value="Caro membro, você tem o privilégio de reter %d versões históricas de cada arquivo" />
+  <String id="IDS_FILEVERSIONDLG_SVIP_TIP" value="Caro Super Membro, você tem o privilégio de reter %d versões históricas de cada arquivo" />
+  <String id="IDS_FILEVERSIONDLG_PAID_TIP" value="Caro usuário pagante, você tem o privilégio de reter 100 versões históricas de cada arquivo" />
+  <String id="IDS_FILEVERSIONDLG_MORE_VER" value="Abra a assinatura para ver mais versões históricas" />
+  <String id="IDS_DOCVIEWDLG_TITLENAME_FORQA" value="Ver documento" />
+  <String id="IDS_DOCVIEWDLG_TITLENAME" value="Ver documento" />
+  <String id="IDS_DOCVIEWDLG_UNSUPPORTED_TYPE" value="Oh não! Não é possível visualizar este formato de arquivo" />
+  <String id="IDS_DOCVIEWDLG_TIP_DOCVIEW_ERROR" value="Oh não! Falha na visualização do documento" />
+  <String id="IDS_DOCVIEWDLG_BTN_DOWNLOAD" value="Download" />
+  <String id="IDS_DOCVIEWDLG_NET_ERR_TIP" value="Falha na conexão de rede. Tente novamente mais tarde" />
+  <String id="IDS_REGISTERDLG_TITLENAME" value="Registrar conta no Baidu" />
+  <String id="IDS_ACCOUNTREANLNAMEDLG_TITLENAME" value="Verificar telefone" />
+  <String id="IDS_FUNCMANAGEDLG_TITLENAME_FORQA" value="Gerenciamento de atalhos" />
+  <String id="IDS_FUNCMANAGEDLG_TITLENAME" value="Gerenciamento de atalhos" />
+  <String id="IDS_FUNCMANAGEDLG_AUTOBACKUP" value="Backup automático" />
+  <String id="IDS_FUNCMANAGEDLG_LOCKAPP" value="Trancar" />
+  <String id="IDS_FUNCMANAGEDLG_NETTESTING" value="Teste rápido" />
+  <String id="IDS_FUNCMANAGEDLG_MAINPANEL_APP" value="Painel principal" />
+  <String id="IDS_FUNCMANAGEDLG_TIP_AUTOBACKUP" value="Pasta de backup automático: configure uma pasta de backup\para carregar o novo backup para a nuvem Baidu automaticamente,\eliminando o upload manual." />
+  <String id="IDS_FUNCMANAGEDLG_TIP_LOCKAPP" value="Bloqueio: aplicativo de bloqueio rápido,\nprotegendo sua privacidade,\ndigite a senha de logon para desbloquear" />
+  <String id="IDS_FUNCMANAGEDLG_TIP_NETTESTING" value="Sempre detecte as velocidades atuais de \nupload/download da rede" />
+  <String id="IDS_FUNCMANAGEDLG_TIP_REMOVE_APP" value="Remover" />
+  <String id="IDS_FUNCMANAGEDLG_ADD_APP" value="Adicionar" />
+  <String id="IDS_COMMON_EXIT" value="Saída" />
+  <String id="IDS_COMMON_SETTING" value="Opções" />
+  <String id="IDS_COMMON_HELP" value="Ajuda" />
+  <String id="IDS_COMMON_HELPCONTENT" value="Ajuda" />
+  <String id="IDS_COMMON_ABOUT" value="Sobre" />
+  <String id="IDS_COMMON_UPGRADE" value="Versão de atualização" />
+  <String id="IDS_COMMON_USERGUIDE" value="Guia do iniciante" />
+  <String id="IDS_COMMON_FEEDBACK" value="Comentários" />
+  <String id="IDS_COMMON_CHANGEACCOUNT" value="Mudar de conta" />
+  <String id="IDS_TRAYICON_OPENNETDISK" value="Abra o painel principal" />
+  <String id="IDS_TRAYICON_OPENWEBNETDISK" value="Visite Baidu Cloud" />
+  <String id="IDS_TRAYICON_OPENRECYCLEBIN" value="Abra a lixeira" />
+  <String id="IDS_TRAYICON_LOGOUT" value="Sair" />
+  <String id="IDS_TRAYICON_USEAGE" value="Capacidade %s usada: %s" />
+  <String id="IDS_TRAYICON_BEGINALLTASK" value="Iniciar tudo" />
+  <String id="IDS_TRAYICON_PAUSEALLTASK" value="Pausar tudo" />
+  <String id="IDS_TRAYICON_TRANSCOMPLETESHUTDOWN" value="Desligamento automático após concluir tarefas" />
+  <String id="IDS_TRAYICON_VIEWTRANSFERSTATUS" value="Confira a lista de transferências" />
+  <String id="IDS_TRAYICON_SHOWFLOATWINDOW" value="Mostrar caixa flutuante" />
+  <String id="IDS_TRAYICON_HIDEFLOATWINDOW" value="Ocultar caixa flutuante" />
+  <String id="IDS_TRAYICON_LOGIN" value="Conecte-se" />
+  <String id="IDS_TRAYICON_NETSPEED" value="Teste rápido" />
+  <String id="IDS_TRAYICON_BUYSPEEDUPSERVICE" value="Comprar serviço de velocidade" />
+  <String id="IDS_MENUID_COMMON_LOCK" value="Trancar" />
+  <String id="IDS_MENUID_COMMON_UNLOCK" value="Desbloquear" />
+  <String id="IDS_MENUID_UPLOAD_LOG" value="Feedback com um clique" />
+  <String id="IDS_WORKSPACE_OPEN" value="Abra o espaço de trabalho do disco de rede" />
+  <String id="IDS_WORKSPACE_STOP_SYNC" value="Pausar sincronização" />
+  <String id="IDS_WORKSPACE_RESTART_SYNC" value="Sincronização aberta" />
+  <String id="IDS_COMMON_INSTALL" value="Instalar" />
+  <String id="IDS_COMMON_CANCEL" value="Cancelar" />
+  <String id="IDS_COMMON_AUTOUPDATE" value="Atualizações automáticas" />
+  <String id="IDS_COMMON_DETAIL" value="Ver detalhes" />
+  <String id="IDS_TRAYICON_TIP_LOGINING" value="Fazendo login" />
+  <String id="IDS_TRAYICON_TIP_UNLOGIN" value="Desconectado" />
+  <String id="IDS_TRAYICON_TIP_ONLINE" value="Baidu NetDisk" />
+  <String id="IDS_TRAYICON_TIP_LOCKED" value="Baidu NetDisk bloqueado" />
+  <String id="IDS_TRAYICON_TIP_OFFLINELOCKED" value="Baidu NetDisk bloqueado" />
+  <String id="IDS_TRAYICON_TIP_OFFLINE" value="Falha na conexão de rede" />
+  <String id="IDS_TRAYICON_TIP_UPLOADING" value="%.1f%% Carregando" />
+  <String id="IDS_TRAYICON_TIP_DOWNLOADING" value="%.1f%% Fazendo download" />
+  <String id="IDS_TRAYICON_TIP_TRANSERROR" value="Erro de transferência" />
+  <String id="IDS_TRAYICON_TIP_SYNC_SUCCEED" value="Sucesso síncrono" />
+  <String id="IDS_TRAYICON_TIP_SYNC_FAILD" value="Falha síncrona" />
+  <String id="IDS_TRAYICON_TIP_SYNC_STOP" value="Pausa síncrona" />
+  <String id="IDS_TRAYICON_TIP_SYNC_DOING" value="Sincronizar" />
+  <String id="IDS_NO_PROMPT" value="Não solicite" />
+  <String id="IDS_NO_SPACE" value="Espaço de nuvem insuficiente!" />
+  <String id="IDS_FILE_PATH_INVALID" value="Caminho do arquivo inválido!" />
+  <String id="IDS_UPLOAD_SUCCESS" value="Envio completo" />
+  <String id="IDS_UPLOAD_ERROR" value="Falha no upload" />
+  <String id="IDS_DOWNLOAD_SUCCESS" value="Download com sucesso" />
+  <String id="IDS_DOWNLOAD_ERROR" value="Download falhou" />
+  <String id="IDS_PT2PTTASK_FINISH" value="Tarefa PT2PT concluída" />
+  <String id="IDS_PT2PT_DISCONNECT" value="PT2PT Desconectado" />
+  <String id="IDS_BACKUP_START_TIP" value="Backup automático iniciado" />
+  <String id="IDS_BACKUP_SET_TIP" value="O backup automático pode ser aberto nas configurações" />
+  <String id="IDS_PUSH_TASK_SUCCESS_TIP" value="Download da tarefa push concluído" />
+  <String id="IDS_PUSH_TASK_FAIL_TIP" value="Falha no download da tarefa push" />
+  <String id="IDS_ONE_DEVICE_ONLINE_TIP" value="Dispositivo %s on-line" />
+  <String id="IDS_MULTI_DEVICE_ONLINE_TIP" value="Dispositivo on-line" />
+  <String id="IDS_PUSH_FILE_REQUEST_TIP" value="Solicitação de arquivo push" />
+  <String id="IDS_ACCEPTING_PUSH_FILE_TIP" value="Pronto para receber o arquivo..." />
+  <String id="IDS_WAITING_PHONE_CONNECTION_TIP" value="Aguardando a conexão do telefone..." />
+  <String id="IDS_RECEIVE_FILE_SUCCESS_TIP" value="Arquivo recebido com sucesso" />
+  <String id="IDS_SEND_FILE_SUCCESS_TIP" value="Arquivo enviado com sucesso" />
+  <String id="IDS_TIP_WRITELIMITED_SECTION1" value="Como o sistema limita as permissões de leitura/gravação do diretório de arquivos, o programa será encerrado, você poderá tentar novamente" />
+  <String id="IDS_TIP_WRITELIMITED_SECTION2" value="O Baidu Cloud não tem permissões suficientes. Execute o Baidu Cloud como administrador." />
+  <String id="IDS_BUTTON_REDOWNLOAD" value="Baixe o Baidu NetDisk" />
+  <String id="IDS_BUTTON_EXIT" value="Saída" />
+  <String id="IDS_TIP_CAPTION" value="Pronto" />
+  <String id="IDS_LISTVIEW_COLUMN_FILENAME" value="Nome do arquivo" />
+  <String id="IDS_LISTVIEW_COLUMN_FILESIZE" value="Tamanho do arquivo" />
+  <String id="IDS_POWEROFF_STATIC_TITLENAME" value="Desligamento automático" />
+  <String id="IDS_POWEROFF_STATIC_TIPPRE" value="Após a conclusão da transferência" />
+  <String id="IDS_POWEROFF_STATIC_TIPAFTER" value="Após o número de segundos após" />
+  <String id="IDS_POWEROFF_BUTTON_POWERNOW" value="Agora" />
+  <String id="IDS_POWEROFF_BUTTON_CANCEL" value="cancelar" />
+  <String id="IDS_FOLDERDETECTDLG_TITLENAME_FORQA" value="Pasta de digitalização" />
+  <String id="IDS_FOLDERDETECTDLG_TITLENAME" value="Pasta de digitalização" />
+  <String id="IDS_STATIC_DETECT_TIP1" value="Testes de segurança" />
+  <String id="IDS_STATIC_DETECT_TIP2" value="Alguns dias usando pasta mais usada..." />
+  <String id="IDS_DETECTDLG_DISK_ACEESS_DENY" value="Pastas impossíveis de acessar, administrador necessário" />
+  <String id="IDS_BACKUPLISTDLG_TITLENAME" value="Pasta de digitalização" />
+  <String id="IDS_BTN_SELECT" value="Selecionar" />
+  <String id="IDS_BTN_BACKUP" value="Envio" />
+  <String id="IDS_BTN_CLOSE" value="Perto" />
+  <String id="IDS_BACKUPLISTDLG_TIP" value="Faça backup das pastas mais usadas nas últimas semanas" />
+  <String id="IDS_BACKUPLISTDLG_LIMIT_TIP" value="Suporta até 5 pastas de backup" />
+  <String id="IDS_BACKUPLISTDLG_EXCEED_MAX_BACKUP_COUNT" value="Até 5 pastas simultâneas. Escolha menos" />
+  <String id="IDS_BACKUPLISTDLG_BACKUP_TIP" value="Dicas de backup automático" />
+  <String id="IDS_BACKUPLISTDLG_CHANGE_TIP" value="Mudar" />
+  <String id="IDS_BACKUPLISTDLG_DELETE_TIP" value="Excluir" />
+  <String id="IDS_BACKUPLISTDLG_VIP_USER_TIP" value="Caros usuários membros, você pode desfrutar de backup automático ilimitado de pastas ~" />
+  <String id="IDS_BACKUPLISTDLG_SVIP_USER_TIP" value="Caros usuários super membros, você pode desfrutar de privilégios ilimitados para tráfego de backup automático de pastas ~" />
+  <String id="IDS_BACKUPLISTDLG_REGULAR_USER_TIP" value="Você pode usar a função de backup automático de pastas, até 10G de arquivos por mês." />
+  <String id="IDS_BACKUPLISTDLG_REGULAR_USER_GUIDE_TIP" value="Backup automático de membro aberto ilimitado" />
+  <String id="IDS_BACKUPLISTDLG_REGULAR_USER_BUY_VIP" value="Abra agora>" />
+  <String id="IDS_BACKUPLISTDLG_REGULAR_USER_QUOTA_TIP" value="Dados usados ​​este mês:" />
+  <String id="IDS_BACKUPLISTDLG_REGULAR_USER_QUOTA_GUIDE_TIP" value="Tráfego de backup de membros ilimitado" />
+  <String id="IDS_BACKUPLISTDLG_REGULAR_USER_QUOTA_EXCEED_TIP" value="Fluxo excedido" />
+  <String id="IDS_BACKUPLISTDLG_REGULAR_USER_QUOTA_NOT_ENOUGH_TIP" value="Fluxo insuficiente" />
+  <String id="IDS_BACKUPLISTDLG_USER_GUIDE_TIP1" value="O backup automático de pastas agora está disponível para avaliação gratuita ~" />
+  <String id="IDS_BACKUPLISTDLG_USER_GUIDE_TIP2" value="Faça backup de pastas locais automaticamente, não se preocupe mais com a perda de arquivos" />
+  <String id="IDS_BACKUPLISTDLG_USER_GUIDE_TRY" value="vai tentar" />
+  <String id="IDS_DEVICE_NAME_PREFIX" value="(Não é possível enviar para o dispositivo)" />
+  <String id="IDS_GUIDEPANEL_START_AUTO_BACKUP" value="Iniciar pasta de backup automaticamente" />
+  <String id="IDS_GUIDEPANEL_SELECT_BACKUP_DIR" value="Selecione manualmente a pasta de backup" />
+  <String id="IDS_GUIDEPANEL_ENABLESCAN" value="Ativar verificação" />
+  <String id="IDS_GUIDEPANEL_START_QQWECHAT_BACKUP" value="Fazer backup agora" />
+  <String id="IDS_MUTLTIFOLDERDLG_CLONETOCLOUD" value="Clonar para nuvem" />
+  <String id="IDS_MUTLTIFOLDERDLG_SELECT_DIR" value="Pasta de arquivos usados ​​com frequência não detectada, selecione-a manualmente" />
+  <String id="IDS_MUTLTIFOLDERDLG_BAOHE_WARNNING" value="O diretório selecionado contém o diretório do disco de sincronização. Ele será repetido para continuar a fazer backup dos arquivos do disco de rede. \r\nContinuar?" />
+  <String id="IDS_TITLE_VIP_CLOSE_TIP" value="Atualizar membro" />
+  <String id="IDS_TITLE_VIP_OPEN_TIP" value="Membro aberto" />
+  <String id="IDS_TITLE_SVIP_OPEN_TIP" value="Super membro aberto" />
+  <String id="IDS_TITLE_BUY_SPACE_TIP" value="Clique para expandir" />
+  <String id="IDS_SPEEDUP_BTN_TRY" value="Tente agora" />
+  <String id="IDS_SPEEDUP_BTN_BUY" value="Compre Agora" />
+  <String id="IDS_SPEEDUP_BTN_ENABLE_PRIVILEGE" value="Privilégio ativado" />
+  <String id="IDS_SPEEDUP_BTN_RENEW" value="Renovar agora" />
+  <String id="IDS_SPEEDUP_BTN_CLOSE" value="Perto" />
+  <String id="IDS_SPEEDUP_END_DEFAULT_TIP" value="Compre o pacote de aceleração e aproveite a velocidade acelerada" />
+  <String id="IDS_SPEEDUP_REMINDING_TIP" value="(%d segundos de velocidade acelerada restantes)" />
+  <String id="IDS_SPEEDUP_SPEEDING_TIP" value="Acelerar" />
+  <String id="IDS_P2PSPEEDUP_OPEN_TIP" value="Ativar a função de aceleração de download pode aumentar a velocidade de download para você.%0.1f%%dos usuários ficam%0.1fvezes mais rápido" />
+  <String id="IDS_P2PSPEEDUP_OPEN_DEFAULT_TIP" value="Ativar a função de aceleração de download pode aumentar a velocidade de download para você. Esta função melhorou a média 3,2 vezes para os usuários" />
+  <String id="IDS_P2PSPEEDUP_BTN_OPEN" value="Ver e abrir" />
+  <String id="IDS_P2PSPEEDUP_SET_TIP" value="Acelerando no modo de aceleração, acelerou para você%0.1fTimes，Você pode gerenciar a função de aceleração de download na página de configurações." />
+  <String id="IDS_P2PSPEEDUP_BTN_SET" value="Pôr" />
+  <String id="IDS_SPEEDUP_BTN_BUYCARD" value="Adquira o cartão de download gratuito" />
+  <String id="IDS_CARDSPEEDUP_OPEN_TIP" value="Compre o cartão de download gratuito, desfrute de downloads extremamente rápidos" />
+  <String id="IDS_CARDSPEEDUP_USING_TIP" value="O download de alta velocidade foi ativado para você" />
+  <String id="IDS_CARDSPEEDUP_END_TIP" value="O download comum será retomado em breve" />
+  <String id="IDS_SPEEDUP_BTN_EXTEND" value="Continuar a acelerar" />
+  <String id="IDS_SPEEDUPTICKET_REMINDING_1_TIP" value="(%d horas restantes)" />
+  <String id="IDS_SPEEDUPTICKET_REMINDING_2_TIP" value="(Válido antes de %s)" />
+  <String id="IDS_SPEEDUPTICKET_REMINDING_3_TIP" value="(%d minutos restantes)" />
+  <String id="IDS_SPEEDUPTICKET_MSGBOX_TITLE_TIP" value="Pontas" />
+  <String id="IDS_SPEEDUPTICKET_MSGBOX_ADD_DOWNTASK_TIP" value="Eu sei" />
+  <String id="IDS_SPEEDUPTICKET_MSGBOX_OKBTN_TIP" value="Compra com sucesso" />
+  <String id="IDS_SPEEDUPTICKET_MSGBOX_CANCELBTN_TIP" value="Problemas de pagamento" />
+  <String id="IDS_SPEEDUPTICKET_QUERY_STATUS_FAIL" value="Exceção de rede, verifique a rede e tente novamente" />
+  <String id="IDS_SPEEDUPTICKET_QUERY_STATUS_SUCCEED" value="O status de privilégio da consulta é comprar ou não:% d compra:%d tempo de experiência:%d em uso:%d" />
+  <String id="IDS_SPEEDUPTICKET_NO_BUY_TIP" value="Este produto ainda não foi adquirido" />
+  <String id="IDS_SPEEDUPTICKET_BUY_SUCCESS_TIP" value="Compra com sucesso!" />
+  <String id="IDS_SPEEDUPTICKET_EXPIRED_TIP" value="Olá, este produto expirou ~" />
+  <String id="IDS_SPEEDUPTICKET_EXPIRE_MSGBOX_TITLE_TIP" value="Cupom de download rápido expirado" />
+  <String id="IDS_SPEEDUPTICKET_EXPIRE_MSGBOX_CONTENT_TIP" value="Abra os Super membros para baixar rapidamente e sem se preocupar com a expiração" />
+  <String id="IDS_SPEEDUPTICKET_EXPIRE_MSGBOX_BTN_TIP" value="Abrir super membro" />
+  <String id="IDS_VIPSPEEDUP_EXPERIENCE_TIP" value="Privilégio de teste rápido," />
+  <String id="IDS_VIPSPEEDUP_DOWN_EXPERIENCING_TIP" value="Privilégio de velocidade sendo testado," />
+  <String id="IDS_VIPSPEEDUP_FINISH_TIP" value="Fim do teste de privilégio de velocidade" />
+  <String id="IDS_VIPSPEEDUP_FINISH_DEFAULT_TIP" value="Habilitando o privilégio de desfrutar de velocidade acelerada" />
+  <String id="IDS_VIPSPEEDUP_INUSE_DEFAULT_TIP" value="Acelerando! Tempo de teste restante" />
+  <String id="IDS_VIPSPEEDUP_END_DEFAULT_TIP" value="O julgamento acabou, a velocidade aumentou" />
+  <String id="IDS_VIPSPEEDUP_BUY_SVIP" value="Abrir Super-Membro" />
+  <String id="IDS_SPEEDUPCARD_MSGBOX_TITLE_TIP" value="提示" />
+  <String id="IDS_SPEEDUPCARD_MSGBOX_OKBTN_TIP" value="购买成功" />
+  <String id="IDS_SPEEDUPCARD_MSGBOX_CANCELBTN_TIP" value="支付遇到问题" />
+  <String id="IDS_STATIC_SERVERDIRDLG_INFO_TOOMUCHLEVEL" value="Limite excedido: diretório de nível %d suportado." />
+  <String id="IDS_STATIC_GET_SERVER_SUBDIR_FAIL" value="Falha ao obter pasta do servidor" />
+  <String id="IDS_URL_OFFLINEDOWNLOADTASK_TITLE_FORQA" value="Nova janela de tarefa de download offline" />
+  <String id="IDS_URL_OFFLINEDOWNLOADTASK_TITLE" value="Nova tarefa de download" />
+  <String id="IDS_URL_OFFLINEDOWNLOADTASK_INPUTLINK" value="Digite o link do arquivo de download" />
+  <String id="IDS_URL_OFFLINEDOWNLOADTASK_URLEDIT_DEFAULT" value="Suporta HTTP, FTP, cadeia magnética, links eDonkey" />
+  <String id="IDS_URL_OFFLINEDOWNLOADTASK_URL_INVALIDE" value="Link inválido. Exemplo correto http://abc.com/xyz.rmvb" />
+  <String id="IDS_URL_OFFLINEDOWNLOADTASK_URL_NOT_SUPPORT" value="O formato do link não é compatível" />
+  <String id="IDS_URL_OFFLINEDOWNLOADTASK_ADDTASK_FAILED" value="Falha ao adicionar tarefa de download offline" />
+  <String id="IDS_URL_OFFLINEDOWNLOADTASK_URL_EMPTY" value="Por favor, insira o link de download" />
+  <String id="IDS_URL_OFFLINEDOWNLOADTASK_DOWNLOAD_DIR" value="Meu disco de rede" />
+  <String id="IDS_URL_OFFLINEDOWNLOADTASK_SAFEBOX_DIR" value="Cofre" />
+  <String id="IDS_URL_OFFLINEDOWNLOADTASK_SAVETO" value="Salvar em:" />
+  <String id="IDS_URL_OFFLINEDOWNLOADTASK_CHANGE_DIR" value="Alterar Dir." />
+  <String id="IDS_URL_OFFLINEDOWNLOADTASK_SPACE_AVAILABLE" value="Espaço disponível:" />
+  <String id="IDS_URL_OFFLINEDOWNLOADTASK_BUY_SPACE" value="Comprar espaço" />
+  <String id="IDS_URL_OFFLINEDOWNLOADTASK_START_DOWNLOAD" value="Iniciar download" />
+  <String id="IDS_URL_OFFLINEDOWNLOADTASK_CANCEL_DOWNLOAD" value="Cancelar download" />
+  <String id="IDS_URL_OFFLINEDOWNLOADTASK_CHECK_DOWNLOADTO" value="Baixado para" />
+  <String id="IDS_URL_OFFLINEDOWNLOADTASK_CHECK_SELCECT_DEVICE" value="Seleção de dispositivo" />
+  <String id="IDS_URL_OFFLINEDOWNLOADTASK_CHECK_CHANGE_DEVICE" value="Alterar dispositivo" />
+  <String id="IDS_SELECT_TORRENT_TITLE" value="Semente aberta" />
+  <String id="IDS_SELECT_TORRENT_OK" value="Envio" />
+  <String id="IDS_BT_OFFLINEDOWNLOADTASK_TITLE_FORQA" value="Nova tarefa BT offline" />
+  <String id="IDS_BT_OFFLINEDOWNLOADTASK_TITLE" value="Nova tarefa BT offline" />
+  <String id="IDS_BT_OFFLINEDOWNLOADTASK_BUYDOWNLOADPACKAGE" value="Você pode desfrutar de downloads ilimitados gratuitos permanentes" />
+  <String id="IDS_BT_OFFLINEDOWNLOADTASK_FILETOTALSIZE" value="Tamanho:" />
+  <String id="IDS_BT_OFFLINEDOWNLOADTASK_FILESIZEUNKNOWN" value="Tamanho: desconhecido" />
+  <String id="IDS_BT_OFFLINEDOWNLOADTASK_FILESIZEQUERY" value="Tamanho: recuperando" />
+  <String id="IDS_BT_OFFLINEDOWNLOADTASK_ANALYSYSING" value="Sementes sendo resolvidas, por favor aguarde..." />
+  <String id="IDS_BT_OFFLINEDOWNLOADTASK_CREATETASK" value="Adicionando à fila de download offline..." />
+  <String id="IDS_BT_OFFLINEDOWNLOADTASK_QUERYMAGNETINFO" value="Recuperando informações do link magnético..." />
+  <String id="IDS_BT_OFFLINEDOWNLOADTASK_TRANSFERSEED" value="Arquivos sendo buscados, por favor aguarde..." />
+  <String id="IDS_BT_OFFLINEDOWNLOADTASK_RESELECTSEED" value="Selecionar novamente" />
+  <String id="IDS_BT_OFFLINEDOWNLOADTASK_SELECTEDCOUNT" value="%d arquivos verificados" />
+  <String id="IDS_BT_OFFLINEDOWNLOADTASK_SELECTFILETOOMUCH" value="Só pode selecionar um máximo de %d arquivos enviados para o dispositivo" />
+  <String id="IDS_OFFLINEDOWNLOADLIST_TITLE_FORQA" value="Lista de tarefas de download offline" />
+  <String id="IDS_OFFLINEDOWNLOADLIST_TITLE" value="Lista de tarefas de download offline" />
+  <String id="IDS_OFFLINEDOWNLOADLIST_RUNBACK_BTNTEXT" value="De volta" />
+  <String id="IDS_OFFLINEDOWNLOADLIST_TEXT_LOADING" value="Carregando, por favor espere..." />
+  <String id="IDS_OFFLINEDOWNLOADLIST_TEXT_LOADINGERROR" value="Falha ao carregar a tarefa de download offline, tente novamente" />
+  <String id="IDS_OFFLINEDOWNLOADLIST_TEXT_EMPTY_TIP" value="Bem-vindo ao download offline, você pode criar uma nova tarefa das duas maneiras a seguir" />
+  <String id="IDS_OFFLINEDOWNLOADLIST_CREATE_NORMAL_TASK" value="Novo download" />
+  <String id="IDS_OFFLINEDOWNLOADLIST_CREATE_BT_TASK" value="Novo download do BT" />
+  <String id="IDS_OFFLINEDOWNLOADLIST_OPEN_TASK_SAVEPATH" value="Abrir pasta de tarefas" />
+  <String id="IDS_OFFLINEDOWNLOADLIST_CLEAR_TASK" value="Limpar tarefa" />
+  <String id="IDS_OFFLINEDOWNLOADLIST_UPDATE_TASK" value="Atualizar tarefa" />
+  <String id="IDS_OFFLINEDOWNLOADLIST_STOP_TASK" value="Parar tarefa" />
+  <String id="IDS_OFFLINEDOWNLOADLIST_SUCCESS" value="Baixado" />
+  <String id="IDS_OFFLINEDOWNLOADLIST_FAIL" value="Fracassado" />
+  <String id="IDS_OFFLINEDOWNLOADLIST_SYSBUSY" value="O sistema está ocupado" />
+  <String id="IDS_OFFLINEDOWNLOADLIST_NOTEXIST" value="Arquivo não existe" />
+  <String id="IDS_OFFLINEDOWNLOADLIST_TIMEOUT" value="Tempo esgotado" />
+  <String id="IDS_OFFLINEDOWNLOADLIST_NOSPACE" value="Escassez de espaço" />
+  <String id="IDS_OFFLINEDOWNLOADLIST_CANCELED" value="Tarefa cancelada" />
+  <String id="IDS_OFFLINEDOWNLOADLIST_ALREADEXIST" value="O arquivo já existe" />
+  <String id="IDS_OFFLINEDOWNLOADLIST_DELETED" value="Tarefa excluída" />
+  <String id="IDS_OFFLINEDOWNLOADLIST_PARTSUCCESS" value="Download parcialmente bem-sucedido" />
+  <String id="IDS_OFFLINEDOWNLOADLIST_SEARCH_RESOURCE" value="Procurando recursos..." />
+  <String id="IDS_OFFLINEDOWNLOADTASK_TIP_PARAM_ERROR" value="Erro de download off-line" />
+  <String id="IDS_OFFLINEDOWNLOADTASK_TIP_RELOGIN" value="Por favor, faça login e tente novamente" />
+  <String id="IDS_OFFLINEDOWNLOADTASK_TIP_USER_NOT_LOGIN" value="Por favor, faça login e tente novamente" />
+  <String id="IDS_OFFLINEDOWNLOADTASK_TIP_USER_NOT_ACTIVE" value="Tente novamente após a ativação da conta" />
+  <String id="IDS_OFFLINEDOWNLOADTASK_TIP_USER_NOT_EXIST" value="O usuário não existe, tente novamente" />
+  <String id="IDS_OFFLINEDOWNLOADTASK_TIP_STORAGE_EXCEED_LIMIT" value="Falta de espaço na nuvem" />
+  <String id="IDS_OFFLINEDOWNLOADTASK_TIP_OBJ_NOT_EXIST" value="Arquivo não existe" />
+  <String id="IDS_OFFLINEDOWNLOADTASK_TIP_REQ_EXPIRE_TIMOUT" value="A operação expirou, tente novamente" />
+  <String id="IDS_OFFLINEDOWNLOADTASK_TIP_TOO_MANY_TASKS" value="Muitas tarefas ao mesmo tempo" />
+  <String id="IDS_OFFLINEDOWNLOADTASK_TIP_SAVEPATH_EXIST" value="Repetir outro caminho" />
+  <String id="IDS_OFFLINEDOWNLOADTASK_TIP_TASK_NOT_FOUND" value="A tarefa foi excluída" />
+  <String id="IDS_OFFLINEDOWNLOADTASK_TIP_TASK_COMPLETED" value="Falha no cancelamento, tarefa concluída" />
+  <String id="IDS_OFFLINEDOWNLOADTASK_TIP_INAVLID_TORRENT" value="Falha ao resolver, arquivo de semente está corrompido" />
+  <String id="IDS_OFFLINEDOWNLOADTASK_TIP_TASK_PROCESSING" value="Falha no cancelamento, tarefa sendo processada" />
+  <String id="IDS_OFFLINEDOWNLOADTASK_TIP_INAVLID_SOURCEURL" value="Link de origem inválido" />
+  <String id="IDS_OFFLINEDOWNLOADTASK_TIP_NONVIP_EXCEED_CONCURRNENCY" value="Número máximo de limite de download simultâneo excedido (não VIP). Desligue imediatamente o pacote de download!" />
+  <String id="IDS_OFFLINEDOWNLOADTASK_TIP_VIP_EXCEED_CONCURRNENCY" value="O limite máximo de tarefas simultâneas foi excedido" />
+  <String id="IDS_OFFLINEDOWNLOADTASK_TIP_NONVIP_EXCEED_QUOTA" value="A cota máxima de download para usuários não VIP foi excedida!" />
+  <String id="IDS_OFFLINEDOWNLOADTASK_TIP_VIP_EXCEED_QUOTA" value="A cota máxima de download foi excedida!" />
+  <String id="IDS_OFFLINEDOWNLOADTASK_TIP_INVALID_SHARELINK" value="O link de compartilhamento expirou" />
+  <String id="IDS_OFFLINEDOWNLOADTASK_TIP_INVALID_MAGNETLINK" value="Link magnético inválido, por favor, reinsira" />
+  <String id="IDS_OFFLINEDOWNLOADTASK_TIP_CANNT_PARSE_MAGNETLINK" value="Não foi possível encontrar o link magnético" />
+  <String id="IDS_OFFLINEDOWNLOADTASK_TIP_TASK_FREQ_EXCEED" value="O limite máximo de downloads foi atingido para hoje. Tente novamente amanhã" />
+  <String id="IDS_OFFLINEDOWNLOADTASK_WAITFOR_NEXTMONTH" value="Tive que esperar o próximo mês" />
+  <String id="IDS_OFFLINEDOWNLOADTASK_WAITFOR_TASKCOMPLETE" value="Aguardando a conclusão da tarefa atual" />
+  <String id="IDS_OFFLINEDOWNLOADACTIVITY_KNOWN" value="Eu sei" />
+  <String id="IDS_UNLOCKDLG_LOCKED" value="Baidu NetDisk bloqueado" />
+  <String id="IDS_UNLOCKDLG_UNLOCK" value="Desbloquear" />
+  <String id="IDS_UNLOCKDLG_INPUT_PASSWORD" value="Por favor, digite sua senha de acesso" />
+  <String id="IDS_UNLOCKDLG_HOTKEY_TIP" value="Pressione %s Bloquear/Desbloquear" />
+  <String id="IDS_UNLOCKDLG_PASSWD_ERROR_TIP" value="Senha inválida, por favor tente novamente" />
+  <String id="IDS_UNLOCKDLG_UNLOCK_FAIL_TIP" value="Falha no desbloqueio, tente novamente mais tarde" />
+  <String id="IDS_UNLOCKDLG_QRCODE_LOAD_FAIL_TIP" value="Falha ao carregar" />
+  <String id="IDS_UNLOCKDLG_QRCODE_EXPIRED_TIP" value="O código QR expirou" />
+  <String id="IDS_UNLOCKDLG_QRCODE_REFRESH" value="Clique em atualizar" />
+  <String id="IDS_UNLOCKDLG_CHANGE_ACCOUNT" value="Mudar de conta" />
+  <String id="IDS_UNLOCKDLG_QRCODE_SCAN_TIP" value="Por favor, use Baidu Netdisk APP (versão 10) para escanear e desbloquear" />
+  <String id="IDS_UNLOCKDLG_PWD_TIP" value="Digite a senha para desbloquear >" />
+  <String id="IDS_UNLOCKDLG_QRCODE_TIP" value="Digitalize o código para desbloquear >" />
+  <String id="IDS_UNLOCKDLG_QRCODE_UNLOCKING_TIP" value="Desbloqueio" />
+  <String id="IDS_UNLOCKDLG_QRCODE_SCAN_SUCCESS_TIP" value="Digitalizado com sucesso, confirme o desbloqueio no celular" />
+  <String id="IDS_UNLOCKDLG_LOCKED_REMIND_TIP" value="Para privacidade e segurança de seus arquivos, o disco de rede está bloqueado. Não afeta as tarefas de transferência em andamento" />
+  <String id="IDS_UNLOCKDLG_LOCKED_REMIND_TOOLTIP" value="Você bloqueou o disco de rede por bloqueio manual/bloqueio automático por um longo tempo sem operação/bloqueio automático do disco de rede quando o computador está bloqueado. A função de bloqueio do disco de rede é para proteger sua privacidade e você pode gerenciá-lo em Configurações-Segurança." />
+  <String id="IDS_KEY_ALT" value="Alt" />
+  <String id="IDS_KEY_SHIFT" value="Mudança" />
+  <String id="IDS_KEY_CONTROL" value="Ctrl" />
+  <String id="IDS_KEY_NONE" value="Nenhum" />
+  <String id="IDS_HOTKEY_LOCKTITLE" value="Bloqueio de cliente" />
+  <String id="IDS_HOTKEY_LOCKTIP" value="(A tecla de atalho pode ser alterada)" />
+  <String id="IDS_HOTKEY_LOCKHOTKEYTIP" value="Bloquear tecla de atalho" />
+  <String id="IDS_HOTKEY_AUTOLOCKTIP" value="Bloqueio automático: mouse e teclado inativos" />
+  <String id="IDS_HOTKEY_AUTOLOCKTIMETIP" value="Minutos para bloqueio automático" />
+  <String id="IDS_HOTKEY_SYSTEMLOCKTIP" value="Configuração de bloqueio automático: Quando o computador estiver bloqueado, o disco de rede será bloqueado automaticamente" />
+  <String id="IDS_HOTKEYCONFLICT_TITLENAME" value="Conflito de teclas de atalho" />
+  <String id="IDS_HOTKEYCONFLICT_NOTIPAGAIN" value="Não solicite" />
+  <String id="IDS_HOTKEYCONFLICT_MODIFYHOTKEYLINK" value="Modificar tecla de atalho do Baidu NetDisk" />
+  <String id="IDS_HOTKEYCONFLICT_TIP_SUGGEST" value="Recomendamos que você modifique o conflito de teclas de atalho do software ou" />
+  <String id="IDS_HOTKEYCONFLICT_TIP" value="%s, teclas de atalho de bloqueio de nuvem Baidu já em uso." />
+  <String id="IDS_SETTINGDLG_SAFEBOX_TITLE" value="Cofre:" />
+  <String id="IDS_SETTINGDLG_SAFEBOX_ACTIVATED_TIP" value="Cofre ativado" />
+  <String id="IDS_SETTINGDLG_SAFEBOX_NOTACTIVATED_TIP" value="Cofre não ativado" />
+  <String id="IDS_SETTINGDLG_SAFEBOX_MODIFY_PASSWORD" value="Modificar senha" />
+  <String id="IDS_SETTINGDLG_SAFEBOX_FIND_PASSWORD" value="Esqueceu sua senha" />
+  <String id="IDS_SETTINGDLG_SAFEBOX_ACTIVATE" value="Ativar Cofre" />
+  <String id="IDS_STATIC_SWITH_PLAYSOUND_TIP" value="Após a conclusão da transferência" />
+  <String id="IDS_STATIC_SOUND_TYPE1" value="1" />
+  <String id="IDS_STATIC_SOUND_TYPE2" value="2" />
+  <String id="IDS_STATIC_SOUND_TYPE3" value="3" />
+  <String id="IDS_STATIC_SOUND_TYPE4" value="4" />
+  <String id="IDS_VIDEOPLAYDLG_TITLENAME_FORQA" value="Leitor de vídeo" />
+  <String id="IDS_VIDEOPLAYDLG_TITLENAME" value="Leitor de vídeo" />
+  <String id="IDS_VIDEOPLAYDLG_TIP_PLAYVIDEO_ERROR" value="Ah, a visualização do vídeo falhou, você pode fazer o download após a transmissão" />
+  <String id="IDS_VIDEOPLAYDLG_NET_ERR_TIP" value="Falha na conexão de rede. Tente novamente mais tarde" />
+  <String id="IDS_VIDEOPLAYDLG_DOWNLOADING_TRAY_TIP" value="Baixando" />
+  <String id="IDS_USERHELPDLG_TITLENAME_FORQA" value="Centro de ajuda" />
+  <String id="IDS_USERHELPDLG_TITLENAME" value="Centro de ajuda" />
+  <String id="IDS_USERHELPDLG_NET_ERR_TIP" value="Falha na conexão de rede. Tente novamente mais tarde" />
+  <String id="IDS_USERHELPDLG_VIEW_MORE" value="Ver mais" />
+  <String id="IDS_SAFEBOXPWDDLG_TITLENAME" value="Crie uma senha segura" />
+  <String id="IDS_SAFEBOXPWDDLG_TIP_PRIVATE" value="Configure uma senha segura para o Safe Box" />
+  <String id="IDS_SAFEBOXPWDDLG_TIP_INPUTPWD" value="Digite a senha:" />
+  <String id="IDS_SAFEBOXPWDDLG_TIP_INPUTPWD_AGAIN" value="Confirme a Senha:" />
+  <String id="IDS_SAFEBOXPWDDLG_TIP_PWDLENGTH" value="Um comprimento de 6-16 caracteres" />
+  <String id="IDS_SAFEBOXPWDDLG_TIP_PWDAGAIN" value="Coloque a senha novamente:" />
+  <String id="IDS_SAFEBOXPWDDLG_BTN_CREATE" value="Crio" />
+  <String id="IDS_SAFEBOXPWDDLG_BTN_CREATEING" value="Criando..." />
+  <String id="IDS_SAFEBOXPWDDLG_BTN_CANCEL" value="Cancelar" />
+  <String id="IDS_SAFEBOXPWDDLG_ERROR_INCONSISTENTPWD" value="As duas senhas não combinam" />
+  <String id="IDS_SAFEBOXPWDDLG_ERROR_PWDLENGTH" value="A senha deve ter de 6 a 16 caracteres" />
+  <String id="IDS_SAFEBOXPWDDLG_ERROR_INTPUTPWD" value="Por favor, insira sua senha" />
+  <String id="IDS_SAFEBOXPWDDLG_ERROR_PWDFORMAT" value="A senha deve ser composta por números, letras e símbolos" />
+  <String id="IDS_SAFEBOXPWDDLG_ERROR_INVALIDPWDCHAR" value="A senha contém caracteres inválidos" />
+  <String id="IDS_SAFEBOXPWDDLG_ERROR_NETWORK" value="Erro de rede" />
+  <String id="IDS_SAFEBOXPWDDLG_ERROR_CERT_EXPIRED" value="Defina a hora correta e tente novamente" />
+  <String id="IDS_SAFEBOXPWDDLG_ERROR_RETRY" value="Falha ao criar senha, tente novamente" />
+  <String id="IDS_SAFEBOXPWDDLG_ERROR_ACCOUNTUNBIND" value="A conta precisa vincular número de telefone ou e-mail" />
+  <String id="IDS_SAFEBOXPWDDLG_ERROR_BINDLINK" value="Ligar" />
+  <String id="IDS_SAFEBOXPWDDLG_ERROR_ALREADYACTIVATE" value="Você tem que desbloquear o cofre" />
+  <String id="IDS_ACCOUNTBINFDLG_TITLE" value="Vinculação de conta" />
+  <String id="IDS_ACCOUNTBINFDLG_BTN_BIND" value="Ligar" />
+  <String id="IDS_ACCOUNTBINFDLG_BTN_CANCEL" value="Cancelar" />
+  <String id="IDS_ACCOUNTBINFDLG_BTN_BINDSUCCESS" value="Sucesso de vinculação" />
+  <String id="IDS_ACCOUNTBINFDLG_BTN_UNBIND" value="Desvincular" />
+  <String id="IDS_ACCOUNTBINFDLG_TIP_PRIVATE" value="Primeiro, verifique se o seu número de telefone/vinculação de e-mail foi concluído" />
+  <String id="IDS_ACCOUNTBINFDLG_TIP_BINDSUCCESS" value="Arquivos privados podem ser armazenados após a vinculação ser bem-sucedida" />
+  <String id="IDS_STATIC_SPEEDTEST_NAME" value="Teste rápido" />
+  <String id="IDS_STATIC_SPEEDTEST_UPLOADSPEED" value="Velocidade de upload" />
+  <String id="IDS_STATIC_SPEEDTEST_DOWNLOADSPEED" value="Velocidade de download" />
+  <String id="IDS_STATIC_SPEEDTEST_SPEED" value="Velocidade" />
+  <String id="IDS_STATIC_SPEEDTEST_TESTING_HEADER" value="Cabeçalho de teste" />
+  <String id="IDS_STATIC_SPEEDTEST_TESTING_TAIL" value="Velocidade..." />
+  <String id="IDS_STATIC_SPEEDTEST_MAXUPLOADSPEED" value="Velocidade máxima de upload:" />
+  <String id="IDS_STATIC_SPEEDTEST_MAXDOWNLOADSPEED" value="Velocidade máxima de download:" />
+  <String id="IDS_STATIC_SPEEDTEST_RUN" value="Corre" />
+  <String id="IDS_STATIC_SPEEDTEST_RUNING" value="Corrida..." />
+  <String id="IDS_STATIC_SPEEDTEST_RERUN" value="Executar novamente" />
+  <String id="IDS_STATIC_SPEEDTEST_BOTTOMBAR_TIP" value="Ao executar o teste de velocidade, recomendamos pausar outros softwares usando velocidade" />
+  <String id="IDS_STATIC_SPEEDTEST_ACTION_DOWNLOAD" value="Download" />
+  <String id="IDS_STATIC_SPEEDTEST_ACTION_UPLOAD" value="Envio" />
+  <String id="IDS_STATIC_SPEEDTEST_SPEEDTIP_SLOW" value=", A velocidade é lenta!" />
+  <String id="IDS_STATIC_SPEEDTEST_SPEEDTIP_HIGHT" value=", Rápido como um raio!" />
+  <String id="IDS_STATIC_SPEEDTEST_SPEEDTIP_DOWNBIGTHANUP" value="Upload mais lento que o download?" />
+  <String id="IDS_STATIC_SPEEDTEST_SPEEDTIP_DOWNBIGTHANUP_TOOLTIP" value="A maioria das operadoras de rede aloca maior largura de banda de download e upload mais lento, então a velocidade de download será mais rápida que a velocidade de upload" />
+  <String id="IDS_STATIC_SPEEDTEST_SPEEDTIP_SLOWTAIL" value="Lento?" />
+  <String id="IDS_STATIC_SPEEDTEST_SPEEDTIP_SLOWTAIL_TOOLTIP1" value="1.A velocidade de upload e download é limitada pela largura de banda da sua operadora de rede." />
+  <String id="IDS_STATIC_SPEEDTEST_SPEEDTIP_SLOWTAIL_TOOLTIP2" value="2.Ao mesmo tempo, a execução de vários programas de rede torna a velocidade de upload e download lenta" />
+  <String id="IDS_STATIC_SPEEDTEST_SPEEDTIP_SLOWTAIL_TOOLTIP3" value="3. Operadores especiais (como empresas, campus, etc.) às vezes limitam as velocidades" />
+  <String id="IDS_STATIC_SPEEDTEST_NETERROR_RUNNING" value="Falha no teste de velocidade, sem conexão de rede" />
+  <String id="IDS_STATIC_SPEEDTEST_NETERROR_WAIT" value="Nenhuma conexão de rede" />
+  <String id="IDS_STATIC_SPEEDTESTREPORT_TITLE" value="Relatório de teste de velocidade" />
+  <String id="IDS_STATIC_SPEEDTESTREPORT_BTNTEXT_REPORT" value="Comentários" />
+  <String id="IDS_STATIC_SPEEDTESTREPORT_BTNTEXT_COMPLETE" value="Completo" />
+  <String id="IDS_STATIC_SPEEDTESTREPORT_BTNTEXT_RUNNING" value="Corrida..." />
+  <String id="IDS_STATIC_SPEEDTESTREPORT_TIP_BEGIN" value="Problemas de velocidade? Por favor, dê-nos feedback." />
+  <String id="IDS_STATIC_SPEEDTESTREPORT_TIP_ING" value="Seus problemas de rede foram detectados..." />
+  <String id="IDS_STATIC_SPEEDTESTREPORT_TIP_END" value="Feedback recebido. Resolveremos o mais rápido possível, obrigado pelo seu feedback!" />
+  <String id="IDS_STATIC_MESSAGENOTIFY_TITLE" value="Notificações da nuvem Baidu" />
+  <String id="IDS_STATIC_MESSAGENOTIFY_VIEWDETAIL" value="Visão" />
+  <String id="IDS_STATIC_MESSAGENOTIFY_FILESHARE" value="Receba notificações de compartilhamento de arquivos" />
+  <String id="IDS_STATIC_MESSAGENOTIFY_FILEPURCHASE" value="Receba notificações de compra" />
+  <String id="IDS_STATIC_MESSAGENOTIFY_SYSTEM" value="Receba notificações do sistema" />
+  <String id="IDS_STATIC_MBOX_MESSAGE_TITLE" value="Notícias da nuvem Baidu" />
+  <String id="IDS_STATIC_MBOX_MESSAGE_VIEWDETAIL" value="Visão" />
+  <String id="IDS_STATIC_MBOX_TOAST_SHARESUCCESS" value="Compartilhe o sucesso" />
+  <String id="IDS_STATIC_MBOX_TOAST_SHARESESSION" value="Diálogo de compartilhamento" />
+  <String id="IDS_STATIC_MBOX_TOAST_VIEW_SHARESESSION" value="Ver sessão" />
+  <String id="IDS_STATIC_PHONE_NEW_MESSAGE" value="Você tem mensagens de amigos não lidas ~" />
+  <String id="IDS_STATIC_PHONE_NEW_CALL" value="Você perdeu chamadas de amigos ~" />
+  <String id="IDS_SPEEDFEECBACKDLG_TITLE" value="Feedback de velocidade" />
+  <String id="IDS_SPEEDFEECBACKDLG_STATIC_TEXT_BANDWIDTH_TIP" value="Por favor, preencha a largura de banda, para uma resolução de problemas mais precisa" />
+  <String id="IDS_SPEEDFEECBACKDLG_STATIC_TEXT_BANDWIDTH" value="Largura de banda" />
+  <String id="IDS_SPEEDFEECBACKDLG_STATIC_TEXT_BANDWIDTH_UNIT" value="M" />
+  <String id="IDS_SPEEDFEECBACKDLG_STATIC_TEXT_BANDWIDTH_EXAMPLE" value="(Exemplo: Se você estiver usando fibra Unicom 10M, preencha 10)" />
+  <String id="IDS_SPEEDFEECBACKDLG_STATIC_TEXT_SUBMIT_TIP" value="Por favor, diga-nos o seu problema, vamos resolver o mais rápido possível ~" />
+  <String id="IDS_SPEEDFEECBACKDLG_STATIC_TEXT_SPEED_TIP" value="Fechar software usando velocidade (vídeo, download, etc.) pode aumentar muito a velocidade de transmissão ~" />
+  <String id="IDS_SPEEDFEECBACKDLG_STATIC_TEXT_THANK_TIP" value="Obrigado pelo seu feedback!" />
+  <String id="IDS_SPEEDFEECBACKDLG_BUTTON_SUBMIT" value="Enviar" />
+  <String id="IDS_SPEEDFEECBACKDLG_BUTTON_FINISH" value="Terminar" />
+  <String id="IDS_SPEEDFEECBACKTIP_SPEEDSLOW" value="A velocidade de transferência é lenta?" />
+  <String id="IDS_SPEEDFEECBACKTIP_FEEDBACK" value="Por favor, deixe comentários" />
+  <String id="IDS_GET_SPEEDUP_SERVICE_FAILED" value="Falha ao obter o pacote de aceleração de rede, código de erro [%d]" />
+  <String id="IDS_QUERY_SPEEDUP_STATUS_FAILED" value="Falha ao consultar o estado de aceleração da rede:%d" />
+  <String id="IDS_SEND_SPEEDUP_HEARTBEAT_FAILED" value="Velocidade de falha de envio de pulsação:%d" />
+  <String id="IDS_QUERY_MEMBER_SPEEDUP_STATUS_FAILED" value="Falha no estado de aceleração do download de membros do Discover:%d" />
+  <String id="IDS_QUERY_MEMBER_SPEEDUP_STATUS_SUCCEED" value="Descobrir o estado de aceleração do download dos membros foi bem-sucedido:%d" />
+  <String id="IDS_START_MEMBER_SPEEDUP_FAILED" value="A chamada para acelerar a interface retorna o código de erro %d, se ocorrer aceleração %d" />
+  <String id="IDS_QUERY_SPEEDUP_AD_FAILED" value="Falha nas mensagens de publicidade da Velocidade de consulta:%d" />
+  <String id="IDS_PACKAGE_SPEEDUP_GUIDE_AVAILABLE" value="Conheça as condições de inicialização do pacote de aceleração de rede, pode orientar o pacote de aceleração de rede experimental para acelerar" />
+  <String id="IDS_DOWNLOAD_SPEEDUP_RESULT" value="A velocidade máxima de download é a velocidade anterior%I64d A velocidade máxima de download para a velocidade post%I64d" />
+  <String id="IDS_UPLOAD_SPEEDUP_RESULT" value="A velocidade máxima de upload é a velocidade antes de%I64d Velocidade máxima de upload para a velocidade após%I64d" />
+  <String id="IDS_PACKAGE_SPEEDUP_RESULT" value="Taxa de aceleração de rede Pacote de experiência%I64d%%" />
+  <String id="IDS_MEMBER_SPEEDUP_RESULT" value="Taxa de aceleração de rede Pacote de experiência%I64d%%" />
+  <String id="IDS_SPEEDUPTICKET_SPEEDUP_RESULT" value="Taxa de aceleração de aceleração de experiência de cupom de download de velocidade %I64d%%" />
+  <String id="IDS_CONSUME_SPEEDUP_PRIVILEDGE_FAILED" value="Falha no uso do serviço de aceleração [% d]" />
+  <String id="IDS_UPLOAD_ERROR_NEED_RETRY" value="Falha no upload. Faça upload novamente" />
+  <String id="IDS_UPLOAD_SERVER_BUSY" value="O servidor está ocupado, tente novamente" />
+  <String id="IDS_UPLOAD_ERROR_NEED_RELOGIN" value="Falha no upload, faça login novamente e tente novamente" />
+  <String id="IDS_UPLOAD_ERROR_ALREADY_EXIST" value="Falha no upload, existe um arquivo com o mesmo nome no diretório" />
+  <String id="IDS_DOWNLOAD_NEED_RELOGIN" value="Falha no download, faça login novamente e tente novamente" />
+  <String id="IDS_DOWNLOAD_FILE_NOAUTHORITY" value="Falha no download, o compartilhamento não existe ou foi cancelado" />
+  <String id="IDS_DOWNLOAD_FILE_MODIFIED" value="O arquivo foi modificado, tente novamente" />
+  <String id="IDS_DOWNLOAD_NEED_RETRY" value="Falha no download, tente novamente" />
+  <String id="IDS_DOWNLOAD_NEED_P2P_RETRY" value="Falha no download. Tente novamente" />
+  <String id="IDS_DOWNLOAD_SERVER_BUSY" value="O servidor está ocupado, tente novamente" />
+  <String id="IDS_TRANSFER_FILECOPY_FAILED" value="Falha na cópia do arquivo. Tente novamente" />
+  <String id="IDS_TRANSFER_REQUEST_ERROR" value="Erro de transferência, tente novamente" />
+  <String id="IDS_SHARE_INVALID_SHARE" value="A ação foi cancelada ou não existe" />
+  <String id="IDS_SHARE_SERVER_BUSY" value="O servidor está ocupado" />
+  <String id="IDS_SHARE_NOT_ALL_SUCCESS" value="Algumas operações de arquivo falharam, tente novamente" />
+  <String id="IDS_SHARE_HIT_BLACKLIST" value="Falha no compartilhamento, arquivo contém informações confidenciais" />
+  <String id="IDS_LOGIN_ERR_PASSSDK" value="Problema de login！" />
+  <String id="IDS_LOGIN_FEEDBACK" value="Comentários" />
+  <String id="IDS_LOGIN_FAILED" value="Falha na autenticação" />
+  <String id="IDS_STATIC_FILE_VERSION" value="Versão do arquivo" />
+  <String id="IDS_STATIC_ENABLE_FILE_VERSION" value="Abra a versão do histórico do documento" />
+  <String id="IDS_FILE_VERSION_DISABLE_MSGBOX_TITLE" value="Versão do arquivo Desativar" />
+  <String id="IDS_FILE_VERSION_DISABLE_MSGBOX_CONTENT" value="Deseja desativar o recurso de versão do histórico do documento? \r\nQuando fechado, o backup automático e a edição de documentos atualizados manterão apenas a versão mais recente." />
+  <String id="IDS_FILE_VERSION_DISABLE_MSGBOX_BTN_CONFIRM" value="Fechar versão histórica" />
+  <String id="IDS_FILE_VERSION_DISABLE_MSGBOX_BTN_CANCEL" value="Perto" />
+  <String id="IDS_ONLINEDIT_FILESIZE_TOOLARGE" value="O documento é muito grande, faça o download" />
+  <String id="IDS_ONLINEDIT_SAVESAFEBOXFILE_TITLE" value="Salve o documento em disco" />
+  <String id="IDS_ONLINEDIT_SAVESAFEBOXFILE_TEXT" value="O documento foi modificado, quer salvá-lo na unidade de rede?\r\n a Caixa Segura dentro do documento após a atualização será diretamente coberta." />
+  <String id="IDS_ONLINEDIT_SAVESAFEBOXFILE_BTN_OVERWRITE" value="Substituir" />
+  <String id="IDS_ONLINEDIT_SAVESAFEBOXFILE_BTN_CANCEL" value="Cancelar" />
+  <String id="IDS_ONLINEDIT_SAVEERROR_TITLE" value="Computador sem espaço suficiente" />
+  <String id="IDS_ONLINEDIT_SAVEERROR_DISKNOSPACE" value="Seu computador fica sem espaço. Ele ocupa espaço local para abrir o documento.\r\nLimpe e tente novamente." />
+  <String id="IDS_ONLINEDIT_SAVEERROR_BTN_OPEN" value="Abrir" />
+  <String id="IDS_ONLINEDIT_SAVEERROR_BTN_CLOSE" value="Perto" />
+  <String id="IDS_ONLINEDIT_APPLOCKED_TEXT" value="Seu disco de rede está bloqueado. Você não pode atualizar os arquivos carregados durante o período de bloqueio. \r\nPor favor, desbloqueie o disco de rede primeiro" />
+  <String id="IDS_ONLINEDIT_APPLOCKED_OK" value="OK" />
+  <String id="IDS_ONLINEDIT_DOWNLOADED_AUTOOPEN" value="Já em download, abre automaticamente quando concluído" />
+  <String id="IDS_GARBAGE_FILE_CLEAN_TEXT_LINE1" value="Há muitos arquivos duplicados em sua unidade de rede" />
+  <String id="IDS_GARBAGE_FILE_CLEAN_TEXT_LINE2" value="Libere %s espaço após a limpeza" />
+  <String id="IDS_GARBAGE_VIDEO_CLEAN_TEXT_LINE1" value="Há muitos vídeos inúteis em sua unidade da web" />
+  <String id="IDS_GARBAGE_VIDEO_CLEAN_TEXT_LINE2" value="Libere muito espaço após a limpeza" />
+  <String id="IDS_GARBAGE_CLEAN_SCAN_VIDEO" value="Procurar vídeos" />
+  <String id="IDS_GARBAGE_CLEAN_SCAN_FILE" value="Verificar arquivos duplicados" />
+  <String id="IDS_GARBAGE_CLEAN_TITLE" value="Baidu Cloud" />
+  <String id="IDS_REWARD_PLAN_DLG_TITLE" value="Programa de recompensa do usuário" />
+  <String id="IDS_REWARD_PLAN_DLG_NET_ERROR" value="Falha na conexão de rede. Tente novamente mais tarde" />
+  <String id="IDS_REWARD_PLAN_DLG_RETRY" value="Repetir" />
+  <String id="IDS_AUTOBACKUP_NOTIFY_START_TITLE" value="Fazendo backup..." />
+  <String id="IDS_AUTOBACKUP_NOTIFY_START_MULTI_START_TIP" value="Está fazendo backup para você" />
+  <String id="IDS_AUTOBACKUP_NOTIFY_START_MULTI_END_TIP" value="Aguarde vários arquivos" />
+  <String id="IDS_AUTOBACKUP_NOTIFY_START_SINGLE_START_TIP" value="Está fazendo backup para você" />
+  <String id="IDS_AUTOBACKUP_NOTIFY_START_SINGLE_END_TIP" value="" />
+  <String id="IDS_AUTOBACKUP_NOTIFY_START_VIEW_DETAIL" value="Ver progresso>" />
+  <String id="IDS_AUTOBACKUP_NOTIFY_SUCCEED_TITLE" value="Backup bem-sucedido" />
+  <String id="IDS_AUTOBACKUP_NOTIFY_SUCCEED_MULTI_START_TIP" value="Backup feito com sucesso para você" />
+  <String id="IDS_AUTOBACKUP_NOTIFY_SUCCEED_MULTI_END_TIP" value="Wait%dArquivos" />
+  <String id="IDS_AUTOBACKUP_NOTIFY_SUCCEED_SINGLE_START_TIP" value="O arquivo foi copiado com sucesso para você“" />
+  <String id="IDS_AUTOBACKUP_NOTIFY_SUCCEED_SINGLE_END_TIP" value="" />
+  <String id="IDS_AUTOBACKUP_NOTIFY_SUCCEED_VIEW_DETAIL" value="Veja agora>" />
+  <String id="IDS_AUTOBACKUP_NOTIFY_NETWORK_FAIL_TITLE" value="O backup do arquivo não está completo" />
+  <String id="IDS_AUTOBACKUP_NOTIFY_NETWORK_FAIL_MULTI_START_TIP" value="“" />
+  <String id="IDS_AUTOBACKUP_NOTIFY_NETWORK_FAIL_MULTI_END_TIP" value="Wait%dFalha no backup do arquivo" />
+  <String id="IDS_AUTOBACKUP_NOTIFY_NETWORK_FAIL_SINGLE_START_TIP" value="Arquivo" />
+  <String id="IDS_AUTOBACKUP_NOTIFY_NETWORK_FAIL_SINGLE_END_TIP" value="Falha no backup" />
+  <String id="IDS_AUTOBACKUP_NOTIFY_NETWORK_FAIL_VIEW_DETAIL" value="Veja agora>" />
+  <String id="IDS_AUTOBACKUP_NOTIFY_FILE_OCCUPIED_FAIL_TITLE" value="O arquivo está ocupado, será feito backup automaticamente após o fechamento" />
+  <String id="IDS_AUTOBACKUP_NOTIFY_FILE_OCCUPIED_FAIL_MULTI_START_TIP" value="“" />
+  <String id="IDS_AUTOBACKUP_NOTIFY_FILE_OCCUPIED_FAIL_MULTI_END_TIP" value="Wait%dArquivos ainda não foram copiados" />
+  <String id="IDS_AUTOBACKUP_NOTIFY_FILE_OCCUPIED_FAIL_SINGLE_START_TIP" value="Arquivo" />
+  <String id="IDS_AUTOBACKUP_NOTIFY_FILE_OCCUPIED_FAIL_SINGLE_END_TIP" value="Backup ainda não concluído" />
+  <String id="IDS_AUTOBACKUP_NOTIFY_FILE_OCCUPIED_FAIL_VIEW_DETAIL" value="Veja agora>" />
+  <String id="IDS_AUTOBACKUP_NOTIFY_QUOTA_FAIL_TITLE" value="O tráfego excede o limite, o backup falha" />
+  <String id="IDS_AUTOBACKUP_NOTIFY_QUOTA_FAIL_START_TIP" value="Este mês, o tráfego de backup de 10G foi usado, ativação de associação e backup" />
+  <String id="IDS_AUTOBACKUP_NOTIFY_QUOTA_FAIL_END_TIP" value="Ilimitado" />
+  <String id="IDS_AUTOBACKUP_NOTIFY_QUOTA_FAIL_VIEW_DETAIL" value="Abra agora>" />
+  <String id="IDS_AUTOBACKUP_NOTIFY_QUOTA_NOT_ENOUGH_TITLE" value="O tráfego de backup automático deste mês está prestes a acabar" />
+  <String id="IDS_AUTOBACKUP_NOTIFY_QUOTA_NOT_ENOUGH_START_TIP" value="O tráfego de backup 10G deste mês está prestes a acabar e não será possível fazer backup normalmente" />
+  <String id="IDS_AUTOBACKUP_NOTIFY_QUOTA_NOT_ENOUGH_END_TIP" value="Arquivos, associação aberta, arquivos de backup ilimitados" />
+  <String id="IDS_AUTOBACKUP_NOTIFY_QUOTA_NOT_ENOUGH_VIEW_DETAIL" value="Abra agora>" />
+  <String id="IDS_AUTOBACKUP_NOTIFY_QUOTA_EXCEED_LIMIT_TITLE" value="O tráfego excede o limite, o backup automático foi suspenso" />
+  <String id="IDS_AUTOBACKUP_NOTIFY_QUOTA_EXCEED_LIMIT_START_TIP" value="Este mês, o tráfego de backup de 10G excedeu o limite e o backup de arquivos não pode ser executado，" />
+  <String id="IDS_AUTOBACKUP_NOTIFY_QUOTA_EXCEED_LIMIT_END_TIP" value="Membro aberto, arquivos de backup ilimitados" />
+  <String id="IDS_AUTOBACKUP_NOTIFY_QUOTA_EXCEED_LIMIT_VIEW_DETAIL" value="Abra agora>" />
+  <String id="IDS_AUTOBACKUP_NOTIFY_FAIL_RETRY" value="Tente novamente>" />
+  <String id="IDS_PDFTOWORD_NOTIFY_SUCCEED_TITLE" value="Conversão bem-sucedida" />
+  <String id="IDS_PDFTOWORD_NOTIFY_SUCCEED_START_TIP" value="Convertido com sucesso para documento do Word“" />
+  <String id="IDS_PDFTOWORD_NOTIFY_SUCCEED_END_TIP" value="" />
+  <String id="IDS_PDFTOWORD_NOTIFY_SUCCEED_VIEW_DETAIL" value="Abra agora>" />
+  <String id="IDS_PDFTOWORD_NOTIFY_FAIL_TITLE" value="Falha na conversão" />
+  <String id="IDS_PDFTOWORD_NOTIFY_FAIL_START_TIP" value="Você tem um arquivo PDF“" />
+  <String id="IDS_PDFTOWORD_NOTIFY_FAIL_END_TIP" value="Falha na conversão" />
+  <String id="IDS_PDFTOWORD_NOTIFY_FAIL_VIEW_DETAIL" value="Veja agora>" />
+  <String id="IDS_UPLOADLOG_NOTIFY_SUCCEED_TITLE" value="Feedback bem-sucedido" />
+  <String id="IDS_UPLOADLOG_NOTIFY_SUCCEED_TIP" value="Seu feedback foi recebido, vamos lidar com isso o mais rápido possível ~" />
+  <String id="IDS_UPLOADLOG_NOTIFY_FAIL_TITLE" value="Falha no feedback" />
+  <String id="IDS_UPLOADLOG_NOTIFY_FAIL_SERVER_TIP" value="O servidor está rodando mal, por favor refaça mais tarde" />
+  <String id="IDS_UPLOADLOG_NOTIFY_FAIL_TIP" value="Falha no feedback. Tente novamente mais tarde" />
+  <String id="IDS_UPLOADLOG_NOTIFY_FAIL_NETWORK_TIP" value="A conexão de rede está anormal, por favor, comente novamente mais tarde" />
+  <String id="IDS_UPLOADLOG_NOTIFY_START_TITLE" value="Processamento de comentários" />
+  <String id="IDS_UPLOADLOG_NOTIFY_START_TIP" value="Seu feedback está sendo recebido, por favor, seja paciente ~" />
+  <String id="IDS_HELP_EACHOTHER_TITLE" value="Aceleração de download:" />
+  <String id="IDS_HELP_EACHOTHER_SWITCH" value="Use largura de banda ociosa para acelerar downloads ou resgatar pontos" />
+  <String id="IDS_HELP_EACHOTHER_OVERSPEED_MODE" value="Modo de aceleração" />
+  <String id="IDS_HELP_EACHOTHER_OVERSPEED_INTERPRETATION_TIP" value="No modo de aceleração，A largura de banda de upload ociosa no lado do computador é formada em um canal de transmissão exclusivo para acelerar os arquivos baixados e inseridos no canal de transmissão usando o lado do computador. O Baidu SkyDrive dará prioridade ao uso online dos usuários por meio de controle de transmissão inteligente sem afetar a experiência online." />
+  <String id="IDS_HELP_EACHOTHER_GET_SCORE_MODE" value="Modo integral" />
+  <String id="IDS_HELP_EACHOTHER_GET_SCORE_INTERPRETATION_TIP" value="No Modo Acelerar, os usuários podem obter recompensas em pontos correspondentes ao grau de contribuição, mas não aproveitam o efeito de aceleração de download. Os pontos são liquidados diariamente e serão distribuídos o mais tardar antes de zero no dia seguinte. Você pode fazer login no aplicativo de celular do disco de rede e verificar os pontos no centro de tarefas para obter detalhes dos pontos." />
+  <String id="IDS_CLOSE_P2P_TIP" value="Desativar a função de aceleração de download não consumirá mais recursos e não desfrutará mais de serviços acelerados ou pontos de bônus. Esta função aumentou a velocidade média dos usuários em 3,2 vezes, use-a novamente~" />
+  <String id="IDS_FIX_CLOSE_P2P" value="Desative a aceleração de download" />
+  <String id="IDS_QUIT_CLOSE_P2P" value="Use-o novamente" />
+  <String id="IDS_P2P_NON_SVIP_SPEEDUP_TIP" value="Baixar aceleração %s" />
+  <String id="IDS_P2P_SVIP_SPEEDUP_TIP" value="SVIPAcelerar %s" />
+  <String id="IDS_DOWNLOADCARD_SPEEDUP_TIP" value="Acelerar o cartão de download %s" />
+  <String id="IDS_HELP_EACHOTHER_FUNCTION" value="Baixar aceleração" />
+  <String id="IDS_P2P_SVIP_SPEEDUP_SLOW_TIP" value="SVIPAcelerando a aquisição de links..." />
+  <String id="IDS_HELP_EACHOTHER_CLOSE" value="Aproxime-se" />
+  <String id="IDS_HELP_EACHOTHER_OPEN" value="Ir para abrir" />
+  <String id="IDS_AUTOBACKUP_GUIDE_TIP" value="Não há necessidade de fazer upload manualmente! Ative o backup automático de pastas para visualizar arquivos usados ​​com frequência em seu computador a qualquer hora, em qualquer lugar." />
+  <String id="IDS_AUTOBACKUP_GUIDE_TIP_BTN" value="Vá ver" />
+  <String id="IDS_SETTING_STATIC_TEXT_TRANSFERDIR" value="Seleção rápida de local de transferência de arquivos:" />
+  <String id="IDS_SETTING_STATIC_TEXT_TRANSFER_DEFAULTDIR" value="Transferência rápida de arquivos" />
+  <String id="IDS_REMOTE_DOWNLOAD_STATIC_START" value="Enviando..." />
+  <String id="IDS_REMOTE_DOWNLOAD_STATIC_START_INTRODUCTION" value="Recebeu o arquivo do celular e começou a baixar" />
+  <String id="IDS_REMOTE_DOWNLOAD_STATIC_START_OTHER_INTRODUCTION" value="Recebeu o arquivo enviado do outro lado e começou a baixar" />
+  <String id="IDS_REMOTE_DOWNLOAD_STATIC_FAIL" value="Falha na transmissão" />
+  <String id="IDS_REMOTE_DOWNLOAD_STATIC_FAIL_INTRODUCTION" value="Falha na transmissão. Tente novamente em seu telefone ou página" />
+  <String id="IDS_REMOTE_DOWNLOAD_STATIC_SUCCESS" value="Transmitido com sucesso" />
+  <String id="IDS_REMOTE_DOWNLOAD_STATIC_SUCCESS_INTRODUCTION" value="O arquivo enviado pelo telefone foi recebido com sucesso" />
+  <String id="IDS_REMOTE_DOWNLOAD_STATIC_SUCCESS_OTHER_INTRODUCTION" value="O arquivo enviado pela outra extremidade foi recebido com sucesso" />
+  <String id="IDS_REMOTE_DOWNLOAD_NOTIFY_START_VIEW_DETAIL" value="Ver progresso>" />
+  <String id="IDS_REMOTE_DOWNLOAD_NOTIFY_SUCCEED_VIEW_DETAIL" value="Veja agora>" />
+  <String id="IDS_REMOTE_DOWNLOAD_CHECK_AUTO_RECV_AND_DOWNLOAD" value="Receba e baixe automaticamente o arquivo rápido" />
+  <String id="IDS_OFFLINEDOWNLOADTASK_CONTENT_VIOLATION" value="O arquivo offline contém o conteúdo do arquivo ilegal e não pode ser baixado" />
+  <String id="IDS_SHARE_LINK_COPY_VIP_LEVEL_TIP" value="--De Baidu Netdisk Super MemberV%dShare of" />
+  <String id="IDS_TIP_SVIP_MEMBER_UPLOAD_PRIVILEGE" value="HonorableV%dSuper membro, você pode enviar arquivos grandes~（Máximo %s）" />
+  <String id="IDS_EXPORT_ONLINEDOC_TASK_TITLE_TEXT" value="Escolha o caminho de exportação" />
+  <String id="IDS_EXPORT_ONLINEDOC_TASK_EXPORT_BUTTON" value="Exportar" />
+  <String id="IDS_EXPORT_ONLINEDOC_TASK_SET_DEFAULT_EXPORTDIR" value="Por padrão este caminho é o caminho de exportação" />
+  <String id="IDS_EXPORT_ONLINEDOC_TASK_STATIC_TEXT_EXPORTDIR" value="Exportar para" />
+  <String id="IDS_EXPORT_ONLINEDOC_TASK_EXPORT_SUCCESS_TIP" value="Exportação com sucesso" />
+  <String id="IDS_EXPORT_ONLINEDOC_TASK_EXPORT_FAILE_TIP" value="Falha na exportação" />
+  <String id="IDS_EXPORT_ONLINEDOC_TASK_EXPORT_TRANSFORM_FAILE_TIP" value="Falha na conversão do documento" />
+  <String id="IDS_FILE_EXPORT_DIR_TIP" value="Seleção do local de exportação do arquivo:" />
+  <String id="IDS_FILE_EXPORT_MAKE_DEFAULT_EXPORT_DIR" value="Por padrão este caminho é o caminho de exportação" />
+  <String id="IDS_SETTING_STATIC_TEXT_EXPORT_DEFAULTDIR" value="Arquivo de exportação do Netdisk" />
+  <String id="IDS_EXPORTONLINEDOC_NOTIFY_SUCCEED_TITLE" value="Exportação com sucesso" />
+  <String id="IDS_EXPORTONLINEDOC_NOTIFY_SUCCEED_START_TIP" value="Foi" />
+  <String id="IDS_EXPORTONLINEDOC_NOTIFY_SUCCEED_END_TIP" value="Exportar como Documentação %s" />
+  <String id="IDS_EXPORTONLINEDOC_NOTIFY_SUCCEED_OPEN_DOC" value="Abrir documento" />
+  <String id="IDS_EXPORTONLINEDOC_NOTIFY_SUCCEED_OPEN_FOLDER" value="Abra a pasta" />
+  <String id="IDS_EXPORTONLINEDOC_NOTIFY_FAIL_TITLE" value="Falha na exportação" />
+  <String id="IDS_EXPORTONLINEDOC_NOTIFY_FAIL_RETRY" value="Repetir" />
+  <String id="IDS_EXPORTONLINEDOC_NOTIFY_FAIL_EXISTEXPORTING" value="Há arquivos sendo exportados, tente novamente quando terminar" />
+  <String id="IDS_WORKSPACE_SETTING" value="Área de trabalho" />
+  <String id="IDS_WORKSPACE_SYNC_TRAY_TITLE" value="Perceber:" />
+  <String id="IDS_WORKSPACE_SYNC_TRAY_TIP" value="Abrir lembrete de mensagem de sincronização" />
+  <String id="IDS_WORKSPACE_VIRTUAL_FOLDER_SHOW" value="Disco virtual" />
+  <String id="IDS_WORKSPACE_DESKTOP_LINK_SHOW" value="Entrada da área de trabalho" />
+  <String id="IDS_WORKSPACE_SAVE_LOCAL_PATH" value="Diretório de sincronização local:" />
+  <String id="IDS_WORKSPACE_TRAY_NAME" value="Espaço de trabalho do disco de rede" />
+  <String id="IDS_WORKSPACE_FILEVERSIONDLG_TITLENAME" value="versão histórica" />
+  <String id="IDS_WORKSPACE_CHANGE_LOCAL_SYNC_PACH" value="Substituir o diretório de sincronização" />
+  <String id="IDS_WORKSPACE_CHANGE_LOCAL_SYNC_PACH_INVALID_TIP" value="Se o caminho for inválido, selecione" />
+  <String id="IDS_WORKSPACE_CHANGE_LOCAL_SYNC_PACH_IS_SUBDIR_TIP" value="Você não pode escolher seu próprio subdiretório, por favor selecione novamente" />
+  <String id="IDS_WORKSPACE_CHANGE_LOCAL_SYNC_PACH_ACCESS_DENY_TIP" value="Se a pasta não estiver gravada, selecione" />
+  <String id="IDS_WORKSPACE_CHANGE_LOCAL_SYNC_PACH_QUOTA_LESS_TIP" value="Se o disco permanecer no disco, selecione" />
+  <String id="IDS_WORKSPACE_CHANGE_LOCAL_SYNC_PACH_SAME_TIP" value="O caminho de sincronização original é o mesmo que o caminho de sincronização selecionado, selecione" />
+  <String id="IDS_WORKSPACE_QUICK_SYNC_SETTING" value="Modo de sincronização de arquivos:" />
+  <String id="IDS_WORKSPACE_AUTO_DOWNLOAD_LOCAL" value="Baixe automaticamente para o local" />
+  <String id="IDS_WORKSPACE_FREE_SPACE" value="Libere espaço no computador, baixe apenas atalhos" />
+  <String id="IDS_WORKSPACE_QUICK_SYNC_ERROR" value="A partição do disco rígido em que o diretório de sincronização está localizado é de formato não NTFS, que não pode ser usado por restrições do sistema, substitua o disco rígido em que o diretório está localizado." />
+  <String id="IDS_WORKSPACE_LOCAL_SYNC_SET" value="Vá para configurar" />
+  <String id="IDS_WORKSPACE_SYNC_COMMON_TITLE" value="Em geral:" />
+  <String id="IDS_WORKSPACE_START_SYNC" value="Espaço síncrono aberto" />
+  <String id="IDS_WORKSPACE_STOP_SYNC_CAPABILITY" value="Desativar espaço síncrono" />
+  <String id="IDS_WORKSPACE_SETTING_SHOW_TXT" value="Mostrar:" />
+  <String id="IDS_WORKSPACE_SETTING_SYNC_RANGE_TXT" value="Faixa síncrona:" />
+  <String id="IDS_WORKSPACE_SETTING_SYNC_SAVE_TXT" value="Modo de armazenamento:" />
+  <String id="IDS_WORKSPACE_SETTING_SYNC_PATH_TXT" value="Posição síncrona:" />
+  <String id="IDS_WORKSPACE_SETTING_SYNC_RANGE_ALL_TXT" value="tudo" />
+  <String id="IDS_WORKSPACE_SETTING_SYNC_RANGE_SELECT_TXT" value="Sincronização seletiva" />
+  <String id="IDS_WORKSPACE_SETTING_SYNC_RANGE_CHANGE_TXT" value="Mudar" />
+  <String id="IDS_PRODUCT_RECOMMEND_SETTING" value="Configuração de recomendação do produto:" />
+  <String id="IDS_RESTART_EXPLORER_TXT" value="Existe um estado síncrono de arquivos locais?Tente" />
+  <String id="IDS_RESTART_EXPLORER" value="Reinicie o gerenciador de recursos" />
+  <String id="IDS_SYNC_ICON_SOLVE_QUESTION_TIP" value="A reinicialização não mostrou o status de sincronização de arquivos, solução específica, consulte" />
+  <String id="IDS_SYNC_HELP_CENER_TIP" value="Centro de ajuda" />
+  <String id="IDS_SYNC_LOCALPATH_DISAPPEAR" value="O diretório de sincronização local não existe, reinicie" />
+  <String id="IDS_SYNC_LOCALPATH_UNSETTING" value="Por favor, configure um diretório de sincronização local" />
+  <String id="IDS_LINK_GET_PASSWORD_TYPE" value="Método de extração:" />
+  <String id="IDS_AUTO_FILL_LINK_PASSWORD" value="Código de extração de população automática de link de compartilhamento" />
+  <String id="IDS_AUTO_FILL_LINK_PASSWORD_TIP" value="Após a abertura, o link de compartilhamento não precisa inserir o código de extração, você pode visualizar diretamente o arquivo de compartilhamento." />
+  <String id="IDS_AUTO_FILL_PASSWORD_LINK_COPY_SUCCESS" value="Os links de compartilhamento foram copiados, os visitantes não precisam extrair o código diretamente para visualizar os arquivos de compartilhamento" />
+  <String id="IDS_QUICKUPLOAD_SETTING" value="Carregamento rápido" />
+  <String id="IDS_QUICKUPLOAD_SETTING_START_TITLE" value="Plug-in de upload rápido:" />
+  <String id="IDS_QUICKUPLOAD_SETTING_START" value="Quando o disco de rede estiver em execução, inicie o plug-in" />
+  <String id="IDS_QUICKUPLOAD_HOTKEY_TITLE" value="Atalho de HOTKEY:" />
+  <String id="IDS_QUICKUPLOAD_HOTKEY_TYPE" value="Pressione e segure o mouse ou CTRL + 1" />
+  <String id="IDS_QUICKUPLOAD_TIPS" value="PONTAS:" />
+  <String id="IDS_QUICKUPLOAD_WECHAT_TIPS" value="1. A imagem/arquivo na web ou navegador, primeiro copie e depois evoque atalhos" />
+  <String id="IDS_QUICKUPLOAD_SELECT_TIPS" value="2.Se o arquivo não for atualizado após a seleção do arquivo, copie o arquivo e tente novamente." />
+  <String id="IDS_QUICKUPLOAD_TASK_CREATE_TIP" value="Adicionado à lista de upload" />
+  <String id="IDS_BANDWIDTH_SPEEDUP_USEING_TIP" value="Operadoras de banda larga móvel aprimoram a banda larga física,%d Fechar após segundos, todos os equipamentos sob a mesma banda larga terão velocidade, experimente outros dispositivos!" />
+  <String id="IDS_BANDWIDTH_SPEEDUP_END_TIP" value="As operadoras móveis aprimoram o fim da experiência de largura de banda física." />
+</StringTable>
