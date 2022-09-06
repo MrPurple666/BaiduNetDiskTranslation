@@ -27,6 +27,8 @@ If you find an error or inaccuracy in the translation, please fill out the form 
 
 # Download
 
+Password for arhives: `A3ZAKM1`
+
 | Platform | Install                          |Version | Download                  |
 | -------- | -------------------------------- |--------| ------------------------- |
 | Windows  | [Replace Files][win-replace]     |7.19.0.18| [git][win_replace_files_git] 
