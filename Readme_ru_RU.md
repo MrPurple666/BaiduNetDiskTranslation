@@ -15,7 +15,7 @@
 
 Моя локализация клиента **BaiduNetDisk** для ПК и не только на Русский и Английский язык.
 
-С Августа 2022 Переводить буду только версии LTSC.
+
 
 Пароль на все архивы : **A3ZAKM1**
 # Загрузка
@@ -79,6 +79,8 @@
   **DOGECOIN:** DFRJHUFVTU3CJ9GU8Ye5dzURpvgQ9hyy2u
   
   **Ethereum:** 0xf9104Dc601dc67855a547cE20f9a5c5E6624314b
+  
+<a href='https://ko-fi.com/J3J7ED5JP' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi2.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 
 
 [license]: ./LICENSE
