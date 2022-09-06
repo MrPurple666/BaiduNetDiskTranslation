@@ -97,6 +97,8 @@ If you'd like to donate to the developers please send to the following address:
   
   **Ethereum:** 0xf9104Dc601dc67855a547cE20f9a5c5E6624314b
 
+<a href='https://ko-fi.com/J3J7ED5JP' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi2.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+
    # License
 
 See [The Unlicense][license]
