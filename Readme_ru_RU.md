@@ -62,6 +62,12 @@
 [![imageban](https://i5.imageban.ru/thumbs/2021.07.15/86593fd172f48f8947a14ae0ef539b5c.jpg)](https://imageban.ru/show/2021/07/15/86593fd172f48f8947a14ae0ef539b5c/jpg)
 [![imageban](https://i5.imageban.ru/thumbs/2021.07.15/06a738b170539b43fe049f98bcce2f8b.jpg)](https://imageban.ru/show/2021/07/15/06a738b170539b43fe049f98bcce2f8b/jpg)
 
+## Linux
+
+Шпаргалка по исп официального клинета
+
+[![imageban](https://i5.imageban.ru/thumbs/2022.09.07/4f29efeefc44e8a0c11844eabc8fcbba.jpg)](https://imageban.ru/show/2022/09/07/4f29efeefc44e8a0c11844eabc8fcbba/jpg)
+
 ## Андроид
 **Русский клиент**
 
