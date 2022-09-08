@@ -66,7 +66,7 @@
 
 Шпаргалка по исп официального клинета
 
-[![imageban](https://i5.imageban.ru/thumbs/2022.09.07/4f29efeefc44e8a0c11844eabc8fcbba.jpg)](https://imageban.ru/show/2022/09/07/4f29efeefc44e8a0c11844eabc8fcbba/jpg)
+[![imageban](https://i2.imageban.ru/thumbs/2022.09.08/5e090fff839995b31842ce937e4502ee.jpg)](https://imageban.ru/show/2022/09/08/5e090fff839995b31842ce937e4502ee/jpg)
 
 ## Андроид
 **Русский клиент**
