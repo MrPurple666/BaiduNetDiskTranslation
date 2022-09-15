@@ -644,6 +644,9 @@
   <s id="1312">Currently there are other tasks being performed, please try again later</s>
   <s id="1313">Please try again</s>
   <s id="1314">Select Delete item</s>
+  <s id="1338">Privileges such as double speed are about to expire</s>
+  <s id="1339">Buy</s>
+  <s id="1340">Go to renewal</s>
     <!--Video player-->
   <s id="1341">Switch the video renderer, please wait patiently...</s>
   <s id="1342">Switching the video renderer failed, please try again later</s>
@@ -865,6 +868,15 @@
   <s id="1553">Enterprise Certification</s>
   <s id="1554">Business space</s>
   <s id="1555">Expired</s>
+  <s id="1556">Go to the game center></s>
+  <s id="1557">Enterprise version is online~</s>
+  <s id="1558">Click to switch to the enterprise version and experience it right away!</s>
+  <s id="1559">I see</s> 
+  <s id="1560">Enterprise number is online!</s> 
+  <s id="1561">Backup package to:</s>
+  <s id="1562">Entertainment package to:</s>
+  <s id="1563">Certification is about to fail</s>
+
   <!--Main Panel-->
   <s id="1600">Welcome to use Baidu Netdisk</s>
 
@@ -1310,6 +1322,14 @@
   <s id="3321">4K</s>
   <s id="3322">High yard ratio 1080p</s>
   <s id="3323">High-size rate</s>
+  <s id="3324">Privacy is about to expire</s>
+  <s id="3325">Open a super member</s>
+  <s id="3326">Enjoy the super -clearing quality</s>
+  <s id="3327">Go to renewal</s>
+  <s id="3328">Buy</s>
+  <s id="3329">Open up</s>
+ 
+
   <!--File Uploadtip-->
   <s id="3400">Save to Baidu Net Disk</s>
   <s id="3401">Uploading to(%s) folder</s>
@@ -1574,7 +1594,7 @@
   <!--Join the sidebar-->
   <s id="4050">Add to sidebar</s>
   <!--Functional treasure chest-->
-
+  <s id="4067">AI cut</s>
   <s id="4068">AI trimming</s>
   <s id="4069">Photo studios AI</s>
   <!--Functional Treasure Box-->
@@ -2272,9 +2292,21 @@
   <s id="6079">With exit, the file will not be able to synchronize automatically</s>
   <s id="6080">80%The old driver in the workplace has been opened, and it is easy to improve200%Work efficiency</s>
   <s id="6081">Cruel refusal</s>
-
-  <!--Full Text Search-->
   <s id="6082">Finish</s>
+  <s id="6083">General synchronization</s>
+  <s id="6084">All synchronization</s>
+  <s id="6085">Cloud files will be synchronized to the local area, and the clouds in the cloud remain completely consistent</s>
+  <s id="6086">Selective synchronization</s>
+  <s id="6087">There are only clouds in some files, different to the local, not in the local area</s>
+  <s id="6088">Release computer space</s>
+  <s id="6089">Previous</s>
+  <s id="6090">Next step</s>
+  <s id="6091">Welcome to the synchronous space, and now start the initial setting</s>
+  <s id="6092">The settings have not been completed, confirm the exit of the synchronization space?</s>
+  <s id="6093">Click to use it, and complete the settings immediately</s>
+  <s id="6094">No need to upload download files from then on, work efficiency is improved 200%</s>
+
+
   <s id="6100">Document body search</s>
   <s id="6101">Application document body results</s>
   <s id="6102">After successful purchase, it is expected to be available after %s</s>
@@ -2318,6 +2350,12 @@
   <s id="6219">Failure to receive!You have received gifts</s>
   <s id="6220">Network abnormalities, please try again</s>
   <s id="6221">Every time the file is updated in the synchronization space, it will automatically synchronize for you!</s>
+  <s id="6222">Welcome to Baidu network disk synchronous space</s>
+  <s id="6223">According to the guidel</s>
+  <s id="6224">Synchronous flow</s>
+  <s id="6225">According to the guidelines, quickly get started with the space for 1 minute, and you can improve the work efficiency by 3 times to complete</s>
+  <s id="6226">Please open the synchronous folder on the computer desktop</s>
+
   <!--大文件上传提示-->
   <s id="6300">The file is large, please pay more attention to the upload of the upload</s>
   <s id="6301">Respectful V%d Members, you are uploading special rights for large documents, the highest level can be uploaded%sLarge files.</s>
@@ -2355,5 +2393,34 @@
   <s id="6507">The current function can only be used after application. Do you want to apply?</s>
   <s id="6508">file contains</s>
   <s id="6509">the result of</s>
+
+  <!--检测外接U盘-->
+  <s id="6750">Use synchronous space, no need to manually copy files, automatically send to other devices</s>
+  <s id="6751">Cross device file transmission Farewell to U disk</s>
+  <!--删除文件拦截弹窗新增云桥引导-->
+  <s id="6780">The file will be deleted at all positions</s>
+  <s id="6781">All other devices and network disk clouds will be deleted"%s"</s>
+  <s id="6782">Synchronous space recycling station restore</s>
+  <s id="6783">If you need to revoke and delete, you can follow</s>
+  <s id="6784">Using the release of the local space function, the file no longer occupies local disk space</s>
+  <s id="6786">to understand ></s>
+  <s id="6787">After turning on the fast synchronization, the downloaded file will not be deleted automatically. If you need to release it, you can release the right -click file in the synchronous space to select the release space</s>
+  <s id="6788">Become a super member and enjoy Release computer space privilege</s>
+  <s id="6789">2.How to deal with the download file after opening?</s>
+  <s id="6790">What is the release of computer space</s>
+  <s id="6791">You have enjoyed Release computer space privilege</s>
+  <s id="6792">Yunqiao has opened</s>
+  <s id="6793">Only the synchronous file shortcut icon to the local area, double -click to use automatically download from the cloud, reduce the hard disk occupation, and shorten the synchronization time</s>
+
+  <!--同步空间设置引导V3-->
+  <s id="6850">What is selective synchronization?</s>
+  <s id="6851">You can set some folders without synchronization by selective synchronization function.</s>
+  <s id="6852">1.What is the release of the computer space?</s>
+  <s id="6853">Only the synchronous file shortcut icon to the local area, double -click to use automatically download from the cloud, reduce the hard disk occupation, and shorten the synchronization time</s>
+  <s id="6854">2.How to deal with the download file after opening?</s>
+  <s id="6855">After turning on the fast synchronization, the downloaded file will not be deleted automatically. If you need to release it, you can release the right -click file in the synchronous space to select the release space</s>
+  
+  <!--svip购买引导-->
+  <s id="6900">Become a super member, enjoy all wonderful privileges</s>
 
 </string>

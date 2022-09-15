@@ -1446,5 +1446,6 @@
  <!--Physical bandwidth speed-->
   <String id="IDS_BANDWIDTH_SPEEDUP_USEING_TIP" value="Mobile broadband operators enhance physical broadband,%d Close after seconds, all equipment under the same broadband will enjoy speed, try other devices!" />
   <String id="IDS_BANDWIDTH_SPEEDUP_END_TIP" value="Mobile operators enhance the end of the physical bandwidth experience." />
-
+  <!--检测外接U盘主动触发-->
+  <String id="IDS_SUB_TRIGGER" value="Take a look>" />
 </StringTable>
