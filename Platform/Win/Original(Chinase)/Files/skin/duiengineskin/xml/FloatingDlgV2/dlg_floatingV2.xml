@@ -7,7 +7,8 @@
             <gifplayer name="gif_syncing" pos="0,0,@36,@32" skin="floating_syncing_gif" show="0"/>
             <dlg pos="36,0,@128,@35">
                 <dlg name="dlg_progress" pos="0,0,0,-0" skin="floating_frame_progress"/>
-                <text pos="12,7,-0,-0" name="txt_speed" textmode="20" crtext="06A7FF" font="0000:微软雅黑"></text>
+                <text pos="19,7,-0,-0" name="txt_speed" textmode="20" crtext="06A7FF" font="0000:微软雅黑"></text>
+                <img pos="6,10,@9,@12" name="img_trans" skin="floating_arrow_down" show="0"/>
             </dlg>
         </dlg>
         <dlg name="dlg_guide" pos="0,40,@198,@67" skin="floating_new_guide" show="0">

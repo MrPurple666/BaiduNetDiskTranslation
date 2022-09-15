@@ -299,7 +299,7 @@
           <text name="sutitle_font_very_large" pos="244,-38" class="cls_video_subtitle_txt_gray">%str1439%</text>
         </dlg>
 		    <!--清晰度选择面板-->
-        <dlg name="video_definition_panel" pos="-281,-351" width="208" height="281" show="0">
+        <dlg name="video_definition_panel" pos="-281,-425" width="208" height="355" show="0">
           <dlg name="video_definition_panel_guide" pos="0,0,-0,-0" skin="video_time_tip_bg">
             <imgbtn name="video_definition_4000" pos="4,-271,@200,@30" class="cls_video_definition_item_blue_btn" txtalpha="0">%str3309%</imgbtn>
             <imgbtn name="video_definition_2000" pos="4,-241,@200,@30" class="cls_video_definition_item_blue_btn" txtalpha="0">%str3305%</imgbtn>
@@ -315,8 +315,19 @@
             <text name="video_definition_script_txt_720" pos="145,-142,@30,@12" class="cls_video_definition_script_text" show="0"></text>
             <dlg name="video_definition_display" pos="0,-53,-0,-0">
                 <hr pos="16,0,-16,1" crbg="333333"></hr>
-                <text name="video_definition_type_tip" pos="20,16" class="cls_txt_white" txtalpha="0">%str3306%</text>
+                <text name="video_definition_type_tip" pos="30,16" class="cls_txt_white" txtalpha="0">%str3306%</text>
                 <text name="video_definition_type" pos="124,16" font="0000:微软雅黑" align="center" crtext="ffffff" txtalpha="0">%str3308%</text>
+            </dlg>
+            <dlg name="video_definition_pay_introduce_line1" pos="15,-62,-15,-0" show="0" skin="video_guide_pay_bg_img">
+              <img pos="10,15,@16,@16" skin="video_overspeed_svip_img"></img>
+              <text name="video_definition_type" pos="[5,14" font="0000:微软雅黑" align="center" crtext="FDDB9C" txtalpha="0">%str3324%</text>
+              <imgbtn name="guid_pay_btn_yellow" skin="video_guide_pay_btn_yellow" pos="113,11,@60,@24" crtext="664100" >%str3327%</imgbtn>
+            </dlg>
+            <dlg name="video_definition_pay_introduce_line2" pos="30,-74,-30,-0" show="0" skin="video_guide_pay_bg_img">
+              <img pos="10,22,@16,@16" skin="video_overspeed_svip_img"></img>
+              <text name="video_definition_type_line1" pos="[5,10" font="0004:微软雅黑" align="center" crtext="FDDB9C" txtalpha="0">%str3325%</text>
+              <text name="video_definition_type_line2" pos="31,[5" font="0000:微软雅黑" align="center" crtext="FDDB9C" txtalpha="0">%str3326%</text>
+              <imgbtn name="guid_pay_btn_yellow" skin="video_guide_pay_btn_yellow" pos="113,19,@60,@24" crtext="664100" >%str3329%</imgbtn>
             </dlg>
           </dlg>
         </dlg>
@@ -324,7 +335,7 @@
         <dlg name="video_overspeed_panel" pos="-400,-170,@320,@101" skin="video_time_tip_bg" show="0">
           <dlg name="video_overspeed_guide_svip" pos="0,0,-0,@48" show="1">
             <img name="video_overspeed_img_svip" pos="20,18,@16,@16" skin="video_overspeed_svip_img"></img>
-            <text name="video_overspeed_guide_head" pos="44,18" class="cls_txt_white" txtalpha="0">%str1465%</text>
+            <text name="video_overspeed_guide_head" pos="44,18" crtext="FDDB9C" font="0000:微软雅黑" txtalpha="0">%str1465%</text>
             <imgbtn name="video_overspeed_svip" pos="-98,10" width="78" height="28" class="cls_video_overspeed_vip_btn" txtalpha="0">%str1464%</imgbtn>
             <hr pos="16,47,-16,@1" crbg="333333"></hr>
           </dlg>

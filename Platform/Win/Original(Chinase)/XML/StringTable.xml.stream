@@ -1447,4 +1447,6 @@
   <!--悬浮窗-->
   <String id="IDS_SETTING_NETDISK_FLOATING" value="显示百度网盘悬浮窗" />
   <String id="IDS_SETTING_WORKSPACE_FLOATING" value="显示同步空间悬浮窗" />
+  <!--检测外接U盘主动触发-->
+  <String id="IDS_SUB_TRIGGER" value="去看看>" />
 </StringTable>

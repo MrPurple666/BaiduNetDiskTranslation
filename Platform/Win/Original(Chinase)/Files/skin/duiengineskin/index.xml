@@ -113,6 +113,9 @@
 <resid type="XML" name="IDR_DUI_VIDEO_GUIDE_DIALOG" layer="1" file="xml\VideoPlaySDKDlg\VideoGuideDlg.xml"/>
 <resid type="XML" name="IDR_DUI_STORAGE_EXCEED_FUNC_LIMIT_DIALOG" layer="1" file="xml\PrivilegeGuideDlg\StorageExceedFuncLimitDlg.xml"/>
 <resid type="XML" name="IDR_DUI_CLOUDEDITDLG" layer="1" file="xml\CloudEditDlg\CloudEditDlg.xml"/>
+<resid type="XML" name="IDR_DUI_GUID_FLOAT_SELECTIVE_WND" layer="1" file="xml\MainPanel\WorkSpaceDlg\WorkSpaceResidentGuide\SelectivePathIntroduce.xml"/>
+<resid type="XML" name="IDR_DUI_GUID_FLOAT_CLOUDBRIDGE_WND" layer="1" file="xml\MainPanel\WorkSpaceDlg\WorkSpaceResidentGuide\CloudBridgeIntroduce.xml"/>
+<resid type="XML" name="IDR_DUI_GUID_USER_BUY_COMMON_DIALOG" layer="1" file="xml\MainPanel\GuidUserBuySvipDlg.xml"/>
 
 <!--自动登录挽留-->
 <resid type="XML" name="IDR_DUI_LOGIN_RETENTION_DIALOG" layer="1" file="xml\dlg_login_retention.xml"/>
@@ -725,6 +728,8 @@
 <resid type="IMGX" name="IDP_VIDEO_GUIDE_BUBBLE" file="image\VideoPlayDlg\guide\video_guide_bubble.png"/>
 <resid type="IMGX" name="IDP_VIDEO_GUIDE_LOADING" file="image\VideoPlayDlg\guide\video_guide_loading.gif"/>
 <resid type="IMGX" name="IDP_VIDEO_GUIDE_MASK_IMG" file="image\VideoPlayDlg\guide\video_guide_mask.png" />
+<resid type="IMGX" name="IDP_VIDEO_GUID_PAY_YELLOW_BTN" file="image\VideoPlayDlg\guide\video_pay_guid.png" />
+<resid type="IMGX" name="IDP_VIDEO_GUID_PAY_BG"   file="image\VideoPlayDlg\guide\video_pay_guid_bg.png" />
 <!--视频字幕svip购买引导界面-->
 <resid type="XML" name="IDR_DUI_VIEDEOPLAYBUYSVIP_DIALOG" layer="1" file="xml\VideoPlaySDKDlg\ViedeoPlayBuySvipDlg.xml"/>
 <resid type="IMGX" name="IDP_VIDEO_BUY_SVIP_BACKGROUND" file="image\VideoPlayDlg\buysvip\backgroud.png" />
@@ -1163,6 +1168,8 @@
 <resid type="IMGX" name="IDP_MEMBER_SMALL_ICON_SVIP_LEVEL_6"  file="image\MemberLevelIcon\small_icon_svip6.png"/>
 <resid type="IMGX" name="IDP_MEMBER_SMALL_ICON_SVIP_LEVEL_7"  file="image\MemberLevelIcon\small_icon_svip7.png"/>
 <resid type="IMGX" name="IDP_MEMBER_SMALL_ICON_SVIP_LEVEL_8"  file="image\MemberLevelIcon\small_icon_svip8.png"/>
+<resid type="IMGX" name="IDP_MEMBER_SMALL_ICON_SVIP_LEVEL_9"  file="image\MemberLevelIcon\small_icon_svip9.png"/>
+<resid type="IMGX" name="IDP_MEMBER_SMALL_ICON_SVIP_LEVEL_10"  file="image\MemberLevelIcon\small_icon_svip10.png"/>
 
 <resid type="IMGX" name="IDP_MEMBER_SMALL_ICON_SVIP_LEVEL_1_GRAY" file="image\MemberLevelIcon\small_icon_svip1_gray.png"/>
 <resid type="IMGX" name="IDP_MEMBER_SMALL_ICON_SVIP_LEVEL_2_GRAY" file="image\MemberLevelIcon\small_icon_svip2_gray.png"/>
@@ -1172,6 +1179,8 @@
 <resid type="IMGX" name="IDP_MEMBER_SMALL_ICON_SVIP_LEVEL_6_GRAY" file="image\MemberLevelIcon\small_icon_svip6_gray.png"/>
 <resid type="IMGX" name="IDP_MEMBER_SMALL_ICON_SVIP_LEVEL_7_GRAY" file="image\MemberLevelIcon\small_icon_svip7_gray.png"/>
 <resid type="IMGX" name="IDP_MEMBER_SMALL_ICON_SVIP_LEVEL_8_GRAY" file="image\MemberLevelIcon\small_icon_svip8_gray.png"/>
+<resid type="IMGX" name="IDP_MEMBER_SMALL_ICON_SVIP_LEVEL_9_GRAY" file="image\MemberLevelIcon\small_icon_svip9_gray.png"/>
+<resid type="IMGX" name="IDP_MEMBER_SMALL_ICON_SVIP_LEVEL_10_GRAY" file="image\MemberLevelIcon\small_icon_svip10_gray.png"/>
 
 <resid type="IMGX" name="IDP_MEMBER_SMALL_ICON_VIP_LEVEL_1"   file="image\MemberLevelIcon\small_icon_vip1.png"/>
 <resid type="IMGX" name="IDP_MEMBER_SMALL_ICON_VIP_LEVEL_2"   file="image\MemberLevelIcon\small_icon_vip2.png"/>
@@ -1181,6 +1190,8 @@
 <resid type="IMGX" name="IDP_MEMBER_SMALL_ICON_VIP_LEVEL_6"   file="image\MemberLevelIcon\small_icon_vip6.png"/>
 <resid type="IMGX" name="IDP_MEMBER_SMALL_ICON_VIP_LEVEL_7"   file="image\MemberLevelIcon\small_icon_vip7.png"/>
 <resid type="IMGX" name="IDP_MEMBER_SMALL_ICON_VIP_LEVEL_8"   file="image\MemberLevelIcon\small_icon_vip8.png"/>
+<resid type="IMGX" name="IDP_MEMBER_SMALL_ICON_VIP_LEVEL_9"   file="image\MemberLevelIcon\small_icon_vip9.png"/>
+<resid type="IMGX" name="IDP_MEMBER_SMALL_ICON_VIP_LEVEL_10"   file="image\MemberLevelIcon\small_icon_vip10.png"/>
 
 <resid type="IMGX" name="IDP_MEMBER_SMALL_ICON_VIP_LEVEL_1_GRAY" file="image\MemberLevelIcon\small_icon_vip1_gray.png"/>
 <resid type="IMGX" name="IDP_MEMBER_SMALL_ICON_VIP_LEVEL_2_GRAY" file="image\MemberLevelIcon\small_icon_vip2_gray.png"/>
@@ -1190,6 +1201,8 @@
 <resid type="IMGX" name="IDP_MEMBER_SMALL_ICON_VIP_LEVEL_6_GRAY" file="image\MemberLevelIcon\small_icon_vip6_gray.png"/>
 <resid type="IMGX" name="IDP_MEMBER_SMALL_ICON_VIP_LEVEL_7_GRAY" file="image\MemberLevelIcon\small_icon_vip7_gray.png"/>
 <resid type="IMGX" name="IDP_MEMBER_SMALL_ICON_VIP_LEVEL_8_GRAY" file="image\MemberLevelIcon\small_icon_vip8_gray.png"/>
+<resid type="IMGX" name="IDP_MEMBER_SMALL_ICON_VIP_LEVEL_9_GRAY" file="image\MemberLevelIcon\small_icon_vip9_gray.png"/>
+<resid type="IMGX" name="IDP_MEMBER_SMALL_ICON_VIP_LEVEL_10_GRAY" file="image\MemberLevelIcon\small_icon_vip10_gray.png"/>
 
 <!-- 绑定_换绑手机号 -->
 <resid type="XML" name="IDR_DUI_BIND_PHONE_GUIDE_DIALOG" layer="1" file="xml\BindPhoneGuideDlg\BindPhoneGuideDlg.xml"/>
@@ -1340,6 +1353,7 @@
 <resid type="XML" name="IDR_DUI_SYNC_DIR_FIRST_GUIDE_DLG" layer="1" file="xml\MainPanel\WorkSpaceDlg\WorkSpaceResidentGuide\SyncDirFirstGuideDlg.xml"/>
 <resid type="XML" name="IDR_DUI_WORKSPACE_LEFT_FUNC_GUIDE_DLG" layer="1" file="xml\MainPanel\FuncGuideDlg\WorkspaceLeftFuncGuideWnd.xml"/>
 <resid type="XML" name="IDR_DUI_WORKSPACE_INIT_SETTING_DLG_V2" layer="1" file="xml\MainPanel\WorkSpaceDlg\WorkSpaceResidentGuide\WorkSpaceInitSettingDlgV2.xml"/>
+<resid type="XML" name="IDR_DUI_WORKSPACE_INIT_SETTING_DLG_V3" layer="1" file="xml\MainPanel\WorkSpaceDlg\WorkSpaceResidentGuide\WorkSpaceInitSettingDlgV3.xml"/>
 
 <resid type="XML" name="IDR_DUI_WORKSPACE_FILE_TOOLBAR_PANEL" file="xml\MainPanel\WorkSpaceDlg\NetdiskPanel\FileContainerPanel\Toolbar.xml"/>
 <resid type="XML" name="IDR_DUI_WORKSPACE_FILE_ADDRESS_PANEL" file="xml\MainPanel\WorkSpaceDlg\NetdiskPanel\FileContainerPanel\AddressPanel.xml"/>
@@ -1401,6 +1415,7 @@
 <resid type="IMGX" name="IDP_DUI_WORKSPACE_GUIDE_BTN_BKG_TWO" file="image\WorkSpaceDlg\GuidePanel\guide_btn_bkg_two.png"/>
 <resid type="IMGX" name="IDP_DUI_WORKSPACE_GUIDE_BTN_BKG_THREE" file="image\WorkSpaceDlg\GuidePanel\guide_btn_bkg_three.png"/>
 <resid type="IMGX" name="IDP_DUI_WORKSPACE_GUIDE_BTN_BKG_FOUR" file="image\WorkSpaceDlg\GuidePanel\guide_btn_bkg_four.png"/>
+<resid type="IMGX" name="IDP_DUI_WORKSPACE_GUIDE_BTN_BKG_FIVE" file="image\WorkSpaceDlg\GuidePanel\guide_btn_bkg_five.png"/>
 <resid type="IMGX" name="IDP_DUI_WORKSPACE_GUIDE_EDIT_BKG" file="image\WorkSpaceDlg\GuidePanel\guide_edit_bkg.png"/>
 <resid type="IMGX" name="IDP_DUI_WORKSPACE_GUIDE_TEXT_BKG" file="image\WorkSpaceDlg\GuidePanel\guide_text_bkg.png"/>
 <resid type="IMGX" name="IDP_DUI_WORKSPACE_GUIDE_WARNING_BKG" file="image\WorkSpaceDlg\GuidePanel\guide_warning.png"/>
@@ -1413,9 +1428,16 @@
 <resid type="IMGX" name="IDP_DUI_WORKSPACE_GUIDE_PAGE_SELECT_1" file="image\WorkSpaceDlg\GuidePanel\page_select_1.png"/>
 <resid type="IMGX" name="IDP_DUI_WORKSPACE_GUIDE_PAGE_SELECT_2" file="image\WorkSpaceDlg\GuidePanel\page_select_2.png"/>
 <resid type="IMGX" name="IDP_DUI_WORKSPACE_GUIDE_PAGE_SELECT_3" file="image\WorkSpaceDlg\GuidePanel\page_select_3.png"/>
+<resid type="IMGX" name="IDP_DUI_WORKSPACE_GUIDE_NORMAL_PAGE_1" file="image\WorkSpaceDlg\GuidePanel\page2_select_1.png"/>
+<resid type="IMGX" name="IDP_DUI_WORKSPACE_GUIDE_NORMAL_PAGE_2" file="image\WorkSpaceDlg\GuidePanel\page2_select_2.png"/>
+<resid type="IMGX" name="IDP_DUI_WORKSPACE_GUIDE_BRIDGE_PAGE_1" file="image\WorkSpaceDlg\GuidePanel\page3_select_1.png"/>
+<resid type="IMGX" name="IDP_DUI_WORKSPACE_GUIDE_BRIDGE_PAGE_2" file="image\WorkSpaceDlg\GuidePanel\page3_select_2.png"/>
+<resid type="IMGX" name="IDP_DUI_WORKSPACE_GUIDE_BRIDGE_PAGE_3" file="image\WorkSpaceDlg\GuidePanel\page3_select_3.png"/>
 <resid type="IMGX" name="IDP_DUI_WORKSPACE_GUIDE_RESTRAIN" file="image\WorkSpaceDlg\GuidePanel\restrain.png"/>
 <resid type="IMGX" name="IDP_DUI_WORKSPACE_GUIDE_CLOSE" file="image\WorkSpaceDlg\GuidePanel\close.png"/>
 <resid type="IMGX" name="IDP_DUI_WORKSPACE_SELECT_SYC_INTRO" file="image\WorkSpaceDlg\SelectSync\select_syc_intro.png"/>
+<resid type="IMGX" name="IDP_DUI_WORKSPACE_GUIDE_QUESTION" file="image\WorkSpaceDlg\GuidePanel\guid_question.png"/>
+<resid type="IMGX" name="IDP_DUI_WORKSPACE_GUIDE_SELECTIVE_PATH" file="image\WorkSpaceDlg\GuidePanel\selective_path_intro.png"/>
 
 <resid type="IMGX" name="IDP_DUI_WORKSPACE_GIF_GUIDE_UPLOAD" file="image\WorkSpaceDlg\GuideGifPanel\guide_upload.gif"/>
 <resid type="IMGX" name="IDP_DUI_WORKSPACE_GIF_GUIDE_HISTORY" file="image\WorkSpaceDlg\GuideGifPanel\guide_history.gif"/>
@@ -1431,6 +1453,9 @@
 <resid type="IMGX" name="IDP_DUI_WORKSPACE_GIF_GUIDE_QUICK_SYNC" file="image\WorkSpaceDlg\GuidePanel\workspac_guide_quick_sync.gif"/>
 <resid type="IMGX" name="IDP_DUI_WORKSPACE_GIF_QUICK_SYNC" file="image\WorkSpaceDlg\GuidePanel\workspace_quick_sync.gif"/>
 <resid type="IMGX" name="IDP_DUI_WORKSPACE_GUIDE_COMPLETE" file="image\WorkSpaceDlg\GuidePanel\guide_complete.gif"/>
+<resid type="IMGX" name="IDP_DUI_CLOUDBRIDGE_BK" file="image\WorkSpaceDlg\GuidePanel\cloudbridge_bk.png"/>
+<resid type="IMGX" name="IDP_DUI_CLOUDBRIDGEOK" file="image\WorkSpaceDlg\GuidePanel\cloudbridgeok.png"/>
+<resid type="IMGX" name="IDP_DUI_WORKSPACE_GIF_SELECTIVE_PATH" file="image\WorkSpaceDlg\GuidePanel\workspace_selective_path.gif"/>
 
 <resid type="IMGX" name="IDP_DUI_WORKSPACE_FILE_TOOLBAR_DARKBLUE_BTN" file="image\WorkSpaceDlg\FilePanel\ToolBar\blue_dark_btn.png"/>
 <resid type="IMGX" name="IDP_DUI_WORKSPACE_FILE_TOOLBAR_LIGHTBLUE_BTN" file="image\WorkSpaceDlg\FilePanel\ToolBar\blue_light_btn.png"/>
@@ -1509,11 +1534,17 @@
 <resid type="IMGX" name="IDP_DUI_WORKSPACE_TUTORIAL_QUICK_START_GUIDE_FLOW" file="image\WorkSpaceDlg\Tutorial\quick_start_guide_flow.png"/>
 <resid type="IMGX" name="IDP_DUI_WORKSPACE_TUTORIAL_QUICK_START_GUIDE" file="image\WorkSpaceDlg\Tutorial\quick_start_guide.png"/>
 <resid type="IMGX" name="IDP_DUI_WORKSPACE_TUTORIAL_QUICK_START_BASE" file="image\WorkSpaceDlg\Tutorial\quick_start_base.png"/>
+<resid type="IMGX" name="IDP_DUI_WORKSPACE_TUTORIAL_WHITE_SMALL" file="image\WorkSpaceDlg\Tutorial\quick_start_white_small.png"/>
+<resid type="IMGX" name="IDP_DUI_WORKSPACE_TUTORIAL_WHITE_LARGE" file="image\WorkSpaceDlg\Tutorial\quick_start_white_large.png"/>
+<resid type="IMGX" name="IDP_DUI_WORKSPACE_TUTORIAL_MULTI_BG" file="image\WorkSpaceDlg\Tutorial\quick_start_multi_bg.png"/>
+<resid type="IMGX" name="IDP_DUI_WORKSPACE_TUTORIAL_BTN_OPENDIR" file="image\WorkSpaceDlg\Tutorial\quick_start_btn_opendir.png"/>
+<resid type="IMGX" name="IDP_DUI_WORKSPACE_TUTORIAL_WORKSPACE_SCREENSHOT" file="image\WorkSpaceDlg\Tutorial\quick_start_workspace_screenshot.png"/>
 
 <resid type="XML" name="IDR_DUI_WORKSPACE_EXSPEED_SYNC_GUIDE_PANEL" layer="1" file="xml\MainPanel\WorkSpaceDlg\WorkspaceIncrSyncGuide.xml"/>
 <resid type="XML" name="IDR_DUI_WORKSPACE_DELETE_PROMPT" layer="1" file="xml\MainPanel\WorkSpaceDlg\WorkspaceDeletePrompt.xml"/>
 <resid type="XML" name="IDR_DUI_WORKSPACE_SET_PATH_DLG" layer="1" file="xml\MainPanel\WorkSpaceDlg\WorkspaceSetPathDlg.xml"/>
 <resid type="XML" name="IDR_DUI_WORKSPACE_BEGINNER_TUTORIAL_DLG" layer="1" file="xml\MainPanel\WorkSpaceDlg\WorkspaceBeginnerTutorial.xml"/>
+<resid type="XML" name="IDR_DUI_WORKSPACE_BEGINNER_TUTORIAL_V2_DLG" layer="1" file="xml\MainPanel\WorkSpaceDlg\WorkspaceBeginnerTutorialV2.xml"/>
 <resid type="XML" name="IDR_DUI_WORKSPACE_QUICK_START_GUIDE_PANEL" layer="1" file="xml\MainPanel\WorkSpaceDlg\WorkspaceQuickStartGuide.xml"/>
 <resid type="XML" name="IDR_DUI_WORKSPACE_SELECT_SYNC_PANEL" layer="1" file="xml\MainPanel\WorkSpaceDlg\WorkspaceSelectSync.xml"/>
 
@@ -1607,5 +1638,13 @@
 <resid type="IMGX" name="IDP_FLOATING_FRAME_VIP" file="image\FloatingDlgV2\floating_frame_vip.png"/>
 <resid type="IMGX" name="IDP_FLOATING_FRAME_PROGRESS" file="image\FloatingDlgV2\floating_progress.png"/>
 
+<resid type="IMGX" name="IDP_DUI_DELETEFILEBK" file="image\WorkSpaceDlg\DeleteFileBk.png"/>
+<resid type="IMGX" name="IDP_DUI_DELETEFILEBUTTONBK" file="image\WorkSpaceDlg\DeleteFileButtonBk.png"/>
+<resid type="IMGX" name="IDP_DUI_BOTTOMBK" file="image\WorkSpaceDlg\bottombk.png"/>
+<resid type="IMGX" name="IDP_DUI_BOTTOMSVIP" file="image\WorkSpaceDlg\bottomsvip.png"/>
+<resid type="IMGX" name="IDP_MAINBASE_DLG" file="image\WorkSpaceDlg\base.png"  />
+<resid type="IMGX" name="IDP_DUI_FLOAT_DLG_ARROW_DOWN" file="image\FloatingDlgV2\arrow_down.png"/>
+<resid type="IMGX" name="IDP_DUI_FLOAT_DLG_ARROW_UP" file="image\FloatingDlgV2\arrow_up.png"/>
+<resid type="XML" name="IDR_DUI_CLOUDBRIDGE_DELETEFILE" layer="1" file="xml\MainPanel\WorkSpaceDlg\CloudbridgeDlg\Cloudbridgedeletefile.xml"/>
 
 

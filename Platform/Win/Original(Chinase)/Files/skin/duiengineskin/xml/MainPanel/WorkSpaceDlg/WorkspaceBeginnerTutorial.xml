@@ -2,12 +2,7 @@
     <body>
         <dlg name="dlg_tutorial_sync" pos="0,0,-0,-0" show="1" skin="workspace_tutorial_base">
             <dlg name="dlg_front_page" pos="16,16,@240,@360" show="1">
-                <img skin="workspace_tutorial_first" pos="0,0,@240,@216"></img>
                 <imgbtn name="btn_close" skin="titlepanel_close_btn" pos="-30,15,@15,@16" cursor="arrow" tip="%str250%"></imgbtn>
-                <text pos="24,232" maxwidth="210" textmode="10" crtext="03081A " font="0000:微软雅黑" align="left" show="1">%str6208%</text>
-                <text name="txt_flow" pos="40,278" crtext="636D7E" font="0000:微软雅黑" show="0">%str6209%</text>
-                <link name="link_flow_size" pos="[2,278" crtext="1e78d5" font="0000:微软雅黑" show="0" tip="%str4864%"></link>
-                <imgbtn name="btn_start" skin="workspace_guide_btn_bkg_one" crtext="FFFFFF" font="0200:微软雅黑" pos="24,-56,@192,@36">%str6211%</imgbtn>
             </dlg>
             <dlg name="dlg_content_page" pos="16,16,@240,@360" show="0">
                 <img skin="workspace_tutorial_blue" pos="0,0,@240,@94"></img>
