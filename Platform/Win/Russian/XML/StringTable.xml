@@ -1453,5 +1453,5 @@
   <!--Плавающее окно-->
   <String id="IDS_SETTING_NETDISK_FLOATING" value="Сетевой диска Baidu" />
   <String id="IDS_SETTING_WORKSPACE_FLOATING" value="Рабочее пространство" />
-
+  <String id="IDS_SUB_TRIGGER" value="Просмотр>" />
 </StringTable>
