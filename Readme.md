@@ -94,6 +94,9 @@ The version portable does not require installation. Does not leave the tracks sy
 [![imageban](https://i5.imageban.ru/thumbs/2021.10.26/b0a2aa09c482afe87725a68a3169b9ff.png)](https://imageban.ru/show/2021/10/26/b0a2aa09c482afe87725a68a3169b9ff/png)
 [![imageban](https://i6.imageban.ru/thumbs/2021.10.26/7cc3ef56284a36bbbff946c214eed611.png)](https://imageban.ru/show/2021/10/26/7cc3ef56284a36bbbff946c214eed611/png)
 
+Linux 
+
+[![imageban](https://i2.imageban.ru/thumbs/2022.09.30/7f27853ff9fa0ddf5e929762433efd96.jpg)](https://imageban.ru/show/2022/09/30/7f27853ff9fa0ddf5e929762433efd96/jpg)
 
 
 # Donation
