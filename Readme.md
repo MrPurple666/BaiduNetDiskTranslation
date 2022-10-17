@@ -31,8 +31,8 @@ Password for arhives: `A3ZAKM1`
 
 | Platform | Install                          |Version | Download                  |
 | -------- | -------------------------------- |--------| ------------------------- |
-| Windows  | [Replace Files][win-replace]     |7.20.0.2| [git][win_replace_files_git] 
-| Windows  | [Repack Edition][win-repack]     |7.20.0.2| [mediafire][win_repack_files_mfire] |
+| Windows  | [Replace Files][win-replace]     |7.20.2.2| [git][win_replace_files_git] 
+| Windows  | [Repack Edition][win-repack]     |7.20.2.2| [mediafire][win_repack_files_mfire] |
 | Windows  | [Portable Edition][win-portable] |7.19.0.18| [mediafire][win_portable_files_mfire]|
 | Android  | Install                          |11.34.2 | [mediafire][win_apk_files_mfire]    |
 
